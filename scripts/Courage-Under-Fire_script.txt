@@ -1,0 +1,25 @@
+ <html>
+<head>
+<title>Courage Under Fire Script at IMSDb.</title>
+<meta content="Courage Under Fire script" name="description"/>
+<meta content="Courage Under Fire script, Courage Under Fire movie script, Courage Under Fire film script" name="keywords"/>
+<p align="center">
+<iframe frameborder="0" height="90" scrolling="no" src="http://www.imsdb.com/adbanner.html" width="728"></iframe>
+<br/><br/>
+This script was brought to you by :<br/>
+  <a href="http://www.imsdb.com">The Internet Movie Script Database</a><br/>
+  www.IMSDb.com
+</p><table cellpadding="0" cellspacing="0" width="99%">
+<tr>
+<td valign="top" width="120">
+
+<iframe border="0" frameborder="0" height="600" marginheight="0" marginwidth="0" scrolling="no" src="http://www.filemania.com/ad_sky.html" style="border:none;" width="120"></iframe>
+
+<td><td valign="top" width="120">
+
+<iframe border="0" frameborder="0" height="240" marginheight="0" marginwidth="0" scrolling="no" src="http://rcm.amazon.com/e/cm?t=everlongsoftw-20&amp;o=1&amp;p=8&amp;l=st1&amp;mode=dvd&amp;search=Courage Under Fire&amp;=1&amp;fc1=&amp;lc1=&lt;1=_blank&amp;bg1=FFFFCC&amp;f=ifr" style="border:none;" width="120"></iframe>
+<br/><br/><br/>
+<center><a href="http://affiliates.art.com/get.art?T=15039263&amp;A=990458&amp;L=8&amp;P=10121011&amp;S=2&amp;Y=0" title="Courage Under Fire Posters"><img border="0" src="http://images.art.com/images/products/small/10121000/10121011.jpg"/><br/>Posters</a></center><br/><br/>
+<iframe border="0" frameborder="0" height="600" marginheight="0" marginwidth="0" scrolling="no" src="http://www.filemania.com/ad_sky.html" style="border:none;" width="120"></iframe>
+
+</td></td></td></tr></table><br/><center><iframe border="0" frameborder="0" height="150" marginheight="0" marginwidth="0" scrolling="no" src="http://rcm.amazon.com/e/cm?t=everlongsoftw-20&amp;o=1&amp;p=9&amp;l=st1&amp;mode=dvd&amp;search=Courage Under Fire&amp;=1&amp;fc1=&amp;lc1=&lt;1=&amp;bg1=&amp;f=ifr" style="border:none;" width="180"></iframe></center></head></html>

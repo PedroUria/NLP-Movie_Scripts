@@ -1,0 +1,25 @@
+ <html>
+<head>
+<title>Monster's Ball Script at IMSDb.</title>
+<meta content="Monster's Ball script" name="description"/>
+<meta content="Monster's Ball script, Monster's Ball movie script, Monster's Ball film script" name="keywords"/>
+<p align="center">
+<iframe frameborder="0" height="90" scrolling="no" src="http://www.imsdb.com/adbanner.html" width="728"></iframe>
+<br/><br/>
+This script was brought to you by :<br/>
+  <a href="http://www.imsdb.com">The Internet Movie Script Database</a><br/>
+  www.IMSDb.com
+</p><table cellpadding="0" cellspacing="0" width="99%">
+<tr>
+<td valign="top" width="120">
+
+<iframe border="0" frameborder="0" height="600" marginheight="0" marginwidth="0" scrolling="no" src="http://www.filemania.com/ad_sky.html" style="border:none;" width="120"></iframe>
+
+<td><td valign="top" width="120">
+
+<iframe border="0" frameborder="0" height="240" marginheight="0" marginwidth="0" scrolling="no" src="http://rcm.amazon.com/e/cm?t=everlongsoftw-20&amp;o=1&amp;p=8&amp;l=st1&amp;mode=dvd&amp;search=Monster's Ball&amp;=1&amp;fc1=&amp;lc1=&lt;1=_blank&amp;bg1=FFFFCC&amp;f=ifr" style="border:none;" width="120"></iframe>
+<br/><br/><br/>
+<br/><br/>
+<iframe border="0" frameborder="0" height="600" marginheight="0" marginwidth="0" scrolling="no" src="http://www.filemania.com/ad_sky.html" style="border:none;" width="120"></iframe>
+
+</td></td></td></tr></table><br/><center><iframe border="0" frameborder="0" height="150" marginheight="0" marginwidth="0" scrolling="no" src="http://rcm.amazon.com/e/cm?t=everlongsoftw-20&amp;o=1&amp;p=9&amp;l=st1&amp;mode=dvd&amp;search=Monster's Ball&amp;=1&amp;fc1=&amp;lc1=&lt;1=&amp;bg1=&amp;f=ifr" style="border:none;" width="180"></iframe></center></head></html>
