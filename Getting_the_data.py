@@ -52,24 +52,24 @@ def scrape_script(movie_title, print_error=False):
 # Gets movie titles from the link below (TODO: get ROI, probably % is better)
 website_url = requests.get("https://www.the-numbers.com/movie/budgets/all").text
 soup = BeautifulSoup(website_url, "lxml")
-titles = [tag.string.replace(" ", "-").replace("â\x80\x99", "\'") for tag in soup.table.find_all("b")]
+titles = [tag.string.replace(": ", "-").replace(" ", "-").replace("â\x80\x99", "\'") for tag in soup.table.find_all("b")]
 for i in range(101, 5800, 100):
     website_url = requests.get("https://www.the-numbers.com/movie/budgets/all/" + str(i)).text
     soup = BeautifulSoup(website_url, "lxml")
-    titles += [tag.string.replace(" ", "-").replace("â\x80\x99", "\'") for tag in soup.table.find_all("b")]
+    titles += [tag.string.replace(": ", "-").replace(" ", "-").replace("â\x80\x99", "\'") for tag in soup.table.find_all("b")]
 
 # Tries to get the scripts for all the movie titles (most will fail)
 start = time()
 for title in titles:
     scrape_script(title)
 end = time() - start
-print("The scraping process took", round(end), "seconds")  # The scraping process took 2257 seconds
+print("The scraping process took", round(end), "seconds")  # The scraping process took 2271 seconds
 
 # Gets the titles whose scripts we actually managed to get
 ready_scripts = [file_name[:file_name.find("_")] for file_name
                  in os.listdir(os.getcwd() + "/scripts/")
                  if ".txt" in file_name]
-print("Out of", len(titles), "movies,", "we only got", len(ready_scripts), "scripts")  # Out of 5702 movies we only got 538 scripts
+print("Out of", len(titles), "movies,", "we only got", len(ready_scripts), "scripts")  # Out of 5702 movies, we only got 559 scripts
 
 
 
