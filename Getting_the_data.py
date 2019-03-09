@@ -58,7 +58,7 @@ for i in range(101, 5800, 100):
     website_url = requests.get("https://www.the-numbers.com/movie/budgets/all/" + str(i)).text
     soup = BeautifulSoup(website_url, "lxml")
     titles += [tag.string.replace(": ", "-").replace(" ", "-").replace("â\x80\x99", "\'") for tag in soup.table.find_all("b")]
-# Accounts for 'Addams-Family,-The' on imsdb
+# Accounts for 'Addams-Family,-The' and titles with the same pattern on imsdb
 titles_better = []
 for title in titles:
     if title[:4] == "The-":
@@ -83,8 +83,13 @@ print("Out of", len(titles), "movies,", "we only got", len(ready_scripts), "scri
 scripts_available_imsdb = []
 for letter in string.ascii_uppercase + "0":
     website_url = requests.get("https://www.imsdb.com/alphabetical/" + letter).text
-    soup = BeautifulSoup(website_url, "lxml")
+    soup = BeautifulSoup(website_url, "html.parser")
     for title in soup.find_all("p"):
         scripts_available_imsdb.append(title.a.string.replace(": ", "-").replace(" ", "-"))
-print("There are", len(scripts_available_imsdb), "available at imsdb")  # There are 836 available at imsdb
+print("There are", len(scripts_available_imsdb), "available at imsdb")  # There are 1198 available at imsdb
 
+# We are missing a lot of scripts when trying to match the titles at https://www.the-numbers.com/movie/budgets/all with
+# the titles at https://www.imsdb.com. We could try to improve this code further or get the budget data for the scripts
+# available at https://www.imsdb.com but that do no match the search at https://www.the-numbers.com/movie/budgets/all or 
+# are not there to begin with in some other way...
+# Still, 703 scripts with target feature is not that bad. 
