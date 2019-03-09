@@ -2,6 +2,7 @@ import requests
 from bs4 import BeautifulSoup
 import os
 from time import time
+import string
 
 
 def scrape_script(movie_title, print_error=False):
@@ -57,20 +58,33 @@ for i in range(101, 5800, 100):
     website_url = requests.get("https://www.the-numbers.com/movie/budgets/all/" + str(i)).text
     soup = BeautifulSoup(website_url, "lxml")
     titles += [tag.string.replace(": ", "-").replace(" ", "-").replace("â\x80\x99", "\'") for tag in soup.table.find_all("b")]
+# Accounts for 'Addams-Family,-The' on imsdb
+titles_better = []
+for title in titles:
+    if title[:4] == "The-":
+        titles_better.append(title[title.find("The-")+4:] + "," + "-The")
+    else:
+        titles_better.append(title)
 
 # Tries to get the scripts for all the movie titles (most will fail)
 start = time()
-for title in titles:
+for title in titles_better:
     scrape_script(title)
 end = time() - start
-print("The scraping process took", round(end), "seconds")  # The scraping process took 2271 seconds
+print("The scraping process took", round(end), "seconds")  # The scraping process took 2268 seconds
 
 # Gets the titles whose scripts we actually managed to get
 ready_scripts = [file_name[:file_name.find("_")] for file_name
                  in os.listdir(os.getcwd() + "/scripts/")
                  if ".txt" in file_name]
-print("Out of", len(titles), "movies,", "we only got", len(ready_scripts), "scripts")  # Out of 5702 movies, we only got 559 scripts
+print("Out of", len(titles), "movies,", "we only got", len(ready_scripts), "scripts")  # Out of 5714 movies, we only got 703 scripts
 
-
-
+# Counts the number of scripts available at imsdb
+scripts_available_imsdb = []
+for letter in string.ascii_uppercase + "0":
+    website_url = requests.get("https://www.imsdb.com/alphabetical/" + letter).text
+    soup = BeautifulSoup(website_url, "lxml")
+    for title in soup.find_all("p"):
+        scripts_available_imsdb.append(title.a.string.replace(": ", "-").replace(" ", "-"))
+print("There are", len(scripts_available_imsdb), "available at imsdb")  # There are 836 available at imsdb
 
