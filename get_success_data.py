@@ -2,6 +2,8 @@ import requests
 from bs4 import BeautifulSoup
 import os
 import pandas as pd
+import numpy as np
+
 
 # Gets the titles of the movies for which we have scripts
 ready_scripts = [file_name[:file_name.find("_")] for file_name
@@ -42,8 +44,16 @@ for i in range(101, 5800, 100):
     website_url = requests.get("https://www.the-numbers.com/movie/budgets/all/" + str(i)).text
     get_data()
 
-# Saves as a csv file
-pd.DataFrame({"Original Title": org_title, "Processed Title": prep_title, 
-             "Release Date": release_date, "Production Budget ($)": prod_budget,
-             "Domestic Gross ($)": dom_gross, "Worldwide Gross ($)": world_gross}).to_csv("success_data.csv")
+# Creates DataFrame 
+df = pd.DataFrame({"Processed Title": prep_title, "Release Date": release_date,
+                   "Production Budget ($)": prod_budget, "Domestic Gross ($)": dom_gross,
+                   "Worldwide Gross ($)": world_gross}, index=org_title)
+# Replaces 0s with np.Nans and drops them
+df.replace(0, np.NaN, inplace=True)
+df.dropna(inplace=True)
+# Gets ROI columns
+df["Domestic ROI (%)"] = (df["Domestic Gross ($)"] - df["Production Budget ($)"])*100/df["Production Budget ($)"]
+df["Worldwide ROI (%)"] = (df["Worldwide Gross ($)"] - df["Production Budget ($)"])*100/df["Production Budget ($)"]
+# Saves the data as csv 
+df.to_csv("success_data.csv")
 
