@@ -22,7 +22,12 @@ def scrape_script(movie_title, print_error=False):
     try:
         website_url = requests.get("https://www.imsdb.com/scripts/" + movie_title + ".html").text
         soup = BeautifulSoup(website_url, "html.parser")
-        script = str(soup.pre)
+        if soup.pre.find_all("pre"):
+            script = ""
+            for i in soup.pre.find_all("pre"):
+                script += str(i)
+        else:
+            script = str(soup.pre)
     except Exception as e:
         if print_error:
             print(e)
@@ -30,19 +35,20 @@ def scrape_script(movie_title, print_error=False):
     else:
         # Checks if we got some real text inside this tag (it can be the case that an exception is not
         # raised but there is also not a script in the url)
-        if len(script) < 1000:
+        if len(script) < 3000:
             if print_error:
                 print(movie_title + ": Either the script is not available or you typed the title wrong")
         else:
-            # Gets rid of initial tag and bold tag
-            script = script.replace("<pre>", "").replace("</pre>", "")
-            script = script.replace("<b>", "").replace("</b>", "")
-            # Saves the script into a .txt file
-            if "/" in movie_title:  # Annoying "/" :/ 
-                pass
-            else:
-                with open(os.getcwd() + "/scripts/" + movie_title + "_script.txt", "w") as s:
-                    s.write(script)
+            if "\n" in script:  # Avoids messy formats
+                # Gets rid of initial tag and bold tag
+                script = script.replace("<pre>", "").replace("</pre>", "").replace("<b>", "")
+                script = script.replace("</b>", "").replace("<u>", "").replace("</u>", "")
+                # Saves the script into a .txt file
+                if "/" in movie_title:  # Annoying "/" :/ 
+                    pass
+                else:
+                    with open(os.getcwd() + "/scripts/" + movie_title + "_script.txt", "w") as s:
+                        s.write(script)
 
 
 # Let's try it with a few movies

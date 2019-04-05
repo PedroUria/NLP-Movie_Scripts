@@ -1,13 +1,3 @@
-<html>
-<head>
-<script>
-<!--
-if (window!= top)
-top.location.href=location.href
-// -->
-</script>
-<title>Solaris - by Steven Soderbergh -  October 4, 2001 draft</title>
-</head>
 
 
 
@@ -4002,5 +3992,3 @@ And we realize we are now looking at the surface of Solaris.
 
 
 
-
-</html>

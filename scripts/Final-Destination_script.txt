@@ -1,13 +1,3 @@
-<html>
-<head>
-<script>
-<!--
-if (window!= top)
-top.location.href=location.href
-// -->
-</script>
-<title>FINAL DESTINATION</title>
-</head>
 
 
 
@@ -5033,5 +5023,3 @@ CAMERA HOLDS as "Long May You Run" CONTINUES... RETURNING each of us to the awai
 
                                                         FADE OUT.
 
-
-</html>

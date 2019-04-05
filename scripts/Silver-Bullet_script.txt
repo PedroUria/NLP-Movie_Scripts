@@ -1,14 +1,3 @@
-<html>
-<head>
-<script>
-<!--
-if (window!= top)
-top.location.href=location.href
-// -->
-</script>
-<title>SILVER BULLET by Stephen King Based on his story "Cycle of the Werewolf"
-</title>
-</head>
 
 FADE IN:
 
@@ -6662,5 +6651,3 @@ THE CAMERA PANS UP to the full moon.
 
 					FADE OUT.
 
-
-</html>

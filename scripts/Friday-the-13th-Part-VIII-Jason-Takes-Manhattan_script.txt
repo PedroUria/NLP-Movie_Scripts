@@ -1,14 +1,3 @@
-<html>
-<head>
-<script>
-<!--
-if (window!= top)
-top.location.href=location.href
-// -->
-</script>
-<title>FRIDAY THE 13TH PART VIII: JASON TAKES MANHATTAN
-</title>
-</head>
 
 
 	FRIDAY THE 13TH PART VIII: JASON TAKES MANHATTAN
@@ -6292,5 +6281,3 @@ top.location.href=location.href
 
 
 
-
-</html>

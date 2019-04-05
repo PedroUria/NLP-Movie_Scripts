@@ -1,13 +1,3 @@
-<html>
-<head>
-<script>
-<!--
-if (window!= top)
-top.location.href=location.href
-// -->
-</script>
-<title>Pi - By Darren Aronosfsky</title>
-</head>
 
 
 				Pi 
@@ -4035,5 +4025,3 @@ top.location.href=location.href
 
 
 
-
-</html>

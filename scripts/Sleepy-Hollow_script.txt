@@ -1,11 +1,3 @@
-<html>
-
-<head>
-   <title>"Sleepy Hollow", early, by Andrew Kevin Walker</title>
-</head>
-
-<body bgcolor="#FFFFFF">
-   
 
 
 
@@ -15,7 +7,8 @@
 
 
 
-                             <u>Sleepy Hollow</u>
+
+                             Sleepy Hollow
 
 
 
@@ -187,7 +180,7 @@
 
                              ICHABOD
                I could determine if he were dead
-               <u>before</u> he went into the Hudson.
+               before he went into the Hudson.
 
                              HIGH CONSTABLE
                Must we again hear these heretical
@@ -229,7 +222,7 @@
                We overflow.  As do our courts.
 
                              HIGH CONSTABLE
-               And, <u>with</u> disrespect, Constable,
+               And, with disrespect, Constable,
                if jails and courts overflow, it is
                testimony to success, not failure.
 
@@ -392,7 +385,7 @@
 
      EXT.  VAN TASSEL ESTATE -- DAY
 
-     <u>ICHABOD'S P.O.V.</u>: a BELLTOWER stands tall, like a mast pole
+     ICHABOD'S P.O.V.: a BELLTOWER stands tall, like a mast pole
      with a crow's nest basket atop.  There's a man in the basket
      and a huge BELL.
 
@@ -609,7 +602,7 @@
                trade for currency, he came
                willingly.  For love of carnage.
 
-     <u>FLASHBACK</u> -- AMERICAN BATTLEFIELD -- DAY
+     FLASHBACK -- AMERICAN BATTLEFIELD -- DAY
 
      The HESSIAN HORSEMAN rides his black steed into a gory,
      close-quarters clash, his cloaked uniform adorned with edged
@@ -1032,7 +1025,7 @@
      The Horseman's hand yanks a wooden WAR HAMMER from a saddle
      mount.  (No clear view of the Horseman.)
 
-     <u>HORSEMAN'S P.O.V.</u>: closing in on Jonathan.
+     HORSEMAN'S P.O.V.: closing in on Jonathan.
 
      Jonathan is overtaken.  The Horseman swings the hammer WHOOMP
      -- sends Jonathan sprawling.
@@ -2685,7 +2678,7 @@
 
      Ichabod rises, following with his pistol.
 
-     ANOTHER ANGLE, <u>MOVING P.O.V.:</u> low to the ground,
+     ANOTHER ANGLE, MOVING P.O.V.: low to the ground,
      moving swiftly at Ichabod...
 
      Ichabod spins, blindsided.
@@ -3949,7 +3942,7 @@
 
      He treads water, looking to the barge.
 
-     <u>ICHABOD'S P.O.V.</u> -- FROM THE WATER
+     ICHABOD'S P.O.V. -- FROM THE WATER
 
      Aboard the barge, the Horseman cuts Brom down... stands over
      him, chopping with sword.  Our VIEW grows BLURRY, and...
@@ -6536,9 +6529,3 @@
 
 
    
-
-
-
-
-
-</body></html>

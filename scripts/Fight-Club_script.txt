@@ -1,13 +1,3 @@
-<html>
-<head>
-<script>
-<!--
-if (window!= top)
-top.location.href=location.href
-// -->
-</script>
-<title>FIGHT CLUB</title>
-</head>
 
 
 
@@ -7983,5 +7973,3 @@ top.location.href=location.href
                                                 end
 
      --------------------------------------------------------------
-
-</html>

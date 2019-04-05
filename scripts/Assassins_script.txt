@@ -1,11 +1,3 @@
-<html>
-
-<head>
-   <title>"Assassins", early draft, by Larry &amp; Andy Wachowski</title>
-</head>
-
-<body bgcolor="#FFFFFF">
-   
 
 
 
@@ -16,7 +8,8 @@
 
 
 
-                              <u>ASSASSINS</u>
+
+                              ASSASSINS
 
 
 
@@ -3666,8 +3659,8 @@
                It looks like white's game.
 
                              RATH
-               We played with a code using <u>The New</u>
-               <u>York Times</u> obituaries.  Over three
+               We played with a code using The New
+               York Times obituaries.  Over three
                years we played twelve matches.  I
                never won.
 
@@ -6805,7 +6798,3 @@
 
 
    
-
-
-
-</body></html>

@@ -1,13 +1,3 @@
-<html>
-<head>
-<script>
-<!--
-if (window!= top)
-top.location.href=location.href
-// -->
-</script>
-    <title>"LITTLE NICKY" -- by Tim Herlihy, Adam Sandler &amp; Steven Brill</title>
-</head>
 
 
 
@@ -5183,5 +5173,3 @@ top.location.href=location.href
 
 
 
-
-</html>

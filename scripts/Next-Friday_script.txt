@@ -1,8 +1,3 @@
-<html>
-<head>
-<title>"Next Friday" -- by Ice Cube</title>
-</head>
-<body>
 
 
 
@@ -4652,6 +4647,3 @@
 
                                                            THE END.
 
-
-
-</body></html>

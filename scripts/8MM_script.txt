@@ -1,12 +1,4 @@
-<html>
-
-<head>
-   <title>"8MM", by Andrew Kevin Walker</title>
-</head>
-
-<body bgcolor="#FFFFFF">
-
-    
+ 
 
 
 
@@ -594,7 +586,7 @@
                        (looks up at portrait)
                  He was a good man.  Notorious as an
                  eccentric, but that was something he
-                 cultivated.  He <u>wanted</u> to be
+                 cultivated.  He wanted to be
                  legendary.
 
                              WELLES 
@@ -782,7 +774,7 @@
      back towards the girl...
 
      Welles crosses his arms tight, disbelieving, fearful.
-     <u>WE WILL NEVER SEE WHAT HAPPENS NEXT IN THE FILM</u>, but Welles
+     WE WILL NEVER SEE WHAT HAPPENS NEXT IN THE FILM, but Welles
      does.  In the flickering, reflected light, Welles backs
      involuntarily away from the horrible images, holding his
      fist to his mouth, breathing hard.
@@ -1285,7 +1277,7 @@
 
      Welles is back at the computer, alone, drinking coffee.
      ON THE COMPUTER: endless PHOTOS of MISSING CHILDREN.
-     The <u>PHONE CALL CONTINUES in VOICE OVER</u>:
+     The PHONE CALL CONTINUES in VOICE OVER:
 
                              WELLES (V.O., cont)
                  Nobody really uses eight millimeter
@@ -1887,7 +1879,7 @@
 
                              WELLES
                  If the police focused their search
-                 in <u>her</u> room, <u>her</u> belongings, well
+                 in her room, her belongings, well
                  that'd be only natural, but they may
                  have been looking in the wrong place.
 
@@ -2325,7 +2317,7 @@
                  visit her in the hospital.
                  Hospitals smell like dead people."
 
-     EXT.  FREEWAY -- <u>HELICOPTER SHOT</u> -- NIGHT -- CONTINUOUS
+     EXT.  FREEWAY -- HELICOPTER SHOT -- NIGHT -- CONTINUOUS
 
      FOLLOW Welles' car speeding along...
 
@@ -2570,7 +2562,7 @@
      INT.  NONDESCRIPT ROOM -- NIGHT -- CONTINUOUS
 
      In a dark room, we don't know where, a DARK FIGURE of a MAN
-     is silhouetted.  He wears HEADPHONES, <u>listening</u>...
+     is silhouetted.  He wears HEADPHONES, listening...
 
                              WELLES' VOICE (V.O.)
                        (through headphones)
@@ -2917,7 +2909,7 @@
                  Writers, directors, porn stars.
                  They're celebrities, or they think
                  they are.  They pump out 150 videos
-                 a week.  A <u>week</u>.  They've even got
+                 a week.  A week.  They've even got
                  a porno Academy Awards.  America
                  loves pornography.  Anybody tells
                  you they never use pornography,
@@ -3088,7 +3080,7 @@
                              MAX
                  So, you have a wife and kid waiting
                  for you in Pennsylvania... what are
-                 <u>you</u> doing mixed up in all this?
+                 you doing mixed up in all this?
 
                              WELLES
                  Good question.
@@ -3819,7 +3811,7 @@
      Hits FAST FORWARD... hits PLAY, watching the TONE DECODER.
      From the RECORDER, the SOUND of EDDIE DIALING a NUMBER on
      his touch tone phone... and as EACH TONE is HEARD, a
-     <u>corresponding NUMBER appears on the DECODER'S LED readout</u>:
+     corresponding NUMBER appears on the DECODER'S LED readout:
 
                                ...1 212 555 9906...
 
@@ -4220,7 +4212,7 @@
                  Velvet's stock players...
 
                              WELLES
-                 Who is he, his <u>name</u>?
+                 Who is he, his name?
 
                              MAX
                  Nobody knows his name.  That's his
@@ -4993,8 +4985,8 @@
                  You found these smut dealers and
                  asked to buy a snuff film, right?
                  Wanted them to find you one.  Well,
-                 they didn't <u>find</u> you one, Longdale,
-                 they went out and <u>made</u> you one...
+                 they didn't find you one, Longdale,
+                 they went out and made you one...
 
                              LONGDALE
                  Shut up.
@@ -5144,8 +5136,8 @@
      As Welles moves forward, his face goes slack...
 
      Machine is seated on the bed, Eddie and Dino stand smoking
-     cigarettes, and further on, <u>Max is tied to the target,</u>
-     <u>slumped over, three arrows in his chest</u>.  Dead.
+     cigarettes, and further on, Max is tied to the target,
+     slumped over, three arrows in his chest.  Dead.
 
                              WELLES
                  No!!
@@ -7039,7 +7031,7 @@
 
      INT.  QUAINT HOUSE, BEDROOM -- DAY
 
-     Machine, in T-shirt and jeans, <u>seen only from behind</u>, comes
+     Machine, in T-shirt and jeans, seen only from behind, comes
      to a DRESSER and opens a bottom drawer.  His huge hands push
      clothing aside, digging deep to the bottom of the drawer,
      taking out the WRESTLING MASK.
@@ -7330,7 +7322,7 @@
      Welles walks to Machine, bends, grasps Machine wrestling
      mask, pulling it off.  He rolls Machine over...
 
-     Welles stares down at Machine.  <u>We never see Machine's face</u>.
+     Welles stares down at Machine.  We never see Machine's face.
 
      INT.  KITCHEN -- DAY
 
@@ -7550,6 +7542,3 @@
 
 
    
-
-
-</body></html>

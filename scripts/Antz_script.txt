@@ -1,11 +1,3 @@
-<html>
-
-<head>
-   <title>"Antz", unknown draft</title>
-</head>
-
-<body bgcolor="#FFFFFF">
-   
 
 
 
@@ -15,7 +7,8 @@
 
 
 
-                             <u>A N T Z</u>
+
+                             A N T Z
 
 
 
@@ -27,7 +20,7 @@
 
 
 
-     <u>CHARACTERS                                            VOICES</u>
+     CHARACTERS                                            VOICES
 
      "Z"...............................................WOODY ALLEN
      "WASP #1".........................................DAN AYKROYD
@@ -67,9 +60,9 @@
      vista that seems to stretch away forever, filled with ants
      rushing here and there on their business.  We see -- a
      "traffic cop" directing foot traffic, waving his arms like
-     crazy so both sides move at once -- a column of <u>soldier ants</u>
+     crazy so both sides move at once -- a column of soldier ants
      marching along in formation -- a chain of ants letting down
-     a <u>matchbox</u> elevator filled with workers.
+     a matchbox elevator filled with workers.
 
                          Z (V.O.)
                ...which is kind of a problem, since
@@ -96,13 +89,13 @@
                think I'm just not cut out to be a
                worker.  But I don't have any other
                options.  I was assigned to trade
-               school when I was just a <u>grub</u>.  The
+               school when I was just a grub.  The
                whole system just...makes me
-               feel...<u>insignificant</u>.
+               feel...insignificant.
 
                          MOTIVATIONAL COUNSELLOR
                       (enthusiastic)
-               Terrific!  You <u>should</u> feel
+               Terrific!  You should feel
                insignificant!
 
      For the first time, we see the ant MOTIVATIONAL COUNSELLOR.
@@ -118,16 +111,16 @@
                YES!!!  You know, people ask me,
                "Doctor, why are you always happy?"
                And I tell them it's mind over
-               matter.  I don't <u>mind</u> that I don't
-               <u>matter</u>!  Do you get it?  Do you get
+               matter.  I don't mind that I don't
+               matter!  Do you get it?  Do you get
                it?
 
      Z gives a fake smile.
 
                          MOTIVATIONAL COUNSELLOR
                       (incredibly "up")
-               Z, we're part of the <u>fastest growing</u>
-               <u>species in the whole world</u>!
+               Z, we're part of the fastest growing
+               species in the whole world!
 
      The counsellor rolls down a chart from the wall.  An arrow
      shows ant population going up, up, up.
@@ -164,8 +157,8 @@
 
                          MOTIVATIONAL COUNSELLOR
                You see?  Being an ant is being able
-               to say, "Hey -- <u>I'm</u> meaningless,
-               <u>you're</u> meaningless."
+               to say, "Hey -- I'm meaningless,
+               you're meaningless."
 
                          Z
                But -- but I've always felt life was
@@ -185,13 +178,13 @@
      The counsellor ushers Z out of his seat and towards the door.
 
                          MOTIVATIONAL COUNSELLOR
-               Now back to work!  We've made <u>real</u>
-               <u>progress</u>!  Remember -- let's be
+               Now back to work!  We've made real
+               progress!  Remember -- let's be
                best superorganism we can be!
 
      INT. EARLY MEGA-TUNNEL - DAY
 
-     A <u>gigantic</u> tunnel, with the size and scale of the "Chunnel".
+     A gigantic tunnel, with the size and scale of the "Chunnel".
      A banner strung overhead reads: "The Mega-Tunnel -- Tunneling
      Our Way to a Bright Future!"  Along the walls hang 50's work-
      incentive style posters with messages like, "You asked for
@@ -225,7 +218,7 @@
                       (Z's stomach growls)
                Boy am I hungry.  I'm so hungry I'm
                seeing double.  It looks like there's
-               <u>two</u> million ants in here.  When's
+               two million ants in here.  When's
                lunch?  Tomorrow, or the day after?
 
                          AZTECA
@@ -240,8 +233,8 @@
                The squeaky wheel gets the oil.
 
                          AZTECA
-               No, Z.  The squeaky wheel gets <u>thrown</u>
-               <u>away</u>, alright?  You're a good ant, Z,
+               No, Z.  The squeaky wheel gets thrown
+               away, alright?  You're a good ant, Z,
                even though you are a pain in my rear-
                segment.  I don't wanna see
                anything happen to you.  So quit
@@ -352,7 +345,7 @@
 
                          QUEEN
                General, the severe food shortage
-               that faces the colony...<u>pains</u> me.
+               that faces the colony...pains me.
                The thought of any of my children
                going hungry...
                       (she shudders; then,
@@ -581,7 +574,7 @@
                Let's go to the bar at the Royal Club!
 
                          BALA
-               The Club's so <u>stuffy</u>.  I want to try
+               The Club's so stuffy.  I want to try
                someplace different.
 
                          HANDMAIDEN #2
@@ -597,12 +590,12 @@
 
                          HANDMAIDEN #1
                But -- we can't -- there'll be
-               <u>workers</u> there.
+               workers there.
 
      INT. ANT BAR - NIGHT
 
      A long bar filled with ants.  The bar itself seems to stretch
-     for miles, and there are <u>hundreds</u> of ants trying to get a
+     for miles, and there are hundreds of ants trying to get a
      drink...unfortunately, there's only one bartender.  Z is at
      the bar with WEAVER, a burly ant soldier.
 
@@ -631,7 +624,7 @@
 
                          Z
                       (as Bartender leaves)
-               Did you see that?  How he gave <u>you</u>
+               Did you see that?  How he gave you
                the beers, not me?  I'm telling you,
                he's got something against workers.
 
@@ -693,8 +686,8 @@
      has had too much to drink.
 
                          DRUNK SCOUT
-               Have <u>you</u> been to Insectopia?  Have
-               <u>you</u>?  No, ya goddam larvas!  But <u>I</u>
+               Have you been to Insectopia?  Have
+               you?  No, ya goddam larvas!  But I
                have...
                       (becoming emotional)
                ...Mosquitos n' caterpillars n'
@@ -703,7 +696,7 @@
                rules, no regulations...you can be
                your own ant there...
                       (howling drunkenly)
-               It's Insectopia!  <u>Insectopia</u>!
+               It's Insectopia!  Insectopia!
 
                          Z
                Hey, Weaver, listen!
@@ -834,10 +827,10 @@
                          BALA
                Wanna dance?
 
-     Bala's standing right there.  Z is <u>instantly smitten</u>.
+     Bala's standing right there.  Z is instantly smitten.
 
                          Z
-               Me?!  <u>Yes</u>!!!  I mean --
+               Me?!  Yes!!!  I mean --
                       (regaining suavosity)
                Just let me finish my beer.
 
@@ -865,7 +858,7 @@
 
                          BALA
                       (shocked)
-               <u>What</u>?
+               What?
 
      Z and Bala step onto the dance floor with the rest of the
      ants, but Z can't do any of the steps.
@@ -915,14 +908,14 @@
 
      Bala starts to get into it, making up her own steps in reply
      to Z's, loosening up, having fun.  For a moment, the two of
-     them are actually sexy together.  Then they get a little <u>too</u>
+     them are actually sexy together.  Then they get a little too
      wild -- and the other ants, who are still doing their
      intricate dance, start to collide with Bala and Z.  Z almost
      knocks over a big soldier ant.  We can only see the ant's
      back at the moment.
 
                          SOLDIER
-               Hey!  Watch your step, <u>worker</u>.
+               Hey!  Watch your step, worker.
 
      Z has turned around to see the soldier ant, MAJOR MANDIBLE,
      glaring at him.  Mandible is about twice Z's size.  He's got
@@ -962,7 +955,7 @@
      says defiantly...
 
                          Z
-               Because -- because I'm an <u>individual</u>!
+               Because -- because I'm an individual!
 
                          SOLDIER #2
                An individual?  Never heard of it.
@@ -977,7 +970,7 @@
      realized something very important.  Unfortunately, just at
      this moment, A soldier pushes Weaver...Weaver pushes him
      back...somebody makes a dive for Z -- and before you know it,
-     there's a regular <u>bar brawl</u> going on, with Weaver in the
+     there's a regular bar brawl going on, with Weaver in the
      middle of it, cracking heads together, punching ants in the
      face, having a great time.  Just then, the Princess'
      handmaidens hurries over.
@@ -988,10 +981,10 @@
      Z, who's scrabbling around on the floor, overhears.
 
                          Z
-               Princess?  You're a <u>Princess</u>?
+               Princess?  You're a Princess?
 
                          HANDMAIDEN #2
-               <u>The police are coming</u>!
+               The police are coming!
 
                          BALA
                Uh oh.
@@ -1038,7 +1031,7 @@
                What's gonna go wrong?!  I take your
                place for the royal inspection.  Bala
                comes strolling down the line, she
-               sees me -- <u>bingo</u>!  Love is rekindled,
+               sees me -- bingo!  Love is rekindled,
                and she takes me up to the palace for
                a little...
                       (wags his eyebrows
@@ -1060,7 +1053,7 @@
 
                          Z
                       (pause)
-               Well I'm gonna <u>start</u> doing things for
+               Well I'm gonna start doing things for
                you...
 
                          WEAVER
@@ -1126,9 +1119,9 @@
      The soldiers look at Z like he's nuts.
 
                          LOUD VOICE
-               ATTEN-<u>SHUN</u>!
+               ATTEN-SHUN!
 
-     MARTIAL MUSIC sounds, and we hear <u>thousands</u> of ant feet as
+     MARTIAL MUSIC sounds, and we hear thousands of ant feet as
      they snap to attention.  Z imitates the soldiers awkwardly.
 
      GENERAL FORMICA struts to the middle 6f the screen, slapping
@@ -1138,13 +1131,13 @@
                          FORMICA
                First of all, let me make one thing
                clear.  Nobody ever won a battle by
-               <u>thinking for himself</u>.  All this
-               "thinking" stuff is a <u>load of crap</u>.
+               thinking for himself.  All this
+               "thinking" stuff is a load of crap.
                If the almighty had wanted you boys
-               to <u>think</u>, he wouldn't have given you
+               to think, he wouldn't have given you
                huge mandibles and a brain so small
-               you'd <u>misplace it</u> if it wasn't
-               <u>trapped inside your head</u>.
+               you'd misplace it if it wasn't
+               trapped inside your head.
 
      In the audience, Z starts laughing -- he thinks Formica's
      just made a joke.
@@ -1173,8 +1166,8 @@
                takes to persevere!
                       (dramatic pause)
                Hell, we're not an army of
-               ants...we're one <u>giant</u> ant, with
-               <u>giant fists</u>, and <u>giant jaws</u>!
+               ants...we're one giant ant, with
+               giant fists, and giant jaws!
 
      The soldiers CHEER!  Z CHEERS along with the rest of them.
 
@@ -1187,12 +1180,12 @@
 
                          FORMICA
                Now I've heard a lot of scuttlebutt
-               about a <u>food shortage</u>.  Well you boys
+               about a food shortage.  Well you boys
                are gonna be taken care of.  But in
                the meantime we're gonna eat the
-               enemy for <u>breakfast</u>, we are gonna
-               eat the enemy for <u>lunch</u>, and we are
-               gonna eat the enemy for <u>dinner</u>!
+               enemy for breakfast, we are gonna
+               eat the enemy for lunch, and we are
+               gonna eat the enemy for dinner!
 
                          Z
                Geez, and I forgot my toothbrush.
@@ -1223,7 +1216,7 @@
      for the Princess.
 
                          COLONEL
-               Eyes...<u>left</u>!
+               Eyes...left!
 
      Finally, as Z's part of the army marches past the end of the
      reviewing stand, he sees her, looking bored, standing next
@@ -1410,7 +1403,7 @@
      Up...over the lip of the stump...and down inside, to the very
      middle of the termite colony...
 
-     Into a disquietingly <u>peaceful</u> scene.   They're in the middle
+     Into a disquietingly peaceful scene.   They're in the middle
      of the hollowed-out trunk, and ants keep pouring in -- but
      there's not a termite to be seen.  Barbatus looks around
      suspiciously.
@@ -1418,7 +1411,7 @@
                          BARBATUS
                It's too damn quiet.
 
-     Then we hear a strange <u>tapping</u> noise.  Barbatus looks over,
+     Then we hear a strange tapping noise.  Barbatus looks over,
      and sees that Z's teeth are chattering with fear.
 
                          BARBATUS
@@ -1433,17 +1426,17 @@
 
                          COLONEL
                       (ignoring him)
-               <u>Light it up</u>!
+               Light it up!
 
-     A nearby soldier ant take a <u>firefly</u> out of his knapsack and
-     <u>pinches him</u>.  The firefly, yelling "Yipe!  Yipe!  Yipe!",
+     A nearby soldier ant take a firefly out of his knapsack and
+     pinches him.  The firefly, yelling "Yipe!  Yipe!  Yipe!",
      shoots into the air like a flare, lighting up the interior of
      the stump with eery, shifting luminescence.
 
      Then we notice, hollowed into the inside of the stump like
-     innumerable pockmarks, <u>termite holes</u> staring out upon the
-     stump...and, with an unearthly <u>ROAR</u>, we see the first of
-     <u>hundreds of termites</u> emerging to pour into the center of the
+     innumerable pockmarks, termite holes staring out upon the
+     stump...and, with an unearthly ROAR, we see the first of
+     hundreds of termites emerging to pour into the center of the
      tree, right onto the ant army.
 
                          COLONEL
@@ -1454,21 +1447,21 @@
                Keep your head down!
 
      Within moments, Z finds himself in the middle of a
-     <u>BLOODBATH</u>.  The ants have broken into the colony, but are
+     BLOODBATH.  The ants have broken into the colony, but are
      taking heavy losses from the gigantic, blind, acid-spewing
      termites.  The battle scene is as sprawling and chaotic as
-     something out of <u>Braveheart</u>. In a few QUICK SHOTS from Z's
+     something out of Braveheart. In a few QUICK SHOTS from Z's
      perspective, we see:
 
      -- A squad of ants rushes towards a termite soldier, but are
-     literally <u>melted</u> into smoking heaps of flesh by a <u>jet of acid</u>
+     literally melted into smoking heaps of flesh by a jet of acid
      from its forehead...
 
      -- A termite warrior is overwhelmed by a crowd of ants and is
-     <u>pulled to pieces</u> with hideous <u>ripping</u> sounds...
+     pulled to pieces with hideous ripping sounds...
 
      -- Another termite warrior takes on an ant soldier one on one
-     and slowly <u>crushes</u> his head in his huge jaws...
+     and slowly crushes his head in his huge jaws...
 
                          Z
                       (looking around)
@@ -1476,7 +1469,7 @@
                all of us to just talk this over!
 
      Just then, a termite burst up from the ground and turns to
-     face Z.  Z is <u>dwarfed</u> by this hulking, roaring, drooling
+     face Z.  Z is dwarfed by this hulking, roaring, drooling
      monstrosity.
 
                          Z
@@ -1484,7 +1477,7 @@
                out in spots!  -- Could I just say I
                have always had the greatest respect
                for your species?  I mean, eating
-               wood -- why didn't <u>I</u> think of that?
+               wood -- why didn't I think of that?
                I --
 
      The termite rears, getting ready to melt Z, when OOF! he's
@@ -1506,9 +1499,9 @@
                          Z
                Look out!
 
-     A stream of termite acid <u>engulfs</u> the colonel, instantly
+     A stream of termite acid engulfs the colonel, instantly
      burning him to a cinder clutching a still-burning cigar; Z's
-     paratroop buddies turn in terror to see a <u>herd</u> of termites
+     paratroop buddies turn in terror to see a herd of termites
      rumbling towards them.  Z, terrified, dives into the hole
      that the huge termite made...
 
@@ -1520,8 +1513,8 @@
 
      No sooner has Z landed in the tunnel than a termite comes
      burrowing out from one of the side walls, snapping at Z's
-     head.  Z just avoids getting decapitated, and digs <u>straight</u>
-     <u>through the wall</u> in order to escape...
+     head.  Z just avoids getting decapitated, and digs straight
+     through the wall in order to escape...
 
      INT. TERMITE QUEEN'S CHAMBER - NIGHT
 
@@ -1540,7 +1533,7 @@
                was wondering if you could give me --
 
      Before Z can say, "directions", the queen gives out a
-     piercing, blood-curdling <u>shriek</u>.  The nurses start shrieking
+     piercing, blood-curdling shriek.  The nurses start shrieking
      too.
 
                          Z
@@ -1548,7 +1541,7 @@
                I'll let myself out.
 
      But the queen's shriek has summoned a soldier termite -- the
-     <u>biggest</u> one we've seen yet -- who is charging headlong at Z,
+     biggest one we've seen yet -- who is charging headlong at Z,
      jaws snapping open and shut like huge scissors.
 
                          Z
@@ -1556,14 +1549,14 @@
                Shoo! -- Torro!  Torro!
 
      At the last moment, Z jumps out of the way -- and the termite
-     runs <u>headfirst</u> into the supporting column of the chamber.  As
+     runs headfirst into the supporting column of the chamber.  As
      if on a spring release, the termite's jaws clamp shut -- and
-     <u>shatter</u> the base of the column.  The walls of the room begin
+     shatter the base of the column.  The walls of the room begin
      to rumble...
 
-     The termite turns to eat Z...but is <u>crushed</u> by a stone
+     The termite turns to eat Z...but is crushed by a stone
      falling from the ceiling, which gives a final shudder and
-     <u>collapses</u>, raining earth and stones down on the queen.
+     collapses, raining earth and stones down on the queen.
 
      As the walls of the chamber crumble, melees of ants and
      termites pour into the room from the corridors around and
@@ -1593,13 +1586,13 @@
                Let's slaughter them all!
 
      The ants set about killing the disoriented termites when...we
-     hear another <u>rumble</u> coming from the outside...the ants look
+     hear another rumble coming from the outside...the ants look
      up confusedly...
 
-     ...And a (from the ant's point of view) <u>five-hundred foot</u>
-     <u>long tongue</u> bursts through the top of the chamber with a
+     ...And a (from the ant's point of view) five-hundred foot
+     long tongue bursts through the top of the chamber with a
      CRASH.  The ten or so ants standing directly below are
-     <u>smashed</u> by the tongue, which squirts out a spray of saliva
+     smashed by the tongue, which squirts out a spray of saliva
      around the crater.  As quick as it appeared, the tongue
      retracts, with a hideous SLUUURPING sound.  We can now see
      the end of the snout of an ant-eater poking through a hole in
@@ -1624,17 +1617,17 @@
      ....Then the tongue disappears.  Silence.  Z wipes his brow...
 
      And we hear a thunderous SNIFFING noise as the anteater
-     searches for more prey... and the tongue starts <u>rumbling</u> down
-     the corridor <u>right towards Z</u>, the tip squirming as it
+     searches for more prey... and the tongue starts rumbling down
+     the corridor right towards Z, the tip squirming as it
      ricochets along the walls!
 
      Z gets up and runs, the tongue lapping towards him,
      reminiscent of the stone sphere that nearly crushed Indiana
-     Jones in <u>Raiders of the Lost Ark</u>!  The walls disintegrate
+     Jones in Raiders of the Lost Ark!  The walls disintegrate
      under the pressure of the tongue, which gets closer to
      Z...closer...
 
-     ...and <u>just misses him</u> as Z tumbles out of the stump and down
+     ...and just misses him as Z tumbles out of the stump and down
      to the ground...Z sits there, dazed, as we see the huge form
      of the anteater withdraw its tongue and, with a final
      contented burp, shuffle off into the distance.
@@ -1652,7 +1645,7 @@
                Barbatus?
 
      Z looks down at his feet, where Barbatus's still-living,
-     decapitated <u>head</u> is looking up at him.
+     decapitated head is looking up at him.
 
                          Z
                       (shocked)
@@ -1698,7 +1691,7 @@
      INT. EARLY MEGA-TUNNEL - DAY
 
      Weaver is "passing" as a worker, working alongside much
-     smaller worker ants.  He actually <u>loves</u> the work.  He's
+     smaller worker ants.  He actually loves the work.  He's
      throwing up dirt like a bulldozer.  He's so enthusiastic, he
      scoops up a WHOLE ANT in his shovel and tosses him aside.
      Azteca, who's standing next to him in line, is shocked by,
@@ -1745,7 +1738,7 @@
 
                          FOREMAN
                       (yelling at Weaver)
-               Who said you could have a <u>chat</u>?
+               Who said you could have a chat?
                You're not a chatter, you're a
                digger!  So shut up and dig!
 
@@ -1785,7 +1778,7 @@
                backtalk.  I don't know want you to
                end up like the guy who used to work
                next to me.  I'm afraid he got...
-               <u>downsized</u>.
+               downsized.
 
      EXT. ANT MOUND - DAY
 
@@ -1884,7 +1877,7 @@
                that's Z!
 
                          WEAVER
-               Z?  <u>Our</u> Z?  The little guy made it!
+               Z?  Our Z?  The little guy made it!
 
      Z is following Formica away from the cheering crowd.
 
@@ -1895,7 +1888,7 @@
                          FORMICA
                Son, you're an ant after my own
                heart.  A warrior.  An ant that looks
-               death right in the face and <u>laughs</u>.
+               death right in the face and laughs.
 
                          Z
                Well, I generally just make
@@ -1906,7 +1899,7 @@
 
                          FORMICA
                Well she better -- she's engaged to
-               one.  <u>Me</u>!
+               one.  Me!
 
                          Z
                Engaged?  As in you're getting
@@ -1946,14 +1939,14 @@
                of the colony.
 
                          FORMICA
-               Yes, and do you know <u>why</u> there's a
+               Yes, and do you know why there's a
                food shortage?
 
                          Z
                ...Not enough food?
 
                          FORMICA
-               Negatory.  <u>Too many ants</u>.  And while
+               Negatory.  Too many ants.  And while
                we soldiers go out there, and fight,
                and bleed, and die for the colony,
                the namby-pamby workers live it up
@@ -2061,7 +2054,7 @@
 
                          QUEEN
                All these parties are so marvellously
-               <u>alike</u>.
+               alike.
 
                          FORMICA
                They should be...
@@ -2114,7 +2107,7 @@
 
                          BALA
                He was a worker.  I danced with him
-               at a <u>worker's bar</u> just the other day.
+               at a worker's bar just the other day.
                I'm not shocking you, am I?
 
                          Z
@@ -2140,8 +2133,8 @@
 
                          Z
                       (offended)
-               That's not what you said the <u>other</u>
-               <u>night</u> --
+               That's not what you said the other
+               night --
 
                          BALA
                       (now she's panicked)
@@ -2149,7 +2142,7 @@
 
                          Z
                       (digging it in)
-               -- At the <u>worker bar</u>!  You were
+               -- At the worker bar!  You were
                pretty hot to trot then!
 
                          BALA
@@ -2159,7 +2152,7 @@
 
                          FORMICA
                       (furious)
-               What's this?  A <u>worker</u> has been
+               What's this?  A worker has been
                masquerading as a war hero?!
 
                          Z
@@ -2191,15 +2184,15 @@
 
      Z backs up into the kitchen, still pulling Bala along with
      him.  Here, ant chefs are preparing food for the party,
-     <u>vomiting</u> little florets onto a platter.  Formica and the
+     vomiting little florets onto a platter.  Formica and the
      soldiers follow them in.
 
                          Z
                       (to Formica)
-               Stay back, you <u>lunatic</u>!  Do you think
+               Stay back, you lunatic!  Do you think
                I don't know how to use this?
 
-     Z realizes that he's <u>pointing his finger at them</u>.
+     Z realizes that he's pointing his finger at them.
 
                          Z
                Uh-oh.
@@ -2255,8 +2248,8 @@
 
      Z, who's running towards the princess, suddenly realizes that
      he's running towards certain doom...and joins Bala in legging
-     it away from the colony; under a <u>brown leaf</u>, which <u>bursts</u>
-     <u>into flames</u>...between the redwood-like stalks of some
+     it away from the colony; under a brown leaf, which bursts
+     into flames...between the redwood-like stalks of some
      flowers...and finally into the relative safety of some
      grass...where they throw themselves on the ground, exhausted.
 
@@ -2267,10 +2260,10 @@
      Z and Bala dust themselves off.
 
                          BALA
-               What <u>was</u> that thing?
+               What was that thing?
 
                          Z
-               How should <u>I know</u>?
+               How should I know?
 
                          BALA
                I order you to find out where we are!
@@ -2342,7 +2335,7 @@
      glowers at Z.
 
                          BALA
-               I -- <u>hate</u> -- you.
+               I -- hate -- you.
 
                          Z
                Well I guess that makes us even.
@@ -2353,13 +2346,13 @@
                and cheated to get near me!
 
                          Z
-               Oh come on, <u>you're</u> the one who came
+               Oh come on, you're the one who came
                after me -- the swarthy, earthy,
                sensual worker!
 
                          BALA
                       (repulsed)
-               I was <u>slumming it</u>!  I danced with you
+               I was slumming it!  I danced with you
                because you were the most pathetic
                specimen in the place!
 
@@ -2368,10 +2361,10 @@
                choose General Formica?
 
                          BALA
-               I <u>didn't</u> choose him.  What kind  of
-               <u>idiot</u> would...
+               I didn't choose him.  What kind  of
+               idiot would...
                       (unconvincingly)
-               ...<u>choose</u> who she wanted to marry?
+               ...choose who she wanted to marry?
 
      She shakes herself out of it.
 
@@ -2388,7 +2381,7 @@
                Insectopia.
 
                          BALA
-               <u>Insectopia</u>?  You stupid worker,
+               Insectopia?  You stupid worker,
                that's just a fairy tale!
 
                          Z
@@ -2399,13 +2392,13 @@
                that it exists.  Now you follow
                the yellow egg...
                       (looking around)
-               <u>That</u> direction.
+               That direction.
 
                          BALA
                Worker!  Come back here now!
 
                          Z
-               I've got a <u>name</u>.  It's <u>Z</u>.
+               I've got a name.  It's Z.
 
                          BALA
                That's not a name!  That's just a
@@ -2417,7 +2410,7 @@
 
      We start hearing NOISES -- the equivalent of scary jungle
      sounds in a Tarzan movie -- the HISSING, CROAKING,
-     CHIRRUPING... Bala sees <u>eyes</u> looking out at her from all
+     CHIRRUPING... Bala sees eyes looking out at her from all
      directions...and spots a colossal monster (a sparrow) fixing
      her with his beady gaze.
 
@@ -2462,7 +2455,7 @@
                He crashed a party at the palace.
                Then he took a hike with one of the
                royal babes!  And when they tried to
-               stop him, he just <u>looked</u> at a
+               stop him, he just looked at a
                couple'a guards, and they burst into
                flames!
 
@@ -2479,10 +2472,10 @@
                Invisible!
 
                          WEAVER
-               No -- an <u>individual</u>!
+               No -- an individual!
 
                          WORKER #2
-               What's <u>that</u>?
+               What's that?
 
                          WEAVER
                Well, it's...someone with his own
@@ -2501,7 +2494,7 @@
 
                          WORKER #2
                       (scoffs)
-               But that would mean <u>I'm</u> important.
+               But that would mean I'm important.
 
                          WORKER #1
                I'm outta here, this sounds like
@@ -2510,7 +2503,7 @@
      But more ants are gathering 'round.
 
                          WEAVER
-               We can <u>all</u> be individuals!  Just like
+               We can all be individuals!  Just like
                Z!
 
      Weaver and Azteca hold hands.  More ants are gathering
@@ -2519,7 +2512,7 @@
      EXT. BIKE PATH - DAY
 
      LONG SHOT.  A glimmering desert landscape (think of "The
-     Sun's Anvil" in <u>Lawrence of Arabia</u>).  Two small figures can
+     Sun's Anvil" in Lawrence of Arabia).  Two small figures can
      be seen, tiny dots moving across the arid whiteness.
 
      They're Bala and Z, who are crossing a concrete path in the
@@ -2539,10 +2532,10 @@
                you ruined my life.
 
                          Z
-               <u>I</u> ruined <u>your</u> life?  Look, I was
+               I ruined your life?  Look, I was
                perfectly happy until I met you --
                alright, I was miserable, but I was
-               <u>happily miserable</u>.
+               happily miserable.
 
      Over Z's line, we can see a GIGANTIC WHEEL, getting larger
      and larger and heading right towards them, a GIGANTIC WHEEL
@@ -2563,7 +2556,7 @@
                Come on -- it's gone!  What are the
                chances of that happening again?
 
-     No sooner has he said it than the <u>rear wheel</u> of the bike
+     No sooner has he said it than the rear wheel of the bike
      thunders past.
 
                          Z
@@ -2577,7 +2570,7 @@
                ...why'd I have to go looking for
                trouble? Any ant would have given
                their left legs to be in my
-               position...what's <u>wrong</u> with me?
+               position...what's wrong with me?
 
                          Z
                Want a list?
@@ -2627,14 +2620,14 @@
                boss anymore -- out here, you're
                just --
 
-     -- But before he can finish, a <u>water droplet</u> from the
+     -- But before he can finish, a water droplet from the
      fountain falls on him.  It may not sound like much, but to Z
      it's as though a ten-foot diameter sphere of jello had
      engulfed him.
 
      Z's stuck inside because of the surface tension of the
      droplet, which doesn't burst, just quivers up and down.
-     Inside, Z is slowly, frantically <u>drowning</u> and screaming for
+     Inside, Z is slowly, frantically drowning and screaming for
      help.  But his screams are muffled in the water.
 
                          BALA
@@ -2649,23 +2642,23 @@
                       (hands on hips)
                Stop fooling around in there.
 
-     By now the droplet has started <u>rolling</u>, and Z is being turned
+     By now the droplet has started rolling, and Z is being turned
      upside-down.  He manages to get one foreleg out of the
-     droplet, and, in a frantic attempt to pull himself out, <u>pulls</u>
-     <u>Bala in by the leg</u>.
+     droplet, and, in a frantic attempt to pull himself out, pulls
+     Bala in by the leg.
 
                          BALA
                Let me go!!!
 
-     But it's too late -- they're now <u>both</u> stuck in the droplet,
+     But it's too late -- they're now both stuck in the droplet,
      and, as Z continues to drown, he also has to deal with Bala
-     <u>yelling at him</u> -- though we can't hear exactly what it. is
+     yelling at him -- though we can't hear exactly what it. is
      she's yelling through the water.
 
      Then, having run out of air, she too starts thrashing,
-     alternately trying to <u>swim</u> and trying to <u>slap him</u> as Z tries
-     to <u>defend himself</u>.  Finally all this commotion is enough to
-     make the droplet <u>burst</u>, spilling the two coughing,
+     alternately trying to swim and trying to slap him as Z tries
+     to defend himself.  Finally all this commotion is enough to
+     make the droplet burst, spilling the two coughing,
      sputtering, drenched ants onto the ground.
 
      They both lie there, miserable, wet, and cold.
@@ -2680,7 +2673,7 @@
 
                          Z
                Princess, has it ever occurred to you
-               that they're <u>not going to rescue you</u>?
+               that they're not going to rescue you?
 
                          BALA
                General Formica won't let me die out
@@ -2706,7 +2699,7 @@
 
                          BALA
                       (hesitates)
-               Well...I <u>am</u> the oldest.
+               Well...I am the oldest.
 
      Bala turns from Z.  She's thinking things over, realization
      dawning on her.
@@ -2731,7 +2724,7 @@
 
                          FORMICA
                Dammit, this tunnel is priority A-1!
-               We can't afford <u>any delays</u> on this
+               We can't afford any delays on this
                project!
 
                          CARPENTER
@@ -2749,7 +2742,7 @@
 
                          FOREMAN
                       (yelling at him)
-               Where do ya think <u>you're</u> going?  Get
+               Where do ya think you're going?  Get
                back to work!
 
                          WORKER #1
@@ -2790,7 +2783,7 @@
 
                          FORMICA
                       (patronizing)
-               Well now <u>you</u> haven't fallen for this
+               Well now you haven't fallen for this
                silly idea of individuality, have
                you?
 
@@ -2819,7 +2812,7 @@
                          FORMICA
                We know what makes an ant colony
                strong, don't we?  We know that no
-               ant can be an individual.  No <u>single</u>
+               ant can be an individual.  No single
                ant matters, right?
 
                          WEAVER
@@ -2836,7 +2829,7 @@
                No, sir!
 
      Formica nods at Carpenter, who smiles and opens a door.  Two
-     soldiers walk in, holding <u>Azteca</u>.  The color drains from
+     soldiers walk in, holding Azteca.  The color drains from
      Weaver's face.
 
                          FORMICA
@@ -2925,8 +2918,8 @@
 
      EXT. FALSE INSECTOPIA - DAY
 
-     A PICNICGROUNDS...A red and white <u>picnic blanket</u>, which to
-     the ants looks like a vast, undulating <u>pavilion</u>, stretches
+     A PICNICGROUNDS...A red and white picnic blanket, which to
+     the ants looks like a vast, undulating pavilion, stretches
      before them.  They gaze up at two obelisks: a salt and pepper
      shaker.
 
@@ -2936,27 +2929,27 @@
      architecture.  In fact, it looks a little too perfect.
 
                          Z
-               We've found it!  <u>Insectopia</u>!  Look at
+               We've found it!  Insectopia!  Look at
                all this food'
 
                          BALA
                       (amazed)
                You were right...you were right!
                       (smiling happily)
-               Z, it's <u>beautiful</u>!
+               Z, it's beautiful!
 
                          Z
                Let's dig in!
 
      Z goes over to a gigantic sandwich, but -- BOOIIING! -- he's
-     prevented from getting at it by the <u>saran wrap</u> covering it.
+     prevented from getting at it by the saran wrap covering it.
 
                          Z
                There's - there's some kind of force
                field!
 
      Bala joins him, laboring against the saran wrap.  Then both
-     of them hear <u>laughter</u> from above.
+     of them hear laughter from above.
 
                          MALE WASP (O.S.)
                       (lockjawed accent)
@@ -2964,7 +2957,7 @@
 
                          FEMALE WASP (O.S.)
                       (laughing)
-               They're simply <u>too much</u>, Chip!
+               They're simply too much, Chip!
 
      Bala and Z look up to see two large, yellow WASPS hovering in
      the air above them.  The husband and wife wasps have
@@ -2973,13 +2966,13 @@
                          MALE WASP
                       (to Z and Bala)
                You down there, haven't you ever been
-               to a <u>picnic</u>?
+               to a picnic?
 
                          Z
                Hunh?
 
                          FEMALE WASP
-               <u>Habla Ingles</u>?
+               Habla Ingles?
                       (to Male Wasp)
                Well I really don't know who they are.
 
@@ -3012,7 +3005,7 @@
                They're Eurotrash, dear.
 
      We hear a loud RUMBLING noise -- the family is about to sit
-     down for their picnic lunch.  Gigantic <u>hands</u> reach down and
+     down for their picnic lunch.  Gigantic hands reach down and
      pull away the "force fields".
 
                          MALE WASP
@@ -3033,12 +3026,12 @@
 
                          THE WASPS
                Excuse me -- I'll have some potato
-               salad -- thank-<u>you</u>! -- don't mind if
+               salad -- thank-you! -- don't mind if
                I do!  After you! (etc.)
 
      -- But all is not well.  We pull back to reveal that Z and
      Bala are standing in front of a giant sneaker logo, which is
-     attached to a <u>giant sneaker</u>.  Which <u>moves</u>.
+     attached to a giant sneaker.  Which moves.
 
                          Z
                I sort of imagined Insectopia a
@@ -3081,7 +3074,7 @@
 
      The shoe rises, as the person wearing it steps away...and we
      see that Bala is stuck in one of the ridges of the waffle-
-     soled sneaker, adhering to a big piece of <u>bubblegum</u>!
+     soled sneaker, adhering to a big piece of bubblegum!
 
                          BALA
                Z!  Help me!!!
@@ -3115,7 +3108,7 @@
                Take me to your leader!
 
      Z runs towards the shoe as it rises... and at the last moment
-     catches on to the snaky, swinging <u>shoe-lace</u>.
+     catches on to the snaky, swinging shoe-lace.
 
                          Z
                Whoooooooaaaa!!!
@@ -3144,7 +3137,7 @@
                       (Tarzan whoop)
                Aa-ee-ya-ee-yaaaaaaaah!!!!!!!
 
-     As the sneaker rises again, he <u>swings</u> off the lace, hurtling
+     As the sneaker rises again, he swings off the lace, hurtling
      through the air and catching one of the laces of Bala's
      sneaker...the momentum swings him up and under the sole...
 
@@ -3174,7 +3167,7 @@
                Yes?
 
                          BALA
-               <u>This is all your fault</u>!!!
+               This is all your fault!!!
 
      The sneaker rises, and seems ready to fall again...but
      instead it just hovers there.  (The person wearing it is
@@ -3184,19 +3177,19 @@
                          Z
                We're safe...
 
-     Just then, the hand holding the <u>penny</u> looms up...the penny
+     Just then, the hand holding the penny looms up...the penny
      is, by ant standards, about sixty feet high.  The huge image
-     of <u>Abraham Lincoln</u> stares down at them.
+     of Abraham Lincoln stares down at them.
 
                          Z
-               Who the <u>hell</u> is <u>that</u>?!!!
+               Who the hell is that?!!!
 
      The penny starts scrapes the bubblegum off the sneaker,
      bringing Bala and Z along with it.  They're carried through
      the air as the penny gets thrown away...turning over and over
      in a lopsided orbit as Bala and Z SCREAM...
 
-     ...and land with a CRASH in total <u>darkness</u>.
+     ...and land with a CRASH in total darkness.
 
      EXT. LAKE - DAY
 
@@ -3205,22 +3198,22 @@
 
      The earth shakes as a HUGE, MONSTROUS creature approaches the
      lake - and begins to drink from it.  The creature seems to
-     hear something, and, <u>growling</u>, turns its ugly head.  It's a
+     hear something, and, growling, turns its ugly head.  It's a
      Pomeranian, one of those yappy little lap-dogs -- but seen
-     from ant perspective, it's something out of a <u>horror movie</u>.
+     from ant perspective, it's something out of a horror movie.
 
                          TOUGH VOICE (O.S.)
-               Ant Team Six -- <u>take him out</u>!
+               Ant Team Six -- take him out!
 
      The monster bears its huge fangs at the approaching
-     intruders -- a bunch of <u>flying ants</u> who look as though
-     they're attacking the <u>Death Star</u>!
+     intruders -- a bunch of flying ants who look as though
+     they're attacking the Death Star!
 
      The monster rears and snaps at two of the ants, who are
      making a diversionary run...
 
-     and then <u>gets it</u> from the rest of the ants, who land on his
-     soft, wet nose and start <u>stinging away like crazy</u>.
+     and then gets it from the rest of the ants, who land on his
+     soft, wet nose and start stinging away like crazy.
 
      The monster rears back in pain -- and runs away, YIPPING!
 
@@ -3229,7 +3222,7 @@
      land.
 
                          MAJOR MANDIBLE
-               And don't come back, you <u>sissy</u>!
+               And don't come back, you sissy!
 
      MAJOR MANDIBLE, Ant Team Six's lethal commander, steps into
      frame.  He's the one-eyed killer we met in the bar earlier.
@@ -3248,7 +3241,7 @@
 
                          COMMANDO ANT #1
                       (to the others)
-               <u>Get the sniffer</u>!
+               Get the sniffer!
 
      Two other commandoes come running up with what looks like a
      piece of machinery on a tripod -- only it's an ant -- a
@@ -3305,7 +3298,7 @@
                "Insectopia".
 
      In one corner of the screen, we can see an irregular little
-     hole through which a <u>shaft of light</u> is falling.  Bala
+     hole through which a shaft of light is falling.  Bala
      proceeds towards it, the hole appears to get bigger and
      bigger...
 
@@ -3314,11 +3307,11 @@
                There's only one thing worse than an
                ant who goes around mindlessly
                following orders, and that's an ant
-               who's <u>too dumb</u> to go around
+               who's too dumb to go around
                mindlessly following orders.
 
      Bala stops...she notices that they're being watched.  She's
-     emerging from a tied off <u>garbage bag</u> -- the yellow ties loop
+     emerging from a tied off garbage bag -- the yellow ties loop
      away gracefully.  Bala and Z have been tossed into a garbage
      area.  And above them and below them, peering from garbage
      cans, recycling containers, bags, etc., a multi-cultural
@@ -3333,7 +3326,7 @@
 
                          BUTTERFLY
                Yeah -- nobody stresses out in
-               <u>Insectopia</u>!
+               Insectopia!
 
                          BALA
                Did you say...
@@ -3345,7 +3338,7 @@
      Z and Bala look around.  Just to get things straight, the
      garbage dump doesn't look disgusting -- that would be seeing
      it through human eyes.  Instead, we're looking at it through
-     <u>ant eyes</u> -- and, reimagined this way, it's <u>Paradise</u>.  Not the
+     ant eyes -- and, reimagined this way, it's Paradise.  Not the
      ordered, sterile, paradise of the picnic, but an earthly land
      of plenty.
 
@@ -3373,7 +3366,7 @@
      Like a kid at an amusement park, Z slides down the smooth
      side of the garbage bag, whooshing this way and that until he
      slides into one end of a straw (a red and white striped
-     tunnel), and is <u>shot out</u>...
+     tunnel), and is shot out...
 
                          Z
                Yippeeeeee!
@@ -3388,7 +3381,7 @@
                       (terrified)
                AAAAAGH!!!
 
-     Surprisingly, the termite seems <u>equally</u> terrified...
+     Surprisingly, the termite seems equally terrified...
 
                          FLY
                       (to Z)
@@ -3430,8 +3423,8 @@
 
      EXT. INSECTOPIA - NIGHT
 
-     The insects are having a <u>cookout</u>, their faces illuminated by
-     the still-red ember of a <u>match</u>.  Platters heaped with food
+     The insects are having a cookout, their faces illuminated by
+     the still-red ember of a match.  Platters heaped with food
      lie untouched as they pat their bellies...
 
      Z and Bala sit next to one another, smiling shyly as if they
@@ -3479,7 +3472,7 @@
      when --
 
                          BEETLE
-               Hey <u>Z</u>!
+               Hey Z!
 
      The moment is wrecked.  Z looks up.  A chubby beetle stands
      there with Gus the termite.
@@ -3501,7 +3494,7 @@
 
      EXT.  INSECTOPIA, TOP OF CAN - NIGHT
 
-     As <u>Ant Team Six</u> lands and takes up position above the feast.
+     As Ant Team Six lands and takes up position above the feast.
      The tracker ant is going nuts.
 
                          TRACKER ANT
@@ -3546,13 +3539,13 @@
                          MANDIBLE
                EVERYBODY DOWN!
 
-     The cricket gets up to confront Mandible, but Mandible <u>cold</u>
-     <u>cocks</u> him with a right to the jaw.  The other insects, too
+     The cricket gets up to confront Mandible, but Mandible cold
+     cocks him with a right to the jaw.  The other insects, too
      surprised to fight, just do as they're told.
 
                          MANDIBLE
                Alright, you hippy scum!  Make one
-               move and I'll <u>exterminate</u> you!
+               move and I'll exterminate you!
 
      A couple of commandoes grab Bala by the arms and heave her up.
 
@@ -3561,7 +3554,7 @@
 
                          MANDIBLE
                I don't have to understand, Missy --
-               I've got <u>orders</u>.  Now <u>where's Z</u>?
+               I've got orders.  Now where's Z?
 
                                               CUT TO:
 
@@ -3571,7 +3564,7 @@
      a huge M&amp;M back to the feast.
 
                          FLY
-               Man, your girl is <u>fly</u>, know what I'm
+               Man, your girl is fly, know what I'm
                saying?
 
                          Z
@@ -3707,15 +3700,15 @@
 
                          FORMICA
                       (surprised)
-               You miss him?  <u>Why</u>?
+               You miss him?  Why?
 
                          BALA
                       (angry)
-               Because...because he's <u>twice</u> the ant
-               that you are.  I could <u>never</u> go
+               Because...because he's twice the ant
+               that you are.  I could never go
                through with marrying you.  I'm --
-               I'm an <u>individual</u>, and when I get
-               married, it'll be to someone <u>I</u> choose.
+               I'm an individual, and when I get
+               married, it'll be to someone I choose.
 
      The soldiers look shocked.  For a moment, Formica looks
      furious.  Then he just shrugs.
@@ -3785,7 +3778,7 @@
                          QUEEN
                Very impressive, General.
 
-     Behind her, <u>hundreds of thousands</u> of workers are crowded,
+     Behind her, hundreds of thousands of workers are crowded,
      looking confused and expectant.  Some of them clutch little
      flags and noisemakers...
 
@@ -3807,7 +3800,7 @@
 
                          FORMICA
                       (falsely supportive)
-               She is, your majesty.  <u>She is</u>.
+               She is, your majesty.  She is.
 
      The CAMERA heads up the long, long tunnel, where we see...
 
@@ -3879,7 +3872,7 @@
      lead...
 
      Through this and that passage, as the Tracker Ant gets more
-     and more insistent...And finally straight to a <u>blank wall</u>.
+     and more insistent...And finally straight to a blank wall.
 
                          TRACKER ANT
                Yeahyeahyeahyeahyeahyeahyeah...
@@ -3896,12 +3889,12 @@
 
      Z can answer his own question.  He puts down the tracker ant,
      with a look on his face like a kid forced to eat broccoli,
-     starts <u>digging</u> through the wall...
+     starts digging through the wall...
 
      INT. SKYLIGHT APEX - DAY
 
      Meanwhile, A member of Ant Team Six -- the stupidest member,
-     in fact, waits at the <u>very top of the tunnel</u>, where it
+     in fact, waits at the very top of the tunnel, where it
      narrows almost to a point.  He's hanging from a winch, and
      has a little hammer and chisel in his hand.  He's WHISTLING,
      awaiting instructions.
@@ -3944,8 +3937,8 @@
                I think the tunnel's right underneath
                it!
                       (horrified)
-               -- Formica's going to <u>flood the</u>
-               <u>colony</u>!!!  That's what he meant when
+               -- Formica's going to flood the
+               colony!!!  That's what he meant when
                said there were too many ants!
 
                          BALA
@@ -3964,7 +3957,7 @@
                problems of two people don't add up
                to a hill of ants in this world.  Or
                beans.  Something like that.  Anyway,
-               I've <u>got to warn the others</u>.
+               I've got to warn the others.
 
      Z looks into Bala's eyes.
 
@@ -3973,7 +3966,7 @@
                don't make it, well...we'll always
                have Insectopia.
 
-     Z <u>kisses</u> Bala.  Then he starts running down the tunnel
+     Z kisses Bala.  Then he starts running down the tunnel
      towards the crowd...
 
                          BALA
@@ -4041,7 +4034,7 @@
      The workers are unconvinced.
 
                          WORKER #1
-               Are you <u>nuts</u>?
+               Are you nuts?
 
                          Z
                You've got to believe me!
@@ -4066,13 +4059,13 @@
                worker with a mental problem!
 
                          Z
-               I <u>am</u> Z!
+               I am Z!
 
                          WORKER #1
                No you're not!
 
                          WEAVER
-               <u>Yes he is</u>.
+               Yes he is.
 
      Weaver steps out of the crowd.
 
@@ -4082,7 +4075,7 @@
      Weaver runs up to Z and hugs him, starting to cry.
 
                          WORKERS
-               Hey...it <u>is</u> Z...listen to what he
+               Hey...it is Z...listen to what he
                says! [etc].
 
                          WEAVER
@@ -4132,7 +4125,7 @@
 
      INT. EARLY MEGA-TUNNEL - DAY
 
-     Everyone turns to hear the <u>rumbling sound</u> coming down the
+     Everyone turns to hear the rumbling sound coming down the
      tunnel --
 
                          AZTECA
@@ -4148,7 +4141,7 @@
                          Z
                LET'S MOVE IT!
 
-     All of a sudden there's <u>panic</u> as every ant tries to scramble
+     All of a sudden there's panic as every ant tries to scramble
      away from the oncoming water...in the confusion, the Queen's
      bearers drop her and scramble over her.
 
@@ -4158,24 +4151,24 @@
      The Queen turns, and for a brief moment is silhouetted
      against the white-capped torrent of water...
 
-     ...and then she picks her abdomen up like a skirt and <u>high</u>
-     <u>tails it away from the torrent</u>, running so fast that she
+     ...and then she picks her abdomen up like a skirt and high
+     tails it away from the torrent, running so fast that she
      passes some of her bearers on the way...
 
-     And then the torrent <u>spits out of the mouth of the</u>
-     <u>Megatunnel</u>, quickly filling up the chamber and branching into
+     And then the torrent spits out of the mouth of the
+     Megatunnel, quickly filling up the chamber and branching into
      all of its side tunnels, as we see:
 
      A group of workers RUNNING up a side tunnel and getting
-     <u>consumed</u> by a wave, which crashes down on them like a hand
+     consumed by a wave, which crashes down on them like a hand
      slapping a table...
 
-     <u>Another group</u>, the members of which are getting swallowed up
+     Another group, the members of which are getting swallowed up
      one by one; one of the ants runs up on the ceiling of the
      tunnel and keeps on going, upside-down...it works for a while
      but eventually he, too is swallowed up...
 
-     -- In the <u>Nursery</u>, nurses are evacuating <u>stacks</u> of crying ant
+     -- In the Nursery, nurses are evacuating stacks of crying ant
      babies...
 
      In one of the larger access-tunnels, down which thousands of
@@ -4213,7 +4206,7 @@
      shouts...
 
                          Z
-               <u>Dig</u>!
+               Dig!
 
      The workers turn to look at him questioningly.
 
@@ -4234,7 +4227,7 @@
                          Z
                       (at his wits end)
                Yeah, but I hate drowning more!  Now
-               <u>dig</u>!
+               dig!
 
                          WEAVER
                You heard the ant -- DIG!!!
@@ -4264,7 +4257,7 @@
 
      Gingerly, the Queen reaches out for a clod of dirt...and
      passes it along.  Next thing you know, she's practically
-     <u>crushed</u> by a huge load thrown up by Weaver.
+     crushed by a huge load thrown up by Weaver.
 
      The water keeps rushing in...but now we notice that...
 
@@ -4287,7 +4280,7 @@
      towards the ceiling...
 
                          Z
-               Now <u>climb</u>!
+               Now climb!
 
      The ants start to scale the scaffolding, up towards the top
      of the chamber...it's a swarming mass of ants, hauling each
@@ -4360,8 +4353,8 @@
 
                          FORMICA
                Folks, you may have survived that
-               flood, but there's <u>no way</u> you're
-               gonna escape from <u>me</u>.  I'll make you
+               flood, but there's no way you're
+               gonna escape from me.  I'll make you
                a deal.  Hand over the rebel leader
                Z, and you survive.
 
@@ -4369,7 +4362,7 @@
 
                          FORMICA
                But if you don't hand him over,
-               you're <u>all</u> going to die, each and
+               you're all going to die, each and
                every single..."individual" one of
                you.
 
@@ -4401,19 +4394,19 @@
      Then another figure steps out from the throng of workers.
 
                          WEAVER
-               No, <u>I'm</u> Z.
+               No, I'm Z.
 
      Z turns, astonished, to see Weaver, still and unwavering,
      bravely risking his life for his friend.  Then, AZTECA also
      steps forward.
 
                          AZTECA
-               <u>I'm</u> Z!
+               I'm Z!
 
      Next, Bala comes forward.
 
                          BALA
-               No, <u>I'm</u> Z.
+               No, I'm Z.
 
      More and more ants step forward.
 
@@ -4423,7 +4416,7 @@
 
                          QUEEN
                       (regally)
-               <u>We</u> are Z.
+               We are Z.
 
      Now, the workers are all shouting the same declaration.
 
@@ -4478,7 +4471,7 @@
                Make an example of yourself!
 
                          CARPENTER
-               Uh, actually, we <u>are</u> outnumbered
+               Uh, actually, we are outnumbered
                sir...
 
      Formica turns towards the insects gathered against him.  With
@@ -4609,7 +4602,7 @@
                wife, and a few kids.
 
                          BALA
-               A <u>few</u>?
+               A few?
 
      WE PULL BACK TO REVEAL
 
@@ -4641,6 +4634,3 @@
 
 
    
-
-
-</body></html>

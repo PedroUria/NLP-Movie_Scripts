@@ -1,13 +1,3 @@
-<html>
-<head>
-<script>
-<!--
-if (window!= top)
-top.location.href=location.href
-// -->
-</script>
-<title>Fast Times at Ridgemont High</title>
-</head>
 
 
 FADE IN:
@@ -6524,5 +6514,3 @@ CREDITS
 
 			  THE END
 
-
-</html>

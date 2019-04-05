@@ -1,5 +1,4 @@
-<html><head><title>Star Trek: Generations</title>
-<body><font face="courier, new" size="2">
+<font face="courier, new" size="2">
    
                                          Screenplay by
                           Rick Berman, Ronald D. Moore, Brannon Braga
@@ -6465,6 +6464,5 @@
 
                    FADE TO BLACK.
 
-                                           <u>THE END</u>
+                                           THE END
 </font>
-</body></head></html>

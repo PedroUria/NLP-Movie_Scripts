@@ -1,11 +1,4 @@
-<html>
 
-<head>
-   <title>"Out Of Sight", production draft, by Scott Frank</title>
-</head>
-
-<body bgcolor="#FFFFFF">
-   
 
 
 
@@ -420,7 +413,7 @@
 
                               FOLEY
                  You know that Super Bowl party?  They
-                 changed the date.  It's on <u>tonight</u>,
+                 changed the date.  It's on tonight,
                  eight-thirty.
 
                               ADELE
@@ -1012,7 +1005,7 @@
      again and comes out this time racking a shotgun.
 
                               BUDDY (CONT'D)
-                 <u>Uh</u>-<u>oh</u>.
+                 Uh-oh.
 
      And now Buddy watches her hurry to the front of her car and
      raise the shotgun as we hear A WHISTLE BLOW IN THE COMPOUND.
@@ -1250,7 +1243,7 @@
      INT. TRUNK - SAME
 
                               KAREN
-                 So, what's <u>your</u> name?  It'll be in the
+                 So, what's your name?  It'll be in the
                  paper tomorrow anyway.
 
                               FOLEY
@@ -1547,7 +1540,7 @@
 
                               KAREN
                  Get your hands up and turn around.
-                 <u>Now</u>.
+                 Now.
 
                               FOLEY
                  Shit...
@@ -1974,7 +1967,7 @@
                  way the fuck up.
 
                               RIPLEY
-                 I think it's Dunn &amp; <u>Brad</u>street.  But
+                 I think it's Dunn &amp; Bradstreet.  But
                  then, I could be wrong...
 
                               MAURICE
@@ -2084,7 +2077,7 @@
      Ripley turns back to Foley now: Also a good point.
 
                               FOLEY
-                 You stick <u>anything</u> in this guy, Snoop,
+                 You stick anything in this guy, Snoop,
                  they transfer his ass outta here
                  faster'n you can throw a fight, and
                  you still end up with nothing.
@@ -2179,7 +2172,7 @@
                               MAURICE
                  Stick and jab, fool.  Stick and jab.
 
-     <u>A frisbee whizzes past the television</u>.  We hear A DOG YELP OS.
+     A frisbee whizzes past the television.  We hear A DOG YELP OS.
 
                               MAURICE (CONT'D)
                  Hey!  Watch that shit!
@@ -2261,7 +2254,7 @@
                  Detroit and need a place to crash.
 
                               MAURICE
-                 You crazy, come up <u>here</u>?  It's fuckin
+                 You crazy, come up here?  It's fuckin
                  one degree outside.
 
                               GLENN
@@ -2275,7 +2268,7 @@
                  I'll just tell you it's someone big.
 
                               MAURICE
-                 Some<u>one</u>?  Gimme a hint.
+                 Someone?  Gimme a hint.
 
                               GLENN
                  It's a guy you know.
@@ -2293,7 +2286,7 @@
 
                               MAURICE
                  Oh, I'm here, all right.  I'm very here.
-                 Question is, why aren't <u>you</u> here?
+                 Question is, why aren't you here?
 
      EXT. BUDDY'S APARTMENT - SOMEWHERE IN FLORIDA - NIGHT
 
@@ -2487,7 +2480,7 @@
                  Take the next exit.
 
                               GLENN
-                 What am I supposed to do <u>now</u>?
+                 What am I supposed to do now?
 
                               KAREN
                  Glenn, take the exit.
@@ -2773,7 +2766,7 @@
      Right on a marina.  Boats bobbing on the water.
 
                               MARSHALL (VO)
-                 Is <u>this</u> Foley?
+                 Is this Foley?
 
      INT. MARSHALL SISCO'S CONDO - DAY
 
@@ -2866,7 +2859,7 @@
      She grabs Nicolet by the arm.
 
                               KAREN
-                 <u>Was it Foley?</u>
+                 Was it Foley?
 
      Marshall looks at her.
 
@@ -3071,7 +3064,7 @@
                  island.
 
                               KAREN
-                 Whatta you mean <u>we'll</u> make it an island?
+                 Whatta you mean we'll make it an island?
 
                               FOLEY
                  I just thought maybe you and me could--
@@ -3527,7 +3520,7 @@
                  That wasn't Jack's fault.  No, that
                  was on account of Buddy, for some
                  reason, decided to call his sister and
-                 confess to a job <u>before</u> they'd done it
+                 confess to a job before they'd done it
                  instead of after.  She called the FBI
                  and they both went down, ended up at
                  Lompoc.
@@ -3825,7 +3818,7 @@
                  All right, but...
 
                               BURDON (PHONE)
-                 But don't you <u>do</u> anything.  You just
+                 But don't you do anything.  You just
                  have a seat, wait for me to get there.
 
                               KAREN
@@ -4062,7 +4055,7 @@
 
      Karen picks up her radio, is about to speak into it when...
 
-     Foley raises his hand.  And <u>waves as the door closes</u>.
+     Foley raises his hand.  And waves as the door closes.
 
      INT. ELEVATOR - DAY
 
@@ -4395,7 +4388,7 @@
 
                               RIPLEY
                  Yeah, but who's gonna believe Glenn?
-                 I mean, do <u>you</u> believe Glenn?
+                 I mean, do you believe Glenn?
 
                               FOLEY
                  Of course not.
@@ -4406,7 +4399,7 @@
 
                               FOLEY
                  Doesn't have to figure out shit.  You
-                 <u>told</u> him you keep 'em at your house.
+                 told him you keep 'em at your house.
 
                               RIPLEY
                       (shrugs, big smile)
@@ -4438,7 +4431,7 @@
                               RIPLEY
                  Hey, Jack?  Bullshit.  I didn't make
                  my first million until I was forty-
-                 two.  Forty-two.  You really <u>want</u> to
+                 two.  Forty-two.  You really want to
                  change, it's never too late.
 
                               FOLEY
@@ -5456,7 +5449,7 @@
                  I say we go to the fights tomorrow,
                  find out what the Snoop's big plan is,
                  then go in ahead of those guys --
-                 <u>alone</u>.
+                 alone.
 
                               BUDDY
                  Let Glenn deal with the Snoop, while
@@ -5467,9 +5460,9 @@
                  anyone who's actually done one last
                  big score and gone to live the good
                  life?  Cause it occurred to me that
-                 everyone <u>talks</u> about doing it, but I
+                 everyone talks about doing it, but I
                  don't know anyone who's actually gone
-                 and <u>done</u> it.  Do you?
+                 and done it.  Do you?
 
                               BUDDY
                       (beat)
@@ -5626,7 +5619,7 @@
                  gotta earn it.
 
                               FOLEY
-                 How, Dick?  The way <u>you</u> earned it?  By
+                 How, Dick?  The way you earned it?  By
                  marrying some rich broad owns the
                  company, selling it off a piece at a
                  time, then divorcing her?  What is
@@ -5636,7 +5629,7 @@
                  you were ice cream for freaks.  You
                  were a goddamn dumpling.  Maurice and
                  a dozen other guys coulda bled you
-                 till you had nothing.  Till you <u>were</u>
+                 till you had nothing.  Till you were
                  nothing.  I saved your ass.  So you'll
                  pardon me if I don't wanna sit on a
                  fuckin stool all day saying "sign in
@@ -5680,7 +5673,7 @@
 
      THE BANK ACROSS THE STREET
 
-     <u>The one from the opening</u>.  Foley looks at it a moment, then
+     The one from the opening.  Foley looks at it a moment, then
      calmly starts to take off his tie, drops it in the gutter as he
      starts across the street...
 
@@ -6652,7 +6645,7 @@
 
                               MAURICE
                  Glenn knows everything we suppose to
-                 do <u>tomorrow</u>.  Glenn could tell somebody
+                 do tomorrow.  Glenn could tell somebody
                  that, yeah, but it don't mean shit.
                  You understand?  'Cause Glenn don't
                  know I changed the plan.
@@ -8023,7 +8016,7 @@
 
                               FOLEY
                       (really interested)
-                 The <u>ninth</u>?
+                 The ninth?
 
                               HEJIRA
                  Ten, you count the prison hospital in
@@ -8075,7 +8068,3 @@
 
 
    
-
-
-
-</body></html>

@@ -1,7 +1,4 @@
-<html>
-<body><h1>Eternal Sunshine of the Spotless Mind (2003)
-</h1><h2>by Charlie Kaufman.
-</h2>
+
 INT. PUBLISHING HOUSE RECEPTION AREA - DAY
 
 It's grand and modern.  Random House-Knopf-Taschen is etched
@@ -6427,5 +6424,3 @@ and presses the "erase" button on the machine.
 BLACK.
 
 THE END
-
-</body></html>

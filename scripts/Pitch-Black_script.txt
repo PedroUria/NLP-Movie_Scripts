@@ -1,11 +1,3 @@
-<html>
-
-<head>
-   <title>"Pitch Black", shooting draft, revised by David Twohy</title>
-</head>
-
-<body bgcolor="#FFFFFF">
-   
 
 
 
@@ -15,7 +7,8 @@
 
 
 
-                           <u>PITCH BLACK</u>
+
+                           PITCH BLACK
 
                            Screenplay
 
@@ -31,7 +24,7 @@
 
 
 
-                                             <u>Revised First Draft</u>
+                                             Revised First Draft
                                              3/3/98
 
 
@@ -105,7 +98,7 @@ lack of the same.
                E-release...no, red handle, red handle.
                I'll get the warm-ups out while --
 
-     PHFUT-PHFUT-PHFUT-PHFUT: <u>Particles bore through the cabin</u>,
+     PHFUT-PHFUT-PHFUT-PHFUT: Particles bore through the cabin,
      blasting open the captain's chest, shattering plexi, DETONATING
      INSTRUMENTS on the opposite wall and leaving CONTRAILS
      HISSING in the air.
@@ -126,14 +119,14 @@ lack of the same.
                I mean, I mean, chrono shows we're 22
                weeks out, so gravity wasn't supposed to
                kick in for another 19. I mean, I mean,
-               I mean, why did I fall <u>at all</u>?
+               I mean, why did I fall at all?
 
                               FRY
                You hear me? Captain's dead. Owens too.
 
                               OWENS
                Oh, no. Not Owens, not.... Wai', wai',
-               wait. <u>I'm Owens</u>. Right?
+               wait. I'm Owens. Right?
 
      They swap nightmare looks, momentarily unsure of their own
      identities.
@@ -150,7 +143,7 @@ lack of the same.
 
                               FRY
                1550 millibars, dropping 20 MB per minute,
-               shit, we're hemorrhaging air. <u>Somethin'</u>
+               shit, we're hemorrhaging air. Somethin'
                took a swipe at us.
 
                               OWENS
@@ -158,8 +151,8 @@ lack of the same.
                lane. Just show me all those stars, all
                those bright, beautiful, deep-space....
 
-     Owens activates an exterior view: <u>A planet rushes up at us</u>.
-     <u>That's</u> why they have gravity.
+     Owens activates an exterior view: A planet rushes up at us.
+     That's why they have gravity.
 
                               FRY
                Jesus God....
@@ -190,14 +183,14 @@ lack of the same.
      open to reveal...
 
      CLOUD STRATA sweeping up past the windscreen like floor-lights
-     on a dropping elevator. We're shedding <u>big</u> altitude.
+     on a dropping elevator. We're shedding big altitude.
 
 
      INT. NAV-BAY - MAIN CABIN
 
                               OWENS
                ... crisis program selected Number Two of
-               this system because it shows at least <u>some</u>
+               this system because it shows at least some
                oxygen and more than 1,500 -- would you
                SHUT THE FUCK UP!
                          (hammers a button,
@@ -251,7 +244,7 @@ lack of the same.
                evaporite deposits....
 
      JETTISON DOORS CLOSE behind Owens, segregating him from the
-     passenger compartment. It scares him for a <u>new</u> reason.
+     passenger compartment. It scares him for a new reason.
 
                               OWENS
                Fry? What're you doing?
@@ -309,7 +302,7 @@ lack of the same.
                               FRY
                And there wasn't a simulated cockroach
                alive within 50 clicks of the simulated
-               crash site! <u>That's</u> how they train you!
+               crash site! That's how they train you!
                On a fucking simulator!
 
      Owens unbuckles from his chair.
@@ -323,7 +316,7 @@ lack of the same.
                               FRY
                I'm not dying for them.
 
-     <u>She pushes it</u>. But this time...
+     She pushes it. But this time...
 
 
      EXT. SHIP - PLANET'S ATMOSPHERE - DAY
@@ -335,7 +328,7 @@ lack of the same.
      INT. NAV-BAY - MAIN CABIN
 
      Now we see why: Owens reopened the jettison doors locally -- and
-     <u>blocked</u> them open.
+     blocked them open.
 
                               FRY
                Owens!
@@ -348,7 +341,7 @@ lack of the same.
      INT. FLIGHT DECK - DAY
 
      Seething anger and guilt, Fry pops more airbrakes, shedding more
-     speed, more heat. The ship <u>does</u> level -- but it's still being
+     speed, more heat. The ship does level -- but it's still being
      pounded hellishly. She tries to get a stable view out...
 
      The windscreen. We're breaking through cloud-bottoms. There's
@@ -357,12 +350,12 @@ lack of the same.
 
      EXT. SHIP - PLANET'S ATMOSPHERE - DAY
 
-     <u>An airbrake fails</u>. It shears off and pinwheels into...
+     An airbrake fails. It shears off and pinwheels into...
 
 
      INT. FLIGHT DECK - DAY
 
-     The windscreen. <u>It cracks into a thousand spiderwebs</u> -- but
+     The windscreen. It cracks into a thousand spiderwebs -- but
      impossibly it holds. For now.
 
                               OWENS (V.O.)
@@ -386,7 +379,7 @@ lack of the same.
      Ground-mapper: 60 meters. COLLISION ALARMS kick in.
 
      Out the fractured windscreen, we see a huge dark mass rise up
-     into view. <u>Land</u>.
+     into view. Land.
 
      40 meters...30...20...10....
 
@@ -406,7 +399,7 @@ lack of the same.
      IMPACT. Johns BLOWS OUT of his locker -- and wishes to God he
      would've stayed inside, because just beside him...
 
-     <u>The hull is cracking open</u>.
+     The hull is cracking open.
 
      NIGHTMARE SHOT: A huge section of the cabin tears free...
      skitters and CRASHES along the planetfloor behind us...and
@@ -419,10 +412,10 @@ lack of the same.
      Hammered by WIND, Fry opens her eyes experimentally.
 
      FRY'S POV: A vortex of motion, of speed, of blurring debris.
-     But the ship is burrowing in. Burrowing <u>under</u>.
+     But the ship is burrowing in. Burrowing under.
 
      Fry pivots her chair 180 degrees a nanosecond before...
-     <u>Dirt avalanches into the cockpit</u>. It buries CAMERA.
+     Dirt avalanches into the cockpit. It buries CAMERA.
 
                                                        BLACKOUT
 
@@ -447,8 +440,8 @@ lack of the same.
                               AUDREY
                Somethin' went wrong, huh?
 
-     Johns searches for his pistol. <u>Behind him, two chained feet</u>
-     <u>lower into FRAME</u> -- and then attack, swinging over Johns' head...
+     Johns searches for his pistol. Behind him, two chained feet
+     lower into FRAME -- and then attack, swinging over Johns' head...
      getting the chain on his neck...twisting hard, using the chain as
      a choke-collar. Johns flicks open a baton, swings it up at...
 
@@ -513,7 +506,7 @@ lack of the same.
                               OWENS
                Out, out, out, GET IT OUTTA ME!
 
-     She recoils hard. <u>He's still alive</u>. The other survivors bungle
+     She recoils hard. He's still alive. The other survivors bungle
      over. Ten seconds of pure chaos:
 
                               VOICES
@@ -693,7 +686,7 @@ lack of the same.
                a' course.
 
      Fry blinks. <i>"They actually think I'm the captain."</i> Zeke and the
-     others get to work. Fry finds herself staring at <u>another</u>
+     others get to work. Fry finds herself staring at another
      problem. Riddick.
 
                               FRY
@@ -722,7 +715,7 @@ lack of the same.
                               FRY
                Oh, Christ....
 
-     <u>They're losing water</u>. Suddenly Fry is running, snatching up an
+     They're losing water. Suddenly Fry is running, snatching up an
      emergency light, climbing wall-rungs...
 
 
@@ -779,7 +772,7 @@ lack of the same.
      of sherry. Vintage Port. Glenfiddich. Bicardi 151.
 
                               FRY
-               This is it? Booze? <u>That's</u> what you have
+               This is it? Booze? That's what you have
                to drink?
 
                               PARIS
@@ -806,7 +799,7 @@ lack of the same.
                I don't suppose....
 
                               IMAM
-               One of the Christian habits we <u>didn't</u>
+               One of the Christian habits we didn't
                adopt -- perhaps unfortunately. We'll
                have to wait.
 
@@ -871,7 +864,7 @@ lack of the same.
 
                               PARIS
                Blow-dart hunting stick from Papua New
-               Guinea. Very <u>very</u> rare, since the tribe's
+               Guinea. Very very rare, since the tribe's
                extinct.
 
                               ZEKE
@@ -931,7 +924,7 @@ lack of the same.
 
      Fry and the others round the ship to see...
 
-     <u>A blue star flaring into view</u>. It's rising as the other suns are
+     A blue star flaring into view. It's rising as the other suns are
      setting.
 
                               SHAZZA
@@ -956,7 +949,7 @@ lack of the same.
                               JOHNS
                A very good sign.
                          (re: blue sun)
-               That's Riddick's direction. You do <u>not</u>
+               That's Riddick's direction. You do not
                wanna be caught in the dark with this guy.
 
                               FRY
@@ -1052,8 +1045,8 @@ lack of the same.
 
      He drags the sled toward the spired hills. Keeping one eye on
      Zeke, Paris eases into a chair, lays the war-pick across his lap,
-     pours himself a spot of sherry. As he sips, <u>a blade touches his</u>
-     <u>throat</u>.
+     pours himself a spot of sherry. As he sips, a blade touches his
+     throat.
 
                               AUDREY
                He'd probably get you right here, right
@@ -1081,8 +1074,8 @@ lack of the same.
      Johns and Imam catch up to behold...
 
      The "trees" are actually the dorsal bones of a titanic skeleton,
-     tinted green by lichen. <u>Beyond is a sea of bleached animal</u>
-     <u>bones</u>. Impossibly, the bones seem to MOAN IN PAIN. All told,
+     tinted green by lichen. Beyond is a sea of bleached animal
+     bones. Impossibly, the bones seem to MOAN IN PAIN. All told,
      it's like Hell overflowed right here.
 
                               FRY
@@ -1122,7 +1115,7 @@ lack of the same.
                Ah....
 
      He looks for Pilgrim #3 but can't spot him. And when he turns
-     back to the skull -- <u>a face is staring through the combing</u>. But
+     back to the skull -- a face is staring through the combing. But
      it's only...
 
 
@@ -1137,7 +1130,7 @@ lack of the same.
      Johns double-checks shadows, probing with the muzzle of his
      shotgun. Satisfied, Johns exits. Now BOOM UP to reveal...
 
-     <u>Riddick</u>. Hidden in a sinus cavity.
+     Riddick. Hidden in a sinus cavity.
 
 
      EXT. SKULL - BONEYARD - DAY
@@ -1178,7 +1171,7 @@ lack of the same.
                You know, I woulda played road dog for
                these guys. You could've stayed back.
                Pro'bly should've -- because, you know,
-               if we <u>don't</u> find water....
+               if we don't find water....
 
      <i>"We may not make it back."</i>
 
@@ -1204,7 +1197,7 @@ lack of the same.
                the switch?
 
      Fry searches his eyes, wondering if she can trust him -- and
-     <u>again</u> she leans back on the combing. We can actually see Riddick
+     again she leans back on the combing. We can actually see Riddick
      now. They could too, if they would just TURN THE FUCK AROUND!
 
                               JOHNS (CONT'D)
@@ -1274,7 +1267,7 @@ lack of the same.
 
      EXT. BONEYARD - DAY
 
-     CLOSER on the bottle. Only <u>we</u> see that the scotch has been
+     CLOSER on the bottle. Only we see that the scotch has been
      emptied -- and replaced with sand.
 
 
@@ -1306,7 +1299,7 @@ lack of the same.
                Wait, wait, wait....
 
      Fry takes the "plant," pushes the "petals" back down over the
-     core. They all stare. <u>It's a baseball</u>.
+     core. They all stare. It's a baseball.
 
                               IMAM
                We are not alone here, yes?
@@ -1381,7 +1374,7 @@ lack of the same.
      switches. Nothing. Perceiving black-out blinds on a window, she
      throws them open to reveal...
 
-     <u>A man standing right outside</u>.
+     A man standing right outside.
 
                               JOHNS
                          (through window)
@@ -1429,7 +1422,7 @@ lack of the same.
      Fry stops on a groomed runway, out of breath. The others catch
      up. They too marvel at...
 
-     <u>The skiff</u>, a light-duty vehicle of hybrid technology -- part bush
+     The skiff, a light-duty vehicle of hybrid technology -- part bush
      plane, part space craft. Its fabric wings are wind-torn -- but
      the hull looks intact.
 
@@ -1446,7 +1439,7 @@ lack of the same.
 
                               PARIS
                This now qualifies as the worst fun I've
-               ever had. <u>Stop it</u>.
+               ever had. Stop it.
 
      No response.
 
@@ -1461,7 +1454,7 @@ lack of the same.
                Audrey? Oh, Audrey....
 
                               AUDREY (O.S.)
-               <u>What</u>?
+               What?
 
      Paris spins. The voice came from the cargo hold -- and not where
      he expected.
@@ -1488,7 +1481,7 @@ lack of the same.
                right here for the last....
 
      They all see it: Sun-blades are momentarily blocked by something
-     passing outside. Some<u>one</u>.
+     passing outside. Someone.
 
                               SHAZZA
                          (a quiet probe)
@@ -1509,7 +1502,7 @@ lack of the same.
 
      The sun-blades, winking off and on, chart Riddick's approach:
      We feel like we're inside a magician's sword box, watching the
-     blades shave closer and closer to us. <u>Suddenly he appears</u>...
+     blades shave closer and closer to us. Suddenly he appears...
 
      And Shazza swings hard.
 
@@ -1525,7 +1518,7 @@ lack of the same.
                only one who....
 
      He lurches toward Shazza, trying to embrace her -- and sees blood
-     and brain-bits BLAM-BLAMMING against her. <u>His own</u>. The stranger
+     and brain-bits BLAM-BLAMMING against her. His own. The stranger
      sinks bonelessly to the ground. FAST RACK to reveal Zeke in the
      background, pistol leveled. He reads Shazza's horrified face --
      and understands what he's done.
@@ -1542,7 +1535,7 @@ lack of the same.
                murderin' ratbag. I thought he was....
 
      He rushes over to check the dead stranger. As he bends down,
-     FAST RACK AGAIN to reveal <u>Riddick in the background</u>. He stands
+     FAST RACK AGAIN to reveal Riddick in the background. He stands
      20 paces off, still unseen by the others. His goggle eyes
      covet...
 
@@ -1733,10 +1726,10 @@ lack of the same.
      lids shut tight, anticipating the pain.
 
                               FRY
-               <u>Show me</u>, Riddick.
+               Show me, Riddick.
 
      Imagine a virgin undressing in front of someone for the first
-     time. <u>That's</u> how Riddick opens his eyes, startling us: No
+     time. That's how Riddick opens his eyes, startling us: No
      irises, just huge black-pool pupils. And from deep within, a
      jewel-like eyeshine. His eyes are as beautiful and unsettling as
      those of a starved jaguar.
@@ -1776,7 +1769,7 @@ lack of the same.
      Johns, Imam, Shazza, and Audrey keep pace as...
 
                               JOHNS
-               I <u>know</u> what happened -- he went off on the
+               I know what happened -- he went off on the
                guy, buried him on the hill somewhere, and
                now he's trying to --
 
@@ -1784,14 +1777,14 @@ lack of the same.
                Let's just be sure.
 
                               JOHNS
-               I <u>am</u> sure. Look, murders aside, Riddick
+               I am sure. Look, murders aside, Riddick
                belongs in the Asshole Hall of Fame. He
                loves the jaw-jackin', loves making you
                afraid, 'cuz that's all he has. And
                you're playing right into --
 
                               FRY
-               <u>We're gonna find the body</u>, Johns. Christ,
+               We're gonna find the body, Johns. Christ,
                you're a cop. Why am I tellin' you this?
                We gotta go down and find it.
 
@@ -1875,23 +1868,23 @@ lack of the same.
 
      CLICK-CLICK-CLICK.
 
-     <u>There's something here</u>, something just beyond the cusp of light.
+     There's something here, something just beyond the cusp of light.
      Something unfolding.
 
      An icy hand grips her heart. Soundlessly, Fry backtracks her
      chain, but...
 
-     <u>Something shadows across the exit</u>. It stops her cold.
+     Something shadows across the exit. It stops her cold.
 
      Her hand finds something new. She angles it to the light. It's
-     one of Zeke's boots -- <u>with a bit of Zeke still in it</u>.
+     one of Zeke's boots -- with a bit of Zeke still in it.
 
      CLICKITY-CLICKITY-CLICKITY....
 
      The whole chamber is coming alive around her, shadows unfurling,
      skulking the perimeter, circling.
 
-     <u>Something impales the boot out of her hand</u>, reclaiming it. It
+     Something impales the boot out of her hand, reclaiming it. It
      was faster than a lightning-strike.
 
      A paralyzed beat before...
@@ -1904,7 +1897,7 @@ lack of the same.
 
      The spire. Bracing against the walls, Fry tries to "walk" her
      way up -- but her chain goes taut. Did it catch on something?
-     Or did something catch <u>it</u>? Fry starts pounding the earthen walls.
+     Or did something catch it? Fry starts pounding the earthen walls.
 
                               FRY
                Here! I'm in HERE, HERE, HERE!
@@ -1939,7 +1932,7 @@ lack of the same.
      She tries to jettison her belt -- but can't brace herself up and
      undo the belt. Suddenly...
 
-     <u>Something explodes near her head</u>. Daylight appears, followed by
+     Something explodes near her head. Daylight appears, followed by
      faces, human faces. They're breaking through the spire with the
      pick-ax. Hands reach inside...
 
@@ -1966,8 +1959,8 @@ lack of the same.
                Riddick. Somethin' else down there that
                got Zeke and nearly got --
 
-     <u>Her</u>. She flies back into the spire. <u>Something's still got the</u>
-     <u>chain</u>.
+     Her. She flies back into the spire. Something's still got the
+     chain.
 
      The others grab at flailing limbs. It's a tug-of-war now, human
      hands on one end, unseen "hands" on the other -- and the humans
@@ -2076,8 +2069,8 @@ lack of the same.
                If you were me, I'd kill us both. C'mon,
                you wanna sit at the grown-up table or not?
 
-     A beat. Riddick reaches out for the hand -- <u>and grabs the</u>
-     <u>shotgun with his off-hand</u>. A blur of movement. Suddenly Johns
+     A beat. Riddick reaches out for the hand -- and grabs the
+     shotgun with his off-hand. A blur of movement. Suddenly Johns
      is staring at the eyes of his own shotgun.
 
                               RIDDICK
@@ -2125,7 +2118,7 @@ lack of the same.
 
                               JOHNS/SHAZZA
                          (in unison)
-               <u>No</u>.
+               No.
 
      Paris drops a wine bottle. Trailing, Riddick collects it.
 
@@ -2332,7 +2325,7 @@ lack of the same.
 
                               PARIS
                          (to himself)
-               The <u>strangest</u> religion....
+               The strangest religion....
 
      Pilgrims finish pouring cloudy water into goblets. Riddick gets
      the last of it -- the part with sediment. SELECTED CLOSEUPS as
@@ -2424,7 +2417,7 @@ lack of the same.
                Has anyone seen the young one? Ali?
 
                               RIDDICK
-                         (to Fry <u>and</u> Imam)
+                         (to Fry and Imam)
                Has anyone checked the coring room?
 
 
@@ -2447,7 +2440,7 @@ lack of the same.
      As Imam hears the SCREAM.
 
                               IMAM
-               <u>Ali</u>....
+               Ali....
 
 
      INT. CORING ROOM - DAY
@@ -2484,14 +2477,14 @@ lack of the same.
      A NOISE from the supply room. Is it Ali? Just too scared to
      come out? Imam opens the door...
 
-     <u>And hatchlings pour out</u>.
+     And hatchlings pour out.
 
      Moving with a gang-intelligence, they circle the room in a wave,
      soar high into the rafters -- then plunge into the coring shaft,
      SQUEALS VANISHING to infinity. Shocked silence, then...
 
      Pilgrim #3 tumbles to the ground. He's been shredded into bloody
-     kite-tails. There was a nest <u>inside</u> the supply room.
+     kite-tails. There was a nest inside the supply room.
 
      Imam falls on him in grief. Johns and Fry inch forward to peer
      down...
@@ -2629,11 +2622,11 @@ lack of the same.
                can't even find our way back to --
 
                               JOHNS
-               We're not sure <u>when</u> it happens, so let's
+               We're not sure when it happens, so let's
                not --
 
                               FRY
-               <u>Get the fucking cells over here</u>, Johns.
+               Get the fucking cells over here, Johns.
                What's the discussion?
 
      A beat.
@@ -2656,7 +2649,7 @@ lack of the same.
 
                               FRY
                          (with faint hope)
-               Okay, maybe that's a <u>good</u> thing. Maybe I
+               Okay, maybe that's a good thing. Maybe I
                can use him to help with --
 
                               JOHNS
@@ -2681,7 +2674,7 @@ lack of the same.
                               JOHNS
                May've noticed chains don't work on this
                guy. Only way we're truly safe is if he
-               believes he's goin' free. But if he <u>stops</u>
+               believes he's goin' free. But if he stops
                believin' --
 
                               FRY
@@ -2691,7 +2684,7 @@ lack of the same.
                               JOHNS (CONT'D)
                -- we need a fail-safe. Bring the cells
                over at the last possible minute -- when
-               the wings are ready, when we <u>know</u> we're
+               the wings are ready, when we know we're
                ready to launch.
 
      Fry looks at him with new eyes.
@@ -2735,7 +2728,7 @@ lack of the same.
                          (looking after Johns)
                I'll cut.
 
-     <u>He</u> has the knife.
+     He has the knife.
 
 
      EXT. SETTLEMENT - DAY
@@ -2765,7 +2758,7 @@ lack of the same.
                               RIDDICK (O.S.)
                Looks like we're a few shy....
 
-     Fry whirls. <u>Riddick is aboard</u>, staring at the depleted battery
+     Fry whirls. Riddick is aboard, staring at the depleted battery
      bay. And he has Imam's blade.
 
                               RIDDICK (CONT'D)
@@ -2792,7 +2785,7 @@ lack of the same.
                Entered our minds.
 
                               RIDDICK
-               I asked what <u>you</u> thought.
+               I asked what you thought.
 
                               FRY
                You scare me, Riddick. That's what you
@@ -2881,14 +2874,14 @@ lack of the same.
 
                               FRY
                And here you got two mornings every day.
-               Wow, were you <u>born</u> lucky?
+               Wow, were you born lucky?
 
                               JOHNS
                Not a problem unless you're gonna make --
 
                               FRY
                          (lashing)
-               <u>You</u> made it a problem when you let Owens
+               You made it a problem when you let Owens
                die like that. When you had enough drugs
                to knock out a fucking mule-team.
 
@@ -2897,7 +2890,7 @@ lack of the same.
                hadn't caught on to that fact.
 
                               FRY
-               Anything <u>else</u> we should know about you,
+               Anything else we should know about you,
                Johns? Christ, here I am lettin' you play
                games with our lives when --
 
@@ -2933,7 +2926,7 @@ lack of the same.
      Fry and Johns move outside. The others have gathered, all eyes
      gang-locked on...
 
-     <u>An arch in the sky</u>. Luminous, ominous, it grows from the horizon.
+     An arch in the sky. Luminous, ominous, it grows from the horizon.
 
                               PARIS
                What do my eyes see?
@@ -3018,7 +3011,7 @@ lack of the same.
      The Chrislams lash a scrap-metal sled to the sand-cat.
 
      Riddick drops the first cell onto the sled, Johns the second.
-     They're racing the eclipse <u>and</u> each other.
+     They're racing the eclipse and each other.
 
 
      EXT. SKY - DAY TO DUSK
@@ -3092,7 +3085,7 @@ lack of the same.
      CLOSE on Riddick. He watches in awe, no more frightened that a
      kid lying on his back looking up at the stars. Experimenting, he
      eases a bone-shiv into the hatchlings. Instantly it's whittled
-     down to nothing. <u>It's like a river of razor blades</u>.
+     down to nothing. It's like a river of razor blades.
 
      The hatchling keep coming. Shazza whips a panicky look at the
      cargo hold. Can she make it? Should she even try?
@@ -3108,7 +3101,7 @@ lack of the same.
                               FRY
                No, no, NO, NO, NO....
 
-     ...<u>and the wave is back, enveloping Shazza</u>.
+     ...and the wave is back, enveloping Shazza.
 
 
      INT./EXT. CARGO HOLD - DEEP DUSK
@@ -3203,9 +3196,9 @@ lack of the same.
 
                               FRY
                          (realizing)
-               Echo-location. <u>That's</u> what it is....
+               Echo-location. That's what it is....
 
-     Now MORE CLICKING -- <u>behind</u> them. Lights whip around to find...
+     Now MORE CLICKING -- behind them. Lights whip around to find...
 
      Nothing. Only the door of an open container about halfway down
      the tunnel-like hold.
@@ -3215,7 +3208,7 @@ lack of the same.
                               FRY
                Breach in the hull. I dunno.
 
-     More CLICKING. Johns realizes they expect <u>him</u> to check it out.
+     More CLICKING. Johns realizes they expect him to check it out.
 
                               JOHNS
                I'd rather piss glass.
@@ -3256,7 +3249,7 @@ lack of the same.
                Okay. We're okay. Just some small ones
                that musta --
 
-     <u>Something WHOOSHES for his head</u>, swinging like a scythe. It
+     Something WHOOSHES for his head, swinging like a scythe. It
      catches his shotgun, DISCHARGING IT, giving us...
 
      A flash-image of an adult predator. Up close.
@@ -3339,8 +3332,8 @@ lack of the same.
      ...and moves to the front of the container where darkness
      prevails. Something SQUISHES underfoot. He slips off goggles.
 
-     RIDDICK'S POV: Of dead hatchlings on the floor. <u>This is the</u>
-     <u>open container</u>, the one where Johns found predators.
+     RIDDICK'S POV: Of dead hatchlings on the floor. This is the
+     open container, the one where Johns found predators.
 
      Sensing energy, Riddick lifts his face.
 
@@ -3360,7 +3353,7 @@ lack of the same.
      Fry, and Johns worm through. Imam and Pilgrim #2 hang back.
      <i>"Where's Riddick?"</i>
 
-     <u>He's in a stare-down with a predator</u>.
+     He's in a stare-down with a predator.
 
      Searching, Pilgrim #2 rounds a corner -- and finds his head
      caught in a vice-like grip.
@@ -3368,7 +3361,7 @@ lack of the same.
                               RIDDICK
                Don't. Move.
 
-     RIDDICK'S POV: As a <u>second</u> predator appears above them. This
+     RIDDICK'S POV: As a second predator appears above them. This
      one reaches down with its scythe blade...
 
      And gently probes the two men. It wants know what they're made
@@ -3376,7 +3369,7 @@ lack of the same.
 
      CLOSE on the pilgrim's shoes. Over-running with piss.
 
-     <u>More</u> blades descend, moving over them like surgical instruments.
+     More blades descend, moving over them like surgical instruments.
      One test-slices Riddick's shirt.
 
 
@@ -3400,15 +3393,15 @@ lack of the same.
                               FRY (O.S.)
                Riddick?
 
-     TIGHT on the pilgrim -- <u>more</u> scared now that the clicking has
+     TIGHT on the pilgrim -- more scared now that the clicking has
      stopped. Losing his nerve, he bolts.
 
                               RIDDICK
                No....
 
-     <u>The predators are on him</u>, just blurs in the dark. DEATH-SCREAM.
+     The predators are on him, just blurs in the dark. DEATH-SCREAM.
 
-     RIDDICK'S POV: A <u>third</u> predator appears above him.
+     RIDDICK'S POV: A third predator appears above him.
 
      Making his move, Riddick darts around cargo and heads for the
      escape hatch as...
@@ -3416,7 +3409,7 @@ lack of the same.
      Fry's light catches him square in the face. Blinded, Riddick
      HOWLS and stumbles forward. Fry's light leaps deeper to hit...
 
-     <u>The predator right behind him</u>. With a similar reaction, the
+     The predator right behind him. With a similar reaction, the
      beast HOWLS and flails back.
 
      HOLD on Fry for a time-stopped moment. What stopped it? Was it
@@ -3429,9 +3422,9 @@ lack of the same.
                               JOHNS
                'Sokay, 'sokay. I killed it.
 
-     They give him a look. <i>"Sure you did."</i> <u>Suddenly a CARCASS SLAMS</u>
-     <u>to the floor</u>, sending everyone jumping back in a perfect splash-
-     pattern. <i>"Christ, he <u>did</u> kill one."</i>
+     They give him a look. <i>"Sure you did."</i> Suddenly a CARCASS SLAMS
+     to the floor, sending everyone jumping back in a perfect splash-
+     pattern. <i>"Christ, he did kill one."</i>
 
      Fry reclaims her dropped light and beams it on the carcass.
      Wherever the light strikes it, the flesh chars and steams.
@@ -3466,7 +3459,7 @@ lack of the same.
 
                               FRY
                ...one cutting torch...one handlight here,
-               two more in the cabin...I <u>think</u> two
+               two more in the cabin...I think two
                more....
 
                               PARIS
@@ -3494,7 +3487,7 @@ lack of the same.
                               JOHNS
                Enough for what?
 
-     Now she challenges <u>him</u> to be the mind-reader.
+     Now she challenges him to be the mind-reader.
 
                               JOHNS (CONT'D)
                Oh, lady. If you're in your right mind,
@@ -3537,7 +3530,7 @@ lack of the same.
                That there would be...a lasting darkness.
 
                               JOHNS
-               Those suns gotta come back <u>sometime</u>. And
+               Those suns gotta come back sometime. And
                if these animals really are phobic about
                light, we just sit tight till then.
 
@@ -3584,7 +3577,7 @@ lack of the same.
 
                               FRY
                Because you're 79 kilos of gutless white
-               meat, and <u>that's</u> why you can't come up
+               meat, and that's why you can't come up
                with a better plan.
 
      He makes a move for her. Riddick blocks. Johns' shotgun bumps
@@ -3620,7 +3613,7 @@ lack of the same.
                back? Even in the dark?
 
                               FRY
-               No, I'm not. But <u>he</u> can.
+               No, I'm not. But he can.
 
      She's pointing, of course, to Riddick.
 
@@ -3655,11 +3648,11 @@ lack of the same.
      Johns shoulders ahead and crawls in first. Just as he stands up
      inside...
 
-     <u>A PREDATOR BUZZSAWS over his head</u>, fleeing the cabin, taking off
+     A PREDATOR BUZZSAWS over his head, fleeing the cabin, taking off
      into the night.
 
                               JOHNS
-               <u>Fuck me</u>. You said "clear."
+               Fuck me. You said "clear."
 
                               RIDDICK
                Said "looks clear."
@@ -3831,7 +3824,7 @@ lack of the same.
                So you noticed too?
 
                               FRY
-               Riddick. <u>Riddick</u>.
+               Riddick. Riddick.
 
      The procession grinds to a halt. Everyone sucks hard on
      breathers as they muster inside the light.
@@ -3852,7 +3845,7 @@ lack of the same.
                chewin' each other's gonads off. Thought
                we'd swing wide. Okay by you?
 
-     Paris looks over his shoulder. <i>"We went around <u>what</u>?"</i> Nearby
+     Paris looks over his shoulder. <i>"We went around what?"</i> Nearby
      CLICKING breaks up the confrontation.
 
                               FRY
@@ -3908,7 +3901,7 @@ lack of the same.
 
      And flattens Audrey to the ground. Scythe blades swing...
 
-     <u>CHINKING the harness-chains on Imam's back</u>.
+     CHINKING the harness-chains on Imam's back.
 
      Johns whirls, BLASTS. Light-beams leap around. But the predator
      is long gone.
@@ -3921,8 +3914,8 @@ lack of the same.
      He finds his dropped light, thumbs the switch again and again.
      Broken.
 
-     In the confusion, Paris has been left in the dark. <u>Something</u>
-     <u>slashes him from behind</u>. It's like the night has claws.
+     In the confusion, Paris has been left in the dark. Something
+     slashes him from behind. It's like the night has claws.
 
                               PARIS
                Oh, sweet Jesus....
@@ -3939,7 +3932,7 @@ lack of the same.
 
      Faces whip around. But before their lights can rescue him...
 
-     <u>Paris is gone</u>, snatched away by a swooping blur.
+     Paris is gone, snatched away by a swooping blur.
 
      Light-beams jump fitfully, vainly.
 
@@ -3949,7 +3942,7 @@ lack of the same.
      youngling off its back and begins devouring it. Other predators
      start in-fighting, killing themselves for food. POV PANS to a
      pair of predators, closer, SOUNDING out new prey. POV PANS
-     AGAIN to include the object of their desire. <u>Audrey</u>.
+     AGAIN to include the object of their desire. Audrey.
 
      CLOSE on Riddick. Trying to figure it out.
 
@@ -3997,7 +3990,7 @@ lack of the same.
      can do better...."</i> Abruptly he slaps an arm across Imam's chest,
      spotting...
 
-     A sled-track. In <u>front</u> of them.
+     A sled-track. In front of them.
 
      Fry hears a SHOTGUN RATCHET. She spins to see...
 
@@ -4022,10 +4015,10 @@ lack of the same.
                Riddick? What the hell are you --
 
                               RIDDICK
-               <u>Listen</u>.
+               Listen.
 
      Imagine a hundred Geiger-counters next to a truckload of
-     plutonium. <u>That's</u> the SOUND that rides the wind now.
+     plutonium. That's the SOUND that rides the wind now.
 
                               RIDDICK
                Canyon ahead. I circled once to buy some
@@ -4096,10 +4089,10 @@ lack of the same.
      Johns brays.
 
                               JOHNS
-               Hey, <u>you're</u> the one who got me out here,
+               Hey, you're the one who got me out here,
                turned me into a goddamn sled dog. An'
                now you 'spect me to go back like a
-               <u>whipped</u> dog?
+               whipped dog?
 
                               FRY
                I was wrong. I admit it. My bad, okay?
@@ -4127,7 +4120,7 @@ lack of the same.
                She's the captain, we should listen to --
 
                               JOHNS
-               Listen to her? <u>Her</u>? When she was willing
+               Listen to her? Her? When she was willing
                to sacrifice us all?
 
      A beat. Eyes turn to Fry. She wants to protest -- but can't.
@@ -4151,7 +4144,7 @@ lack of the same.
 
                               JOHNS
                -- tried to kill us in our sleep. Paris
-               had it right -- we <u>are</u> disposable. We're
+               had it right -- we are disposable. We're
                just walking ghosts to her.
 
                               FRY
@@ -4161,7 +4154,7 @@ lack of the same.
 
                               JOHNS
                We're not alive because of her -- we're
-               alive <u>in spite</u> of her.
+               alive in spite of her.
 
      He swung below the belt -- and connected. Fry's chin quakes,
      her knees fail. The undertow of events finally pulls her down.
@@ -4255,7 +4248,7 @@ lack of the same.
                of chum.
 
                               JOHNS
-               <u>Trawl</u> with it. There's a cable on the
+               Trawl with it. There's a cable on the
                sled. We can drag the body behind us.
 
                               RIDDICK
@@ -4310,10 +4303,10 @@ lack of the same.
                shiv.
 
                               RIDDICK
-               What, you 'spect <u>me</u> to do it?
+               What, you 'spect me to do it?
 
                               JOHNS
-               What's one more to you? Like <u>this</u> is the
+               What's one more to you? Like this is the
                one that sends you to Hell?
 
                               RIDDICK
@@ -4350,7 +4343,7 @@ lack of the same.
      EXTREMELY TIGHT on both men: In their eyes, we see the new
      partnership splintering apart: <i>"Like Mr. Johns."</i>
 
-     <u>Riddick makes a play for the shotgun</u>. It BLASTS skyward.
+     Riddick makes a play for the shotgun. It BLASTS skyward.
 
 
      EXT. BONEYARD - NIGHT
@@ -4361,7 +4354,7 @@ lack of the same.
                Bring the light!
 
                               AUDREY
-               What're they doing? What're <u>we</u> --
+               What're they doing? What're we --
 
                               FRY
                Leave the sled, let's go, go, go!
@@ -4404,14 +4397,14 @@ lack of the same.
                at you. Oh, yeah, you were Billy Bad-ass
                with your gauge...with your chains....
 
-     <u>Johns finds the shotgun</u>. <i>"And I'm <u>still</u> Billy Bad-ass."</i> He
+     Johns finds the shotgun. <i>"And I'm still Billy Bad-ass."</i> He
      sweeps it around with the light, ready to kill...
 
      Blackness. Where'd Riddick go?
 
      CLICKING behind Johns. He whirls to see...
 
-     <u>Something big coming for him</u>. Johns BLASTS IT back into the
+     Something big coming for him. Johns BLASTS IT back into the
      night, dropping the light as he does. Eyes in the back of his
      head, he whirls again and takes aim on...
 
@@ -4440,7 +4433,7 @@ lack of the same.
      trying to backtrack the sled marks. Checking for pursuit, Fry
      looks over her shoulder...
 
-     <u>And crashes into Riddick</u>. He was just standing in the dark,
+     And crashes into Riddick. He was just standing in the dark,
      waiting for them.
 
                               RIDDICK
@@ -4560,7 +4553,7 @@ lack of the same.
                in God, it doesn't mean He won't be --
 
                               RIDDICK
-               You <u>don't</u> see.
+               You don't see.
 
      Riddick shrugs into the harness, snugs it down.
 
@@ -4633,11 +4626,11 @@ lack of the same.
      Thin blue liquid spatters them.
 
                               RIDDICK
-               Do <u>not</u> look up.
+               Do not look up.
 
      More spattering. Fry looks up -- and stumbles when she beholds...
 
-     <u>A ceiling of predators</u>. At the cusp of light, they dive and
+     A ceiling of predators. At the cusp of light, they dive and
      weave and dart, slashing each other in a rabid desire to SOUND
      OUT the humans below. It's like looking into a bucket of angry
      eels.
@@ -4678,7 +4671,7 @@ lack of the same.
                               FRY
                Riddick? RIDDICK?
 
-     Ahead, <u>a clot of dead predators blocks the canyon</u>.
+     Ahead, a clot of dead predators blocks the canyon.
 
                               AUDREY
                What? What is it?
@@ -4690,9 +4683,9 @@ lack of the same.
      Steeling themselves, they start climbing.
 
      But Audrey, on all fours, has to discover the corpses with her
-     <u>hands</u>. Then, taking exception at being walked on...
+     hands. Then, taking exception at being walked on...
 
-     <u>One "corpse" snaps at her</u>. Audrey recoils sideways...
+     One "corpse" snaps at her. Audrey recoils sideways...
 
      And tumbles down the mound of corpses. She's exposed.
 
@@ -4704,7 +4697,7 @@ lack of the same.
 
      Audrey shakes out of it and scrambles for the shield just as...
 
-     <u>A predator kamikazes onto the shield</u>, its bone-blades piercing
+     A predator kamikazes onto the shield, its bone-blades piercing
      the metal...
 
      And nearly skewering Audrey beneath.
@@ -4716,8 +4709,8 @@ lack of the same.
 
      The predator tears clear, spins, pounces blindly at...
 
-     Riddick, standing at light's edge. Stunningly, <u>he catches the</u>
-     <u>beast under its scythe blades</u>, blunting the attack. The predator
+     Riddick, standing at light's edge. Stunningly, he catches the
+     beast under its scythe blades, blunting the attack. The predator
      CLICKS MADLY at him.
 
      PREDATOR'S POV: Of Riddick's face.
@@ -4737,8 +4730,8 @@ lack of the same.
                               RIDDICK
                Didn't know who he was fuckin' with.
 
-     They regroup. Imam's head swivels back and forth: <u>They're one</u>
-     <u>person short</u>.
+     They regroup. Imam's head swivels back and forth: They're one
+     person short.
 
                               IMAM
                Suleiman!
@@ -4752,7 +4745,7 @@ lack of the same.
                               RIDDICK
                KEEP GOING OR I WILL!
 
-     <u>Suddenly Pilgrim #1 reappears</u>, thrust back into the light by
+     Suddenly Pilgrim #1 reappears, thrust back into the light by
      unseen forces. He's still alive -- but shouldn't be. He makes
      a feeble attempt to grab onto Imam, to anyone, but he's gone
      again before they can even react, jerked out of the light. Out
@@ -4774,7 +4767,7 @@ lack of the same.
 
      Blood falls anew.
 
-     <u>One torch dies</u> -- yet somehow comes back to life.
+     One torch dies -- yet somehow comes back to life.
 
      Imam upturns a hand, checking the liquid for color. But this
      blood has no hue.
@@ -4868,7 +4861,7 @@ lack of the same.
                He's not coming back, is he?
 
      Fry checks Imam's face. <i>Did Riddick say anything to you?"</i> Imam
-     wags his head. A bleak beat -- before Fry realizes she <u>can</u> see
+     wags his head. A bleak beat -- before Fry realizes she can see
      his face.
 
                               FRY
@@ -4954,7 +4947,7 @@ lack of the same.
      shield. Imam eases one eye to a small hole in the shield. He
      can't see much until...
 
-     <u>A blade rushes through the hole</u>. Imam recoils hard, snatches up
+     A blade rushes through the hole. Imam recoils hard, snatches up
      the glow-worm light to see...
 
      More predator blades exploring the edges of the shield. The
@@ -5003,12 +4996,12 @@ lack of the same.
 
                               RIDDICK
                Confusin' me with Johns now -- fear was
-               <u>his</u> monkey. I only deal in life and
+               his monkey. I only deal in life and
                death. All that stuff in between? Some
                shade of grey my eyes don't see.
 
                               FRY
-               <u>I trusted you</u>, Riddick. Goddamn, I
+               I trusted you, Riddick. Goddamn, I
                trusted that some part of you wanted to
                rejoin the human race.
 
@@ -5028,7 +5021,7 @@ lack of the same.
                Just come with me!
 
                               RIDDICK
-               Got a better idea. Come with <u>me</u>.
+               Got a better idea. Come with me.
 
      Fry's mouth moves but nothing comes out.
 
@@ -5044,7 +5037,7 @@ lack of the same.
                about me, better be that.
 
                               FRY
-               No, you see, I <u>promised</u> them...I have
+               No, you see, I promised them...I have
                to...I have to go and....
 
      She's bleeding resolve. Riddick can see it -- can smell it --
@@ -5075,15 +5068,15 @@ lack of the same.
                No one's gonna blame you. C'mon. Take my
                hand and save yourself, Carolyn.
 
-     A beat. She takes his hand -- <u>and jerks him down the gangway</u>.
+     A beat. She takes his hand -- and jerks him down the gangway.
      They sprawl through mud. She gets a knee on his neck.
 
                               FRY
                I will not give up on them! I Will not
-               leave <u>anyone</u> on this rock with those
+               leave anyone on this rock with those
                fucking things, even if it means --
 
-     In a blur, Riddick rolls and slaps a shiv on <u>her</u> neck. Is
+     In a blur, Riddick rolls and slaps a shiv on her neck. Is
      history repeating itself? Riddick's face, though, is strangely
      calm. Curious. Even gentle.
 
@@ -5098,7 +5091,7 @@ lack of the same.
 
                               FRY
                But I'm human. I know you view that as a
-               weakness, but I'm sorry -- I <u>do</u> feel fear,
+               weakness, but I'm sorry -- I do feel fear,
                theirs too. Goddamnit, Riddick -- yes.
                I would die for them.
 
@@ -5171,7 +5164,7 @@ lack of the same.
      RIDDICK'S POV: The gap between predators widens into a passage.
      A gauntlet within a gauntlet.
 
-     <u>Riddick runs</u>. Linked like paper dolls, the others follow blindly.
+     Riddick runs. Linked like paper dolls, the others follow blindly.
 
      RIDDICK'S POV: Of a predator turning to "stare" over its
      shoulder.
@@ -5184,7 +5177,7 @@ lack of the same.
 
      The muddy rise. Audrey loses her grip on the others...
 
-     <u>And starts back-sliding</u>. She CRIES OUT, turning the head of...
+     And starts back-sliding. She CRIES OUT, turning the head of...
 
      Riddick. He catches Audrey as her legs hit the pool. He muscles
      her back up the rise and heaves her over the top, sending her
@@ -5205,7 +5198,7 @@ lack of the same.
 
      RIDDICK'S POV: Chasing them.
 
-     PREDATOR'S POV: Chasing <u>Riddick</u>.
+     PREDATOR'S POV: Chasing Riddick.
 
 
      EXT. SETTLEMENT - NIGHT
@@ -5220,16 +5213,16 @@ lack of the same.
 
      RIDDICK'S POV: Ahead of us, we see Fry, Imam, and Audrey
      vanishing around the corner. BREATHING LIKE A RACEHORSE, we
-     follow in their steps, storming around the same corner. <u>Suddenly</u>
-     <u>a predator is right there</u>, right in our face.
+     follow in their steps, storming around the same corner. Suddenly
+     a predator is right there, right in our face.
 
      PREDATOR'S POV: Of Riddick skidding to a stop. He snaps a look
      up.
 
-     RIDDICK'S POV: Of <u>another</u> predator perched gargoyle-like on the
+     RIDDICK'S POV: Of another predator perched gargoyle-like on the
      building. It SPEED-CLICKS at us.
 
-     PREDATOR'S POV: Of Riddick slowly pulling <u>two</u> shivs. Bracing
+     PREDATOR'S POV: Of Riddick slowly pulling two shivs. Bracing
      himself. Ready to blade it out.
 
 
@@ -5246,17 +5239,17 @@ lack of the same.
      He wants her to board the skiff. Fry gives it another beat, eyes
      sweeping the dark rain. And just when we think it's over for
      Riddick -- TERRIBLE SCREAMS are heard from both man and predator:
-     There's a helluva fight going on out there. <u>Close</u> out there.
+     There's a helluva fight going on out there. Close out there.
 
      Fry snatches the glow-worms off Imam's neck...
 
      And plunges into the darkness, homing in on the SOUNDS until...
 
-     <u>A blade flashes in her face</u>. She ducks and spots...
+     A blade flashes in her face. She ducks and spots...
 
      Riddick. Bloody, muddy, he's down on his knees, still trying to
      fight off the shadow-beasts that swirl and slash all around him.
-     Around them <u>both</u>.
+     Around them both.
 
                               FRY
                It's me, it's me, it's me!
@@ -5266,7 +5259,7 @@ lack of the same.
      grabs his armpits and tries to pull him up.
 
                               FRY
-               C'mon, Riddick -- said I'd die for <u>them</u>,
+               C'mon, Riddick -- said I'd die for them,
                not you.
 
      He gets his feet under him. Gripping each other, they start
@@ -5361,6 +5354,3 @@ lack of the same.
 
 
    
-
-
-</body></html>

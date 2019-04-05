@@ -1,13 +1,3 @@
-<html>
-<head>
-<script>
-<!--
-if (window!= top)
-top.location.href=location.href
-// -->
-</script>
-<title>"WALL STREET"</title>
-</head>
 
 
 
@@ -7357,5 +7347,3 @@ INT. BUD'S OFFICE - DAY
 
 
 
-
-</html>

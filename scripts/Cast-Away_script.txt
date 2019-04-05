@@ -1,13 +1,3 @@
-<html>
-<head>
-<script>
-<!--
-if (window!= top)
-top.location.href=location.href
-// -->
-</script>
-<title>CAST AWAY</title>
-</head>
 
 
 
@@ -6701,5 +6691,3 @@ FADE OUT.
 
 
 
-
-</html>

@@ -1,11 +1,3 @@
-<html>
-
-<head>
-   <title>"The Insider", shooting draft, by Eric Roth &amp; Michael Mann</title>
-</head>
-
-<body bgcolor="#FFFFFF">
-   
 
 
 
@@ -14,7 +6,8 @@
 
 
 
-                          <u>THE  INSIDER</u>
+
+                          THE  INSIDER
 
 
                            written by
@@ -99,7 +92,7 @@
 
                          LOWELL
                    (droll)
-               What I've <u>seen</u>...I've liked.
+               What I've seen...I've liked.
 
      The Sheikh smiles.  And the smile passes as quickly as it
      came.  A steaming cup of coffee in a small Arabic demitasse
@@ -124,7 +117,7 @@
      here voluntarily.
 
                          THE SHEIKH
-               Perhaps you <u>prove</u> journalism <u>objectivity</u>
+               Perhaps you prove journalism objectivity
                and I see the questions first.  Then I
                decide if I grant the interview.
 
@@ -383,7 +376,7 @@
      Deborah in a bathrobe.
 
                          DEBORAH
-               Can I go to dance <u>tomorrow</u>?  I'm
+               Can I go to dance tomorrow?  I'm
                better...
 
                          LIANE
@@ -507,7 +500,7 @@
 
      She's stunned.  He leaves.  And as Liane's completely still,
      her accessories seeming literally to weigh her down, she
-     wants to ask how <u>he</u> is, how he must be feeling, and she turns
+     wants to ask how he is, how he must be feeling, and she turns
      into CAMERA towards him to do that.  But he's driven off down
      the street.
 
@@ -603,7 +596,7 @@
                Don't interpret that!
                    (to both)
                Hold it.  Hold it.  Hold it!  Slow,
-               <u>slow</u>!!
+               slow!!
                    (to the Sheikh)
                Sheikh, do you mind...if you would just
                turn your chair a little bit to face Mr.
@@ -640,7 +633,7 @@
 
                          MIKE WALLACE
                    (charming)
-               Sheikh Fadlallah, thank you so <u>much</u> for
+               Sheikh Fadlallah, thank you so much for
                seeing us.
                    (changes)
                Are you a terrorist?
@@ -660,12 +653,12 @@
      cradling weapons, watch him through the doorway...
 
                          MIKE WALLACE (CONT'D)
-               Americans believe that <u>you</u>, as an Islamic
-               fundamentalist, that <u>you</u> are a leader who
+               Americans believe that you, as an Islamic
+               fundamentalist, that you are a leader who
                contributed to the bombing of the U.S.
                Embassy.
 
-     The ballsiness of Wallace, asking <u>these</u> questions in <u>this</u>
+     The ballsiness of Wallace, asking these questions in this
      place, is impressive...
 
      EXT. BERKELEY - LATE MORNING
@@ -1211,7 +1204,7 @@
 
                          MIKE WALLACE
                Bring a tie so they'll let us in the
-               <u>front</u> door...
+               front door...
 
      And Lowell gestures for an olive-skinned Woman in her late
      thirties, Lowell's assistant, DEBBIE DELUCA, to join them.
@@ -1459,11 +1452,11 @@
                against you, Mr. Wigand.
 
                          WIGAND
-               <u>Dr</u>. Wigand.
+               Dr. Wigand.
 
                          A LAWYER
                    (a beat)
-               <u>Dr</u>. Wigand...after you've examined the
+               Dr. Wigand...after you've examined the
                document, you will see it is in your own
                best interest and you'll sign it.
 
@@ -1661,7 +1654,7 @@
                Williamson?
 
                          WIGAND
-               It <u>happened</u> after I talked to you.  I do
+               It happened after I talked to you.  I do
                not like coincidences!
 
                          LOWELL
@@ -1669,7 +1662,7 @@
                I'm a journalist.  Think.  Use your head.
                How do I operate as a journalist by
                screwing the people who could provide me
-               with information <u>before</u> they provided me
+               with information before they provided me
                with it?
 
                          WIGAND
@@ -1684,7 +1677,7 @@
                    (a beat, personal)
                But, yes.  I did.
                I came all the way down here to tell you:
-               story, no story, <u>fuck</u> your story, I don't
+               story, no story, fuck your story, I don't
                burn people.
 
      It starts to rain harder.  They look at each other.  Jeffrey,
@@ -1790,8 +1783,8 @@
                For example.  James Burke, the CEO of
                Johnson &amp; Johnson...when he found out
                that some lunatic had put poison in
-               Tylenol bottles, he didn't <u>argue</u> with the
-               FDA...  He didn't even <u>wait</u> for the FDA
+               Tylenol bottles, he didn't argue with the
+               FDA...  He didn't even wait for the FDA
                to tell him.  He just pulled Tylenol off
                every shelf of every store right across
                America.  Instantly.  And then he
@@ -1872,7 +1865,7 @@
                          LOWELL (CONT'D)
                Because, look, here's how it lays out: if
                you got vital, insider stuff the American
-               people for their welfare really <u>do</u> need
+               people for their welfare really do need
                to know...and you feel impelled to
                disclose it and violate your agreement in
                doing so, that's one thing.  On the other
@@ -1883,7 +1876,7 @@
                out for you.  And that's you.  All by
                yourself.
 
-     Lowell's evenhanded...is it <u>too</u> evenhanded?  As Wigand
+     Lowell's evenhanded...is it too evenhanded?  As Wigand
      contemplates the edge he's standing on, they're quiet.  Then
      Wigand sees the time...
 
@@ -1912,7 +1905,7 @@
 
                          LOWELL (OVER)
                The seven CEOs of Big Tobacco... Referred
-               to this...  Said they <u>should</u> be afraid of
+               to this...  Said they should be afraid of
                him...  I assume, afraid of what he could
                reveal.
                    (to Staff Lawyers)
@@ -1944,7 +1937,7 @@
                    (re:  video)
                What that is is tobacco's standard
                defense.  It's the "we don't know"
-               litany:  "Addiction?  We <u>believe</u> not.
+               litany:  "Addiction?  We believe not.
                Disease?  We don't know.  We take a bunch
                of leaves, roll 'em together.  You smoke
                'em.  After that?  You're on your own.
@@ -1966,14 +1959,14 @@
                That's not good enough.  This guy is the
                top scientist in the number three tobacco
                company in America.  He's a corporate
-               officer.  You <u>never</u> get whistle-blowers
+               officer.  You never get whistle-blowers
                from Fortune 500 companies.  This guy is
                the ultimate insider.  He's got something
                to say; he wants to say it; I want it on
                "60 Minutes."
 
                          JOHN HARRIS
-               Doesn't matter what he <u>wants</u>.
+               Doesn't matter what he wants.
 
                          MIKE WALLACE
                Am I missing something here?
@@ -2014,7 +2007,7 @@
                          MARK STERN
                ...not even with hundreds of thousands
                dying each year from an illness related
-               to their product...have <u>ever</u> lost a
+               to their product...have ever lost a
                personal-injury lawsuit.  On this case,
                they'll issue gag orders, sue for breach,
                anticipatory breach, enjoin him, you, us,
@@ -2093,7 +2086,7 @@
                          MARK STERN
                He's gonna need attorneys who aren't
                afraid of risking years of litigation.
-               And millions of dollars of their <u>own</u>
+               And millions of dollars of their own
                dough in legal costs...
 
                          LOWELL
@@ -2386,13 +2379,13 @@
                game.
 
                          LOWELL'S VOICE (OVER)
-               Well, what do you <u>really</u> think, though?
+               Well, what do you really think, though?
 
                          WIGAND
-               I don't know what the <u>fuck</u> I <u>really</u>
+               I don't know what the fuck I really
                think!  Are they doing it?  Is some crank
                doing it?  Are they doing it to make me
-               <u>feel</u> paranoid?  Are they doing it for
+               feel paranoid?  Are they doing it for
                real and don't give a shit what I think?
                I don't know!  I don't fucking know.
 
@@ -2539,7 +2532,7 @@
 
                          LOWELL
                Well, my father left us when I was five-
-               years old.  He was <u>not</u> the most ingenious
+               years old.  He was not the most ingenious
                man I ever knew...  Let's get back to
                Brown &amp; Williamson.  If you decide to go
                on "60 Minutes," I got to know everything
@@ -2559,7 +2552,7 @@
                I drink.  A couple of occasions more than
                I should have.
                    (thinks)
-               I was <u>cited</u> for shoplifting once.  But it
+               I was cited for shoplifting once.  But it
                was a mistake...
                    (hesitant, after a beat)
                I pushed Liane one time.  We were both
@@ -2571,7 +2564,7 @@
                don't like to be pushed around!
 
                          LOWELL
-               <u>I'm</u> not pushing you around!
+               I'm not pushing you around!
                    (after a beat)
                I'm asking you questions.
 
@@ -2582,10 +2575,10 @@
 
                          LOWELL
                    (honest)
-               ...to a network, probably, we're <u>all</u>
+               ...to a network, probably, we're all
                commodities.
                    (beat)
-               To me?  You are <u>not</u> a commodity.  What
+               To me?  You are not a commodity.  What
                you are is important.
 
      And he's begun to consciously or unconsciously "sell"...
@@ -2611,7 +2604,7 @@
                the power you have.
 
                          WIGAND
-               You believe <u>that</u>?
+               You believe that?
 
                          LOWELL
                I believe that?  Yes, I believe that.
@@ -2645,8 +2638,8 @@
 
                          LOWELL
                    (running over)
-               No, don't evade a choice <u>you</u> gotta make
-               be questioning <u>my</u> reputation or "60
+               No, don't evade a choice you gotta make
+               be questioning my reputation or "60
                Minutes'" with this cheap skepticism!
 
                          WIGAND
@@ -2657,7 +2650,7 @@
                          LOWELL
                Words!  While you've been dickin' around
                at fucking company golf tournaments, I
-               been out <u>in the world</u>, giving my word and
+               been out in the world, giving my word and
                backing it up with action.
 
      Lowell is getting very close, in spite of the value of
@@ -2685,8 +2678,8 @@
      corruption in New Orleans.
 
      Lowell, TONY BALDO (his editor), Debbie and an intense YOUNG
-     MAN wearing glasses, an Intern, looking at the cut.  <u>All the</u>
-     <u>police are on horseback</u>, <u>lots of cops on horses</u>.
+     MAN wearing glasses, an Intern, looking at the cut.  All the
+     police are on horseback, lots of cops on horses.
      Lowell is waiting for a call to go through...
 
                          LOWELL
@@ -2975,7 +2968,7 @@
 
                          WIGAND
                They're terrorizing us.  Death threats?!
-               To my <u>family</u>?  My kids?!
+               To my family?  My kids?!
 
                          LOWELL'S VOICE (OVER)
                What are you talking about?
@@ -3072,7 +3065,7 @@
                Why do you keep this gun?
 
                          WIGAND
-               I don't think it's unconstitutional <u>yet</u>
+               I don't think it's unconstitutional yet
                to own a gun.  I'm a target shooter.
 
                          FBI AGENT #2
@@ -3186,7 +3179,7 @@
                curious!  Now, any of these guys been
                offered jobs in corporate security after
                they retire?  Either one of those guys
-               have ex-agent pals <u>already</u> in those jobs?
+               have ex-agent pals already in those jobs?
                Like, for instance, their ex-supervisor,
                who's already at Brown &amp; Williamson as we
                fucking speak?
@@ -3275,11 +3268,11 @@
                Oh, man.
 
                          MIKE WALLACE
-               Who <u>are</u> these people?
+               Who are these people?
 
                          LOWELL
                    (frustrated)
-               Ordinary people!  Under <u>extraordinary</u>
+               Ordinary people!  Under extraordinary
                pressure, Mike.  What the hell do you
                expect?  Grace and consistency?
 
@@ -3304,8 +3297,8 @@
 
                          MIKE WALLACE
                You heard Mr. Sandefur say before
-               Congress that he <u>believed</u> nicotine was
-               <u>not</u> addictive...?
+               Congress that he believed nicotine was
+               not addictive...?
 
                          WIGAND
                    (nods)
@@ -3317,7 +3310,7 @@
      powerful revelations...and dangerous ones to make.
 
                          MIKE WALLACE
-               All of us did.  There was this whole <u>line</u>
+               All of us did.  There was this whole line
                of people...whole line of CEOs up there
                all swearing.
 
@@ -3326,7 +3319,7 @@
                that their representation clearly
                misstated, at least within Brown &amp;
                Williamson's representation, clearly
-               <u>misstated</u>...what is common language
+               misstated...what is common language
                within the company...we are in the
                nicotine delivery business.
 
@@ -3399,7 +3392,7 @@
                In other words, you were charging
                Sandefur and Brown &amp; Williamson with
                ignoring health considerations
-               <u>consciously</u>...
+               consciously...
 
                          WIGAND
                Most certainly.
@@ -3616,7 +3609,7 @@
 
      But he ignores her, washing his hands...  And she turns the
      water off.  He turns it back on.  He thinks, then turns it
-     off.  Then <u>she</u> turns it <u>on</u>.
+     off.  Then she turns it on.
 
                          LIANE (cont'd)
                Leave it on!  Just leave it on, okay?!
@@ -3781,7 +3774,7 @@
                I know what you're facing, Jeff.  And, I
                think I know how you're feeling...
 
-     Jeffrey's skeptical <u>anybody</u> could know "how it is"...
+     Jeffrey's skeptical anybody could know "how it is"...
 
                          RICHARD SCRUGGS (CONT'D)
                    (low, personal)
@@ -3803,7 +3796,7 @@
                your whole family's future's
                compromised...held hostage...
                    (after a beat)
-               I <u>do</u> know how it is.
+               I do know how it is.
 
      EXT. RICHARD SCRUGGS' HOUSE, PASCAGOULA, MISSISSIPPI - DAY
 
@@ -3824,7 +3817,7 @@
      car and drives away.
 
                          LOWELL
-               <u>You</u> attract a crowd.
+               You attract a crowd.
 
                          WIGAND
                    (smiles, wry)
@@ -4036,14 +4029,14 @@
                been recorded.  She typed it into her
                little machine over there.  It's on the
                record.  So now I'll proceed with my
-               deposition of <u>my</u> witness.  Does it act as
+               deposition of my witness.  Does it act as
                a drug?
 
                          TOBACCO LAWYER
                    (shouts)
-               Dr. Wigand.  I am instructing <u>you</u>...
+               Dr. Wigand.  I am instructing you...
                    (to Wigand)
-               ...<u>not</u> to answer that question in
+               ...not to answer that question in
                accordance to the terms of the
                contractual obligations undertaken by you
                not to disclose any information about
@@ -4051,21 +4044,21 @@
                Tobacco Company.  And in accordance with
                the force and effect of the temporary
                restraining order that has been entered
-               <u>against</u> you to by the court in the State of
+               against you to by the court in the State of
                Kentucky!  That means you don't talk!
                    (beat)
                Mr. Motley, we have rights, here...
 
                          MOTLEY
                    (explodes)
-               Oh, you got rights <u>and</u> lefts!  Ups and
+               Oh, you got rights and lefts!  Ups and
                downs and middles!  So what?!  You don't
-               get to instruct <u>anything</u> around here!
+               get to instruct anything around here!
                This is not North Carolina, not South
-               Carolina nor <u>Kentucky</u>.  This is the
-               sovereign State of <u>Mississippi</u>'s
+               Carolina nor Kentucky.  This is the
+               sovereign State of Mississippi's
                proceeding.  Wipe that smirk off your
-               face!  Dr. Wigand's deposition <u>will</u> be
+               face!  Dr. Wigand's deposition will be
                part of this record.  And I'm going to
                take my witness' testimony!  Whether the
                hell you like it or not!
@@ -4120,7 +4113,7 @@
 
      Widen to include Debbie DeLuca, the Intern, two other
      Editors, Felling.  They have gathered behind Lowell in the
-     doorway.  This is a <u>hot</u> show and it's generated excitement
+     doorway.  This is a hot show and it's generated excitement
      among Lowell's co-workers.  And while Baldo cuts, we see...
 
      INT. CBS, CORRIDOR OUTSIDE EDITING ROOM - DAY
@@ -4160,7 +4153,7 @@
                on an exclusive.
 
                          MIKE WALLACE
-               I like <u>that</u>...
+               I like that...
 
                          DON HEWITT
                Corporate has some questions.  We've got
@@ -4193,7 +4186,7 @@
      emphasis "Part of the reason I'm here is I FELT"...and it
      cuts to Wigand for a pause that makes the word "FELT" resound
      and, then, he goes on to say on-camera "that their
-     representation clearly <u>misstated</u> what they commonly knew.
+     representation clearly misstated what they commonly knew.
      We're a nicotine delivery business."  We see the combination
      of art and truth woven into impact that has an audacity
      that's stirring and beautiful...
@@ -4286,9 +4279,9 @@
                Anything else?
 
                          HELEN CAPERELLI
-               <u>And</u> "60 Minutes'" verification <u>is</u> exact.
-               <u>And</u> precise.  <u>And</u> I don't think it would
-               hurt to make <u>sure</u> you're right...on this
+               And "60 Minutes'" verification is exact.
+               And precise.  And I don't think it would
+               hurt to make sure you're right...on this
                one.
 
                          DON HEWITT
@@ -4329,8 +4322,8 @@
                          HELEN CAPERELLI
                    (historic)
                Our standards have to be higher than
-               anyone else's, because we <u>are</u> the
-               standard...<u>for</u> everyone else...
+               anyone else's, because we are the
+               standard...for everyone else...
 
      Whatever that means...
 
@@ -4348,10 +4341,10 @@
                Come again?
 
                          HELEN CAPERELLI
-               They <u>own</u> the information he's disclosing.
+               They own the information he's disclosing.
                The truer it is, the greater the damage
                to them.  If he lied, he didn't disclose
-               <u>their</u> information.  And the damages are
+               their information.  And the damages are
                smaller.
 
                          LOWELL
@@ -4381,7 +4374,7 @@
                     this)
                Well, at the end of the day...because of
                your segment...the Brown &amp; Williamson
-               Tobacco Company...could <u>own</u> CBS.
+               Tobacco Company...could own CBS.
 
      As if on cue, the alarm on Helen Caperelli's watch beeps.
      She glances at it.
@@ -4398,7 +4391,7 @@
 
                          HELEN CAPERELLI
                You're getting ahead of yourself.  We're
-               <u>all</u> in this together.  We're <u>all</u> CBS.
+               all in this together.  We're all CBS.
                We'll find out soon.  Thank you,
                gentlemen.
 
@@ -4453,7 +4446,7 @@
                There has been so much soul searching
                about this Wigand, I've decided we should
                cut an alternate version of the show
-               <u>without</u> his interview.
+               without his interview.
 
                          LOWELL
                So, what happened to Ms. Caperelli's
@@ -4579,7 +4572,7 @@
                I do.  I deliver him.  He sits.  He
                talks.  He violates his own fucking
                confidentiality agreement.  And he's only
-               the key witness in the <u>biggest</u> public
+               the key witness in the biggest public
                health reform issue, maybe the biggest,
                most-expensive corporate-malfeasance case
                in U.S. history.  And Jeffrey Wigand,
@@ -4588,7 +4581,7 @@
                Is it newsworthy?  Yes.  Are we gonna air
                it?  Of course not.  Why?  Because he's
                not telling the truth?  No.  Because he
-               <u>is</u> telling the truth.  That's why we're
+               is telling the truth.  That's why we're
                not going to air it.  And the more truth
                he tells, the worse it gets!
 
@@ -4618,8 +4611,8 @@
                Lowell.
 
                          LOWELL
-               These people are putting <u>our whole reason</u>
-               for <u>doing what we do</u>...on the line!
+               These people are putting our whole reason
+               for doing what we do...on the line!
 
                          MIKE WALLACE
                Lowell!
@@ -4724,7 +4717,7 @@
                    (after a beat)
                I don't know how to say this, Jeff,
                except to just say it right out, so I'll
-               say it.  They do not <u>want</u> to air it.
+               say it.  They do not want to air it.
 
                          WIGAND
                    (stops)
@@ -4744,7 +4737,7 @@
 
                          WIGAND
                I do not think that you "know" for
-               me...what it is to walk in <u>my</u> shoes...
+               me...what it is to walk in my shoes...
                    (beat)
                ...for my kids to have seen it...for them
                to know why I've put them through what I
@@ -4878,11 +4871,11 @@
                You're taking "no" for an answer?
 
                          LOWELL
-               No.  I'm <u>not</u> going to take "no" for an
+               No.  I'm not going to take "no" for an
                answer.  No.
 
                          DON HEWITT
-               Then what <u>are</u> you going to do?
+               Then what are you going to do?
 
      Hewitt looks at him...
 
@@ -4890,7 +4883,7 @@
                I'm staying right here.  Doing my job.
                Fighting to get my show on the air.  You
                don't like it?  Hey, I'll tell you
-               what...<u>fire</u> my ass...
+               what...fire my ass...
 
                          DON HEWITT
                End up in a high-profile lawsuit with
@@ -4954,7 +4947,7 @@
 
                          LOWELL
                    (frustrated)
-               Oh, you know what we <u>do</u> or <u>do not</u> need to
+               Oh, you know what we do or do not need to
                know?  Since when have you become a media
                expert?
 
@@ -4990,11 +4983,11 @@
                I told the truth!
 
                          LOWELL
-               <u>Everything</u>...you...<u>say</u>!  And I can't
+               Everything...you...say!  And I can't
                defend you, man, with one hand tied
                behind my back!  Because you keep from
                me...what they can discover.  And they
-               <u>will</u> discover everything!  Believe me.
+               will discover everything!  Believe me.
 
      INT. THE PHONE BOOTH, LOUISVILLE HIGH SCHOOL - DAY
 
@@ -5041,8 +5034,8 @@
 
                          WIGAND
                    (explosive)
-               What kind of shit is this?  I was not <u>on</u>
-               the team, I <u>sparred</u> with the Olympic
+               What kind of shit is this?  I was not on
+               the team, I sparred with the Olympic
                Team...okay?
 
      And we see, unbeknownst to Wigand, the P.I. in the raincoat,
@@ -5074,7 +5067,7 @@
      even glance at him...
 
                          LOWELL
-               That's the <u>whole</u> point, Jeffrey.  That's
+               That's the whole point, Jeffrey.  That's
                the whole point.  Anyone's.  Everyone's.
                They are gonna look under every rock, dig
                up every flaw, every mistake you've ever
@@ -5259,7 +5252,7 @@
                          LOWELL
                Catch you later.
 
-     Cooper and his wife leave.  Charlie and Lowell are <u>alone</u> in
+     Cooper and his wife leave.  Charlie and Lowell are alone in
      the crowded bar.
 
                          LOWELL (CONT'D)
@@ -5376,7 +5369,7 @@
                that we were lying?
 
                          LOWELL
-               No.  I <u>should</u> have.  I told them I
+               No.  I should have.  I told them I
                disagreed with you, Mike and Kluster that
                this segment is as good as the original.
                I'm not lying for you.  I'm not gonna
@@ -5407,8 +5400,8 @@
                          MIKE WALLACE
                    (disinterested)
                I took off on Tisch.  I took off on
-               corporate.  They'll know they're <u>not</u>
-               going to see <u>everything</u> on Sunday
+               corporate.  They'll know they're not
+               going to see everything on Sunday
                night...
 
                          LOWELL
@@ -5438,8 +5431,8 @@
 
      ...into the hall.  Dan Rather introduced Mike.  As Lowell
      exits, we SEE Hewitt, Kluster and Caperelli outside of
-     Hewitt's office watching...  Lowell, disgusted, <u>takes a</u>
-     <u>cursory look and moves towards the elevator</u>.  But he hears...
+     Hewitt's office watching...  Lowell, disgusted, takes a
+     cursory look and moves towards the elevator.  But he hears...
 
                          MIKE WALLACE'S VOICE (OVER)
                Where's the rest?  Where the hell's the
@@ -5450,7 +5443,7 @@
 
                          MIKE WALLACE (CONT'D)
                You cut it!  You cut the guts out of what
-               I <u>said</u>...!
+               I said...!
 
      Wallace moves in on Kluster...
 
@@ -5505,7 +5498,7 @@
                Suein Hwang and Milo Geyelin.
 
                          LOWELL
-               Have them make their <u>own</u> calls.  They'll
+               Have them make their own calls.  They'll
                find that these sources have a different
                story than the one that's in the
                dossier...
@@ -5671,8 +5664,8 @@
                on being sued, for major cigarette
                manufacturers..."
 
-     Jeffrey, motionless...  A man, no longer with a <u>face</u> or a
-     <u>voice</u>...  And as he gets up, and quietly turns off the
+     Jeffrey, motionless...  A man, no longer with a face or a
+     voice...  And as he gets up, and quietly turns off the
      television...
 
      INT. MIKE WALLACE'S APARTMENT, NEW YORK - NIGHT, LATER
@@ -5752,7 +5745,7 @@
      INT.  THE HOTEL CORRIDOR, LOUISVILLE - NIGHT
 
      And we see the Hotel Manager, walking along with a Security
-     Guard, and now <u>KNOCKING</u> on Jeffrey's door...
+     Guard, and now KNOCKING on Jeffrey's door...
 
      And when there is no response, the Manager nods to the
      Security Guard, the Guard using a pass key, unlocking the
@@ -6017,7 +6010,7 @@
 
                          RICAHRD SCRUGGS
                The Governor of Mississippi is suing his
-               <u>own</u> Attorney General...to abandon
+               own Attorney General...to abandon
                litigation against Big Tobacco...
 
                          LOWELL
@@ -6121,7 +6114,7 @@
      And we see Bill Robertson's on the phone...
 
                          BILL ROBERTSON
-               Do <u>not</u>...screw this up.  We are a week
+               Do not...screw this up.  We are a week
                away from an arrest...
 
      EXT. THE PAY PHONE, LINCOLN, MONTANA - DAY
@@ -6217,7 +6210,7 @@
                Well, we're not "sitting on" it.
                    (beat)
                CBS corporate leaned on CBS News which
-               <u>yanked</u> an interview we did with a top-
+               yanked an interview we did with a top-
                ranking tobacco scientist.  A corporate
                officer.  They are trying to close down
                the story.
@@ -6261,7 +6254,7 @@
                Oh, it's late.
 
                          DEBBIE DELUCA
-               <u>That</u> I know.  When are you coming back?
+               That I know.  When are you coming back?
 
                          LOWELL
                I can't get out of here til mid-morning.
@@ -6292,7 +6285,7 @@
 
                          LOWELL
                Here's how it works.  You ask me
-               questions.  I tell you if you're <u>wrong</u>.
+               questions.  I tell you if you're wrong.
 
                          JIM COOPER'S VOICE (OVER)
                Okay.
@@ -6391,7 +6384,7 @@
                horizon.
 
                          LOWELL
-               I'm going to <u>tell</u> you why.  Because when
+               I'm going to tell you why.  Because when
                I tell someone I'm going to do something,
                I deliver.
 
@@ -6408,7 +6401,7 @@
                Give me a break!
 
                          LOWELL
-               No, <u>you</u> give <u>me</u> a break!  I never left a
+               No, you give me a break!  I never left a
                source hung out to dry, ever.  Abandoned.
                Not 'til right fucking now!  When I came
                on this job, I came with my word intact.
@@ -6420,7 +6413,7 @@
 
                          MIKE WALLACE
                In the real world, when you get to where
-               I am, there <u>are</u> other considerations...
+               I am, there are other considerations...
 
                          LOWELL
                Like what?  Corporate responsibility?
@@ -6441,7 +6434,7 @@
 
                          MIKE WALLACE (cont'd)
                Now, along the way I suppose I made some
-               <u>minor</u> impact.
+               minor impact.
                    (beat)
                I did Iran-Gate and the Ayatollah,
                Malcolm X, Martin Luther King, Saddam,
@@ -6469,7 +6462,7 @@
                          MIKE WALLACE
                    (low)
                You and I have been doing this together
-               for <u>fourteen years</u>.
+               for fourteen years.
 
      And he gives Lowell a copy of <i>The New York Times</i>.
 
@@ -6578,7 +6571,7 @@
 
                          LOWELL
                    (shouting)
-               No, <u>you</u> fucked <u>you</u>!  Don't invert stuff!
+               No, you fucked you!  Don't invert stuff!
                Big Tobacco tried to smear Wigand; you
                bought it.  <i>The Wall Street Journal</i>,
                here, not exactly a bastion of anti-
@@ -6884,6 +6877,3 @@
 
 
    
-
-
-</body></html>

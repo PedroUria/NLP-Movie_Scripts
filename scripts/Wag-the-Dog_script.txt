@@ -1,11 +1,4 @@
-<html>
-
-<head>
-   <title>"Wag the Dog", production draft, by David Mamet</title>
-</head>
-
-<body bgcolor="#FFFFFF">
-    
+ 
 
 
 
@@ -66,7 +59,7 @@ NECKS.
 
 ANGLE INT THE WHITE HOUSE
 
-<u>WILFRED AMES</u>, AND <u>AMY CAIN</u>, A BRIGHT YOUNG WOMAN IN HER TWENTIES, WALKING DOWN
+WILFRED AMES, AND AMY CAIN, A BRIGHT YOUNG WOMAN IN HER TWENTIES, WALKING DOWN
 A CORRIDOR, LOOKING WORRIED.
 
 ANGLE AMES AND CAIN
@@ -98,7 +91,7 @@ THE IMAGE SHIFTS TO A PRESIDENT, DOING PRESIDENTIAL THINGS.  AND THE VOICE-
 OVER.
 
                           VOICE-OVER
-            For Peace, prosperity, for <u>all</u> of us:  Don't change
+            For Peace, prosperity, for all of us:  Don't change
             Horses in...
 
 ANGLE
@@ -140,7 +133,7 @@ THE STENOGRAPHER AND THE WAITER LEAVE
                           BREAN
             Alright.  Look here, any of you kids hear in this
             room:  what you hear here, what you say here, what you
-            <u>do</u> here, f'it got out, you leaked it.
+            do here, f'it got out, you leaked it.
                     (TO AMES)
             Tell'em what they need to know.
 
@@ -186,7 +179,7 @@ READING OVER BREAN'S SHOULDERS:
 ANGLE AMES READING OVER BREAN'S SHOULDER.
 
                           AMES
-            ...did he <u>have</u> the flu...?
+            ...did he have the flu...?
 
                           CAIN
             It can be documented that he displayed the...
@@ -231,7 +224,7 @@ PAUSE.  TO HIMSELF.
                           BREAN
             What difference does it make if it's true?
                     (PAUSE)
-            It's a <u>story</u>, and, it <u>breaks</u> they're gonna have to <u>run</u>
+            It's a story, and, it breaks they're gonna have to run
             with it -- How long've we got til it breaks?
                     (PAUSE)
 
@@ -239,9 +232,9 @@ PAUSE.  TO HIMSELF.
             Front page.  Washington Post.  Tomorrow.
 
                           BREAN
-            Well, yeah.  Now.  That's not good.  <u>Okay</u>:
+            Well, yeah.  Now.  That's not good.  Okay:
                     (PAUSE)
-            <u>Okay</u>.  We'll set up the War Room <u>Here</u>...
+            Okay.  We'll set up the War Room Here...
 
 AN AIDE BRINGS HIM A CUP OF COFFEE.
 
@@ -287,7 +280,7 @@ BREAN TAKES A NOTEBOOK OUT OF HIS POCKET, AND LOOKS AT IT.
                           BREAN
             You gotta give me a day.  I need a day.
                     (PAUSE)
-            He's sick, get it out <u>now</u>.  Get him on the phone'n tell
+            He's sick, get it out now.  Get him on the phone'n tell
             him how sick he is.  We got to get it out before the
             story breaks, so we aren't quote, responding to it.
             Issue is as a bulletin.  He's got some rare strain
@@ -314,7 +307,7 @@ BREAN TAKES A NOTEBOOK OUT OF HIS POCKET, AND LOOKS AT IT.
                     (PAUSE)
 
                           LEVY
-            There <u>is</u> no B-2 Bomber,
+            There is no B-2 Bomber,
 
                           BREAN
             That's what I'm telling you.
@@ -323,7 +316,7 @@ BREAN TAKES A NOTEBOOK OUT OF HIS POCKET, AND LOOKS AT IT.
             No Cause to Be Alarmed.  And the B-2 Bomber...
                     (TO AIDES)
             Clear me a space.  Get me a copy, go rob one, get it
-            off the computer, Wash Post, N.Y. <u>TIMES</u>,
+            off the computer, Wash Post, N.Y. TIMES,
 
                           AIDE
             You want some research, flu?  Side-effects of medi....
@@ -348,7 +341,7 @@ BREAN TAKES A NOTEBOOK OUT OF HIS POCKET, AND LOOKS AT IT.
             What's more interesting than boffing the girlscout?
 
                           BREAN
-            Well, that's what we're <u>doing</u> here...
+            Well, that's what we're doing here...
 
 BREAN IS SUNK IN THOUGHT.  AN AIDE STARTS TO SPEAK.  AMES SILENCES HIM, BREAN
 BECKONS AMES OVER.
@@ -374,9 +367,9 @@ AMES NODS, AND WAVES AN AIDE OVER AND WHISPERS TO HER.
             Is there a press conference today?
 
                           BREAN
-            What do <u>you</u> think?  What I need from you:  I need a
+            What do you think?  What I need from you:  I need a
             base of operations.  Some place in the District.  I
-            need some clean <u>money</u> ...
+            need some clean money ...
 
                           LEVY
             How much...?
@@ -384,13 +377,13 @@ AMES NODS, AND WAVES AN AIDE OVER AND WHISPERS TO HER.
 AMES GESTURES HIM TO BE QUIET.
 
                           BREAN
-            And, to hold it together, I need two days.  There <u>is</u> no
+            And, to hold it together, I need two days.  There is no
             B-2 Bomber:  here's what you do ahout that:  whoever is
             leaking stuff to that geek at the Post, lets it slip,
             "Geez, I hope this doesn't screw up the B-2 Program..."
             "What B-2 Program, and why should it screw it up?"  "If
             the president moves to deploy the B-2 before it is
-            fully tested."  "Deploy the B-2, <u>Why</u>?"  "In the
+            fully tested."  "Deploy the B-2, Why?"  "In the
             Crisis."
 
                           AMES
@@ -398,13 +391,13 @@ AMES GESTURES HIM TO BE QUIET.
 
                           BREAN
             I'm working on it.  Same time, you call Billy Scott at
-            Joint Chiefs, and pour him onna plane <u>right now</u> to
+            Joint Chiefs, and pour him onna plane right now to
             Seattle, y'got that...?  All flustered and worried. To
-            talk to the <u>Boeing</u> people.
+            talk to the Boeing people.
 
                           AMES
                     (TO LEVY)
-            <u>Do</u> it...
+            Do it...
 
 LEVY MOVES TO A TELEPHONE.
 
@@ -422,7 +415,7 @@ LEVY MOVES TO A TELEPHONE.
             Dartmouth
 
                           BREAN
-            Then show a little spunk.  There <u>Is</u> no B-2 Bomber,
+            Then show a little spunk.  There Is no B-2 Bomber,
             General Scott, the best of your knowledge, is not in
             Seattle to talk with Boeing...
 
@@ -430,7 +423,7 @@ LEVY MOVES TO A TELEPHONE.
             It won't hold.
 
                           BREAN
-            One day, Two days?  <u>Course</u> it's gonna hhhh....
+            One day, Two days?  Course it's gonna hhhh....
 
 CAMERA TAKES THEM DOWN THE HALL, WHERE WE SEE THE CLEANING PEOPLE, WITH FLOOR
 POLISHERS, LOOKING UP AT THE PICTURE OF THE PRESIDENT AND THE GIRLSCOUTS, AND
@@ -444,7 +437,7 @@ THE CLEANING PEOPLE NOTICE THEY ARE BEING WATCHED AND DISPERSE.
             It won't hold, Ronnie, it won't prove out.
 
                           BREAN
-            We don't need it to prove out.  We need it to <u>distract</u>
+            We don't need it to prove out.  We need it to distract
             them for two weeks til the election.
 
                           AMES
@@ -454,7 +447,7 @@ HOLD, ON BREAN THINKING.
 
                           AMES
                     (CONT.)
-            What in the <u>world</u> would do that?
+            What in the world would do that?
 
                           BREAN
             I'm working on it.
@@ -504,9 +497,9 @@ THE PICTURE COMES ON, IT SHOWS THE PRESIDENT DOING SEVERAL PRESIDENTIAL
 THINGS.  THE COMMERCIAL WE SAW EARLIER.
 
                           BREAN
-            That's <u>our</u> commercial.
+            That's our commercial.
                     (PAUSE)
-            I've seen it.  That's <u>our</u> commercial.
+            I've seen it.  That's our commercial.
 
                           AMES
                     (TO AIDE)
@@ -553,10 +546,10 @@ A YOUNG STAFFER, IN THE CORNER, SPEAKING SOFTLY ON THE PHONE.
 
                           STAFFER
                     (ON PHONE)
-            Tell him, well, tell him we, I <u>know</u> we just signed it,
-            but we're going to <u>cancel</u> it.
+            Tell him, well, tell him we, I know we just signed it,
+            but we're going to cancel it.
                     (PAUSE)
-            Because, because we're not going to be <u>staying</u> here the
+            Because, because we're not going to be staying here the
             next four years.
                     (PAUSE)
             Well, I can't tell you on the phone...
@@ -594,7 +587,7 @@ WHO IS SHAKING HIS HEAD.  HE REACHES OVER AND NUDGES BREAN AWAKE.
 HE TRIES TO NESTLE HIMSELF BACK TO SLEEP.  AMES NUDGES HIM.
 
                           AMES
-            We can't <u>afford</u> a war.
+            We can't afford a war.
 
                           BREAN
             We aren't going to have a war.  We're going to have the
@@ -634,7 +627,7 @@ HE TRIES TO NESTLE HIMSELF BACK TO SLEEP.  AMES NUDGES HIM.
                           BREAN
             What did they find out about the Gulf War?  One shot:
             one bomb, falling though the roof, building coulda been
-            made of <u>Legos</u>.
+            made of Legos.
 
 HE ROLLS OVER AGAIN.
 
@@ -651,15 +644,15 @@ BREAN ROUSES HIMSELF, SHRUGS, TAKES OUT A NOTEBOOK, AND BEGINS TO WRITE.
             Why?
 
                           BREAN
-            Why <u>not</u>, what've they ever done for <u>us</u>...?  Also:  they
+            Why not, what've they ever done for us...?  Also:  they
             sound... Ah, you see, this is why we have to mobilize
-            the B-2 <u>Bomber</u>...
+            the B-2 Bomber...
 
                           AMES
             ...they sound what?
 
                           BREAN
-            <u>Shifty</u>.  Who knows anything <u>about</u> em...
+            Shifty.  Who knows anything about em...
 
                           AMES
             Hold on, hold on, hold on:
@@ -668,16 +661,16 @@ BREAN ROUSES HIMSELF, SHRUGS, TAKES OUT A NOTEBOOK, AND BEGINS TO WRITE.
             Well, I'm gonna hold on, but you went to win this
             election, you better change the subject.  You wanna
             change this subject, you better have a War.  What do
-            you need?  It's gotta be <u>quick</u>, it's gotta be <u>dramatic</u>,
-            you got to have an <u>enemy</u>.  Okay?  What do you need in
+            you need?  It's gotta be quick, it's gotta be dramatic,
+            you got to have an enemy.  Okay?  What do you need in
             an enemy?  Somebody you fear.  Who do you fear?
             Som'b'y you don't know.
 
                           AMES
-            <u>Who</u>?
+            Who?
 
                           BREAN
-            Well, I'm <u>working</u> on it....
+            Well, I'm working on it....
 
 HE ROLLS OVER.
 
@@ -691,7 +684,7 @@ OBSEQUIOUS AIRLINE ATTENDANT COMES UP, AND HANDS THEM TICKETS.
 ANGLE, ON BREAN AND AMES, AS THEY WALK ACROSS THE TARMAC.
 
                           AMES
-            <u>Albania</u>...
+            Albania...
 
                           BREAN
             Yes.
@@ -703,7 +696,7 @@ ANGLE, ON BREAN AND AMES, AS THEY WALK ACROSS THE TARMAC.
             What do you know about them?
 
                           AMES
-            ...<u>nothing</u>...
+            ...nothing...
 
                           BREAN
             Precisely.
@@ -712,7 +705,7 @@ ANGLE, ON BREAN AND AMES, AS THEY WALK ACROSS THE TARMAC.
             What did Albania ever do to us?
 
                           BREAN
-            What did they ever do <u>for</u> us...?
+            What did they ever do for us...?
                     (PAUSE)
             You see, this is why we have to mobilize the B-2
             Bomber.
@@ -724,7 +717,7 @@ ANGLE, ON BREAN AND AMES, AS THEY WALK ACROSS THE TARMAC.
                           BREAN
             Here's what you got to do:
                     (HE GESTURES, "GET ON THE PHONE")
-            Get your Press Office, Right now.  To deny;  There <u>is</u>
+            Get your Press Office, Right now.  To deny;  There is
             no report of Albanian Activity.  They have to deny it.
             Now, get the C.I.A.
 
@@ -746,8 +739,8 @@ THE TELEVISION, AS IT CHANGES TO A NEWS LOGO, AND A TALKING HEAD APPEARS.
 
                           TALKING HEAD
             Good morning:  With the election eleven days away the
-            world slept, expecting news from the President on <u>Trade</u>
-            and his visit to China, another <u>sort</u> of news, however,
+            world slept, expecting news from the President on Trade
+            and his visit to China, another sort of news, however,
             has emerged from the Presidential Quarter.  Chris
             Andrews, station KCRT, Santa Fe Reports:
 
@@ -765,22 +758,22 @@ SHOT, WITH A CUP OF DUNKIN' DONUTS COFFEE, AND THE CELLPHONE INTO WHICH HE IS
 TALKING.
 
                           AMES
-            Top people.  Albanian Desk.  Well, <u>I</u> don't know either,
-            but we <u>probably</u> have one.  Albanian Dusk, C.I.A.,
+            Top people.  Albanian Desk.  Well, I don't know either,
+            but we probably have one.  Albanian Dusk, C.I.A.,
             N.S.A. roust'em outta bed, sirens blaring....
 
 BREAN NODS, MEANING, "GOOD STUDENT."
 
                           AMES
                     (CONT.)
-            I <u>know</u> they'll be in in an hour, get'em <u>now</u>...C.I.A.,
+            I know they'll be in in an hour, get'em now...C.I.A.,
             N.S.A., wake'em up.
 
-BREAN GESTURES, TELL THEM THE <u>OTHER</u> THING.     
+BREAN GESTURES, TELL THEM THE OTHER THING.     
 
                           AMES
                     (CONT.)
-            And you tell the staff, anyone leaks <u>anything</u> on this
+            And you tell the staff, anyone leaks anything on this
             situation, his or her job is going to be...
 
 THE TWO ARE IN THE QUEUE THROUGH THE JETWAY.  THEY COME TO THE DOOR OF THE
@@ -788,7 +781,7 @@ AIRLINER.
 
                           AMES
                     (CONT.)
-            ...General Scott in <u>Seattle</u>...?  No, I don't think his
+            ...General Scott in Seattle...?  No, I don't think his
             trip has got anything to do with the B-2 Bomber.
             Now...
 
@@ -815,7 +808,7 @@ THE GIRLSCOUT.
             inflated.
 
                           STEWARDESS
-            ... could, could, could he have <u>done</u> it?
+            ... could, could, could he have done it?
 
                           BREAN
             ...who understands Human Nature?
@@ -826,20 +819,20 @@ AN AIRFONE.
 
                           WOMAN
                     (INTO PHONE)
-            What did she say that the President Actually <u>did</u>....
-            Well, who said it.  Her mother, or <u>Her</u>?
+            What did she say that the President Actually did....
+            Well, who said it.  Her mother, or Her?
                     (PAUSE)
-            He <u>did</u>...?
+            He did...?
                     (PAUSE)
-            ...and they said that on <u>TV</u>...?
+            ...and they said that on TV...?
                     (PAUSE)
-            They used that <u>word</u>...?
+            They used that word...?
 
 BREAN EASES INTO HIS SEAT, AND TAKES OUT HIS NOTEBOOK.
 
                           WOMAN
                     (INTO PHONE)
-            ...what time?  Two <u>Eastern</u>?  Alright, I'll.... Alright.
+            ...what time?  Two Eastern?  Alright, I'll.... Alright.
 
                     (SHE HANGS UP THE AIRFONE.)
 
@@ -866,7 +859,7 @@ PRESIDENT AND THE GIRLSCOUTS.  SHE LOOKS DOWN AND FINGERS THE BUTTON.
                     SHE LOOKS AT THE BUTTON)
             ...a twelve year-old girl.
                     (PAUSE)
-            ...and I was going to <u>vote</u>, for him.
+            ...and I was going to vote, for him.
 
                           BREAN
             Well, it ain't over til it's over...
@@ -886,8 +879,8 @@ AREA.
 ON TELEVISION, SENATOR FREDERICK NOLE, A MIDWESTERNER, HOLDING FORTH.
 
                           NOLE
-            ...if it <u>is</u> true, he should, he <u>must</u> step down.  And if
-            it is <u>not</u> true, then he must ... we are informed he has
+            ...if it is true, he should, he must step down.  And if
+            it is not true, then he must ... we are informed he has
             extended his visit to China, I say, on behalf of the
             American...
 
@@ -897,7 +890,7 @@ ON TELEVISION, SENATOR FREDERICK NOLE, A MIDWESTERNER, HOLDING FORTH.
 
                           NOLE
             I say, on behalf of the American People, Come home,
-            <u>face</u> the music, <u>whatever</u> that may be.  Th'election's
+            face the music, whatever that may be.  Th'election's
             in ten days, let the American...
 
                           ANNOUNCER
@@ -919,7 +912,7 @@ SCREEN GOES TO THE TALKING HEAD OF THE ANNOUNCER.
 
                           BOB
             Bill, the White House has announced, that, in response
-            to media pressure there <u>will</u> be a press conference
+            to media pressure there will be a press conference
             in...
 
 THE TWO POOL ATTENDANTS STRAIGHTEN, AND PUT ON THEIR BEST SMILES, AND LOOK AT AN
@@ -938,7 +931,7 @@ ON THE SECOND ATTENDANT, WHO SCURRIES UP THE STEPS.
 MOSS CALLS AFTER HIM
 
                           MOSS
-            ...with a <u>carrot</u> in it...
+            ...with a carrot in it...
 
 AS HE CLEARS THE FRAME, WE SEE, BELOW HIM, MOSS AND THE FIRST ATTENDANT, WHO
 IS GESTURING DOWN TOWARD THE POOL AREA, THEY TURN THEIR HEADS.
@@ -985,7 +978,7 @@ MOSS TURNS DOWN THE VOLUME.  AS HE AND BREAN TALK THE TV SHOWS IMAGES OF THE
 PRESIDENT WITH GIRLSCOUTS, AND WITH OTHER YOUTH GROUPS.
 
                           MOSS
-            And you're here <u>why</u>...?
+            And you're here why...?
 
                           BREAN
             I'm here, Mr. Moss, because you've shown yourself a
@@ -1002,8 +995,8 @@ CARROT STICK IN IT, AND A GLASS FULL OF CELERY STICKS.
                     (HE SHAKES HIS HEAD, REACHES ONTO A
                     SMALL TABLE BEHIND HIM, AND PICKS UP A
                     BOOK.)
-            I, I, and y'know, I <u>like</u> the guy... he signed his
-            <u>book</u> to me....
+            I, I, and y'know, I like the guy... he signed his
+            book to me....
 
 HE HOLDS THE BOOK TO BREAN, THE CAMERA SEES THE PHOTO OF THE PRESIDENT ON THE
 BACK COVER, THE FRONT COVER READS.
@@ -1028,7 +1021,7 @@ ON HIS LAP.
 
                           MOSS
             ...holding action.  THEY'RE GOING TO TEAR THIS GUY TO
-            <u>Shreds</u>.
+            Shreds.
 
                           BREAN
             If we can hold the break-in-the-dam for ten days, til
@@ -1036,7 +1029,7 @@ ON HIS LAP.
 
                           MOSS
             Yeah, hut you can't hold the dam.  How the hell,
-            n'nu'n', I don't get what you want <u>me</u> to ...
+            n'nu'n', I don't get what you want me to ...
 
 THE SCREEN CHANGES, WE SEE THE SEAL OF THE PRESIDENT, AND WE ARE IN THE
 NEWSROOM OF THE WHITE HOUSE.  A SHOT OF THE RESTIVE REPORTERS, IN THE B.G.
@@ -1053,20 +1046,20 @@ WE SEE LEVY TAKE THE PODIUM, ARRANGE HIS NOTES, AND CLEAR HIS THROAT.
 BREAN LEANS FORWARD, ANXIOUS, IN HIS SEAT.
 
                           MOSS
-            I don't ... they're gonna tear this guy to <u>shreds</u>...
+            I don't ... they're gonna tear this guy to shreds...
 
                           LEVY
                     (ON TV)
             ...the illness of the President, which we are assured,
-            is not serious.  I repeat, it is <u>not</u> serious, the
+            is not serious.  I repeat, it is not serious, the
             doctors suspect it's a stomach flu, but have advised
             him not to fly.  He will remain, on the ground, in
             China for, they estimate, one or two days, I stress
             that, during this time he will, of...
 
                           MOSS
-            ...he's gotta come back <u>sometime</u>, what the hell is two
-            <u>days</u> gonna buy him.
+            ...he's gotta come back sometime, what the hell is two
+            days gonna buy him.
 
                           LEVY
                     (VO)
@@ -1074,7 +1067,7 @@ BREAN LEANS FORWARD, ANXIOUS, IN HIS SEAT.
 
                           MOSS
                     (AS HE LEANS CLOSER TO THE TV)
-            ... twelve year old girl...  Breir <u>Rabbit</u> couldh t gut
+            ... twelve year old girl...  Breir Rabbit couldh t gut
             outta this...
 
 ANGLE, ON BREAN AS HE LOOKS AT MOSS, LEANING INTO THE TV.  HE THEN
@@ -1096,7 +1089,7 @@ BATHERS CLUSTERED, RAPT, AROUND THE TELEVISION.
 
                           SKLANSKY
             Would you comment on the rumors... on the rumors that
-            the President's trip, that the President's <u>delay</u>... is
+            the President's trip, that the President's delay... is
             due to the situation in Albania?
 
 ANGLE
@@ -1117,7 +1110,7 @@ BATHROBE WHOM BREAN GAVE THE ENVELOPE TO.
             Mr. Sklansky, Mr. Sklansky, I am I am unaware of any,
             um, "situation..."  The B-2 Bomber?
                     (PAUSE)
-            The B-2 Bomber...?  There <u>is</u> no B-2 Bomber.  Mrs.
+            The B-2 Bomber...?  There is no B-2 Bomber.  Mrs.
             Rose...
 
 A WOMAN REPORTER STANDS.
@@ -1129,7 +1122,7 @@ A WOMAN REPORTER STANDS.
 
                           LEVY
             Uh...Mrs. Rose, there, to the best of my knowledge,
-            there <u>is</u> no...
+            there is no...
 
                           REPORTER
             Mr. Levy:  is the situation in Albania in any way
@@ -1153,7 +1146,7 @@ MOSS LOOKS AT BREAN APPRAISINGLY.
             Have him say, 'I know we're all concerned for the
             President, there will he an update at 5:45.'
 
-AS MOSS SPEAKS BREAN NODS TO <u>AMES</u>, SPEAKS INTO THE TELEPHONE.
+AS MOSS SPEAKS BREAN NODS TO AMES, SPEAKS INTO THE TELEPHONE.
 
                           AMES
                     (INTO PHONE)
@@ -1190,7 +1183,7 @@ BEAT.
             What do you think would hold it off?
 
                           MOSS
-            Uh, <u>nothing</u>, oh, <u>nothing</u> ... uh... a <u>War</u>, uh...
+            Uh, nothing, oh, nothing ... uh... a War, uh...
                     (HE PAUSES, THEN LOOKS AT BREAN WITH
                     COMPREHENSION.)
             You're kidding.
@@ -1201,13 +1194,13 @@ BREAN SHAKES HIS HEAD NO.
             I'm a Jew in Show Business.  Why come to me?
 
                           BREAN
-            I'm gonna <u>tell</u> you why...
+            I'm gonna tell you why...
 
 BREAN LEANS CONSPIRATORIALLY, OVER TOWARD MOSS.
 
                           BREAN
             Here's the Short Course:  Fifty-Four, Forty or Fight.
-            What does <u>that</u> mean?
+            What does that mean?
 
                           MOSS
             Uh, it's a slogan.  From, uh...
@@ -1226,13 +1219,13 @@ BREAN LEANS CONSPIRATORIALLY, OVER TOWARD MOSS.
 
                           BREAN
             We remember the slogans, we can't even remember the
-            fucking <u>wars</u>.  Y'know why.  Cause it's <u>show business</u>.
+            fucking wars.  Y'know why.  Cause it's show business.
             That's why I'm here.  Naked girl, covered in Napalm.
             Five marines Raising the Flag, Mount Suribachi.
             Churchill, V for Victory, Y'remember the Picture, fifty
             years from now, they'll have forgotten  the war.  Gulf
             War?  Smart Bomb, falling through the roof.  2500
-            missions a day, 100 days, <u>One Shot</u> of One Bomb.  The
+            missions a day, 100 days, One Shot of One Bomb.  The
             American people bought that war. M'I getting through
             to you?  War in the Balkans, don't mean nothing, till
             some G.I. flyer, went down, Eating Snakes for Ten days.
@@ -1252,7 +1245,7 @@ AMES WINCES, WE SEE THE POOL ATTENDANTS LAUGH.
             Trouble.  Somebody's got to wade in, save the thing.
                     (PAUSE)
             You get the Actors get up there, and strut and
-            <u>Posture</u>.  But somebody, knows what's what, got to jump
+            Posture.  But somebody, knows what's what, got to jump
             in and Save the Thing.
                     (PAUSE)
 
@@ -1266,7 +1259,7 @@ PAUSE
                           BREAN
             Why not?
 
-MOSS NODS DECISIVELY.  AS IF TO SAY, "BY GOLLY, <u>NOW</u> YOU'RE <u>TALKING</u>..."
+MOSS NODS DECISIVELY.  AS IF TO SAY, "BY GOLLY, NOW YOU'RE TALKING..."
 
                           MOSS
             Pat? Pat?
@@ -1297,12 +1290,12 @@ SMOKING LIKE A CHIMNEY.
                     MEANING, "THE PUBLIC")
 
                           BREAN
-            "They Got To Know?"  <u>Stan</u>...?  Get with it.  Who Killed
+            "They Got To Know?"  Stan...?  Get with it.  Who Killed
             Kennedy...?  I read the first draft of the Warren
-            Report, said he was killed by a Drunk <u>Driver</u>.  You
+            Report, said he was killed by a Drunk Driver.  You
             watched the Gulf War.  What did you see?  Day after
             day, the one "Smart Bomb" falling into a building.
-            The <u>truth</u>, I was in the building when they <u>shot</u> that
+            The truth, I was in the building when they shot that
             shot, they shot it in a studio, Falls Church Virginia,
             1/10th scale model of a building.
 
@@ -1310,21 +1303,21 @@ SMOKING LIKE A CHIMNEY.
             Is that true?
 
                           BREAN
-            How the fuck do <u>we</u> know.  You take my point?
+            How the fuck do we know.  You take my point?
 
                           MOSS
                     (SHAKING HIS HEAD)
             ...going to War...
 
                           BREAN
-            It's not "war."  It is a <u>Pageant</u>.  It's a <u>Pageant</u>...
-            Like the Oscars... why we came to <u>you</u>...
+            It's not "war."  It is a Pageant.  It's a Pageant...
+            Like the Oscars... why we came to you...
 
                           MOSS
             I never won an Oscar.
 
                           BREAN
-            N'it's a crying shame.  But you <u>staged</u> the Oscars...
+            N'it's a crying shame.  But you staged the Oscars...
 
                           MOSS
             Yes.  Indeed I did.
@@ -1334,31 +1327,31 @@ HE LOOKS OVER AT HIS WALL FULL OF PLAQUES AND TROPHIES.
 
                           MOSS
                     (CONT.)
-            You know, you're a <u>writer</u>, that's your script.  You're
-            a <u>director</u>...
+            You know, you're a writer, that's your script.  You're
+            a director...
                     (HE GESTURES, ET CETERA.)
-            But if you're the <u>producer</u> ... what did you do?
+            But if you're the producer ... what did you do?
                     (PAUSE)
-            What did you do?  All you've got is the <u>credit</u>...
+            What did you do?  All you've got is the credit...
                     (PAUSE)
             Some plaque on the wall...
 
 HE SHAKES HIS HEAD SADLY.
 
                           BREAN
-            And <u>if</u> you never won an Oscar, How'd you like an
+            And if you never won an Oscar, How'd you like an
             ambassadorship...
                     (PAUSE)
 
                           MOSS
-            Hell, I'd just do it for the <u>hell</u> of having <u>done</u> it,
+            Hell, I'd just do it for the hell of having done it,
             for a story to tell...
 
                           BREAN
-            Well, no, well, you couldn't <u>tell</u> any...
+            Well, no, well, you couldn't tell any...
 
                           MOSS
-            Hey, I know that, hey, I'm <u>kidding</u>...
+            Hey, I know that, hey, I'm kidding...
                     (PAUSE)
             "It's a pageant"
 
@@ -1408,7 +1401,7 @@ HE SHAKES HIS HEAD SADLY.
             President is in China.  He is dealing with a Dispatch
             of the B-2 Bomber to Albania.  Why?
                     (HE SHRUGS, HOLDS UP HIS HANDS, TO SAY,
-                    "YOU TELL <u>ME</u>...")
+                    "YOU TELL ME...")
 
                           AMES
             Alright, well, alright:  geopolitically...
@@ -1417,22 +1410,22 @@ MOSS GESTURES FOR SILENCE.
 
                           MOSS
             We've just found out They Have the Bomb.  We've Just
-            Found Out They Have The <u>Bomb</u>, aaaand... No, No wait a
+            Found Out They Have The Bomb, aaaand... No, No wait a
             second, no, no, wait a second, No.  The Bomb's not...
-            it's not <u>there</u> -- because they'd have to have a
+            it's not there -- because they'd have to have a
             rocket and that shit n'they're a buncha wogs-- it's ...
-            it's a <u>suitcase</u> Bomb.  Ooookay.  It's a <u>suitcase</u> bomb,
+            it's a suitcase Bomb.  Ooookay.  It's a suitcase bomb,
             and it's .... in Canada!  Eh?  Albanian Terrorists have
             placed a suitcase Bomb in Canada, in an attempt to
             infiltrate the bomb into the USA.
 
                           AMES
             You know what?  This is good.  This is terrific, and
-            I'll tell you why:  it's <u>cost effective</u>.  This is....
+            I'll tell you why:  it's cost effective.  This is....
 
                           MOSS
                     (SHRUGS)
-            It's <u>producing</u>.
+            It's producing.
 
                           AMES
             No, this is great.
@@ -1452,11 +1445,11 @@ GRACE COMES IN WITH A PHONE, TO AMES.
 
                           AMES
                     (TAKES THE PHONE)
-            Ames here.  <u>Yessir</u>...
+            Ames here.  Yessir...
                     (HE LISTENS.)
 
                           MOSS
-            Okay.  Okay.  The <u>Suitcase</u> Bomb...
+            Okay.  Okay.  The Suitcase Bomb...
 
                           GRACE
             ...good title for a movie....
@@ -1471,7 +1464,7 @@ AMES WANDERS AWAY, RELATING THE PROCEEDINGS INTO THE PHONE.
                           MOSS
             ...the Suitcase Bomb.  ACT ONE Albania denies it.
             President comes on the air, "Be Calm."  Okay, now:
-            Good.  Now, Alright.  Act <u>TWO</u>...
+            Good.  Now, Alright.  Act TWO...
                     (TO GRACE)
             I need the following here.  Right now:  Johnnie Green,
             Liz Butsky, and get me the Fad King.
@@ -1513,7 +1506,7 @@ AMES IS SEEN IN THE B.G. ON THE CELLPHONE.
 
                           AMES
                     (ON THE PHONE, SOTTO)
-            The <u>thinking</u> is, as of this moment, <u>Terrorism</u>...
+            The thinking is, as of this moment, Terrorism...
                     (HE COVERS THE PHONE)
             ...they're getting a Good Reaction on the "Albania"
             thing...
@@ -1522,19 +1515,19 @@ BREAN SHRUGS, TO SAY, "OF COURSE."
 
                           MOSS
                     (ON THE PHONE)
-            Hello, <u>King</u>.  How the heck <u>are</u> you...?
+            Hello, King.  How the heck are you...?
                     (PAUSE)
-            <u>Get</u> out...
+            Get out...
                     (PAUSE)
-            <u>Get</u> out... Well, man, you fall in love like a
-            <u>Hillbilly</u>...
+            Get out... Well, man, you fall in love like a
+            Hillbilly...
                     (HE COVERS THE PHONE, EXPLAINING TO
                     THOSE NEAR HIM)
             Ditch the wife, toss the kids in the Pick-up,
-                    (HE GESTURES, MEANING, <u>YOU</u> KNOW...)
+                    (HE GESTURES, MEANING, YOU KNOW...)
                     (To THE FAD KING)
-            Listen, King:  <u>Get</u> your fat redneck ass out here,
-            <u>willya</u>...
+            Listen, King:  Get your fat redneck ass out here,
+            willya...
 
                           AMES
                     (TO BREAN, STILL HOLDING THE PHONE TO
@@ -1548,16 +1541,16 @@ BREAN SHRUGS, TO SAY, "OF COURSE."
 
                           MOSS
                     (ON PHONE)
-            No, King, I need you here <u>yesterday</u>...
+            No, King, I need you here yesterday...
                     (TO BREAN)
             How long do I need him for?
 
                           BREAN
                     (CORRECTING HIMSELF)
-            Well, you could <u>have</u> one, but it'd be a very
+            Well, you could have one, but it'd be a very
             ineffective war...
                     (TO MOSS)
-            We're <u>done</u> in 10 days...
+            We're done in 10 days...
 
                           MOSS
             Ten Days.
@@ -1605,7 +1598,7 @@ BREAN SHRUGS, TO SAY, "OF COURSE."
 
                           AMES
             ...the Yellow Ribbon, but who, who'd profit from
-            <u>that</u>...
+            that...
 
                           BREAN
                     (LONG SUFFERING)
@@ -1628,7 +1621,7 @@ BREAN PICKS UP ANOTHER PHONE, AND STARTS
                     (INTO THE PHONE)
             Here's what we want to do:  The Park Police, the
             Border Patrol, and the US Marshall's Service.  The D.E.
-            the A.T.F, <u>all</u> of em, Stand by for instant
+            the A.T.F, all of em, Stand by for instant
             mobilization, 'long the Canadian Border.
                     (PAUSE)
             And tell 'em there's nothing to be alarmed about.
@@ -1670,12 +1663,12 @@ MOSS SWITCHES THE CHANAEL AGAIN.  WE SEE SENATOR NOLE.
 
                           SENATOR NOLE
                     (ON TV)
-            ...taking refuge behind the fact of <u>distance</u>, taking
-            refuge behind the mention of <u>Albania</u>, of his <u>stomach</u>
-            flu, taking refuge, with the election those <u>scant</u> days
+            ...taking refuge behind the fact of distance, taking
+            refuge behind the mention of Albania, of his stomach
+            flu, taking refuge, with the election those scant days
             away, behind everything except avowal of his guilt.
             Mr. President, if you have any shame, I ask you, the
-            public asks you, the electorate asks you to <u>return</u>,
+            public asks you, the electorate asks you to return,
             to face these terrible charges, to...
 
 THE SCREEN GOES TO THE GREAT SEAL OF THE PRESIDENT
@@ -1686,25 +1679,25 @@ THE SCREEN GOES TO THE GREAT SEAL OF THE PRESIDENT
 
                           PRESIDENT
             My fellow Americans.  I apologize for the need for
-            <u>secrecy</u>.  I assure you that had it not been
+            secrecy.  I assure you that had it not been
             necessary to ensure the safety of our men and women
             in the Combat Arms.  The Republic of Albania, long
             a staging ground for terrorists around the World, is
-            in the procesa of mounting ... <u>actions</u> directed against
+            in the procesa of mounting ... actions directed against
             the people of the United States.  In consultation with
             my advisors, I have elected to take the following
             precautionary measures:
 
 EXT POOLSIDE, MOSS'S HOME, L.A. NIGHT.
 
-<u>THE FAD KING</u>, A SLOPPILY FAT FELLOW IN A DIRTY T-SHIRT, IS WALKING THE POOL,
+THE FAD KING, A SLOPPILY FAT FELLOW IN A DIRTY T-SHIRT, IS WALKING THE POOL,
 HOLDING FORTH TO MOSS, AND JOHNNY GREEN, A NASHVILLE TYPE, AND LIZ BUTSKY, A
 COSTUME DESIGNER, WHO IS SKETCHING ON A PAD.
 
                           FAD KING
             It's a, it's a...
                     (LIZ STARTS TO TALK)
-            It <u>can't</u> be a ribbon...
+            It can't be a ribbon...
 
                           LIZ
             Why can't it be a ribbon?
@@ -1716,7 +1709,7 @@ COSTUME DESIGNER, WHO IS SKETCHING ON A PAD.
                           MOSS
             Look, look, look, look, Canada, okay...?  Our neighbor
             to the North, alla sudden, transformed, into That
-            Place, where, like the North Wind, <u>Terror</u> comes...
+            Place, where, like the North Wind, Terror comes...
 
                           FAD KING
             Keep Talking....
@@ -1726,14 +1719,14 @@ COSTUME DESIGNER, WHO IS SKETCHING ON A PAD.
 
                           AMES
                     (PHONE TO HIS EAR)
-            ...we've got a <u>crash</u> poll, says...
+            ...we've got a crash poll, says...
                     (HE LISTENS)
-            Sixty <u>seven</u> percent of the
+            Sixty seven percent of the
                     (BEAMS)
             American People, on hearing the President's Speech...
 
 JOHNNIE GREEN WALKS AWAY, HUMMING TO HIMSELF, "I GUARD THE NORTHERN
-<u>BORDERS</u>..."
+BORDERS..."
 
 FAD KING AND LIZ WAVE AMES OFF, MEANING, "WE HAVE ADULT WORK TO DO HERE."
 
@@ -1748,8 +1741,8 @@ FAD KING AND LIZ WAVE AMES OFF, MEANING, "WE HAVE ADULT WORK TO DO HERE."
             We had Davy Crockett hats... They made a fortune.
 
                           FAD KING
-            We had Davy Crockett hats, but you could <u>crush</u>'em ...
-            you could <u>crush</u>'em, see, when you felt stupid.
+            We had Davy Crockett hats, but you could crush'em ...
+            you could crush'em, see, when you felt stupid.
             Crush'em, put em in your Pocket.  You can't put a
             Mountie hat in your...
 
@@ -1757,12 +1750,12 @@ MOSS WALKS THROUGH THE SHOT, WITH BREAN.
 
                           MOSS
                     (EXPANSIVELY)
-            Y'see, <u>this</u> is what Producing is:  you put me in a
-            <u>Room</u>...
+            Y'see, this is what Producing is:  you put me in a
+            Room...
 
                           AMES
                     (LISTENING TO THE PHONE)
-            ...and he's got a <u>negative</u> rating of...
+            ...and he's got a negative rating of...
                     (HE SMILES)
 
                           MOSS
@@ -1770,15 +1763,15 @@ MOSS WALKS THROUGH THE SHOT, WITH BREAN.
             King, we've got to be on the streets in...
 
                           FAD KING
-            ...what am I <u>doing</u>?  Do you see me working...?
+            ...what am I doing?  Do you see me working...?
                     (TO LIZ)
             Here's what you want to do, you want to come out of the
-            box, an item, someone 'ready <u>has</u>, but <u>then</u> you sell
-            it to'em.  Torn <u>jeans</u>, uh ... faded Levi Jackets, uh...
+            box, an item, someone 'ready has, but then you sell
+            it to'em.  Torn jeans, uh ... faded Levi Jackets, uh...
             uh...
 
                           MOSS
-            Where are we on the Image?  Grace?  <u>Grace</u>...
+            Where are we on the Image?  Grace?  Grace...
 
 ANGLE
 OVER A SLEEPING BREAN, STRETCHED OUT ON A POOLCHAIR, GRACE, THE SECRETARY,
@@ -1798,10 +1791,10 @@ SHE SHOWS IT TO MOSS.
             defend... it is "she"?
 
                           GRACE
-            We-are-mobilizing-to-defend-<u>her</u>.
+            We-are-mobilizing-to-defend-her.
 
                           MOSS
-            Can we give'er a <u>kitten</u>?
+            Can we give'er a kitten?
 
                           GRACE
             No problem.  Here's the...
@@ -1841,7 +1834,7 @@ SHE GOES BACK INTO THE HOUSE.
                           MOSS
             Too Texan.  Go with the stick.  Thanks.
                     (TO THE FAD KING.)
-            <u>What</u>...? ...does it have to be <u>Albania</u>...We're locked
+            What...? ...does it have to be Albania...We're locked
             into Albania...why?
 
                           JOHNNY GREEN
@@ -1854,7 +1847,7 @@ SHE GOES BACK INTO THE HOUSE.
             Albania, Albania, Albania, James bond Villains.
 
                           MOSS
-            John Belushi... <u>Jim</u> Belushi...
+            John Belushi... Jim Belushi...
 
                           JOHNNY GREEN
             Jim Belushi...?
@@ -1872,32 +1865,32 @@ SHE GOES BACK INTO THE HOUSE.
                           MOSS
                     (MULLING IT OVER)
             The Special Anti-Terrorist Detachment of the Border
-            Patrol... what do they <u>do</u>...?
+            Patrol... what do they do...?
 
                           LIZ
                     (SHRUGS)
-            ...they... <u>you</u> know...
+            ...they... you know...
 
                           JOHNNY GREEN
-            They guard our, <u>you</u> know ... "borders," night and
+            They guard our, you know ... "borders," night and
             day...
 
                           MOSS
-            Yeah, good good good good good.  And They're <u>So</u>
-            <u>Secret</u>...
+            Yeah, good good good good good.  And They're So
+            Secret...
 
                           LIZ
             Oh huh...
 
                           MOSS
-            ...they have the capacity to Meld into the <u>Woods</u>,
+            ...they have the capacity to Meld into the Woods,
             and...
 
 ALL NOD
 
                           MOSS
                     (CONT.)
-            And one of them is in love with the <u>sister</u> of...
+            And one of them is in love with the sister of...
 
                           LIZ
             I'm just talking about the Hats.
@@ -1940,10 +1933,10 @@ BREAN WAKES FOR A MOMENT, AT THE SHOUTING, LOOKS AT HIS WATCH.
             ...their Leopard Skin Berets....
 
                           FAD KING
-            Well, <u>that</u> ain't very butch, is it?
+            Well, that ain't very butch, is it?
 
                           LIZ
-            It's a <u>beret</u>...
+            It's a beret...
 
 CAMERA TAKES MOSS TO THE TV WHERE BREAN IS WATCHING A "CHANGE HORSES IN
 MIDSTREAM" AD, SHOWING TWO RETIRED LADIES, SITTING OUT ON A PORCH IN THE
@@ -1965,14 +1958,14 @@ SOUTH, ON A ROCKER.
 
                           MOSS
                     (DISTRACTED)
-            How about half-black, <u>half</u> leopard skin...
+            How about half-black, half leopard skin...
 
                           TV OLD LADY
-            ...why change Horses in Mid Stresm, that's what <u>I</u> ...
+            ...why change Horses in Mid Stresm, that's what I ...
 
                           MOSS
                     (SHAKING HEAD SADLY)
-            Why are they sticking with <u>this</u> age old horseshit?
+            Why are they sticking with this age old horseshit?
 
                           BREAN
                     (SHRUGS)
@@ -1985,10 +1978,10 @@ DIALS.
 
                           FAD KING
                     (INTO PHONE)
-            Bunny:  I had an idea:  a Slinky, that falls <u>Up</u>...
+            Bunny:  I had an idea:  a Slinky, that falls Up...
                     (PAUSE)
-            Naa, we can figure that <u>out</u>.  What I'm wondering:  what
-            do we <u>call</u> it...
+            Naa, we can figure that out.  What I'm wondering:  what
+            do we call it...
                     (PAUSE)
             You got my number...
                     (HE HANGS UP.)
@@ -2010,7 +2003,7 @@ DIALS.
             Well, we paid for it, we got the guys on a retainer.
 
                           MOSS
-            They got the guys on a <u>retainer</u>, it's cheaper, <u>pay</u>'em,
+            They got the guys on a retainer, it's cheaper, pay'em,
             but don't lettem touch it... Let'em leave us alone.
 
                           AMES
@@ -2026,7 +2019,7 @@ IN THE B.G. WE SEE BREAN, WALKING AROUND WITH A CELLPHONE.
             and...
 
                           MOSS
-            Hey, <u>you're</u> getting the big bucks....
+            Hey, you're getting the big bucks....
                     (TO BREAN)
             I think we're up-and-running...
 
@@ -2037,7 +2030,7 @@ JOHNNY GREEN COMES OVER, "JUST LISTEN TO THIS."
             Canada your Peaceful slumbers
             Guard our Border To The North...
             The Rightful Order
-            Of Our <u>Border</u>...
+            Of Our Border...
 
 HE SHAKES HIS READ, AND RETIRES.  GRACE COMES OUT WITH A TRAY OF COFFEE, FROM
 WHICH THEY TAKE A CUP.
@@ -2052,7 +2045,7 @@ GRACE REACHES IN HER BACK POCKET, HANDS MOSS SEVERAL SHEETS
 
                           GRACE
             We got the Albanian Girl, with a cat, with a kitten,
-            with a <u>dog</u>...
+            with a dog...
 
                           MOSS
             I didn't ask for a dog.
@@ -2066,7 +2059,7 @@ GRACE REACHES IN HER BACK POCKET, HANDS MOSS SEVERAL SHEETS
             what kind of animal he...
 
                           GRACE
-            The Pet wrangler has <u>also</u> got a...
+            The Pet wrangler has also got a...
 
                           MOSS
             Do it later...
@@ -2074,8 +2067,8 @@ GRACE REACHES IN HER BACK POCKET, HANDS MOSS SEVERAL SHEETS
             Okay,  now, "The Little Girl," who is she, what is she
             doing?  She is....she's ...Okay, okay, it's an Albanian
             village... She is the victim of, she has been
-            <u>relocated</u>, to, to, for the <u>terrorists</u>, the Government
-            Labs...the, the... a <u>staging</u> area for their Atomic
+            relocated, to, to, for the terrorists, the Government
+            Labs...the, the... a staging area for their Atomic
             workshop.
                     (PAUSE)
             They're torturing her family, because they have
@@ -2101,12 +2094,12 @@ GRACE EXITS.
             Would somebody wake me in five minutes?
 
                           FAD KING
-            Does it <u>have</u> to be Albania?  Because, lookit:
+            Does it have to be Albania?  Because, lookit:
                     (HE HOLDS UP A SKETCH OF A BOOT)
             I can get my hands on a lot of walking-around-cash, I
-            think, if it's <u>Italy</u>...Look at the tie-in here:  <u>The</u>
-            <u>Boot</u>, "Givvem the <u>Boot</u>,"... If we were to go Wide
-            with a <u>shoe</u> as the fad.  A "Shoe-fad"...  Here's what
+            think, if it's Italy...Look at the tie-in here:  The
+            Boot, "Givvem the Boot,"... If we were to go Wide
+            with a shoe as the fad.  A "Shoe-fad"...  Here's what
             it offers us...
 
                           BREAN
@@ -2151,11 +2144,11 @@ WE SAW EARLIER, BEING FUSSED-UP AND TWEAKED BY HAIR AND MAKE-UP.
                     (HE GESTURES AT THE SWEEP)
             and, on my signal, "action" to run toward me,
             screaming ...they taking care of you...?  Good.  You
-            wanna cuppa <u>tea</u>?  Okay.  Can we just try one, just for
+            wanna cuppa tea?  Okay.  Can we just try one, just for
             the...
 
                           TRUDY
-            I understand this is going to be <u>National</u>?  Is that the
+            I understand this is going to be National?  Is that the
             case?  Because my agent didn't get a chance to...
 
 THEY ARE WALKED OVER TO AN AREA IN WHICH WE FIND THE PET WRANGLER, SURROUNDED
@@ -2174,12 +2167,12 @@ MOSS, AS HE SPEAKS, IS SURVEYING THE DOGS.
                           TRUDY
             No, I know it's going to be fine.  I'm so excited, and
             I'm looking forward to putting it on my resume.  When
-            you <u>called</u> last...
+            you called last...
 
 BREAN TAKES TRUDY ASIDE.
 
                           BREAN
-            Eh, Trudy, could I <u>talk</u> to you for a moment...?  You
+            Eh, Trudy, could I talk to you for a moment...?  You
             know, this project is a... "Funny" kind of...
 
 HE WALKS HER ASIDE.  MOSS SELECTS A DOG, AND AMES COMES OVER TO HIM, HOLDING
@@ -2219,13 +2212,13 @@ HE GESTURES TO HIS ASSISTANT, WHO COMES OVER FOR A CONFERENCE.
 
                           MOSS
                     (CONT.)
-            I need a little bit of <u>help</u>...?
+            I need a little bit of help...?
 
 ANGLE ON BREAN WALKING TRUDY.  HE GESTURES TO AMES.
 
                           AMES
             Miss, we are going to ask you to sign this little sheet
-            of <u>paper</u>...
+            of paper...
 
                           TRUDY
             Well, my agent would be ril ril miffed with me, if I
@@ -2274,7 +2267,7 @@ LOOKS AROUND, AND HANDS HER A BAG OF POTATO CHIPS.
             Someone's bringing in a kitten...?
 
                           MOSS
-            No, no, no.... we'll punch <u>in</u> a kitten.  Um... <u>Later</u>.
+            No, no, no.... we'll punch in a kitten.  Um... Later.
 
                           TRUDY
             ...you're gonna Punch in a Kitten Later.
@@ -2313,18 +2306,18 @@ TRUDY ADDRESSES HERSELF TO BREAN.
             Actually, no.
 
                           TRUDY
-            Because, like, what is it, a <u>Guild</u> thing?  I mean,
+            Because, like, what is it, a Guild thing?  I mean,
             what, what, what could they do to me...
 
                           BREAN
             ...someone would come to your house and kill you.
                     (TO PHONE)
-            <u>Hello</u>... we're about to start shooting...
+            Hello... we're about to start shooting...
 
                           A.D.
                     (TO HAIR AND MAKE-UP)
             Hey, hey, hey, she's ... will you?  She's just been
-            raped by <u>Terrorists</u>, jump <u>out</u>, will you...
+            raped by Terrorists, jump out, will you...
 
 THE A.D. SHOOS HAIR AND MAKE-UP AWAY.
 CAMERA GOES WITH BREAN, PAST AMES, WHO IS ADDRESSING HIMSELF TO THE A.D.
@@ -2366,7 +2359,7 @@ THE PHONE RINGS, AMES PICKS UP HIS CELLPHONE.
 
                           AMES
                     (CONT.)
-            <u>Hello</u>... Yes.  We'll be back...?
+            Hello... Yes.  We'll be back...?
 
                           BREAN
             We'll be back tonight.
@@ -2378,7 +2371,7 @@ THE PHONE RINGS, AMES PICKS UP HIS CELLPHONE.
             Well, you've started a Tempest in a Teapot.
 
                           BREAN
-            Waal, that's where you <u>want</u> em...
+            Waal, that's where you want em...
 
                           AMES
             ...I just hope...
@@ -2392,7 +2385,7 @@ WE SEE ON THE MONITOR THE YOUNG GIRL RUNNING WITH THE BAG OF POTATO CHIPS,
 VARIOUS BURNING BUILDINGS IN THE B.G.
 
                           MOSS
-            ...could she be running across a <u>bridge</u>?  She's running
+            ...could she be running across a bridge?  She's running
             across a Burning Bridge.
 
 ONE OF THE TECHNICIANS' FACES LIGHTS UP.
@@ -2405,10 +2398,10 @@ WE PLAYBACK THE LAST RUNTHROUGH, AND THE GIRL IS NOW RUNNING ACROSS A BRIDGE.
 
                           MOSS
                     (LEANS IN TO TALK WITH THE TECH PEOPLE)
-            Of course, we're gonna need some <u>water</u>, uh...
+            Of course, we're gonna need some water, uh...
 
                           TECHNICIAN
-            Is it a <u>stream</u>, or is it a...
+            Is it a stream, or is it a...
 
                           MOSS
             No, I think..
@@ -2417,7 +2410,7 @@ WE PLAYBACK THE LAST RUNTHROUGH, AND THE GIRL IS NOW RUNNING ACROSS A BRIDGE.
             a "pond," or
 
                           MOSS
-            No, I think it's ... can we see the calico <u>kitten</u>...?
+            No, I think it's ... can we see the calico kitten...?
 
 AS HE SPEAKS THE BAG OF CHIPS IS TRANSFORMED INTO A CALICO KITTEN.
 
@@ -2441,7 +2434,7 @@ AS THEY SPEAK THE BROWN KITTEN IS TRANSFORMED INTO A WHITE ONE.
                           MOSS
                     (CONT)
             You know, if we're gonna run with the kitten, maybe it
-            turns out, the Kitten has a <u>Name</u>, and...
+            turns out, the Kitten has a Name, and...
 
                           DIRECTOR
             We ready out there...?
@@ -2479,7 +2472,7 @@ A TELEVISION SET, THE PRESIDENT ON THE TELEVISION.
             ...between the United States and Republic of Albania,
 
             and that the Congress Authorize any and all measures
-            consonant with a swift and painless, and <u>victorious</u>
+            consonant with a swift and painless, and victorious
             conclusion of that War.
 
 ANGLE
@@ -2490,8 +2483,8 @@ HE STANDS IN LINE.
 
                           BREAN
                     (ON THE PHONE)
-            Go with a <u>two</u>-tone hat, <u>I</u> don't care, <u>you</u> work it out.
-            <u>You</u>, well, I'm sure you've had similar problems in the
+            Go with a two-tone hat, I don't care, you work it out.
+            You, well, I'm sure you've had similar problems in the
             past.  Good.  Good.  Keep me ppp... Fine, I'll call you
             from the plane.
 
@@ -2500,7 +2493,7 @@ WHICH WE SEE AN ANNOUNCER/COMMENTATOR, DOING, "YOU HAVE JUST HEARD," ET.
 CETERA.
 
                           TICKET TAKER
-            Hell of a thing.  <u>Hell</u> of a thing.
+            Hell of a thing.  Hell of a thing.
 
                           BREAN
             Innit?
@@ -2520,7 +2513,7 @@ TYPES, EACH PARKING HIS STATION WAGON IN HIS DRIVEWAY.
 
                            TYPE TWO
             Bob, my mind wasn't one hundred percent made up,  but
-            now  it is:  <u>I</u> say:  don't go changing Horses in
+            now  it is:  I say:  don't go changing Horses in
             Midstream...
 
 BREAN, HEARING THIS, WALKS BACK TO THE NOW DESERTED TELEVISION.
@@ -2542,7 +2535,7 @@ NOLE, SPEAKING ON THE TELEVISION, THE REMAINING VIEWERS ARE DRIFTING AWAY.
 
                           SENATOR NOLE
             The issue of War, is, finally, an issue of Moral Fibre,
-            <u>Moral</u> Fibre.  In my Platoon, in World War Two
+            Moral Fibre.  In my Platoon, in World War Two
 
                           BREAN
                     (ON THE PHONE)
@@ -2567,14 +2560,14 @@ IS SHOWING HIM SOME SKETCHES.
 
                           LIZ
             ...and I wanted to ask you if you thought it made sense
-            that the uniforms of the <u>Freedom</u> fighters were
-            <u>starched</u>.
+            that the uniforms of the Freedom fighters were
+            starched.
                     (PAUSE)
-            I know that, <u>traditionally</u>,
+            I know that, traditionally,
                     (SHE FLIPS A CARD AND WE SEE THE
                     STARCHED UNIFORMED FREEDOM FIGHTER
                     DRAWN BY HER)
-            ...they're <u>torn</u>, and so forth:  days-in-the-mountains,
+            ...they're torn, and so forth:  days-in-the-mountains,
             so on, but I thought...
 
                           BREAN
@@ -2598,14 +2591,14 @@ AMES AND BREAN.
 
                           AMES
                     (OF THE BUTTON)
-            ...is that "<u>us"</u>...?
+            ...is that "us"...?
 
 BREAN AND LIZ BUTSKY SHAKE THEIR HEADS.
 AMES JUMPS UP IN THE AIR AND YELLS "YAY."
 
                           SENATOR NOLE
-            <u>Especially</u> in a time of war.  Now:
-            We said that <u>Moral</u> fibre, not guns, not supplies, not
+            Especially in a time of war.  Now:
+            We said that Moral fibre, not guns, not supplies, not
             strategy, Moral...
 
                           COMMENTATOR
@@ -2615,7 +2608,7 @@ AMES JUMPS UP IN THE AIR AND YELLS "YAY."
                           SENATOR NOLE
             And this man, our President, in what I hope will be his
             last days in that office, has proved himself empty and
-            <u>devoid</u> of...
+            devoid of...
 
 A SMALL CHILD COMES OVER TO THE TELEVISION AND CHANGES THE CHANNEL.
 
@@ -2624,12 +2617,12 @@ INT DULLES AIRPORT ARRIVALS AREA, DUSK.
 BREAN AND AMES COMING OFF OF THE PLANE, BREAN STOPS AT THE FREE PERIODICALS
 DISPLAY.  SAMPLE HEADLINES READ:
 
-<u>DEFENSE OF THE REALM:  TERRORISM ALONG THE BORDER:  THE PRESIDENT:  ALL SPUNK:
-CALL TO THE COLORS:  DEFEND THE NORTH, ETC.</u>
+DEFENSE OF THE REALM:  TERRORISM ALONG THE BORDER:  THE PRESIDENT:  ALL SPUNK:
+CALL TO THE COLORS:  DEFEND THE NORTH, ETC.
 
 HE PICKS UP SEVERAL, AND CAMERA FOLLOWS HIM DOWN A HALL, PAST A HUGE POSTER
 SHOWING OPPRESSED COMMUNIST HORDES, AND THE MOTTO "THEY DIDN'T HAVE THE
-CHOICE, YOU <u>DO</u>.  <u>VOTE!</u>  IT'S YOUR RIGHT!"
+CHOICE, YOU DO.  VOTE!  IT'S YOUR RIGHT!"
 
 ANGLE
 TIGHT ON BREAN AND AMES, AND A FELLOW PASSENGER, AS ALL SCAN THEIR NEWSPAPERS.
@@ -2641,8 +2634,8 @@ THE PASSENGER IS WAITING IN LINE TO USE A PAY PHONE.
             that girlscout.
 
                           PASSENGER
-            ...what are you <u>talking</u> about...  What does that mean
-            <u>now</u>, are you <u>nuts</u>...?
+            ...what are you talking about...  What does that mean
+            now, are you nuts...?
 
 THE PASSENGER MOVES UP IN TURN TO TAKE THE PHONE, HE DIALS.
 
@@ -2650,9 +2643,9 @@ THE PASSENGER MOVES UP IN TURN TO TAKE THE PHONE, HE DIALS.
                     (INTO PHONE)
             Hello, Honey.... NO.  I'm safe.  In about an hour.
             Have you got Grandma and the kids in...?  Well, where
-            am I <u>talking</u> to you?  Well, who has the Shotgun?  Go
-            Down in the Basement.  Well, get the <u>long</u> cord, and...
-            isn't there a jack down there...  Well, <u>move</u>, the
+            am I talking to you?  Well, who has the Shotgun?  Go
+            Down in the Basement.  Well, get the long cord, and...
+            isn't there a jack down there...  Well, move, the
             canned goods, and...
 
 THE LINE BREAN AND AMES ARE IN MOVES FORWARD, PAST THE MAN ON THE TELEPHONE.
@@ -2678,7 +2671,7 @@ TIGHT ON AMES AND BREAN, AS THEY MOVE FORWARD, THEY SPEAK UNDER THEIR BREATH.
 
                           BREAN
                     (SMILES)
-            Wilfred.  We've got <u>work</u> to do...
+            Wilfred.  We've got work to do...
 
 THE LINE THEY ARE IN STOPS.  BREAN LOOKS UP.
 
@@ -2691,7 +2684,7 @@ ANGLE
 BREAN, AND ANOTHER PASSENGER.
 
                           BREAN
-            ...what the hell's <u>this</u> all about, d'you think?
+            ...what the hell's this all about, d'you think?
 
                           PASSENGER
             ...small price to pay, pal...
@@ -2712,8 +2705,8 @@ THEY PASS BY A SHOESTORE, CLOSED, A PLYWOOD SCREEN IN FRONT, COVERED BY A
 SIGN:  SOON TO REOPEN UNDER NEW MANAGEMENT.  BREAN FOLLOWS AMES, INTO THE
 STORE.
 
-INT SHOESTORE NIGHT.  MANY YOUNG STAFFERS.  A VAST SIGN READS:  <u>DAYS TIL
-ELECTION 8. % IN FAVOR?</u>
+INT SHOESTORE NIGHT.  MANY YOUNG STAFFERS.  A VAST SIGN READS:  DAYS TIL
+ELECTION 8. % IN FAVOR?
 
 THE STAFFERS STAND IMMOBILE, AS BREAN, AMES, AND THE SECRET SERVICE TYPES
 ENTER.  ON A TELEVISION, UNWATCHED BEHIND THEM.  A FOREST SCENE, A SQUAD OF
@@ -2722,7 +2715,7 @@ SOFTLY INTO A MICROPHONE.
 
                           LEADER
             ...scared.  Sure we're scared.  But th'fella said the
-            trick is not minding that it hurts.  N'Ill tell you <u>one</u>
+            trick is not minding that it hurts.  N'Ill tell you one
             thing:  They might get into the U.S.A., but they'll
             have to get in over Mrs. Kelly's son...
                     (HE TAPS HIMSELF ON THE CEEST)
@@ -2733,7 +2726,7 @@ UP COMMENTATOR SPEAKS.
                           COMMENTATOR
             ...dead and fifteen wounded in these first hours of the
             War.  They are not, they are not The Enemy, they are
-            people, like You and Me, a <u>different</u> kind of Victim of
+            people, like You and Me, a different kind of Victim of
             Albanian Aggression, but Victims Nonetheless...
 
 
@@ -2748,7 +2741,7 @@ SEE THE DECK OF AN AIRCRAFT CARRIER, AND A REPORTER SPEAKING, AS PLANES TAKE
 OFF.
 
                           REPORTER
-            Missions into Albanian Airspace.  Missions to <u>Kill</u> or
+            Missions into Albanian Airspace.  Missions to Kill or
             Die.  American Men, and, yes, and women, in the prime
             of their lives, but never closer to death, while...
 
@@ -2762,7 +2755,7 @@ THE SCREEN IS FILLED WITH THE PHOTO OF THE YOUNG ALBANIAN WOMAN, WHO IS NOW
 HOLDING TWO CATS.
 
                           SOB SISTER REPORTER TYPE
-            For this.  For <u>this</u>.  For Freedom, for <u>safety</u> -- yes,
+            For this.  For this.  For Freedom, for safety -- yes,
             theirs and ours.
 
 BREAN HEARS A WHOOSH, AND TURNS TO LOOK BACK AT THE SCREEN OF THE JETS TAKING
@@ -2773,11 +2766,11 @@ TV SCREEN, WITH JETS.
                           ANNOUNCER
                     (VO)
             The sound of Freedom?  Yes, Perhaps the sound of
-            Death... <u>but</u>....
+            Death... but....
 
 BREAN LOOKING AT THE SCREEN, BEHIND HIM HE HEARS A VAST CHEER, HE TURNS.
 THE AIDE WITH THE PHONE TO HIS EAR HAS PICKED UP A PIECE OF CHALK, AND IS
-WRITING, ON THE <u>% IN FAVOR</u> SLATE THE FIGURE 71%.
+WRITING, ON THE % IN FAVOR SLATE THE FIGURE 71%.
 THE AIDES ARE CHEERING, AND SLAPPING EACH OTHER ON THE BACK.
 
 INT, IMPROVISED OFFICE, IN THE SHOE STOCKROOM.  NIGHT.
@@ -2790,7 +2783,7 @@ OF PAPERS FROM THE DESK.
 
                           AMES
             New York Times, Wash Post, Detroit Register, San Diego
-            BEE, all in emission.  <u>No</u> mention of the Girlscout.
+            BEE, all in emission.  No mention of the Girlscout.
             None.
 
                           BREAN
@@ -2798,11 +2791,11 @@ OF PAPERS FROM THE DESK.
                     (HE GESTURES AT THE CALENDER)
 
                           AMES
-            I <u>live</u> for midnight, when I can tear another of those
+            I live for midnight, when I can tear another of those
             suckers off.  Watcha got for me?
 
                           BREAN
-            Big Bird touches down <u>when</u>?
+            Big Bird touches down when?
 
                           AMES
             We're bring'n im in tomorrow, five AM.
@@ -2815,7 +2808,7 @@ OF PAPERS FROM THE DESK.
 
                           BREAN
                     (NODS)
-            <u>I</u> think, here's what I think:  S'it gonna rain...?
+            I think, here's what I think:  S'it gonna rain...?
                     (HE CHECKS A NOTEBOOK)
 
                           AMES
@@ -2825,7 +2818,7 @@ OF PAPERS FROM THE DESK.
 
                           BREAN
                     (CHECKING HIS NOTEBOOK)
-            An <u>Albanian</u>, a young Albanian Girl.
+            An Albanian, a young Albanian Girl.
 
 AN AIDE APPEARS WITH A TEARSHEET.  AMES READS IT.
 
@@ -2836,28 +2829,28 @@ AN AIDE APPEARS WITH A TEARSHEET.  AMES READS IT.
                     (SHRUGS, NONETHELESS)
             A young Albanian Girl, dressed in their...
 
-HE GESTURES, MEANING, "WHATEVER THEY WEAR, <u>YOU</u> FIGURE IT OUT..." AMES NODS TO
+HE GESTURES, MEANING, "WHATEVER THEY WEAR, YOU FIGURE IT OUT..." AMES NODS TO
 THE AIDE, WHO BEGINS SCRIBBLING IN A PAD.
 
                           BREAN
             And carrying.
                     (HE GESTURES, MEANING, LOOK IT UP)
             The National Flower of Albania, something..... Now Is
-            it some Festival?  Some <u>Harvest</u> Festival, something...
+            it some Festival?  Some Harvest Festival, something...
 
                           AMES
                     (TO THE AIDE)
             Get on this, right now...
 
                           BREAN
-            ...got to be <u>something</u>.  She gives him the sacred...
+            ...got to be something.  She gives him the sacred...
                     (HE GESTURES, WHAT-HAVE-YOU)
             And tells him:  this is the Traditional Harvest
             Offering, given to the Man who Ties the First Sheaf,
             the last sheaf, whatever the fuck it is...
 
                           AMES
-            ...this's <u>good</u>...
+            ...this's good...
 
                           BREAN
             Stanley Moss, Ladeesngennlmen... And she says...
@@ -2867,7 +2860,7 @@ THE AIDE, WHO BEGINS SCRIBBLING IN A PAD.
 
                           BREAN
                     (OF NOTES)
-            <u>Yes</u>:  she is saying this in Albanian, <u>but</u> she's doing
+            Yes:  she is saying this in Albanian, but she's doing
             it not to be uh...
                     (AMES GESTURES, MEANING, "I GET IT")
             But because, she explains, that is the only way it can
@@ -2879,9 +2872,9 @@ UNDERSTANDING, AND DISAPPEARS.
 
                           BREAN
                     (TO DISAPPEARING AIDE)
-            C'n I get something to <u>eat</u>...?  Now the Old Broad
+            C'n I get something to eat...?  Now the Old Broad
             starts to speak:  you are bringing peace.  Not only to
-            <u>This</u> Land...
+            This Land...
 
                           AMES
             Our adopted land...
@@ -2894,18 +2887,18 @@ UNDERSTANDING, AND DISAPPEARS.
             ...uh huh...
 
                           BREAN
-            Now, the Old Lady starts to <u>Weep</u>, Big Bird shrugs off
-            his secret <u>Service</u>, goes to her, and covers her with
+            Now, the Old Lady starts to Weep, Big Bird shrugs off
+            his secret Service, goes to her, and covers her with
             his own coat.
 
                           AMES
                     (CALLING OUT)
-            Find out is there <u>any</u> chance we can get some rain
-            tomorrow, <u>will</u> you...?
+            Find out is there any chance we can get some rain
+            tomorrow, will you...?
 
                           BREAN
                     (OF PAD)
-            <u>So</u> forth...
+            So forth...
 
 AMES STOPS TO LOOK AT ANOTHER COMMERCIAL ON TV.  THEY TURN TO SEE TWO "YOUNG
 MOTHER" TYPES, SHOPPING...
@@ -2914,8 +2907,8 @@ MOTHER" TYPES, SHOPPING...
             ...to vote for.
 
                           YOUNG MOTHER TWO
-            Well, <u>I</u> think it's like when we thought of Changing
-            Tommy's Pediatrician.  <u>Bill</u> said, "Not While he's <u>sick</u>
+            Well, I think it's like when we thought of Changing
+            Tommy's Pediatrician.  Bill said, "Not While he's sick
             --  cause you Don't Change Horses in the mid..."
 
 BREAN TURNS OFF THE VOLUME, AND CONTINUES.
@@ -2935,11 +2928,11 @@ BREAN TURNS OFF THE VOLUME, AND CONTINUES.
             your fellow Moss want?
 
                           BREAN
-            <u>I</u> dunno.... Ambassador to <u>Togo</u>, somethin', <u>I</u> dunno...
+            I dunno.... Ambassador to Togo, somethin', I dunno...
             he...
 
                           AMES
-            Maybe he's just a <u>patriot</u>.
+            Maybe he's just a patriot.
 
                           BREAN
             Yeah...what was I talking about...?
@@ -2954,17 +2947,17 @@ AN AIDE APPEARS WITH A SANDWICH, AND BREAN STARTS TO EAT.
             Due in Nashville.
 
                           AMES
-            <u>Nashville</u>...?
+            Nashville...?
 
                           BREAN
-            We're gonna do the <u>Team Song</u>.
+            We're gonna do the Team Song.
 
                           AMES
             You're tired, Ronnie.
 
                           BREAN
             Y'wanna follow the Cattle Drive?  Sleep in the Winter.
-            What does <u>Moss</u> want...?  Matchmaker comes to the
+            What does Moss want...?  Matchmaker comes to the
             Levinsky Family.  Mr. Levinsky, Mrs. Levinsky, would
             you entertain an offer of marriage for your son Saul,
             from Princess Margaret of Great Britain.  Well, they
@@ -2973,7 +2966,7 @@ AN AIDE APPEARS WITH A SANDWICH, AND BREAN STARTS TO EAT.
             consider such an offer.  Wonderful, matchmaker says,
             My Job is Half Done.
                     (HE YAWNS)
-            Now, Look:  I got the <u>file</u>, from the L.A. contingent, I
+            Now, Look:  I got the file, from the L.A. contingent, I
             got the day-by-day, of how...
 
 HE LOOKS AT AMES, WHO IS LOOKING INTENTLY AT THE TV.
@@ -2981,7 +2974,7 @@ HE LOOKS AT AMES, WHO IS LOOKING INTENTLY AT THE TV.
                           ANNOUNCER
                     (AS AMES TURNS UP THE SOUND)
             ...denial from the Albanian Government continues, but
-            <u>this</u> tape, just in...
+            this tape, just in...
 
 THE SCREEN SWITCHES TO SHOTS OF TRUDY LAROUCHE, IN ALBANIAN GARB, RUNNING
 TOWARD THE CAMERA, OVER A BRIDGE ACROSS A SMALL STREAM, IN THE B.G. HER
@@ -3010,17 +3003,17 @@ BREAN RISES, STRETCHES.
 
 SOMEBODY SWITCHES THE CHANNEL, AND WE SEE A NEWSMAN DOING A STANDUP IN FRONT
 OF A STREETVENDOR, WHO HAS A BOARD FULL OF BUTTONS.  THE CAMERA PANS OVER THE
-BUTTONS, WE SEE THE "FUCK ALBANIA," AND WE SEE ONE READING "RUN FROM <u>ALBANIA</u>?
-TELL ME <u>ANOTHER</u> ONE..."  AND T-SHIRTS SHOWING SIMILAR LOGOS.
+BUTTONS, WE SEE THE "FUCK ALBANIA," AND WE SEE ONE READING "RUN FROM ALBANIA?
+TELL ME ANOTHER ONE..."  AND T-SHIRTS SHOWING SIMILAR LOGOS.
 
 ANGLE
 ON BREAN AND AMES SITTING AROUND.
 AMES LOOKS AT HIM INQUISITIVELY.
 
                           BREAN
-            None of these are ours.  <u>None</u> of em are ours....
+            None of these are ours.  None of em are ours....
                     (HE SMILES AT AMES)
-            ....that's <u>real politik</u>, Buddy.
+            ....that's real politik, Buddy.
 
                           AMES
             Waal, I gotta tell you.  I've been inside the Beltway
@@ -3030,9 +3023,9 @@ THEY KICK BACK, AND WATCH THE TELEVISION, SHOWING IMAGES OF THE TANKS ALONG
 THE CANADIAN BORDER.
 
                           AMES
-            And if you <u>think</u> about it:  if you <u>think</u> about it, what
-            <u>Is</u> war...?  What <u>is</u> war?  I mean, aside from the
-            <u>killing</u>, and, all... <u>that</u> isn't so pleasant, ... you in
+            And if you think about it:  if you think about it, what
+            Is war...?  What is war?  I mean, aside from the
+            killing, and, all... that isn't so pleasant, ... you in
             the Service...?
                     (PAUSE)
 
@@ -3041,19 +3034,19 @@ BREAN, UNSEEN BY AMES, GETS UP AND GOES TO THE DOOR TO LISTEN.
                           AMES
                     (CONT.)
             ...and I'll tell you another thing.  President said to
-            me:  When this thing... "happened."  "It <u>looks</u> like the
-            Building's falling.  <u>But</u>, <u>these</u> are the times..." and I
+            me:  When this thing... "happened."  "It looks like the
+            Building's falling.  But, these are the times..." and I
             wish what he said, we could have used it on TV, and, as
-            a matter of fact, we <u>can</u>, if we...
+            a matter of fact, we can, if we...
                     (HE LOOKS AROUND, SEES BREAN STANDING
                     BY THE DOOR.)
-            Look here, <u>here's</u> an idea... Here's an idea...
+            Look here, here's an idea... Here's an idea...
                     (HE WALKS OVER TO THE DOOR.)
-            Turn it on it's head.  If we're ahead in the <u>polls</u>,
-            well, hell, <u>this</u> is the time to <u>capitalize</u> on it.  What
-            do you think?  Get <u>ahead</u> of them, <u>use</u> the percentage
-            points to push forward some of the long-<u>term</u> goals:
-            <u>housing</u>, health-care ref...
+            Turn it on it's head.  If we're ahead in the polls,
+            well, hell, this is the time to capitalize on it.  What
+            do you think?  Get ahead of them, use the percentage
+            points to push forward some of the long-term goals:
+            housing, health-care ref...
 
 BREAN GESTURES FOR SILENCE.  HE AND AMES LISTEN INTENTLY, THE HUBBUB IN THE
 ADJOINING ROOM (THE SHOESTORE) HAS PASSED.  IT IS SILENT.  AMES AND BREAN PEEK
@@ -3097,7 +3090,7 @@ THEM, A LINE OF TANKS FADING ALONG A RIVER.
                           REPORTER
             ...awaiting the arrival of The President back on
             American Soil.  To still the fears, to answer the
-            <u>questions</u> of this troubled land.  Here, along a border
+            questions of this troubled land.  Here, along a border
             once considered more Imaginary than real, I'm Mike
             Stears, at latitude 45, along the Canadian Border.
 
@@ -3108,15 +3101,15 @@ BREAN LOOKS DOWN AT HIS WATCH.
             ...I just missed my plane.
 
                           AMES
-            You missed your <u>plane</u>?  My <u>life</u> is over.
+            You missed your plane?  My life is over.
                     (PAUSE)
-            My <u>life</u> is over.  What have you <u>done</u> to me?  What have
+            My life is over.  What have you done to me?  What have
             I done?
                     (PAUSE)
             Fourteen years of Public Service...
 
                           BREAN
-            Well, keep your <u>wits</u> about you, and let's see if we
+            Well, keep your wits about you, and let's see if we
             can't...
 
                           AMES
@@ -3126,14 +3119,14 @@ BREAN LOOKS DOWN AT HIS WATCH.
             ...brazen-it-through...
 
                           AMES
-            Brazen it through?  Brazen it <u>through</u>?  They're going
-            to hang us out to dry like the <u>laundry</u> --- do you know
-            what we've <u>ddd</u>...
+            Brazen it through?  Brazen it through?  They're going
+            to hang us out to dry like the laundry --- do you know
+            what we've ddd...
 
 THE BODYGUARD IN THE B.G. RAISES HIS FINGER TO HIS LIPS AND SHAKES HIS HEAD.
 
                           AMES
-            Do you know what we've <u>done</u>, for Godsake?  Do you know
+            Do you know what we've done, for Godsake?  Do you know
             what you've....
 
 A BODYGUARD IN THE B.G. SPEAKS UP.
@@ -3150,7 +3143,7 @@ MOVING LINE.
             With seven days to go before the election, the Fortunes
             of President...
 
-THE DOOR OPENS, THE YALIE COMES TO ATTENTION, <u>MR. YOUNG</u>, A TWENTY-YEAR OLDER
+THE DOOR OPENS, THE YALIE COMES TO ATTENTION, MR. YOUNG, A TWENTY-YEAR OLDER
 VERSION OF THE YALIE, ENTERS, CARRYING A CUP OF COFFEE, NO TIE, HAIR
 DISHEVELLED.
 
@@ -3163,7 +3156,7 @@ DISHEVELLED.
 
                           MR. YOUNG
             When I'm done with'em, we want to dump'em in the
-            <u>District</u>, or stick'em out in the country, have the
+            District, or stick'em out in the country, have the
             F.B.I. trip over'em?
 
 THE YALIE CONSULTS HIS NOTES.
@@ -3180,10 +3173,10 @@ THE YALIE CONSULTS HIS NOTES.
 BEAT, MR. YOUNG SHAKES HIS HEAD SADLY.
 
                           MR. YOUNG
-            Guess who <u>I</u> am.
+            Guess who I am.
 
                           AMES
-            I'd like to mention a few <u>names</u>, who...
+            I'd like to mention a few names, who...
 
                           MR. YOUNG
                     (LOOKING AT NOTES HE IS HANDED BY
@@ -3196,26 +3189,26 @@ BEAT, MR. YOUNG SHAKES HIS HEAD SADLY.
             intentions of anyone with whom you may have reason to
             believe I am connected with.
                     (PAUSE)
-            Or in whose <u>employ</u>...
+            Or in whose employ...
 
                           MR. YOUNG
             Quite touching.
 
                           AMES
-            And I take this <u>opportunity</u> to suggest that, equally,
-            I admit to <u>nothing</u>, and that I would like my lawyer
+            And I take this opportunity to suggest that, equally,
+            I admit to nothing, and that I would like my lawyer
             present.
 
 MR. YOUNG NODS.
 
                           MR. YOUNG
-            Guess what?  We show, and N.S.A. confirms, there <u>are</u> no
+            Guess what?  We show, and N.S.A. confirms, there are no
             nuclear devices on the Canadian border.
                     (PAUSE)
             There are no nuclear devices in Albania.  Z'at put us
             in something of a pickle?
                     (PAUSE)
-            Albania <u>has</u> no nuclear capacity.  Our spy satellites
+            Albania has no nuclear capacity.  Our spy satellites
             show "no secret terrorist camps" in The Albanian
             Hinterland.  The F.B.I. and the Border Patrol, And the
             R.C.M.P. report no repeat no untoward activity along
@@ -3232,7 +3225,7 @@ MR. YOUNG NODS.
             Course there's a war.  I'm watching it on Television.
 
                           MR. YOUNG
-            N'who might <u>you</u> be, when all's said and done?
+            N'who might you be, when all's said and done?
 
                           BREAN
             My name is Ronald Brean.
@@ -3257,7 +3250,7 @@ MR. YOUNG NODS.
             for."
 
                           BREAN
-            What <u>are</u> you interested in?
+            What are you interested in?
                     (PAUSE)
 
                           MR. YOUNG
@@ -3293,12 +3286,12 @@ PAUSE.  THEY LOOK AT HIM.
             country and your job.
 
                           MR. YOUNG
-            I'm <u>doing</u> my job, Mr. Brean.  That's what you see me
-            doing here.  What <u>is</u> it you thought <u>you</u> were doing?
+            I'm doing my job, Mr. Brean.  That's what you see me
+            doing here.  What is it you thought you were doing?
 
                           AMES
             And I'd like to point out that I've been on
-            prescription <u>medication</u>, the side-effects of which...
+            prescription medication, the side-effects of which...
 
                           BREAN
             I'm doing my job, Too.
@@ -3345,29 +3338,29 @@ BEHIND.
             I have.
 
                           BREAN
-            Well, I have, too.  Would you do it <u>again</u>...?  In't
-            that why you're here?  I guess <u>so</u>.  N'if you go to war
+            Well, I have, too.  Would you do it again...?  In't
+            that why you're here?  I guess so.  N'if you go to war
             again, who is it going to be against?  Your "ability to
-            fight a Two-ocean War" against who?  Sweden and <u>Togo</u>?
+            fight a Two-ocean War" against who?  Sweden and Togo?
             Who you sitting here to Go To War Against?  That time
-            has <u>passed</u>.  It's <u>passed</u>.  It's <u>over</u>.  The War of the
-            Future is <u>Nuclear Terrorism</u>.  It is and it will be
+            has passed.  It's passed.  It's over.  The War of the
+            Future is Nuclear Terrorism.  It is and it will be
             against a Small Group of Dissidents who, unbeknownst,
-            perhaps, to their own <u>governments</u>, have blah blah blah.
-            And to go to <u>that</u> war, you've got to be <u>prepared</u>.  You
-            have to be alert, and the <u>public</u> has to be alert.
-            Cause that is the war of the <u>future</u>, and if you're not
-            gearing up, to fight <u>that</u> war, <u>eventually</u> the axe will
+            perhaps, to their own governments, have blah blah blah.
+            And to go to that war, you've got to be prepared.  You
+            have to be alert, and the public has to be alert.
+            Cause that is the war of the future, and if you're not
+            gearing up, to fight that war, eventually the axe will
             fall.  N'you're gonna be out in the street.
                     (PAUSE)
             And you can call this a "drill," or you can call it
             "job security," or you can call it anything you like.
             But I got one for you:  you said, "Go to War to protect
-            your Way of Life,"  well, Chuck, <u>this</u>
+            your Way of Life,"  well, Chuck, this
                     (HE GESTURES AROUND THE ROOM)
             is your way of life.  Innit?  And if there ain't no
             war, you can punch out, go home, and take up Oil
-            Painting.  And there <u>ain't</u> no war but ours.
+            Painting.  And there ain't no war but ours.
                     (PAUSE)
 
 HOLD ON THE GROUP.
@@ -3382,7 +3375,7 @@ AMES, AND BREAN ACCOMPANIED BY SEVERAL BODYGUARD TYPES AND THE YALIE.
 
                           BREAN
                     (TO THE YALIE)
-            One more thing, <u>what</u> is that river she's running
+            One more thing, what is that river she's running
             across?
 
                           YALIE
@@ -3395,16 +3388,16 @@ YOUNG NODS, AND MAKES A NOTE IN A BOOK.  BREAN TURNS TO AMES.
 
                           BREAN
             ...she's running, it's some sacred... some ancestral
-            <u>land</u>, cloven by the Brook named.... give it to Moss,
+            land, cloven by the Brook named.... give it to Moss,
 
                           YOUNG
             No, we're on top of it.
 
                           BREAN
-            <u>Thank</u> you.
+            Thank you.
 
                           YOUNG
-            No, thank <u>you</u>...
+            No, thank you...
 
                           BREAN
                     (HE CHECKS HIS WATCH)
@@ -3423,11 +3416,11 @@ AMES, AS HE WALKS, TAKES OUT HIS CELLPHONE, AND DIALS.
                     (INTO THE PHONE)
             No.  I was busy.
                     (PAUSE)
-            Yes, I need the new poll fig.... <u>how</u> long?  I'll call
+            Yes, I need the new poll fig.... how long?  I'll call
             in from Nashville.  And patch me through to the Big
             Bird, will...?
                     (TO BREAN)
-            I've got to <u>hand</u> it to you.  <u>They</u> sure let us out of
+            I've got to hand it to you.  They sure let us out of
             there easy....
 
                           BREAN
@@ -3467,7 +3460,7 @@ THE JEEP, AS BREAN SETTLES HIMSELF IN HE TURNS TO LOOK AT THE CHAOS IN THE
 PARKING LOT.
 
                           COWBOY
-            It ain't hoarding.  It's <u>stockpiling</u>.
+            It ain't hoarding.  It's stockpiling.
 
                           BREAN
             Uh huh.
@@ -3480,7 +3473,7 @@ PARKING LOT.
             We got the guy, we got the guy, we got the Guy!
 
                           FAD KING
-            The Canada Thing was a shuck.  A <u>shuck</u> -- wasted a day.
+            The Canada Thing was a shuck.  A shuck -- wasted a day.
             What can you do with Canada?  Bears, mapleleafs, "sugar
             -on-Snow."  Lays there on the plate like a lox.
 
@@ -3490,7 +3483,7 @@ AMES ON THE PHONE IN THE JEEP.
                           AMES
             Yes... Hello...?
                     (PAUSE)
-            <u>What</u>...?  <u>What</u>...?  We're breaking up, I'll call you
+            What...?  What...?  We're breaking up, I'll call you
             from the studio.
 
 INT RECORDING STUDIO NASHVILLE, DAY.
@@ -3517,7 +3510,7 @@ HE HANDS IT TO MOSS.
             hugs the fat, wet Albanian Broad, we...
 
                           BREAN
-            No, no, no, no, no <u>after</u> the airport.
+            No, no, no, no, no after the airport.
 
 THEY TURN AROUND, LOOKING FOR AMES, WHO IS HANGING BACK, LOOKING AT A TV.  THEY
 RETRACE THEIR STEPS.  CAMERA TAKES THEM TO AMES, WHO IS WATCHING SENATOR NOLE
@@ -3528,24 +3521,24 @@ ON TV.
             Oh, shit...
 
                           NOLE
-            ...gotten word that the situation in Albania <u>is</u>
-            resolved.  That it <u>is</u> resolved.  My military sources
-            confirm that our troops, along the Canadian Border, <u>And</u>
+            ...gotten word that the situation in Albania is
+            resolved.  That it is resolved.  My military sources
+            confirm that our troops, along the Canadian Border, And
             overseas are standing down, and I must take this
             opportunity to call upon our President to stand and
             face the charges, the heinous charges brought against
-            him.  You know, folks, there is <u>nothing</u> in life as
+            him.  You know, folks, there is nothing in life as
             precious as the Innocence of a Child.
                     (PAUSE)
             Nothing.  Now, I do not say these charges are true, I do
-            not see how they <u>could</u> be.  Accusations of, of sexual
-            misconduct in <u>anyone</u>, must be investigated.  In the
+            not see how they could be.  Accusations of, of sexual
+            misconduct in anyone, must be investigated.  In the
             case of a Sitting President, of one whose term, and I
-            do not hesitate to mention it, <u>ends</u>, in, effectively,
-            in a matter of days... I <u>call</u> upon the President...
+            do not hesitate to mention it, ends, in, effectively,
+            in a matter of days... I call upon the President...
 
                           AMES
-            What does he <u>mean</u> The Situation has Been Resolved?
+            What does he mean The Situation has Been Resolved?
 
                           BREAN
             He just got Hip to us.
@@ -3555,7 +3548,7 @@ ON TV.
 CAMERA TAKES THEM INTO THE RECORDING STUDIO.
 
                           AMES
-            What are we gonna <u>do</u> about it...?
+            What are we gonna do about it...?
 
 WE SEE SEVERAL PEOPLE AT A CONSOLE, AND, IN THE STUDIO, A BRIGHT SASSY LOOKING
 GROUP, SINGING.
@@ -3595,7 +3588,7 @@ PAUSE
 ANGLE ON THE TV.
 
                           TELEVISION REPORTER
-            ...and the C.I.A. <u>Confirms</u> the cessation of
+            ...and the C.I.A. Confirms the cessation of
             Hostilities, with...
 
                           BREAN
@@ -3605,7 +3598,7 @@ ANGLE ON THE TV.
             Oh, Lord....
 
                           BREAN
-            ...those limp-dick ... <u>turncoat</u>... I <u>thought</u> they let
+            ...those limp-dick ... turncoat... I thought they let
             us out of there too easy.....
 
 HE REACHES OVER AND FLICKS OFF THE TV.
@@ -3631,15 +3624,15 @@ IN THE B.G. AMES PICKS UP THE PHONE AND DIALS.
             I saw it on TV.
 
                           MOSS
-            The war ain't over til I <u>say</u> it's over.  This is <u>my</u>
-            picture.  You think you're in a <u>spot</u>?  You think this
+            The war ain't over til I say it's over.  This is my
+            picture.  You think you're in a spot?  You think this
             is a tight spot?  Try making the Hunchback of Notre
-            Dame when your three lead actors <u>die</u>, two weeks from
+            Dame when your three lead actors die, two weeks from
             the end of Principal Photography.  This is... this
             is... this is just...
                     (PAUSE)
             Act One:  THE WAR.
-            Act <u>Two</u> ... the... uh...
+            Act Two ... the... uh...
 
                           FAD KING
             It's like those Japanese in the Caves on Okinawa...
@@ -3648,7 +3641,7 @@ IN THE B.G. AMES PICKS UP THE PHONE AND DIALS.
                           MOSS
             You got a guy, doesn't believe the War is... NO NO NO.
             An American Serviceman... A brave American Serviceman,
-            is Left <u>Behind</u> ...
+            is Left Behind ...
                     (HE LOOKS AT THE FAD KING, WHO IS
                     MASSAGING HIS FOOT, HAVING TAKEN OFF
                     HIS SHOE)
@@ -3675,9 +3668,9 @@ FAD KING PICKS UP THE PHONE.
 
                           FAD KING
                     (INTO PHONE)
-            Military Special Programs... <u>Programs</u>... No, I am not
-            Shouting at you, I'm... I'm sorry.  Anyone named <u>Shoe</u>
-            Schumann?  <u>Schuster</u>... uh
+            Military Special Programs... Programs... No, I am not
+            Shouting at you, I'm... I'm sorry.  Anyone named Shoe
+            Schumann?  Schuster... uh
 
 JOHNNY GREEN, ANGLE ON HIM, HIS EYES LIGHT UP.
 
@@ -3693,10 +3686,10 @@ CLEANING UP.
             Okay, y'want to roll on another one...?
 
                           JOHNNY GREEN
-            Naaa.  Fuck that.  <u>Fuck</u> that...
+            Naaa.  Fuck that.  Fuck that...
 
                           ENGINEER
-            ...go get a Coke.  Y'want something to <u>eat</u>...?
+            ...go get a Coke.  Y'want something to eat...?
 
                           SINGER
             We gonna be long, cause I told my wife...
@@ -3719,8 +3712,8 @@ THE SINGER IS THE OLD MAN WE SAW SWEEPING UP.
             Good Old Shoe...never left you hangin, Just a Good Old
             Shoe...
                     (HE STOPS, TALKS TO THE CONTROL ROOM)
-            I'm sorry, Barry, the <u>action</u> on this... where the hell
-            did you <u>get</u> this old thing?
+            I'm sorry, Barry, the action on this... where the hell
+            did you get this old thing?
 
                           ENGINEER
                     (TALKING THROUGH THE P.A.)
@@ -3773,11 +3766,11 @@ THE SINGER NODS.
             It's too clean.
 
                           ENGINEER
-            Let's take the bridge from <u>nine</u>, and the intro from
-            <u>one</u>, and...
+            Let's take the bridge from nine, and the intro from
+            one, and...
 
                           MOSS
-            It's got to sound like an <u>acetate</u> recording, 1930.
+            It's got to sound like an acetate recording, 1930.
 
                           ENGINEER
             Hold it a minute, Benny, we're going to tweak it a bit.
@@ -3789,18 +3782,18 @@ THE SINGER NODS.
             This is fantastic.
 
                           JOHNNY GREEN
-            Y'like it?  Wait'll you get to the <u>bridge</u>...
+            Y'like it?  Wait'll you get to the bridge...
 
                           BREAN
             This's Fantastic...
 
                           JOHNNY GREEN
                     (TO ENGINEER)
-            Don't go with the bridge from <u>nine</u>, go with the bridge
-            from <u>eight</u>.
+            Don't go with the bridge from nine, go with the bridge
+            from eight.
 
                           ENGINEER
-            Why <u>eight</u>?
+            Why eight?
 
                           JOHNNY GREEN
             Just try it.
@@ -3808,7 +3801,7 @@ THE SINGER NODS.
 IN THE B.G. WE SEE AMES TALKING INTO THE CELLPHONE.
 
                           AMES
-            A new <u>take</u> on the...  Well, sir, we're coming back,
+            A new take on the...  Well, sir, we're coming back,
             we'd like you to try it out, this evening...
 
                           MOSS
@@ -3820,7 +3813,7 @@ IN THE B.G. WE SEE AMES TALKING INTO THE CELLPHONE.
 
                           MOSS
                     (NODS, POINTS TO THE GLOSSY PHOTO)
-            ...we put your Guy in a <u>sweater</u>...
+            ...we put your Guy in a sweater...
 
                           BREAN
             Yeah...?
@@ -3891,15 +3884,15 @@ ANGLE, INT THE STUDIO, ON BREAN, ON THE PHONE.
                           BREAN
             He can't respond to the Allegations.
                     (PAUSE)
-            I don't care <u>how</u> many girlscouts are picketing the ...
-            look, look, look, we're coming home with <u>Gold</u>.  Eh?
-            Tell him to hold firm for <u>two hours</u>... coming home with
+            I don't care how many girlscouts are picketing the ...
+            look, look, look, we're coming home with Gold.  Eh?
+            Tell him to hold firm for two hours... coming home with
             Gold.
 
                           MOSS
                     (TO FAD KING)
             Did we ever use those costumes for the Border Patrol?
-            Those guys in the Leopard-Skin <u>Hats</u>?  Here's my
+            Those guys in the Leopard-Skin Hats?  Here's my
             idea....
 
 INT LIMO DAY.
@@ -3925,7 +3918,7 @@ WE HEAR THE SCRATCHY RENDITION OF "GOOD OLD SHOE" ON THE TAPE PLAYER.
             I think it's fine?
 
                           MOSS
-            It's not too <u>clean</u>...
+            It's not too clean...
 
                           BREAN
             No, it's...
@@ -3948,11 +3941,11 @@ ANOTHER WOMAN IS SHOWN ON THE SCREEN, AS THE ANGLE WIDENS.
                           MAYRA
             Actually, Bess, it's an ode, an ancient Albanian ode,
             praising the river, this particular river, the
-            ________, as a source of <u>peace</u>.  It is ironic that....
+            ________, as a source of peace.  It is ironic that....
 
                           BREAN
                     (ON PHONE)
-            <u>Hello</u> --
+            Hello --
 
                           BREAN
                     (ON PHONE)
@@ -3969,8 +3962,8 @@ ANOTHER WOMAN IS SHOWN ON THE SCREEN, AS THE ANGLE WIDENS.
 ON THE TV SCREEN, NOW, IS SENATOR NOLE.  BREAN HANGS UP THE PHONE.
 
                           MAYRA
-            <u>Ironic</u> Bess, that while Peace is At Hand, the spectre
-            of disgrace, <u>unrest</u> haunts the President, who, scant
+            Ironic Bess, that while Peace is At Hand, the spectre
+            of disgrace, unrest haunts the President, who, scant
             days from the Election...
 
 INT. MALL -- DAY
@@ -4018,15 +4011,15 @@ THE GROUP STARTS APPLAUDING.
 
                           MOSS
             Hey, hey, I'm just the Producer, I'm just the
-            <u>Stationmaster</u>, Johnny Green wrote that song, and...
+            Stationmaster, Johnny Green wrote that song, and...
 
                           AMES
             All we have to do now is sell it to the President.
 
                           BREAN
-            No, I'm telling you, this guy, <u>this</u> guy is <u>aces</u>, this
-            guy is the Kitty's Sleepwear, <u>this</u> guy, they should of
-            given him <u>every</u> Oscar.  <u>Every</u> Oscar.  This is the...
+            No, I'm telling you, this guy, this guy is aces, this
+            guy is the Kitty's Sleepwear, this guy, they should of
+            given him every Oscar.  Every Oscar.  This is the...
 
 AN AIDE ENTERS, HOLDING A BOX GINGERLY, SHE BRINGS IT TO BREAN, WHO OPENS IT,
 HOLDS IT TO THE CAMERA, IT CONTAINS A RATTY OLD 78 RECORD "FOLKLORE OF THE
@@ -4035,7 +4028,7 @@ HORN, 1934, ATHENS, GA."
 
                           BREAN
                     (HOLDING IT UP)
-            Well, <u>this</u> is genius.  Who did this?
+            Well, this is genius.  Who did this?
 
                           MOSS
             My prop guy, had a guy out here.
@@ -4049,7 +4042,7 @@ HORN, 1934, ATHENS, GA."
 A YOUNG WOMAN RAISES HER HAND.
 
                           BREAN
-            Tonight, you remember some <u>song</u>, from your <u>folksong</u>
+            Tonight, you remember some song, from your folksong
             days, something about a Good Old Shoe...
 
                           AIDE
@@ -4063,17 +4056,17 @@ A YOUNG WOMAN RAISES HER HAND.
             What if he's busy tonight?
 
                           BREAN
-            <u>Lure</u> him.
+            Lure him.
                     (PAUSE)
 
                           AIDE
             What are you saying...
 
                           BREAN
-            Well, darlin' <u>I</u> ain't your confessor.  Tell him you've
+            Well, darlin' I ain't your confessor.  Tell him you've
             got some info on the President's sex scandal, it's on
             your conscience, believe me, he'll drop what he's
-            doing.  Okay;  <u>Now</u>:  Folks, folks, folks, this is a
+            doing.  Okay;  Now:  Folks, folks, folks, this is a
             shitty business, and it needs no Ghost Come From the
             Grave to tell us that.  But in Six Days, Lord willing
             n'Jesus Tarries, I am going to take you beauties into
@@ -4096,7 +4089,7 @@ A YOUNG WOMAN RAISES HER HAND.
 HE HANDS THE PHONE TO BREAN.
 
                           BREAN
-            <u>Hello</u>.
+            Hello.
                     (PAUSE)
             What?
 
@@ -4106,17 +4099,17 @@ HE HANDS THE PHONE TO BREAN.
                           BREAN
             What do you mean he won't do it?
                     (PAUSE)
-            He won't do <u>what</u>?
+            He won't do what?
                     (TO MOSS)
             He won't do the sp...
                     (TO PHONE)
-            It's what?  It's <u>corny</u>?  <u>Corny</u>?  Is that the word?  Of
-            <u>course</u> it's corny.  We wouldn't have him <u>say</u> the
+            It's what?  It's corny?  Corny?  Is that the word?  Of
+            course it's corny.  We wouldn't have him say the
             flippin' thing it wasn't corny.  Put... listen, it's
-            not a question, we're locked <u>in</u> to this speech.  NO
+            not a question, we're locked in to this speech.  NO
             We're, Are You Listening?  LOCKED IN.  We're, we're
-            playing way <u>past</u> it, we're <u>past</u> it -- it's the set-up
-            for...he has <u>got</u> to say the speech.
+            playing way past it, we're past it -- it's the set-up
+            for...he has got to say the speech.
                     (PAUSE)
             Tell Ames to meet me at the West Gate in...
                     (HE CHECKS HIS WATCH AND HANGS UP THE
@@ -4141,10 +4134,10 @@ WOMAN SPEAKING TO A HIGHLY DECORATED GENERAL.
 
                           GENERAL
             Yes.  Thank God, I say.  Thank God for the B-2 Bomber.
-            Thank <u>God</u> for it, for it is not an engine of War, but
-            an engine of <u>Deterrence</u>, as we've seen, and were it <u>not</u>
+            Thank God for it, for it is not an engine of War, but
+            an engine of Deterrence, as we've seen, and were it not
             for that deterrence, who is to say, but that American
-            blood, would, even <u>now</u>...
+            blood, would, even now...
 
 EXT WHITEHOUSE.  PENNSYLVANIA AVE.  DAY.
 
@@ -4159,7 +4152,7 @@ A REPORTER IS INTERVIEWING A POLICEMAN.
                     (TALKING INTO A MICROPHONE)
             I was in the Vietnam Conflict, and I want to tell you
             that a man who could do what the President did -- I
-            <u>respect</u> him.  But, on <u>this</u> issue....
+            respect him.  But, on this issue....
 
 EXT WHITEHOUSE WESTGATE.  DAY.
 
@@ -4197,13 +4190,13 @@ AMSE NODS AT LEVY, WHO TAKES OFF ON HIS MASTER'S BUSINESS.
             He thinks it's too...
 
                           BREAN
-            First of all, we're locked <u>in</u> to it, <u>secondly</u>:
+            First of all, we're locked in to it, secondly:
 
                           MOSS
-            <u>Don't</u> tell me that the speech is too corny.  Your guy got
-            caught with his hand in the <u>cookie</u> Jar.  <u>I</u> came to Save
-            him.  <u>I</u> don't need this gig, I don't need the money, I
-            don't need the <u>tsuris</u> ... <u>I</u> don't need it.  <u>He</u> needs
+            Don't tell me that the speech is too corny.  Your guy got
+            caught with his hand in the cookie Jar.  I came to Save
+            him.  I don't need this gig, I don't need the money, I
+            don't need the tsuris ... I don't need it.  He needs
             the gig.  Y'r gonna go to the goddamn Doctor an exam,
             What've I got?  He tells you you've got Cancer, you
             tell him, "That's Old Hat, gimme something else"...?
@@ -4216,7 +4209,7 @@ WE SEE THE BACK OF THE PRESIDENT, ENTERING.
             Mr. President, this is St...
 
                           MOSS
-            Hi, How are ya?  <u>Listen</u> to this, willya...
+            Hi, How are ya?  Listen to this, willya...
 
 MOSS TAKES A SHEAF OF PAPERS FROM HIS POCKET AND GOES THROUGH THE DOOR FROM
 THE SMALL OFFICE INTO THE WAITING ROOM.  LEAVING THE DOOR HALF-OPEN, THE
@@ -4226,20 +4219,20 @@ PRESIDENT WAITS BEHIND, LOOKING ON THROUGH THE HALF OPEN DOOR.
                     (TO THE SECRETARIES)
             ...Ladies, thank you for coming.  I have in my hand a
             <uphotograph>.  It is a photograph of a man.  His name is
-            William A. <u>Schumann</u>.  He is the part of the team, of
+            William A. Schumann.  He is the part of the team, of
             unit 303, who dropped behind Albanian Lines.  We've
-            just <u>received</u> this photograph, of Schumann in
+            just received this photograph, of Schumann in
             captivity.  Held by a dissident, a renegade group of
             Albanian Terrorists.
                     (HE HOLDS THE PHOTOGRAPH UP)
             I'm going to call your attention to something...I don't
-            know how many of you know Morse <u>Code</u>...
+            know how many of you know Morse Code...
 
 ANGLE
 BREAN, AND AMES, IN THE CORRIDOR.  PACING.  PAUSE.
 
                           AMES
-            You <u>need</u> this Schumann fellow?
+            You need this Schumann fellow?
 
                           BREAN
             Ronnie says we don't need'em for another four days.
@@ -4274,7 +4267,7 @@ THE PRESIDENT.
 
                           MOSS
             ...and see if you can keep your dick in your pants two
-            more weeks, <u>willya</u>...?
+            more weeks, willya...?
                     (HE CLOSES THE DOOR)
                     (TO HIMSELF, DEROGATORILY)
             "...speech won't work..."
@@ -4285,7 +4278,7 @@ AND KISSES IT...
 HE PICKS UP HIS LOCKSMITH KIT, AND STARTS DOWN THE HALL, MOTIONING TO HIM TWO
 SECRET SERVICE ESCORTS, "LET'S GO..."
 HOLD ON THE WAITING ROOM, ONE OR TWO RESIDUAL WEEPING SECRETARIES DABBING AT
-THEIR EYES.  AND A SIGN ON THE BOARD, READING <u>6</u> DAYS TO ELECTION, AND %-IN-
+THEIR EYES.  AND A SIGN ON THE BOARD, READING 6 DAYS TO ELECTION, AND %-IN-
 FAVOR -- 37%.  AN AIDE GOES OVER TO THE BOARD, A PHONE TO HIS EAR, AND WIPES
 OUT 37% AND INSERTS 27%.
 
@@ -4326,9 +4319,9 @@ THE PRESIDENT, CONTINUIN TO SPEAK.
 
                           PRESIDENT
             The threat of Nuc1ear Terrorism has been quelled.  We
-            are in <u>contaot</u> with the Albanian Premier, who assures
-            me, and this government <u>credits</u> his assurances, that
-            his country does not wish us ill, and <u>has</u> not.  That
+            are in contaot with the Albanian Premier, who assures
+            me, and this government credits his assurances, that
+            his country does not wish us ill, and has not.  That
             the threat which we perceived was not of his wish, or
             of his making.
 
@@ -4373,12 +4366,12 @@ ON THE PRESSCORP, THE REPORTERS, LISTENING WIDEMOUTHED, TO THE PRESIDENT'S
 SPEECH.
 
                           PRESIDENT
-            It falls to me to <u>reveal</u> to you a <u>secret</u>.
+            It falls to me to reveal to you a secret.
                     (PAUSE)
             To reveal the existence of a secret group of warriors.
-            Men, yes, and <u>women</u>, trained and pledged their
-            <u>strength</u>, their <u>skills</u>, and, if called upon, their
-            <u>lives</u>, in the service of their fellow Americans.
+            Men, yes, and women, trained and pledged their
+            strength, their skills, and, if called upon, their
+            lives, in the service of their fellow Americans.
             A group so secret, its very existence has been known to
             just a few, and known not by a Name, but by a
             Designation Number, Three-Oh-Three...
@@ -4406,17 +4399,17 @@ ON LIZ, AS SHE WALKS THROUGH THE H.Q., ON A BOARD WE SEE "DAYS TILL ELECTION
 6" AND % IN FAVOR 82%.  A HUGE TV SHOWS THE PRESIDENT.
 
                           PRESIDENT
-            And I can only say, to those family members, <u>of</u> group
+            And I can only say, to those family members, of group
             303, which members are, I know, as I speak, gathering
             to comfort you, the parents of the missing man, I can
             only say,
 
                           LIZ
-            I need a Latin Motto, anybody know n'y <u>Latin</u>...?
+            I need a Latin Motto, anybody know n'y Latin...?
 
                           PRESIDENT
-            ....and the Albanian Government <u>joins</u> with me, that no,
-            I repeat, <u>No</u> effort will be apared, to find...
+            ....and the Albanian Government joins with me, that no,
+            I repeat, No effort will be apared, to find...
 
 ANGLE INT LIMO, BREAN AND MOSS WATCHING THE TV
 
@@ -4428,7 +4421,7 @@ BEAT.  BREAN REACHES OVER AND TURNS DOWN THE SOUND.
 THEY LOOK AT EACH OTHER AND SMILE.
 
                           MOSS
-            Trump <u>that</u>, Senator Nole, you Howdy Doody <u>vontz</u>.
+            Trump that, Senator Nole, you Howdy Doody vontz.
 
                           BREAN
             Not bad for government work.
@@ -4456,7 +4449,7 @@ CAPTIONED WITH THE NAME WILLIAM SCHUMANN, ETC.
 THE CAMERA PUSHES IN, TO A SECTION OF SCHUMANN'S SWEATER.
 
                           PRESIDENT (VO)
-            You will see his sweater is <u>worn</u>...it has been
+            You will see his sweater is worn...it has been
             unraveled in places, and those places form dashes and
             dots.
 
@@ -4472,29 +4465,29 @@ THE PRESIDENT, HOLDING THE PHOTOGRAPH
             And he got the message through. "Courage.  Mom..."
                     (PAUSE.  HE COMPOSES HIMSELF)
             Well, to the Family of William A. Schumann, to the Men
-            and Women of Unit 303, to my fellow citizens <u>I</u> say
+            and Women of Unit 303, to my fellow citizens I say
             "courage."  I have informed the Albanian government,
-            and I inform <u>you</u>, that we will not rest until the safe
+            and I inform you, that we will not rest until the safe
             return of Sergeant Schwn&amp;nn.
                     (PAUSE)
             I'm told his unit mates gave him the nickname, "Old
-            Shoe."  Ladies and Gentleman, we will not <u>treat</u> him
+            Shoe."  Ladies and Gentleman, we will not treat him
             like an Old Shoe, we...
 
 ANGLE INT, 5HOESTORE HQ.  NIGHT.
 AMES, MOSS AND BREAN, LOOKING AT THE TV.
 
                           MOSS
-            Trump <u>that</u>, Senator Nole, you Howdy-Doody-looking
-            <u>Vontz</u>.
+            Trump that, Senator Nole, you Howdy-Doody-looking
+            Vontz.
 
 ANGLE
 YOUNG PERSON'S APARTMENT, NIGHT.
 
                           PRESIDENT
                    (VO.  ON TELEVISION)
-            ...we will <u>not</u> be swayed, will, will not be <u>swayed</u>
-            from <u>Every</u> effort to find <u>our</u> Old Shoe, our...
+            ...we will not be swayed, will, will not be swayed
+            from Every effort to find our Old Shoe, our...
 
 WE HEAR A YOUNG WOMAN'S VOICE
 
@@ -4523,7 +4516,7 @@ ANGLE, INT THE LIMO.
 BREAN AND MOSS IN THE BACKSEAT.
 
                           MOSS
-            It's all, <u>you</u> know ... thinking ahead.  Thinking
+            It's all, you know ... thinking ahead.  Thinking
             Ahead.  That's what producing is.
                     (PAUSE)
             It's like being a piumber.
@@ -4546,7 +4539,7 @@ BREAN AND MOSS IN THE BACKSEAT.
             Hey, our job ends at the Finish Line.
 
                           MOSS
-            Yes, but I, well, <u>you</u> know...
+            Yes, but I, well, you know...
 
                           BREAN
             Just for the Symmetry of the thing...?
@@ -4559,7 +4552,7 @@ BREAN AND MOSS IN THE BACKSEAT.
             be surprised to wake up and find I'd won the Preakness.
 
                           MOSS
-            Well, yes, but the guy <u>did</u> bring Peace.
+            Well, yes, but the guy did bring Peace.
 
                           BREAN
             Yes, but there wasn't a War.
@@ -4575,7 +4568,7 @@ DOVE HOLDING A SWORD, AND A WOLF HOLDING AN OLIVE BRANCH.  AND THE WORD
 
                           ANNOUNCER
             "Volo," meaning, "I will."  As the President bends all
-            <u>his</u> will, to find, and to restore to his country, to
+            his will, to find, and to restore to his country, to
             his family, and to what are his mounting legion of
             friends, William Schumann, the Commando Ranger of
             detacment 3.0.3. -- Sgt. William Schumann...the Old
@@ -4606,7 +4599,7 @@ ONTO A LAMPPOST ON THE DESOLATE STREET.  A SMALL AFRICAN-AMERICAN BOY COMS
 UP, AND LOOKS THROUGH THE BOX.
 
                           KID
-            ...these Shoes are <u>ratty</u>...
+            ...these Shoes are ratty...
 
                           BREAN
             Yeah, well, that's why we're flinging them away...
@@ -4674,7 +4667,7 @@ ONE WORKER, WITH A T-SHIRT READING, "COURAGE, MOM," AND A PHOTO OF SCHUMANN,
 CHECKS HER WATCH, AND SWITCHES THE CHANNEL TO A NEWSCAST.
 
                           NEWSCASTER (ON TV)
-            ...the City <u>Council</u>, Denying the charges of...and this
+            ...the City Council, Denying the charges of...and this
             just in...the search for William Schumann continues.
             NATO, US, and Albanian Forces continue to scour the
             countryside, as...
@@ -4701,8 +4694,8 @@ BREAN AND MOSS AND THE FAD KING, LEAVING THE OFFICE, AN AIDE COMES AFTER THEM.
 
                           BREAN
             Well, well, well, well, wait a minute, we got 86
-            percent.  We bring'em back <u>tomorrow</u>, the charts go up,
-            they don't go <u>down</u>...
+            percent.  We bring'em back tomorrow, the charts go up,
+            they don't go down...
 
 THEY WALY THROUGH THE MALL, PAST A NEWSSTAND SHOWING TIME AND NEWSWEEK BOTH
 OF WHICH BREAN PICKS UP, ONE SHOWS THE PHOTO OF SCHUMANN AND THE LEGEND,
@@ -4711,21 +4704,21 @@ BACK."  THE VENDOR IS WEARING A "303" T-SHIRT.
 
                           BREAN
             I don't wanna tell them their business, but why not
-            wait to give it to him <u>after</u> the election.  When he's
+            wait to give it to him after the election.  When he's
             gonna need some help....
 
 THE AIDE NODS AND RETIRES.
 BREAN GESTURES AT THE KID WITH THE 303 T-SHIRT.
 
                           BREAN
-            <u>King</u>...
+            King...
 
                           FAD KING
             All part of the Service we Render.
 
                           MOSS
                     (OF BREAN, TO FAD KING)
-            He ain't seen <u>nothin'</u> yet.
+            He ain't seen nothin' yet.
 
                           FAD KING
             When do you bring'em back?  Schumann.
@@ -4763,13 +4756,13 @@ AS THEY WALK AWAY, MOSS CALLS BACK.
             I've come to feel It's my thing.
                     (PAUSE)
             You know, you take a job... You take a job, and, many
-            times, it's <u>just</u> a job.  And then...
+            times, it's just a job.  And then...
 
                           BREAN
             Hell of a Ride, Stanley...
 
                           MOSS
-            ...<u>isn't</u> it?
+            ...isn't it?
                     (PAUSE)
             Hey, what-the-hey ... it's all part of the
             bittersweet...
@@ -4816,8 +4809,8 @@ HORSES," COMMERCIAL.
 
                           COWHOY
                     (VO)
-            Rode the fifteen miles from the <u>Bottomland</u>, n'I was a-
-            gonna switch him for a <u>fresher</u> one to do the Ropin'...
+            Rode the fifteen miles from the Bottomland, n'I was a-
+            gonna switch him for a fresher one to do the Ropin'...
 
                           COWBOY #2
                     (VO)
@@ -4826,12 +4819,12 @@ HORSES," COMMERCIAL.
 
                           ANNOUNCER
             Don't switch Horses.  Vote.  And vote for the man who
-            brought <u>peace</u> to...
+            brought peace to...
 
 MOSS REACHES OVER AND TURNS OFF THE RADIO, SIGHS.
 
                           MOSS
-            Fucking <u>amateurs</u>.  Pity of it is, two more days, we
+            Fucking amateurs.  Pity of it is, two more days, we
             bring it all back home...
 
                           BRKAN
@@ -4850,15 +4843,15 @@ MOSS REACHES OVER AND TURNS OFF THE RADIO, SIGHS.
 
                           AMES
             It's the Pride of a Job Well Done, Stanley, yes, but
-            it's <u>more</u> than that.
+            it's more than that.
 
                           MOSS
                     (DISTRACTED)
             ...mmm?
 
                           AMES
-            It's the gratitude of your <u>party</u>, and of your
-            <u>President</u>...
+            It's the gratitude of your party, and of your
+            President...
 
                           MOSS
             Izzat the thing...
@@ -4900,7 +4893,7 @@ HE PROGRESSES DOWN THE AISLE, WHERE WE SEE AMES ON THE PHONE.
                           AMES
                     (ON PHONE)
             ...aspect of the inaugural which.... No.  No, the
-            thinking is, to <u>Wait</u> on the Congressional... hello?
+            thinking is, to Wait on the Congressional... hello?
                     (TO THE CO-PILOT)
             We getting some.... hello?  Some interference...?
 
@@ -4913,7 +4906,7 @@ HE PROGRESSES DOWN THE AISLE, WHERE WE SEE AMES ON THE PHONE.
             and Brean think, and I agree, why spend it til you need
             it.
                     (PAUSE)
-            No.  Go ahead and pre... go ahead and <u>prepare</u> it.
+            No.  Go ahead and pre... go ahead and prepare it.
             Sure.
                     (PAUSE)
             Well, you... hello?  You can find the info on him in
@@ -4952,13 +4945,13 @@ CAMERA TRAVELS UP THE CABIN AGAIN, WITH THE CO-PILOT.
             I'm slowing down...
                     (TO PHONE)
             No, no.  Look, lookit:  I think it's a mistake, well,
-            I'll <u>tell</u> you why:  you got'em by the balls, <u>Squeeze</u>.
+            I'll tell you why:  you got'em by the balls, Squeeze.
                     (PAUSE)
-            Because Schumann's the Shark.  He's ...<u>Jaws</u>.  You have
-            to <u>tease</u>'em... You don't puttem in the first reel of
+            Because Schumann's the Shark.  He's ...Jaws.  You have
+            to tease'em... You don't puttem in the first reel of
             the movie...
                     (MOSS NODS)
-            Bring'em back <u>slow</u>, the President...  No, no, put him
+            Bring'em back slow, the President...  No, no, put him
             on.  Put him on.
                     (PAUSE.  HE COVERS PHONE)
             President wants to reveal Scbumann before the election.
@@ -4976,45 +4969,45 @@ MOSS NODS ALONG.
 
                           BREAN
                     (CONT)
-            Guy says he'll respect her tomorrow, he <u>might</u>, but why
+            Guy says he'll respect her tomorrow, he might, but why
             take a chance?  Hold out til after you're married.
             That's... that's.... looky, we're offering'em Schumann,
-            make em <u>vote</u> for hhhh.... psychologically, they will
+            make em vote for hhhh.... psychologically, they will
             understand that that's the bargain.  Make them pay for
             him.  Make... that's right, the price is their vote.
             Now, we bring him home, the President announces he is
-            flying <u>home</u>, he's <u>here</u>, he's <u>there</u>... f'there the
+            flying home, he's here, he's there... f'there the
             election, TA DA, here he is.
                     (PAUSE)
             Have him say it like I wrote it, It'll be fine.
             Thanks.
                     (HE HANGS UP.)
-            Labor, five bucks an hour.  If you <u>watch</u>, <u>ten</u> bucks an
-            hour.  If you <u>help</u> ... if you <u>help</u>, a <u>hundred</u> bucks an
+            Labor, five bucks an hour.  If you watch, ten bucks an
+            hour.  If you help ... if you help, a hundred bucks an
             hour.
 
                           MOSS
-            Hey, lcokit:  <u>any</u> business...
+            Hey, lcokit:  any business...
 
                           BREAN
-            Ain't <u>that</u> the truth.
+            Ain't that the truth.
                     (PAUSE)
 
                           MOSS
             Whattaya gonna do when this is all over?
 
                           BREAN
-            What am <u>I</u> gonna do?  I'm gonna "Fade Away."
+            What am I gonna do?  I'm gonna "Fade Away."
                     (SMILES)
             What are you gonna do?
 
                           MOSS
                     (LAUGHS)
-            Well, I'll be damned if I <u>know</u> ... you know... doing
-            this <u>thing</u> ...
+            Well, I'll be damned if I know ... you know... doing
+            this thing ...
                     (PAUSE)
             You know what the worst word is, in the English
-            Language?  It's ïretirement."  What the <u>hell</u> was I
+            Language?  It's ïretirement."  What the hell was I
             thinking of?  Hell, I used to...
 
 BREAN NUDGES HIM, TO LOOK AT THE TV.
@@ -5023,7 +5016,7 @@ THEY SETTLE BACK, LOOK AT THE TV.
 
 ANGLE, ON A TV, A COUNTRY MUSIC SPECTACULAR.  WILLIE NELSON IS CALLED TO THE
 STAGE, SITS ON HIS STOOL, PLAYS A FEW BARS FOR NOTHING, AND THEN
-A RENDITION OF "<u>COURAGE, MOM</u>."
+A RENDITION OF "COURAGE, MOM."
 
 ANGLE, IN THE AUDIENCE, PAN OVER THE FACES, ONE TEENAGE GIRL IN A 858
 SWEATSHIRT, BEARING THE LOGO, AND THE WORD, "VOLO," IS SILENTLY, TEARFULLY,
@@ -5032,7 +5025,7 @@ MOUTHING THE WORDS ALONG WITH WILLIE.
                           WILLIE NELSON
             "What have you got at the end of the day?  How do you
             keep those fears at bay?  What do you say, when there's
-            nothin' to say?  <u>Courage, Mom</u>..."
+            nothin' to say?  Courage, Mom..."
                     (ET CETERA)
 
 ANGLE
@@ -5041,14 +5034,14 @@ MOSS AND BREAN.
                           BREAN
             We pick up Schumann.  Sneak him back inside the Beltway.
             And we plan his homecoming.  Zt's gone be Neil
-            Armstrong, Dr. Livingston, and <u>Lindy</u>...They're gonna
+            Armstrong, Dr. Livingston, and Lindy...They're gonna
             forget, they're gonna forget, they're gonna forget that
-            there <u>is</u> an election...The Pres's gonna have to say,
+            there is an election...The Pres's gonna have to say,
             one of his speeches, "Don't forget to Vote..."
 
                           MOSS
             I got it in the inaugural.  "Thank you for voting for
-            me, but, <u>as</u> importantly:  Thank you for <u>voting</u>...
+            me, but, as importantly:  Thank you for voting...
                     (HE GESTUR£S AT A SHEAF OF PAPERS)
 
                           BREAN
@@ -5071,8 +5064,8 @@ ANGLE
 INT THE PLANE.  AS THE TWO UNBUCKLE, AND STRETCH.
 
                           MOSS
-            But, you know, <u>this</u> is the meeting, Ron?  You think
-            about it.  <u>This</u> is the meeting.  This, here.  Schumann
+            But, you know, this is the meeting, Ron?  You think
+            about it.  This is the meeting.  This, here.  Schumann
             and us.  King Kong and the Trainers...this's it... What
             are you working on?
 
@@ -5098,12 +5091,12 @@ AMES COMES UP FROM THE BACK OF THE PLANE.
             ...The Albanian Campaign...
 
                           MOSS
-            ...like the <u>sound</u> of it, eh...
+            ...like the sound of it, eh...
 
                           AMES
             We've got to put that, into the Inaugural.  "I have
             here, a ribbon.  You haven't seen it before, and you
-            will not see it too often <u>now</u>.  For it is the Proud
+            will not see it too often now.  For it is the Proud
             Possession of a few, a very few Men and Women... it is
             the Ribbon of the Albanian Campaign...."
 
@@ -5130,7 +5123,7 @@ THE OTHER TWO MEN LAUGH WITH HIM.
             And we won't even be a footnote...
 
                           BREAN
-            We <u>were</u> the Albanian campaign, John -- <u>We Were There</u>.
+            We were the Albanian campaign, John -- We Were There.
 
 HE CLEARS HIS THROAT.  HE LOOKS OUT THROUGH THE WINDOW.  WE SEE A MILITARY
 CONVOY APPROACHING.  THE DOOR TO THE COCKPIT OPENS, THE PILOT GOES OUT.
@@ -5152,14 +5145,14 @@ OF THE WINDOW.
 
                           BREAN
             They should be.  Most valuable animal since Sea
-            Biscuit.  <u>Isn't</u> he...
+            Biscuit.  Isn't he...
 
                           MOSS
-            Bigger than that.  For want of a nail a <u>Kingdom</u> was
+            Bigger than that.  For want of a nail a Kingdom was
             lost...
 
                           BREAN
-            You've <u>got</u> something, there...
+            You've got something, there...
 
                           AMES
                     (WRITING)
@@ -5212,7 +5205,7 @@ IS LED ONTO THE PLANE, FLANKED BY 4 M.P.'S, AND AN OFFICER, WITH A CLIPBOARD.
             Sergeant Schumann?  If I may?  Welcome to History...
 
                           AMES
-            Sergeant Schumann?  My name is Ames.  <u>Welcome</u>.
+            Sergeant Schumann?  My name is Ames.  Welcome.
 
                           OFFICER
             S'mby named Brean?  Sign here...
@@ -5228,14 +5221,14 @@ IS LED ONTO THE PLANE, FLANKED BY 4 M.P.'S, AND AN OFFICER, WITH A CLIPBOARD.
             Whaddaya think?
 
                           PILOT
-            Six to five and pick'em...you wanna <u>chance</u> it...
+            Six to five and pick'em...you wanna chance it...
 
 THEY ARE QUIET, AS SOUNDS OF THE TV FILTER IN.  AN EXCITED NEWSCASTER.
 
                           NEWSCASTER
                     (ON TV)
             Word that William Schumann, the Old Shoe, is
-            expected back, today, and that a <u>glimpse</u> of him...
+            expected back, today, and that a glimpse of him...
 
                           MOSS
             Let's fly, if it'll fly... People waiting for us...
@@ -5248,10 +5241,10 @@ THE PHONE RINGS.  BREAN ANSWERS IT.
             ...child at the airport...
                     (TO MOSS)
             breaks through the ranks, runs to "old shoe" --
-            should we have <u>flower</u> or a <u>bear</u>...?
+            should we have flower or a bear...?
 
                           AMES
-            Uh...Didn't we <u>do</u> this?
+            Uh...Didn't we do this?
 
                           BREAN
             Never quit a winner.
@@ -5262,9 +5255,9 @@ THE PHONE RINGS.  BREAN ANSWERS IT.
                           BREAN
             They insist they wanna go with meeting him at the
             airport.  I told'em they're wrong, I can't convince'em.
-            They're concerned that the last kid had the <u>Wheat</u>.
-            Variations include, the kid is a <u>boy</u>, the kid is <u>twins</u>,
-            it's a little <u>dog</u> ... they rub meat on Schumann's cuff,
+            They're concerned that the last kid had the Wheat.
+            Variations include, the kid is a boy, the kid is twins,
+            it's a little dog ... they rub meat on Schumann's cuff,
             the dog runs to him...
 
                           MOSS
@@ -5305,7 +5298,7 @@ RUNNING AFTER HIM.
             No trouble at all.
 
                           AMES
-            What did he <u>do</u>...?
+            What did he do...?
 
 THE OFFICER CONSULTS HIS CLIPBOARD.
 CAMERA PANS TO SHOW THE VAN READS "MILITARY SPECIAL PRISONS."
@@ -5330,7 +5323,7 @@ MOSS TAKES THE CLIPBOARD, AND READS, WHILE AMES SITS STUNNED.
                           SCHUMANN
             Fine.
 
-MOSS HOLDS UP THE <u>MILITARY</u> DIRECTORY.
+MOSS HOLDS UP THE MILITARY DIRECTORY.
 
                           MOSS
             I think we asked for "special programs" and they gave
@@ -5373,7 +5366,7 @@ PAUSE
                           AMES
             And?  NO.  I don't wanna know.
                     (PAUSE)
-            What do you <u>mean</u> "and..."?
+            What do you mean "and..."?
 
                           MOSS
                     (READING)
@@ -5419,18 +5412,18 @@ THE THREE STRAPPED IN, THE PLANE TOSSING WILDLY.  BREAN ON THE PHONE.
                           SCHUMANN
             You gonna git me back tomorrow?
                     (PAUSE)
-            Cause they havin <u>beans</u> tomorrow...
+            Cause they havin beans tomorrow...
 
                           BREAN
                     (ON THE PHONE)
                     (HE PICKS UP A BOTTLE OF SCOTCH AND
                     STARTS DRINKING FROM IT.)
-            A slight, a slight, well, no, we're gonna <u>deal</u> with it,
+            A slight, a slight, well, no, we're gonna deal with it,
             we just, I need a little readjustment...we need to
-            re<u>think</u>...
+            rethink...
 
                           MOSS
-            Yes, William, Uh, we have this <u>thing</u> we're doing...
+            Yes, William, Uh, we have this thing we're doing...
 
                           SCHUMANN
             Long's you git me back for the beans...
@@ -5440,10 +5433,10 @@ THE THREE STRAPPED IN, THE PLANE TOSSING WILDLY.  BREAN ON THE PHONE.
 
                           BREAN
                     (ON THE PHONE)
-            We're gonna, just, may have to call <u>off</u> the...
+            We're gonna, just, may have to call off the...
 
 HE GESTURES AT THE SILENT TELEVISION, WHERE WE SEE THE SIGNS OF THE
-SCAFFOLDING, SIGNS READING, "WELCOME HOME <u>OLD SHOE</u>," ET CETERA...
+SCAFFOLDING, SIGNS READING, "WELCOME HOME OLD SHOE," ET CETERA...
             Well, maybe, you know, ah, ah, he's sicker than we
             thought, and rush him under wraps to Walter Reed to do
             a complete...
@@ -5457,14 +5450,14 @@ SCAFFOLDING, SIGNS READING, "WELCOME HOME <u>OLD SHOE</u>," ET CETERA...
                     RIBS)
 
                           AMES
-            Oh Lord.  What have you <u>done</u> to me?  What have you <u>done</u>
+            Oh Lord.  What have you done to me?  What have you done
             to me...?
 
                           BREAN
             Wilfred.
 
                           AMES
-            ...what have you <u>done</u> to me...
+            ...what have you done to me...
 
                           BREAN
             All Combat takes place at night, in the Rain, and at
@@ -5479,16 +5472,16 @@ SCAFFOLDING, SIGNS READING, "WELCOME HOME <u>OLD SHOE</u>," ET CETERA...
                           BREAN
             Speaking of that...
                     (HE LOOKS AT THE VIAL)
-            We're gonna need a whole lot <u>more</u> of this....
+            We're gonna need a whole lot more of this....
 
                           AMES
-            Well, get on the phone, and <u>get</u> it...
+            Well, get on the phone, and get it...
 
                           MOSS
             You know, I think you people are looking at this All
-            Wrong.  If you look at the <u>backstory</u> -- the guy's
-            coming back from Combat and Torture.  Of <u>course</u> he is
-            gonna be ... uh ... uh ... "fucked up".  Of <u>Course</u> he's
+            Wrong.  If you look at the backstory -- the guy's
+            coming back from Combat and Torture.  Of course he is
+            gonna be ... uh ... uh ... "fucked up".  Of Course he's
             gonna "need a little help"...
                     (GESTURES PUTTING A HYPODERMIC IN HIS
                     ARM)
@@ -5497,13 +5490,13 @@ SCAFFOLDING, SIGNS READING, "WELCOME HOME <u>OLD SHOE</u>," ET CETERA...
                     (TO HIMSELF)
             Oh, Lord....
 
-ANGLE, ON THE TV, WHERE WE SEE THE PRESIDENT, WEARING AN <u>OLD SHOE</u> BUTTON.
+ANGLE, ON THE TV, WHERE WE SEE THE PRESIDENT, WEARING AN OLD SHOE BUTTON.
 
                           PRESIDENT
-            ...a proclamation of a Day of National <u>Rejoining</u>...
+            ...a proclamation of a Day of National Rejoining...
 
 THE TELEVISICN GOES ALL FUZZY, THEN CONKS OUT.
-            ...a day of <u>Humility</u>, a day of <u>Pride</u>...in the Return
+            ...a day of Humility, a day of Pride...in the Return
             of...
 
                           SCHUMANN
@@ -5515,17 +5508,17 @@ FLASHING OUT OF THE WINDOW, THE CO-PILOT COMES BACK INTO THE CABIN...
                           BREAN
                     (ON THE PHONE)
             Just....do what I ...look:  get me a ...hello...?
-            Hel...?  I'm going to need an <u>ambulance</u>, we take him,
-            the last moment, right from the Pl...no, <u>we</u> land, we
-            puttem <u>in</u> the ambulance.  Air force jet lands, we take
-            somebody <u>else</u> off <u>that</u> jet...what the fuck do <u>I</u> care?
+            Hel...?  I'm going to need an ambulance, we take him,
+            the last moment, right from the Pl...no, we land, we
+            puttem in the ambulance.  Air force jet lands, we take
+            somebody else off that jet...what the fuck do I care?
             Somebody in a Hospital gown.  And we need a
             ......hello?  Hello...?
 
 THE LINE GOES DEAD.
 
                           BREAN
-            Cause I don't think <u>this</u> dog is gonna hunt....
+            Cause I don't think this dog is gonna hunt....
 
                           MOSS
             He's going to be fine, aren't you boy...?
@@ -5533,9 +5526,9 @@ THE LINE GOES DEAD.
                           BREAN
             Yeah, well, perhaps...
                     (TO PHONE)
-            Speaking of which:  I have a <u>prescription</u> here, I'm
-            going to give you the <u>number</u>, I need you standing by
-            with a <u>crate</u> of the stuff.... it's ... what is it?
+            Speaking of which:  I have a prescription here, I'm
+            going to give you the number, I need you standing by
+            with a crate of the stuff.... it's ... what is it?
 
                           MOSS
             An anti-psychotic...
@@ -5557,20 +5550,20 @@ HE RETURNS TO THE COCKPIT.  BREAN TRIES TO REDIAL THE TELEPHONE.
             Long's I git back for my Beans.
 
                           MOSS
-            This is <u>nothing</u>,  Wait'll you've worked with a movie
+            This is nothing,  Wait'll you've worked with a movie
             star, one time, this is nothing, we keep him shot-up
             and happy -- the Old Days, I used to think I was a
-            <u>pharmacist</u>, the kind of stuff I had to do.  One time...
+            pharmacist, the kind of stuff I had to do.  One time...
 
                           SCHUMANN
-            Cause the beans, y'know, y'can tell if they're <u>puttin</u>
+            Cause the beans, y'know, y'can tell if they're puttin
             stuff in it.
 
                           BREAN
             Uh huh...
 
                           SCHUMANN
-            So you don't have to <u>fear</u> it.
+            So you don't have to fear it.
 
                           BREAN
             Uh huh...
@@ -5579,7 +5572,7 @@ HE RETURNS TO THE COCKPIT.  BREAN TRIES TO REDIAL THE TELEPHONE.
             Mmm.
 
                           BREAN
-            What <u>kind</u> of stuff?
+            What kind of stuff?
                     (TO PHONE)
             Hello...?
 
@@ -5595,7 +5588,7 @@ HE RETURNS TO THE COCKPIT.  BREAN TRIES TO REDIAL THE TELEPHONE.
             Give'em another pill...
 
                           AMES
-            No.  No.  He didn't mean anything by it at <u>all</u>...
+            No.  No.  He didn't mean anything by it at all...
 
                           BREAN
                     (TO PHONE)
@@ -5604,27 +5597,27 @@ HE RETURNS TO THE COCKPIT.  BREAN TRIES TO REDIAL THE TELEPHONE.
 MOSS ADMINISTERS A PILL TO SCHUMANN.
 
                           SCHUMANN
-            What the fuck did you <u>mean</u>, "What kind of stuff?"?
+            What the fuck did you mean, "What kind of stuff?"?
 
                           MOSS
                     (TO BREAN)
             ...this is nothing.  This is nothing. D'you ever shoot
-            in <u>Italy</u>?  Try three Italian starlets on Benzedrine,
+            in Italy?  Try three Italian starlets on Benzedrine,
             this is a walk in the park...
 
                           SCHUMANN
                     (AS IF COMING TO)
-            ...who <u>are</u> you?
+            ...who are you?
                     (PAUSE)
-            Who <u>are</u> you sonofabitches...
+            Who are you sonofabitches...
                     (HE LOOKS AROUND WILDLY)
 
                           AMES
-            We're just, actually, we're <u>friends</u> of... can we get
-            another <u>pill</u> into him...
+            We're just, actually, we're friends of... can we get
+            another pill into him...
 
                           SCHUMANN
-            Where are you <u>taking</u> me...?
+            Where are you taking me...?
 
                           BREAN
                     (TO PHONE)
@@ -5657,7 +5650,7 @@ AMES, SIMILARLY BRUISED, STUMBLES FROM THE PLANE BEHIND HIM.
 
                           BREAN
             ...kid complains, kid cries, gets more junk, junk don't
-            work, kid cries, gets <u>more</u> junk.  End of the song,
+            work, kid cries, gets more junk.  End of the song,
             house full of worthless junk, the kid's still crying.
             Story of America...
                     (HE SITS ON THE GROUND AND OPENS THE
@@ -5695,18 +5688,18 @@ SPEAKING LUGUBRIOUSLY, INTO THE CAMERA.
             Can't ya Talk, you sonofabitches...?
 
                           MOSS
-            What the hell do <u>we</u> care?
+            What the hell do we care?
 
                           BREAN
-            Eh?  I'm like the Rest of America.  I don't <u>care</u> -- I'm
-            just <u>addicted to it</u>...
+            Eh?  I'm like the Rest of America.  I don't care -- I'm
+            just addicted to it...
 
 A PHOTO OF SCHUMANN COMES ON THE TELEVISION.  BREAN STUMBLES BACK INTO THE
 PLANE, AND HAULS THE DAZED SCHUMANN OUT, AND PROPS HIM AGAINST THE PLANE.
 
                           BREAN
                     (TO SCHUMANN)
-            N'just when everything was going so <u>well</u>...
+            N'just when everything was going so well...
 
 HE SIGHS.  HE LOOKS AT THE TELEVISION SCREEN.
 
@@ -5727,10 +5720,10 @@ GLANCING AT HIS WATCH.
                           AMES
             Is he dead?
                     (PAUSE)
-            Is he dead?  ARE YOU DEAD?  WAKE <u>UP</u>.  You stupid, nun-
-            raping sonofoabitch.... wake <u>up</u>...  WAKE UP.  Do you
-            want to spend the rest of your life in JAIL?  WAKE <u>UP</u>!
-            Do You Know Who I <u>AM</u>???  I'm <u>talking</u> to you...
+            Is he dead?  ARE YOU DEAD?  WAKE UP.  You stupid, nun-
+            raping sonofoabitch.... wake up...  WAKE UP.  Do you
+            want to spend the rest of your life in JAIL?  WAKE UP!
+            Do You Know Who I AM???  I'm talking to you...
 
 SCHUMANN BEGINS TO ROUSE BIMSELF.
 
@@ -5743,19 +5736,19 @@ SCHUMANN BEGINS TO ROUSE BIMSELF.
             Courage, Mom.
 
                           AMES
-            Oh.  Hell.  And what do we do now?  What do we do <u>now</u>?
+            Oh.  Hell.  And what do we do now?  What do we do now?
             Boy Producer?
                     (PAUSE)
-            Mister Win-an-Emmy, Social Conscience, <u>Whaleshit</u>, save-
-            the-rainforest, Liberal hire-a-convict <u>shithead</u>?
+            Mister Win-an-Emmy, Social Conscience, Whaleshit, save-
+            the-rainforest, Liberal hire-a-convict shithead?
             Mister Affirmative-Action Peacnik.  Commie...
-            <u>shithead</u>....?
+            shithead....?
 
                           MOSS
                     (PAUSE)
             This is nothing. ...piece of cake.  Y'know, producing
             is being a Samurai Warrior.  They pay you, day in, day
-            out, for Years, so that, ONE DAY, when <u>called</u> upon,
+            out, for Years, so that, ONE DAY, when called upon,
             you can respond, your training At Its Peak, and save
             the day.
 
@@ -5769,10 +5762,10 @@ THE TV COMES TO LIFE.
 THE NEXT SHOT IS SENATOR BUD NOLE, SPEAKING EARNESTLY AT THE CAMERA.
 
                           NOLE
-            ...this...regrettable <u>absence</u>... this ...tardy <u>absence</u>
+            ...this...regrettable absence... this ...tardy absence
             of the flight.  Must give us pause.  And, in that pause
             we should take time to examine ourselves, our plans,
-            and our <u>future</u>.  There has been an ...<u>interregnum</u> -- if
+            and our future.  There has been an ...interregnum -- if
             you will, of reason, while we've watched unfold this
             drama..... on the world scale...
 
@@ -5789,12 +5782,12 @@ STRETCHING AWAY IN THE DISTANCE
                           NOLE (C)
             The drama is done, and we must pause to consider.
                     (HE HOLDS UP A PHOTO OF THE PRESIDENT)
-            And we must consider this man.  <u>This</u> man...who, you
+            And we must consider this man.  This man...who, you
             will remember, was discovered, scant days ago, in a
-            situation which <u>must</u> debar him from Public Office...
+            situation which must debar him from Public Office...
                     (HE HOLDS UP A SHOT OF THE PRESIDENT
                     AND THE GIRLSCOUTS)
-            And I say, <u>when</u> we take time to reflect, there're going
+            And I say, when we take time to reflect, there're going
             to be a lot of apartments for rent in Washington,
             Election Day.  Two days from now, Folks...Don't forget
             to vote.
@@ -5807,12 +5800,12 @@ AMES KICKS IN THE THLEVISION.  HE MOVES TO SCHUMANN AND LIFTS HIM TO HIS FEET.
                           BREAN
                     (DRUNKENLY)
             Leav't alone.  Wha'd television ever do to you?  Ate
-            your <u>life</u>, ruin'd your <u>Culture</u>, but...
+            your life, ruin'd your Culture, but...
 
 AMES FINISHES DESTROYING THE TV.
 
                           AMES
-            <u>IT DESTROYED THE ELECTORAL PROCESS</u>.        
+            IT DESTROYED THE ELECTORAL PROCESS.        
 
 HE FINISHES RAGING AT THE TELEVISION SET.  PAUSE.
 
@@ -5850,7 +5843,7 @@ MOSS MOVES SCHUMANN INTO A STANDING POSITION.
             against us.  We killed Old Shoe...
                     (HE BEGINS TO WEEP)
             We killed the Schuster...spend our life in a
-            packingcrate...Where are you <u>going</u>...?
+            packingcrate...Where are you going...?
 
 MOSS STARTS CODDLING SCHUMANN.
 
@@ -5862,7 +5855,7 @@ MOSS STARTS CODDLING SCHUMANN.
 
                           MOSS
             He's not dead, Ronnie.  He's just a little
-            understandab1y, <u>fatigued</u>.
+            understandab1y, fatigued.
                     (PAUSE)
             Let's get him to some help...
 
@@ -5882,7 +5875,7 @@ MOSS WALKS TO BREAN, AND STARTS KICKING HIM.
             Come on, you fucking sissy, you think this is tough?
             Try show-business.  1970-1990, n'ybody I worked with,
             y'could of bottled their piss n'sold it in the
-            <u>ghettos</u>...
+            ghettos...
                     (TO SCHUMANN)
             Come on, Pal...
 
@@ -5890,10 +5883,10 @@ MOSS WALKS TO BREAN, AND STARTS KICKING HIM.
             I'm tired.
 
                           MOSS
-            Finish Strong!  Are you <u>nuts</u>?
+            Finish Strong!  Are you nuts?
                     (HE STARTS SHEPHERDING THE TWO ACROSS
                     THE VAST WHEATFIELD)
-            Are you nuts?  This's Pennies from <u>Heaven</u>... on his
+            Are you nuts?  This's Pennies from Heaven... on his
             triumphal return home, Old Shoe, his Plane Forced
             Down...AND YET...
 
@@ -5901,8 +5894,8 @@ MOSS WALKS TO BREAN, AND STARTS KICKING HIM.
             He's supposed to be flying in from Europe.
 
                           MOSS
-            We'll deal with that when we come to it.  <u>This</u> is
-            producing.  <u>This</u> is what they pay off on...come on,
+            We'll deal with that when we come to it.  This is
+            producing.  This is what they pay off on...come on,
             Pal, Boots and Saddles...
 
                           AMES
@@ -5912,8 +5905,8 @@ MOSS WALKS TO BREAN, AND STARTS KICKING HIM.
             Shot down, Forced down...
                     (HE GESTURES, MEANING, THIS IS A MINOR
                     POINT)
-            You guys are <u>missing</u> it... You're missing the
-            <u>opportunity</u>
+            You guys are missing it... You're missing the
+            opportunity
 
 THE GROUP TRUDGES OFF.
 
@@ -5935,19 +5928,19 @@ CROWD BREAKING UP.
 ANGLE.  THE THREE IN THE PASSENGER SPACE OF THE COMBINE.
 
                           MOSS
-            <u>This</u> is producing.  This is, this is, <u>this</u> is the
+            This is producing.  This is, this is, this is the
             Beauty Part.  You've got your fortune right here, and
             you were ready to throw it away.  Because he's got a
-            <u>Problem</u>?  F'it was easy, <u>anyone</u> would do it.
+            Problem?  F'it was easy, anyone would do it.
                     (PAUSE)
             Otto Preminger.  Had to film a scene, in EXODUS.  The
             proclamation of the State of Israel.  Needed twenty
             thousand extras, n'Jerusalem Park.  Not enough money to
             pay'em.  What did he do?  What did he do?  Printed up
-            signs:  Be in a movie, fifteen skekels.  He <u>Charged</u>'em
-            -- had to turn'em away.  <u>That's</u> producing.  That's
+            signs:  Be in a movie, fifteen skekels.  He Charged'em
+            -- had to turn'em away.  That's producing.  That's
             producing... n'you know, someday, people're gonna tell
-            <u>this</u> story...
+            this story...
 
                           BREAN
             You can't tell this story.
@@ -5959,13 +5952,13 @@ ANGLE.  THE THREE IN THE PASSENGER SPACE OF THE COMBINE.
             Some'b'y'll have you killed.
 
                           MOSS
-            Ha ha.  No, no, not <u>now</u>, not <u>now</u>, of course, But
-            Someday... when they tell <u>this</u> story...
+            Ha ha.  No, no, not now, not now, of course, But
+            Someday... when they tell this story...
 
                           AMES
             You can't tell this story.  He's not kidding you.
                     (PAUSE)
-            You can't tell this story.  <u>You</u> knew that.
+            You can't tell this story.  You knew that.
                     (PAUSE)
             The pay off was, you get to be Ambassador, or...
 
@@ -5977,23 +5970,23 @@ ANGLE.  THE THREE IN THE PASSENGER SPACE OF THE COMBINE.
 
                           BREAN
             And what the fuck story are you gonna tell?  The guy is
-            a <u>nutcase</u>.
+            a nutcase.
 
                           MOSS
             You would be, two, if you'd gone through what he went
             through.
 
                           BREAN
-            He raped a <u>Nun</u>...
+            He raped a Nun...
 
                           MOSS
-            What he went through in <u>Albania</u>...
+            What he went through in Albania...
 
                           BREAN
-            He's doped to the <u>Gills</u> ...
+            He's doped to the Gills ...
 
                           SCHUMANN
-            ...where's my l'il <u>pill</u>?
+            ...where's my l'il pill?
 
                           MOSS
                     (TO BREAN)
@@ -6005,7 +5998,7 @@ ANGLE.  THE THREE IN THE PASSENGER SPACE OF THE COMBINE.
                     (PAUSE)
 
                           AMES
-            How do we explain <u>that</u>?
+            How do we explain that?
 
                           MOSS
             ...how do we Explain That?  Hey?  Am I worried...?
@@ -6014,20 +6007,20 @@ ANGLE.  THE THREE IN THE PASSENGER SPACE OF THE COMBINE.
             ...how do we explain that?  With the World Watching.
 
                           MOSS
-            <u>Fuck</u> the world.  Try a ten A.M. <u>pitch</u> meeting, no
+            Fuck the world.  Try a ten A.M. pitch meeting, no
             sleep, coked-to-the-gills, and you haven't even read
-            the <u>material</u>.
+            the material.
 
                           AMES
             But how do we explain the fact he was in prison?
 
                           MOSS
             How do we explain that?  Ah, well, you see, Wilfred,
-            this is where you've never been at a <u>pitch</u>.  You see?
-            His <u>records</u> say he was in prison ... as they must, as
-            <u>all</u> the records of Group 303 have the men and the
+            this is where you've never been at a pitch.  You see?
+            His records say he was in prison ... as they must, as
+            all the records of Group 303 have the men and the
             women, carried on their roster, as belonging somewhere
-            else, the <u>secrecy</u> required of....
+            else, the secrecy required of....
 
 ANGLE
 MOSS STILL TALKING, THE HARVESTER CONTINUING DOWN THE ENDLESS ROWS OF WHEAT,
@@ -6041,8 +6034,8 @@ THE OWNER, BOOTS PROPPED ON THE COUNTER, WATCHING AN OLD BLACK AND WHITE
 TELEVISION.  IT IS SENATOR NOLE.
 
                           NOLE
-            Get out and vote, get <u>out</u> and vote, but remember the
-            difference, between a Promise, and a <u>deed</u> -- a promise-
+            Get out and vote, get out and vote, but remember the
+            difference, between a Promise, and a deed -- a promise-
             and-a-deed...
 
 HE HALF TURNS HIS HEAD, ACROSS THE HIGHWAY WE SEE THE HARVESTER, WITH MOSS AND
@@ -6119,9 +6112,9 @@ OLD WESTERNER, LOOKING AT THE TELEVISION WHERE WE SEE SENATOR NOLE.
 ANGLE ON THE TELEVISION, SENATOR NOLE.
 
                           NOLE
-            ...<u>produce</u> this Schumann.
+            ...produce this Schumann.
                     (PAUSE)
-            <u>Produce</u> him.  I say;  or, and I do not hesitate to say
+            Produce him.  I say;  or, and I do not hesitate to say
             it, rank him as Just One More...
 
 THE OWNER GESTURES AT A COLD DRINK COOLER.
@@ -6129,7 +6122,7 @@ THE OWNER GESTURES AT A COLD DRINK COOLER.
                           NOLE
                     (CONT.)
             Just One More of a series of Broken Promises.  Of ...
-            <u>Fantasies</u>, yes, Fantasies, which...
+            Fantasies, yes, Fantasies, which...
 
 MOSS AND SCHUMANN WALK OVER TO THE COOLER.  THEY LOOK OUT THE WINDOW AT
 BREAN, WHO IS WALKING IN FROM THE PHONE.  HE HANGS UP AND COMES IN.
@@ -6160,9 +6153,9 @@ ANGLE
 ON THE THREE, AS THEY WATCH THE TELEVISION.
 
                           MOSS
-            <u>Okay</u> ... it's time for the <u>Cavalry</u>.
+            Okay ... it's time for the Cavalry.
                     (PAUSE)
-            Nick of <u>Time</u>.... sonofabitches.... Fuck with <u>me</u>...?
+            Nick of Time.... sonofabitches.... Fuck with me...?
 
                           PRESIDENT (VO)
             My fellow Americans.
@@ -6184,9 +6177,9 @@ ANGLE
 THE GROUP WATCHING TELEVISION.
 
                           PRESIDENT
-            ...he is down <u>safely</u>, though the flight crew perished
+            ...he is down safely, though the flight crew perished
             in the crash.  He will be transhipped, we are informed
-            he has sustained <u>minor</u> injuries, which will require his
+            he has sustained minor injuries, which will require his
             being medicated for some time, but, I am assured...
 
 AMES WANDERS IN.
@@ -6245,7 +6238,7 @@ ANGLE ON AMES, ETC.
                           MOSS
             Pals:
                     (TO BREAN)
-            Get on the <u>phone</u>... r'they flying it?
+            Get on the phone... r'they flying it?
 
                           BREAN
             They'll be here in ten minutes.
@@ -6253,11 +6246,11 @@ ANGLE ON AMES, ETC.
                           MOSS
             Get on the phone, have'em fly in a ...whaddaya need to
             be a citizen?  A Judge?  Whaddaya need?  A Judge...?
-            Call in a <u>Judge</u>, call in a Federal <u>Judge</u>, and...
+            Call in a Judge, call in a Federal Judge, and...
                     (TO AMES, AS IF TO A CHILD)
             If you're concerned about him, being an ..."immigrant."
-            Make him a <u>citizen</u>... Eh?  <u>Guys</u> ... what's all this
-            <u>mopery</u>, we...
+            Make him a citizen... Eh?  Guys ... what's all this
+            mopery, we...
 
 SCHUMANN LOOKS TO THE SIDE.
 THE YOUNG GIRL HAS DROPPED A SPOON OFF OF THE WORKTABLE AND BENDS OVER TO PICK
@@ -6274,7 +6267,7 @@ ANGLE
 ON THE MEN, IN THE ROOM, ARGUING ABOUT THE ILLEGAL ALIEN, SCHUMANN IN THE B.G.
 
                           SCHUMANN
-            WHERE'S MY FUCKING <u>PIIIILLLLLLL</u>...?
+            WHERE'S MY FUCKING PIIIILLLLLLL...?
 
 SCHUMANN RUNS INTO THE KITCHEN, AND WE HEAR THE SOUNDS OF LITTLE GIRL SCREAMS.
 
@@ -6284,7 +6277,7 @@ THE OWNER STANDS, AND LOOKS AROUND.
                           OWNER
             Susie...?
                     (PAUSE)
-            <u>Susie</u>...
+            Susie...
 
 HE IS ANSWERED BY WHIMPERING.
 
@@ -6294,7 +6287,7 @@ HE IS ANSWERED BY WHIMPERING.
 THE GAS STATION OWNER GOES TO THE DOOR TO THE KITCHEN, AND FINDS IT LOCKED.
 
                           OWNER
-            Susie?  Susie.  Are you alright...?  <u>Susie</u>...
+            Susie?  Susie.  Are you alright...?  Susie...
 
 MOSS STRIDES UP TO THE DOOR.
 
@@ -6345,7 +6338,7 @@ THE KITCHEN.  AMES PEEKS OVER THEIR SHOULDERS.
 
                           BREAN
                     (AFFECTLESS)
-             ...<u>now</u> look what's happened...
+             ...now look what's happened...
 
 BREAN WALKS TO THE DRINK COOLER, OPENS A CAN OF DR. PEPPER, AND COMES BACK TO
 STAND IN THE DOORWAY.
@@ -6361,25 +6354,25 @@ ONTO THE HIGHWAY.
 
                           MOSS
             Naa, fuck this, this is nothing.  Oh, Lord -- this
-            just got <u>Big</u>.  I see it -- <u>Big</u> -- Big for <u>you</u> and big
-            for <u>me</u>.
+            just got Big.  I see it -- Big -- Big for you and big
+            for me.
 
                           AMES
             What are you talking about?
 
                           MOSS
-            You're not <u>thinking</u> right, Pal...
+            You're not thinking right, Pal...
 
                           AMES
-            He's <u>dead</u>.
+            He's dead.
                     (PAUSE)
-            He's <u>dead</u>.
+            He's dead.
                     (PAUSE)
             The Fella Killed Old Shoe.
                     (PAUSE)
 
                           MOSS
-            And <u>what</u> is bigger than a triumphal Homecoming...?
+            And what is bigger than a triumphal Homecoming...?
 
 INT HANGAR, ANDREWS AIRFORCE BASE, DAY.
 
@@ -6398,7 +6391,7 @@ BREAN AND MOSS, THEY SWIVEL THEIR HEADS, AND WE SEE, BEYOND THE DOORS OF THE
 HANGAR, A VAST CROWD, FLASHBULBS BEGIN POPPING.
 
 ANGLE ON MOSS, AS HE GLANCES AROUND, AND THEN AT AN AIDE, AS IF TO SAY,
-<u>WELL</u>...
+WELL...
 
 THE AIDE LOOKS AROUND, AND THEN, WITH RELIEF, AT THE CROWD, AS A SMALL DOG
 BREAKS AWAY, AND RUNS TOWARD THE CASKET.
@@ -6456,7 +6449,7 @@ WE SEE A COUPLE OF MEDIA NERDS, BEING INTERVIEWED AROUND A CONFERENCE TABLE.
             top...
 
                           FIRST MEDIA GUY
-            Yes, you could <u>say</u> that, Joyce, but it wouldn't be
+            Yes, you could say that, Joyce, but it wouldn't be
             true.
 
                           JOYCE
@@ -6471,8 +6464,8 @@ WE SEE A COUPLE OF MEDIA NERDS, BEING INTERVIEWED AROUND A CONFERENCE TABLE.
             ...as of today, 89% favorable.
 
                           SECOND MEDIA GUY
-            Eighty-<u>nine</u> percent favorable, is based not on
-            <u>events</u>...
+            Eighty-nine percent favorable, is based not on
+            events...
          
                           BREAN
             ...events.
@@ -6484,14 +6477,14 @@ WE SEE A COUPLE OF MEDIA NERDS, BEING INTERVIEWED AROUND A CONFERENCE TABLE.
             ...no...
 
                           SECOND MEDIA GUY
-            But on the spin <u>given</u> to those events.
+            But on the spin given to those events.
 
                           FIRST MEDIA GUY
             ...yes.
 
                           SECOND MEDIA GUY
-            On the meaning <u>found</u> in those events, and given to the
-            <u>public</u>...
+            On the meaning found in those events, and given to the
+            public...
 
                           JOYCE
             ...by you?
@@ -6504,7 +6497,7 @@ WE SEE A COUPLE OF MEDIA NERDS, BEING INTERVIEWED AROUND A CONFERENCE TABLE.
             Well, there's a lot to be said for that.  And I'm
             going to show a clip.
                     (TO THE AUDIENCE)
-            You've seen it before, you've seen it <u>many</u> times...
+            You've seen it before, you've seen it many times...
                     (ALL SMILE)
             But I'm going to ask you to look at it once more.  With
             the election one day off, and the President's standing
@@ -6514,15 +6507,15 @@ WE SEE A COUPLE OF MEDIA NERDS, BEING INTERVIEWED AROUND A CONFERENCE TABLE.
             ...89 percent
 
                           JOYCE
-            ...a record, a <u>record</u> high for sitting president, I'd
+            ...a record, a record high for sitting president, I'd
             like you to watch the campaign that put him there when
             we come back.
 
 THE SCREEN CHANGES TO A COMMERCIAL.
 
                           MOSS
-            You see?  What's the lesson here?  <u>Never</u> give up.
-            <u>Never</u> give up.
+            You see?  What's the lesson here?  Never give up.
+            Never give up.
 
                           BREAN
             No.  You're right.
@@ -6544,7 +6537,7 @@ INTERVIEWING THE SUBJECTS.
 
                           JOYCE
             And as we said.  The President, a sure-fire winner, and
-            the campaign, many said, that <u>put</u> him there...
+            the campaign, many said, that put him there...
 
 THE SCREEN CHANGES TO TWO HORSES IN A PADDOCK.  A COUPLE OF JOCKEYS WALK UP TO
 THEM.
@@ -6553,12 +6546,12 @@ THEM.
             Which horse you going to ride tomorrow, Jim?
 
                           JOCKEY TWO
-            Well, Chuck, my Daddy used to say, and I've <u>lived</u> by
+            Well, Chuck, my Daddy used to say, and I've lived by
             it:  never change Horses in...
 
                           MOSS
                     (TO HIMSELF)
-            ...<u>oh</u> no...
+            ...oh no...
 
 THE SCREEN REVERTS TO THE MODERATOR AND THE TWO TYPES.
 
@@ -6576,13 +6569,13 @@ MOSS BEGINS PACING AROUND THE READYROOM.
             I'm looking for a phone...
 
                           BREAN
-            No, I don't think you can <u>do</u> that.
+            No, I don't think you can do that.
 
                           MOSS
             Watch me.
 
                           BREAN
-            No, I don't think you can <u>do</u> that, Stanley...
+            No, I don't think you can do that, Stanley...
 
                           MOSS
             Watch me.
@@ -6590,26 +6583,26 @@ MOSS BEGINS PACING AROUND THE READYROOM.
                           BREAN
             Stanley.  Stanley... you knew the... Stanley.
                     (HE RESTRAINS HIM)
-            You knew the deal when you signed <u>on</u>.
+            You knew the deal when you signed on.
 
                           MOSS
             Deal's changed.
 
                           BREAN
-            No, the deal <u>isn't</u> changed.  The Deal <u>isn't</u> changed.
-            You can't ... what is it?  Money?  <u>Money</u>?  You want
+            No, the deal isn't changed.  The Deal isn't changed.
+            You can't ... what is it?  Money?  Money?  You want
             Money?
 
                           MOSS
-            <u>Money</u>?  You think I did this for money...?  I did this
-            for <u>Credit</u>.  <u>Credit</u>, paalll...
+            Money?  You think I did this for money...?  I did this
+            for Credit.  Credit, paalll...
 
                           BREAN
-            But you always knew you couldn't <u>take</u> the credit....
+            But you always knew you couldn't take the credit....
 
                           MOSS
-            That's <u>one</u> thing, but I'm not gonna let two dickheads
-            from <u>Filmschool</u> take it... are you <u>Nuts</u>?  Are you <u>Nuts</u>?
+            That's one thing, but I'm not gonna let two dickheads
+            from Filmschool take it... are you Nuts?  Are you Nuts?
 
 HE TRIES TO GET OUT OF THE READYROOM.  BREAN RESTRAINS HIM.
 
@@ -6618,14 +6611,14 @@ TIGHT ON THE TWO.
 
                           BREAN
             Stanley, no fooling... no fooling... you're playing
-            with your <u>life</u> here...
+            with your life here...
 
                           MOSS
-            <u>Fuck</u> my life... <u>Fuck</u> my life.... Z WANT THE <u>CREDIT</u>...
-            The <u>Credit</u>.  Do you know what the New York Times said
-            about my last picture?  They <u>pissed</u> on me.  They <u>pissed</u>
-            on me.  Do you know what that picture <u>Grossed</u>?  And now
-            some limp-dick film school <u>pansy</u>...
+            Fuck my life... Fuck my life.... Z WANT THE CREDIT...
+            The Credit.  Do you know what the New York Times said
+            about my last picture?  They pissed on me.  They pissed
+            on me.  Do you know what that picture Grossed?  And now
+            some limp-dick film school pansy...
 
                           JOYCE
                     (ON TV)
@@ -6740,9 +6733,9 @@ ANGLE, INT, THE MALL
 THE BOARDED UP STOREFRONT.  THE OLD "SHOE WORLD" SIGN, THE AIDE PUTTING OUT
 THE LAST TRASHBIN.  HE IS OVERTAKEN BY, AND CAMERA DOLLIES WITH, THE TWO MEN
 MOVING OUT THE TELEVISICN.  THEY PASS A NEW SIGN, WHICH HAS BEEN APPLIED OVER
-THE PLYWOOD, READS:  "COMING SOON, <u>GOOD OLD SHOE</u>," FOLLOWED BY A STYLIZED
+THE PLYWOOD, READS:  "COMING SOON, GOOD OLD SHOE," FOLLOWED BY A STYLIZED
 RENDITION OF A PAIR OF OLD BASKETBALL SHOES, THE TRADEMARK REGISTRATION SIGN,
-AND THE NIKE <u>SWOOSH</u>, CAMERA CONTINUES TO DOLLY, PAST GRAFFITI, READING,
+AND THE NIKE SWOOSH, CAMERA CONTINUES TO DOLLY, PAST GRAFFITI, READING,
 COURAGE, MOM.
 
            -----------------
@@ -6759,6 +6752,3 @@ DAVID  MAMET
 
                                                SECOND DRAFT.  OCTOBER, 1996
    </uphotograph>
-
-
-</body></html>

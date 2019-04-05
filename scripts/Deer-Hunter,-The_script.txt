@@ -1,13 +1,3 @@
-<html>
-<head>
-<script>
-<!--
-if (window!= top)
-top.location.href=location.href
-// -->
-</script>
-<title>The Deer Hunter</title>
-</head>
 
 
 EXT. PENNSYLVANIA STEEL MILL - LIGHT SNOW - DAY
@@ -6560,5 +6550,3 @@ Then EVERYONE stands up.
 
 				 THE END
 
-
-</html>

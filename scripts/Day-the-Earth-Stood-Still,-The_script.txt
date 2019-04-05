@@ -1,13 +1,3 @@
-<html>
-<head>
-<script>
-<!--
-if (window!= top)
-top.location.href=location.href
-// -->
-</script>
-<title>THE DAY THE EARTH STOOD STILL</title>
-</head>
 
                              "THE DAY THE EARTH STOOD STILL"
 
@@ -6432,5 +6422,3 @@ top.location.href=location.href
 
 
 
-
-</html>

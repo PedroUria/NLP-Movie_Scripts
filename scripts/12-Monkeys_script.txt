@@ -1,13 +1,3 @@
-<html>
-<head>
-<script>
-<!--
-if (window!= top)
-top.location.href=location.href
-// -->
-</script>
-<title>Twelve Monkeys</title>
-</head>
 
 				TWELVE MONKEYS
 	    
@@ -7010,5 +7000,3 @@ his teeth while RAILLY hurries to the window and looks out.
 
 							FADE OUT:
 
-
-</html>

@@ -1,13 +1,3 @@
-<html>
-<head>
-<script>
-<!--
-if (window!= top)
-top.location.href=location.href
-// -->
-</script>
-<title>Ghost Ship - by Mark Hanlon - First Draft</title>
-</head>
 
                                   "GHOST SHIP"
 
@@ -6246,5 +6236,3 @@ top.location.href=location.href
 
 
 Additional <a href="ghost_ship_info.txt">Info</a>
-
-</html>

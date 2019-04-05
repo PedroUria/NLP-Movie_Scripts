@@ -1,13 +1,3 @@
-<html>
-<head>
-<script>
-<!--
-if (window!= top)
-top.location.href=location.href
-// -->
-</script>
-<title>Family Man</title>
-</head>
 
 
 		CHAPTER ONE - EARLY HISTORY
@@ -8791,5 +8781,3 @@ top.location.href=location.href
 
 
 
-
-</html>

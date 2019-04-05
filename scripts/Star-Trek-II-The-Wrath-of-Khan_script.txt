@@ -1,5 +1,4 @@
-<html><head><title>Star Trek: The Wrath Of Khan</title>
-<body><font face="courier, new" size="2">
+<font face="courier, new" size="2">
                                 STAR TREK II: THE WRATH OF KHAN
 
 
@@ -400,7 +399,7 @@
                              and you with it.
 
                                            SPOCK
-                             The <u>Kobayshi Maru</u> scenario 
+                             The Kobayshi Maru scenario 
                              frequently wreaks havoc with
                              students and equipment.
                                      (dry)
@@ -520,10 +519,10 @@
                              high velocity winds. Incapable
                              of supporting life forms.
 
-                   Forward screen: <u>Ceti Alpha</u>.
+                   Forward screen: Ceti Alpha.
 
                                            CHEKOV
-                             Does it have to be <u>completely</u>
+                             Does it have to be completely
                              lifeless?
 
                    Terrell rises and crosses to Chekov.
@@ -541,7 +540,7 @@
                              scanner's out of adjustment --
 
                                            CHEKOV
-                             I suppose it <u>could</u> be a particle
+                             I suppose it could be a particle
                              of preanimate matter caught in the
                              matrix...
 
@@ -945,12 +944,12 @@
                    Lethal-looking odd swords on one wall, a bookshelf;
                    CAMERA PANS by 20th Century volumes; MOBY DICK, KING
                    LEAR, THE HOLY BIBLE -- and a seat belt dangling with
-                   the name on it -- <u>Botany Bay</u>.
+                   the name on it -- Botany Bay.
 
                    Chekov mouths the words, softly at first, then aloud --
 
                                            CHEKOV
-                             <u>Botany Bay</u> -- oh no!
+                             Botany Bay -- oh no!
 
                                            TERRELL
                                      (examines the child)
@@ -961,7 +960,7 @@
 
                                            CHEKOV
                              Captain, we've got to get out of
-                             here -- <u>now</u>! Damn! Hurry!
+                             here -- now! Damn! Hurry!
 
                    Terrell catches his urgency --
 
@@ -1044,7 +1043,7 @@
                              am in a position to grant nothing.
                              What you see is all that remains of
                              the ship's company and the crew of the
-                             <u>Botany Bay</u>, marooned here fifteen
+                             Botany Bay, marooned here fifteen
                              years ago by Captain James T. Kirk.
 
                                            TERRELL
@@ -1058,8 +1057,8 @@
                                       (i.e. Chekov)
                              ... never told you the tale?
                              To amuse you, Captain? Never told
-                             you how the <u>Enterprise</u> picked up the
-                             <u>Botany Bay</u>, lost in space from the
+                             you how the Enterprise picked up the
+                             Botany Bay, lost in space from the
                              year 1996, myself and the ship's
                              company in cryogenic freeze?
 
@@ -1068,7 +1067,7 @@
 
                                            KHAN
                              Admiral? He didn't tell you how
-                             <u>Admiral</u> Kirk sent seventy of us into
+                             Admiral Kirk sent seventy of us into
                              exile on this barren sand heap with
                              only the contents of these cargo bays
                              to sustain us?
@@ -1078,11 +1077,11 @@
                              life, a fair chance to --
 
                                            KHAN
-                             <u>This is Ceti Alpha V</u>! Ceti Alpha VI
+                             This is Ceti Alpha V! Ceti Alpha VI
                              exploded six months after we were
                              left here. The shock shifted the
-                             orbit of <u>this</u> planet and everything
-                             was laid waste. <u>Admiral</u> Kirk never
+                             orbit of this planet and everything
+                             was laid waste. Admiral Kirk never
                              bothered to check on our progress.
                              It was only the fact of my genetically
                              engineered intellect that enabled us
@@ -1104,7 +1103,7 @@
                              and courageous Lieutenant McGiver,
                              who gave up everything to join me
                              in exile. OUT OF LOVE. And see how
-                             <u>Admiral Kirk</u> requited her devotion --
+                             Admiral Kirk requited her devotion --
                              She's dead as earth!
 
                    The wind howls in the silence. When Khan turns, his
@@ -1156,11 +1155,11 @@
                              young enter through the ears and wrap
                              themselves around the cerebral cortex.
                              This has the effect of rendering the
-                             victim <u>extremely</u> susceptible to
+                             victim extremely susceptible to
                              suggestion. Later, as they grow,
                              follows madness, paralysis -- and
                              death. These are pets, of course --
-                             not <u>quite</u> domesticated.
+                             not quite domesticated.
 
                    As he speaks, Khan dumps an eel in each of their helmets;
                    he swirls the helmets around as though he were mixing
@@ -1637,7 +1636,7 @@
 
                    She gathers speed into the vastness of space.
 
-              44   EXT. SPACE, FEATURING <u>THE RELIANT</u>                    44
+              44   EXT. SPACE, FEATURING THE RELIANT                    44
 
                    moving towards us, in opposition to the previous shot,
                    close enough for us to read her markings.
@@ -1774,7 +1773,7 @@
                              you for another three months. Has
                              something happened?
                                      (pause)
-                             <u>Has something happened</u>? Do you read 
+                             Has something happened? Do you read 
                              us?
 
                                            CHEKOV
@@ -1798,7 +1797,7 @@
                    "Bullshit" are overlapped  by his mother.
 
                                            CAROL
-                             <u>Will you please be quiet</u>!
+                             Will you please be quiet!
                                      (back to console)
                              Commander Chekov, this is completely
                              irregular. Who gave the order you
@@ -1983,7 +1982,7 @@
 
                                            KIRK
                              You're bothered by your performance
-                             on the <u>Kobayashi Maru</u>.
+                             on the Kobayashi Maru.
 
                                            SAAVIK
                              I failed to resolve the situation.
@@ -1993,7 +1992,7 @@
                              It is a test of character.
 
                                            SAAVIK
-                             May I ask how <u>you</u> dealt with the
+                             May I ask how you dealt with the
                              test?
 
                                            KIRK
@@ -2557,7 +2556,7 @@
 
                                            BONES
                              Would you like to tell me whose
-                             are the <u>right</u> hands, my cold-blooded
+                             are the right hands, my cold-blooded
                              friend? Are you in favor of these
                              experiments?
 
@@ -2572,8 +2571,8 @@
                              Logic suggests --
 
                                            BONES
-                             Logic?? <u>We're talking about</u>
-                             <u>universal Armageddon</u>, you inhuman
+                             Logic?? We're talking about
+                             universal Armageddon, you inhuman
                              bloodless...
 
                                            SAAVIK'S VOICE
@@ -2732,8 +2731,8 @@
                    Khan is half out of his seat, sweating with anticipation.
 
                                            KHAN
-                             Careful: Not all at once. <u>The</u>
-                             <u>engine room</u>. Lock on target and
+                             Careful: Not all at once. The
+                             engine room. Lock on target and
                              prepare to fire.
 
                                            JOACHIM
@@ -2857,7 +2856,7 @@
 
                                            KIRK
                              WHO? Who knew just where to hit
-                             us? And <u>why</u>?
+                             us? And why?
 
                                            SPOCK
                                      (shakes head)
@@ -2914,7 +2913,7 @@
                              Not enough against their shields.
 
                                            KIRK
-                             Who the <u>hell</u> are they?
+                             Who the hell are they?
 
                                            UHURA
                              Admiral... Commander Reliant is
@@ -3047,7 +3046,7 @@
                                      (to Khan)
                              We're finding it.
                                      (urging)
-                             Please, <u>please</u> -- you've got to
+                             Please, please -- you've got to
                              give us time -- the bridge is
                              smashed, computers inoperative...
 
@@ -3086,7 +3085,7 @@
                                            KIRK
                              ... to prevent an enemy from doing
                              just what we're attempting; using
-                             <u>our</u> console to tap in a message,
+                             our console to tap in a message,
                              an order to lower Reliant's damn
                              shields...
 
@@ -3157,7 +3156,7 @@
                              They won't --
 
                                            KHAN
-                             <u>Where's the over-ride</u>??
+                             Where's the over-ride??
 
                    All monitors are haywire now that Enterprise is tapped
                    in. They search wildly for the right switch, but...
@@ -3217,7 +3216,7 @@
 
                                            KIRK
                                      (enraged)
-                             <u>I did nothing</u> -- except get caught
+                             I did nothing -- except get caught
                              with my britches down. I must be
                              senile. Mr. Saavik, you just keep
                              right on quoting regulations.
@@ -3277,7 +3276,7 @@
                    He dies. Pause. Scotty looks across the body at Kirk.
 
                                            SCOTTY
-                             <u>WHY</u>?
+                             WHY?
 
                                            KIRK
                                      (looks at Preston)
@@ -3336,7 +3335,7 @@
 
                                            BONES
                              Doctors lose patients sometimes.
-                             Damn. I'm <u>still</u> in the dark: How'd
+                             Damn. I'm still in the dark: How'd
                              he know about Genesis?
 
                                            KIRK
@@ -3794,10 +3793,10 @@
 
                                            SPOCK'S VOICE
                              The situation is grave, Admiral. We
-                             won't have main power for <u>six days</u>
+                             won't have main power for six days
                              at least. Auxiliary power has
                              temporarily failed, but maybe we can
-                             restore that in <u>two days</u>. By the
+                             restore that in two days. By the
                              book, Admiral.
 
                    Kirk frowns.
@@ -3812,7 +3811,7 @@
 
                                            KIRK
                              Captain Spock, if you do not hear
-                             from us within <u>one hour</u> your orders
+                             from us within one hour your orders
                              are to restore what power you can,
                              take the Enterprise to the nearest
                              Star Base and alert Starfleet
@@ -3838,11 +3837,11 @@
                              Very well. Let's go.
 
                                            BONES
-                             Go? <u>Where</u> are we going?
+                             Go? Where are we going?
 
                                            KIRK
                                      (points to console)
-                             Where <u>they</u> went. Saavik.
+                             Where they went. Saavik.
 
                    Kirk walks onto the pods as Saavik works the console,
                    rolling in electronic coding. The others join Kirk.
@@ -3904,7 +3903,7 @@
                              I'm Admiral Kirk...
 
                                            DAVID
-                             <u>We were still there</u>, you dumb
+                             We were still there, you dumb
                              bastard! We could hear the screams
                              all the way to the transporter room --
 
@@ -4056,7 +4055,7 @@
                              I try to obey, but --
 
                                            KHAN'S VOICE
-                             <u>Kill him</u>.
+                             Kill him.
 
                    As though tearing off a leach, Terrell grabs at the
                    wrist recorder and flings it to the ground. A shock-
@@ -4109,7 +4108,7 @@
                              Khan, you bloodsucker, they're
                              finished! You'll have to do your
                              own dirty work now. Do you hear me?
-                             <u>Do you</u>?
+                             Do you?
 
              142   INT. RELIANT BRIDGE                                        142
 
@@ -4286,7 +4285,7 @@
                              that be necessary.
 
                                            BONES
-                             We thought <u>this</u> was Genesis.
+                             We thought this was Genesis.
 
                    Carol laughs -- there's an edge of hysteria to it.
 
@@ -4527,7 +4526,7 @@
 
                                            SAAVIK
                                      (continuing)
-                             What are <u>you</u> looking at?
+                             What are you looking at?
                                            
                                            DAVID
                                      (confused)
@@ -4553,7 +4552,7 @@
                              What's on your mind, Lieutenant?
 
                                           SAAVIK
-                             The <u>Kobayashi Maru</u>, sir.
+                             The Kobayashi Maru, sir.
 
                                           DAVID 
                              The what?
@@ -4593,7 +4592,7 @@
                              was possible to rescue the ship.
 
                                            SAAVIK
-                             <u>WHAT</u>?
+                             WHAT?
 
                                            KIRK
                              I changed the conditions of the
@@ -4950,7 +4949,7 @@
 
                                            KIRK'S VOICE
                                      (continuing)
-                             Khan -- ! I'm <u>laughing</u> at the
+                             Khan -- ! I'm laughing at the
                              "superior" intellect.
 
                                            KHAN
@@ -4961,7 +4960,7 @@
                              you want --
 
                                            KHAN
-                             <u>Full power damn you</u>!
+                             Full power damn you!
 
                    And he reaches across and executes it himself.
 
@@ -5095,7 +5094,7 @@
 
              196   INT. ENTERPRSIE BRIDGE                                     196
 
-                   A sudden clearing ON SCREEN: <u>Reliant</u>!
+                   A sudden clearing ON SCREEN: Reliant!
 
                                            KIRK
                              Evasive starboard!
@@ -5695,7 +5694,7 @@
 
                                            SPOCK
                                      (continuing)
-                             I never took the <u>Kobayashi Maru</u>
+                             I never took the Kobayashi Maru
                              test -- until now. What do you
                              think of my solution?
 
@@ -5786,7 +5785,7 @@
                              Honors -- hup!
 
                    All Starfleet personnel salute. Scotty begins to PIPE,
-                   an odd blare which mellows into <u>Amazing Grace</u>. Kirk
+                   an odd blare which mellows into Amazing Grace. Kirk
                    nods a signal.
 
              242   THE CAPSULE                                                242
@@ -5935,7 +5934,7 @@
                    Pause. They study each other.
 
                                            DAVID
-                             I was wrong about you. And <u>I'm</u>
+                             I was wrong about you. And I'm
                              sorry.
 
                                            KIRK
@@ -5990,7 +5989,7 @@
 
                                            SAAVIK
                                      (continuing)
-                             So <u>you</u> turn out to be the dumb
+                             So you turn out to be the dumb
                              bastard.
 
                    They stare at her.
@@ -6070,6 +6069,5 @@
 
                    MUSIC RISES. CREDITS ROLL.
 
-                                           <u>THE END</u>
+                                           THE END
 </font>
-</body></head></html>

@@ -1,13 +1,3 @@
-<html>
-<head>
-<script>
-<!--
-if (window!= top)
-top.location.href=location.href
-// -->
-</script>
-<title>HUNTER</title>
-</head>
 
 
 
@@ -6568,5 +6558,3 @@ top.location.href=location.href
 
 
 
-
-</html>

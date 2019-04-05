@@ -1,13 +1,3 @@
-<html>
-<head>
-<script>
-<!--
-if (window!= top)
-top.location.href=location.href
-// -->
-</script>
-<title>MEMENTO - Shooting Script</title>
-</head>
 
 FADE IN:
 
@@ -7921,4 +7911,3 @@ list.
 End.
 
 </colour></colour></colour></colour></colour></colour></colour></colour></colour></colour></colour></colour></colour></colour>
-</html>

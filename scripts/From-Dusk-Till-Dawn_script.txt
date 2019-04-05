@@ -1,13 +1,3 @@
-<html>
-<head>
-<script>
-<!--
-if (window!= top)
-top.location.href=location.href
-// -->
-</script>
-<title>FROM DUSK TILL DAWN</title>
-</head>
 
 
               FROM DUSK TILL DAWN
@@ -5706,5 +5696,3 @@ Fred Williamson                   Frost
  	THE END
 
 
-
-</html>

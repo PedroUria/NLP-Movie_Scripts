@@ -1,13 +1,3 @@
-<html>
-<head>
-<script>
-<!--
-if (window!= top)
-top.location.href=location.href
-// -->
-</script>
-<title>The Cell</title>
-</head>
 
 
 
@@ -5012,5 +5002,3 @@ top.location.href=location.href
 							 FADE TO BLACK.
 
 
-
-</html>

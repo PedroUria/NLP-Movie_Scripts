@@ -1,24 +1,3 @@
-<html>
-
-<head>
-   <title>"American Pie", production draft, by Adam Herz</title>
-<script>
-<!--
-
-/*
-Break-out-of-frames script
-By Website Abstraction (http://wsabstract.com)
-Over 400+ free scripts here!
-Above notice MUST stay entact for use
-*/
-
-if (window!= top)
-top.location.href=location.href
-// -->
-</script></head>
-
-<body bgcolor="#FFFFFF">
-   
 
 
 
@@ -26,7 +5,8 @@ top.location.href=location.href
 
 
 
-                      <u>East Great Falls High</u>
+
+                      East Great Falls High
 
 
                                 by
@@ -177,8 +157,8 @@ top.location.href=location.href
                the illegal channels.
 
                          JIM
-               Jesus, Mom!  They're not <u>illegal</u>!
-               They're <u>pay</u> channels.  How could a
+               Jesus, Mom!  They're not illegal!
+               They're pay channels.  How could a
                television channel be illegal?!  God,
                get a clue!
 
@@ -293,10 +273,10 @@ top.location.href=location.href
                Yeah, Oz, but not when she's on land.
 
                          OZ
-               She's a <u>cartoon</u>, dude.
+               She's a cartoon, dude.
 
                          JIM
-               A <u>hot</u> cartoon.
+               A hot cartoon.
 
                          OZ
                Is there anything you don't jerk off
@@ -479,7 +459,7 @@ top.location.href=location.href
 
                          STIFLER
                Hah!  Yeah, Oz, I bet it's more like
-               your dad works at <u>her</u> store.
+               your dad works at her store.
 
                          OZ
                Dude, he does not.
@@ -552,7 +532,7 @@ top.location.href=location.href
                Have you ever heard of the bible?
 
                          KEVIN
-               What?  Not <u>the</u> Bible?
+               What?  Not the Bible?
 
                          KEVIN'S BROTHER
                Well, that's not really the name, but
@@ -604,7 +584,7 @@ top.location.href=location.href
 
                          JIM
                No, "Charming" is old.  "Older" is
-               <u>really</u> old.  "Youthful mind" is dead.
+               really old.  "Youthful mind" is dead.
 
                          FINCH
                Perhaps you should consider actually
@@ -1541,7 +1521,7 @@ top.location.href=location.href
                Like a bet?
 
                          KEVIN
-               No, a <u>pact</u>.  No money involved.  This
+               No, a pact.  No money involved.  This
                is more important than any bet.  Now
                here's the deal: We all get laid
                before we graduate.
@@ -1603,8 +1583,8 @@ top.location.href=location.href
                This is our day!  This is our time!
                And, by God, we're not gonna let
                history condemn us to celibacy!  We
-               <u>will</u> make a stand!  We <u>will</u> succeed!
-               <u>We will get laid</u>!
+               will make a stand!  We will succeed!
+               We will get laid!
 
      Kevin jumps down off the chair, and puts his hand out in
      front of him.  One by one, the guys pile their hands on
@@ -1994,7 +1974,7 @@ top.location.href=location.href
                          OZ
                This place is an untapped resource.
                Check it out, dude, these vocal jazz
-               girls are <u>hot</u>.
+               girls are hot.
 
      ANGLE ON SOME VOCAL JAZZ GIRLS
 
@@ -2124,7 +2104,7 @@ top.location.href=location.href
                Definitely not.
 
                          ENTHRALLED GIRL
-               <u>No way</u>!
+               No way!
 
      She hurries off to a GROUP OF GIRLS, sharing the gossip.
      They all seem very interested.
@@ -2380,7 +2360,7 @@ top.location.href=location.href
                It's like, Oz, he's just this kickass
                lacrosse player -- I also play
                football, by the way -- But that's
-               like...not <u>all</u> that I am.
+               like...not all that I am.
 
                          HEATHER
                Of course, I didn't --
@@ -2402,7 +2382,7 @@ top.location.href=location.href
      a moment, this catches Oz off guard.
 
                          OZ
-               Yeah...so like, what else <u>do</u> you do?
+               Yeah...so like, what else do you do?
 
                          HEATHER
                    (offended)
@@ -2601,7 +2581,7 @@ top.location.href=location.href
                Yes.
 
                          JIM'S DAD
-               That's great.  Now remember, it's <u>okay</u>
+               That's great.  Now remember, it's okay
                to play with yourself.  Or, as I
                always called it --
                    (elbows Jim)
@@ -2610,7 +2590,7 @@ top.location.href=location.href
                Ho-ho, Jim.  There's nothing to be
                ashamed of.  Hell, I'm fifty-two, and
                I still enjoy masturbating.  Uncle
-               Mort masturbates.  We <u>all</u> masturbate.
+               Mort masturbates.  We all masturbate.
 
      Nauseated and entirely disoriented, Jim tries to stumble
      back into his room.  He SMACKS the doorframe.  Keeps
@@ -2728,7 +2708,7 @@ top.location.href=location.href
      Oz is surprised at her directness.  Impressed.
 
                          OZ
-               <u>Yeah</u>!
+               Yeah!
 
                          STIFLER
                Well, just don't expect Oz to pay for
@@ -2743,7 +2723,7 @@ top.location.href=location.href
      A beat.
 
                          STIFLER
-               <u>What</u>??
+               What??
                    (he dismisses it)
                Whatever -- look uh, don't forget --
                my cottage after prom.  On Lake
@@ -3015,7 +2995,7 @@ top.location.href=location.href
                Okay, Heather, that was good, but I
                want to thicken up that solo.
                Michigan State is this Saturday, and I
-               want that part to <u>smoke</u>.
+               want that part to smoke.
 
                          HEATHER
                I know, my timing's off.
@@ -3175,7 +3155,7 @@ top.location.href=location.href
      Stifler, who sits at the computer, watching Jim's room.
 
                          STIFLER'S BROTHER
-               Steve!  Steve!  It's <u>my</u> computer and <u>I</u>
+               Steve!  Steve!  It's my computer and I
                wanna use it!
 
                          STIFLER
@@ -3493,7 +3473,7 @@ top.location.href=location.href
      Jim sneaks a nervous glance over to the QuickCam.
 
                          JIM
-               You mean like, <u>strip</u> strip?
+               You mean like, strip strip?
 
                          NADIA
                    (irresistably sexy)
@@ -3608,7 +3588,7 @@ top.location.href=location.href
      back, in his boxers and shorts.
 
                          NADIA
-                   (getting <u>really</u> turned on)
+                   (getting really turned on)
                More, more, you bad boy!
 
      Jim starts spanking his ass as he gyrates.
@@ -3845,7 +3825,7 @@ top.location.href=location.href
      Jim's pace slows.  He hears a SNICKER behind him...he
      slows even more, taking very careful steps...as he sees a
      GIRL doing a really strange dance -- and his eyes pop out
-     as he sees that, yes, it's <u>his</u> dance.  He stops.  ALMOST
+     as he sees that, yes, it's his dance.  He stops.  ALMOST
      EVERYONE is staring at him.  Jim pulls his coat up over
      his face and hurries off into the school, like a fugitive
      avoiding the media.  People APPLAUD and LAUGH.
@@ -4082,7 +4062,7 @@ top.location.href=location.href
                          KEVIN
                No, I don't not love you.  I like, I
                know that we've definitely got
-               <u>something</u> between us.  Something good.
+               something between us.  Something good.
                Something special.
 
                          VICKY
@@ -4493,10 +4473,10 @@ top.location.href=location.href
                Finch, listen -- Stifler slipped some
                sort of laxative in your Mocash-chino
                or whatever.  It's fast acting.  I
-               mean <u>really</u> fast.
+               mean really fast.
 
                          FINCH
-               First of all, it's <u>Mocha</u>ccino, and
+               First of all, it's Mochaccino, and
                secondly...Oohhhh!
 
      Finch jumps up and sprints down the hallway.
@@ -4573,7 +4553,7 @@ top.location.href=location.href
                week away and you don't have a date.
 
                          GIRL HOLDING OUT FOR FINCH
-               No, I don't <u>want</u> a date...
+               No, I don't want a date...
                    (increasingly dreamy)
                Finch is going stag...and so am
                I...the guy is like so...debonair.
@@ -4695,7 +4675,7 @@ top.location.href=location.href
                Alright!  Good hustle, guys, but we
                can still lose.  You all saw what
                happened to Oz out there.  I don't
-               ever want to see you guys <u>thinking</u>
+               ever want to see you guys thinking
                you're gonna score.  You don't score
                until you score, period.
 
@@ -4999,7 +4979,7 @@ top.location.href=location.href
                          SHERMAN (CONT'D)
                Locked on target, flying in stealth
                mode under enemy sex radar.  Ready to
-               drop the payload...<u>again</u>.
+               drop the payload...again.
 
      Sherman confidently walks off.
 
@@ -5022,7 +5002,7 @@ top.location.href=location.href
                attitude?
 
                          KEVIN
-               Attitude?  Me?  I think that <u>you</u> guys
+               Attitude?  Me?  I think that you guys
                should be more enthusiastic.  Shit,
                we've been trying to get laid forever,
                and tonight's the night we've been
@@ -5030,7 +5010,7 @@ top.location.href=location.href
                Don't back out on me now!
 
                          JIM
-               Back out?  You don't need <u>us</u> to get
+               Back out?  You don't need us to get
                laid.  You afraid or something?
 
                          KEVIN
@@ -5040,7 +5020,7 @@ top.location.href=location.href
                Kevin, it was just a --
 
                          KEVIN
-               <u>It was a pact</u>.  You break it and there
+               It was a pact.  You break it and there
                are no excuses.  You guys have to --
 
                          JIM
@@ -5058,7 +5038,7 @@ top.location.href=location.href
                wanted it, and I'm not gonna sit here
                busting my balls over something that
                just isn't that damn important!  So
-               fuck this stupid pact, fuck <u>you</u>, and
+               fuck this stupid pact, fuck you, and
                fuck sex!  Now, I'm gonna go hang out
                with that geek over there, 'cause at
                least she's got something else to talk
@@ -5203,7 +5183,7 @@ top.location.href=location.href
                whole thing.
 
                          JIM
-               Come on man.  Tonight <u>is</u> the night.
+               Come on man.  Tonight is the night.
                We're finally going to a post-prom
                party on the lake.  We've been waiting
                to do this for the last four years.
@@ -5463,7 +5443,7 @@ top.location.href=location.href
      Both drinking and talking, almost enjoying themselves.
 
                          MICHELLE
-               That is a <u>nasty</u> story!
+               That is a nasty story!
 
                          JIM
                I told you.
@@ -5764,7 +5744,7 @@ top.location.href=location.href
      Brother.  Jaw hanging.
 
                          STIFLER'S BROTHER
-               That was <u>awesome</u>!
+               That was awesome!
 
      Jim and Michelle are stunned.
 
@@ -5774,7 +5754,7 @@ top.location.href=location.href
      see it, but we can tell Finch's status from his ORGASMIC
      MOANING.
 
-     What we <u>do</u> see is the kitchen door handle rattling.  The
+     What we do see is the kitchen door handle rattling.  The
      chair falling out of place.  And the door opening as
      Stifler walks in.  He stops, horrified.
 
@@ -6088,7 +6068,3 @@ top.location.href=location.href
 
 
    
-
-
-
-</body></html>

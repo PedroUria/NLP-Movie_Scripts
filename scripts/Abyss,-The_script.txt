@@ -1,13 +1,3 @@
-<html>
-<head>
-<script>
-<!--
-if (window!= top)
-top.location.href=location.href
-// -->
-</script>
-<title>The Abyss - by James Cameron </title>
-</head>
 
 
 
@@ -6134,5 +6124,3 @@ Their lips meet.
                                                                 CUT TO BLACK
 
 
-
-</html>

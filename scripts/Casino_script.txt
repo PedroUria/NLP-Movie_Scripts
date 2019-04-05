@@ -1,13 +1,3 @@
-<html>
-<head>
-<script>
-<!--
-if (window!= top)
-top.location.href=location.href
-// -->
-</script>
-<title>Casino - Draft </title>
-</head>
 
                            CASINO
 
@@ -15187,5 +15177,3 @@ He takes off his glasses, and gazes ahead.
 
 FADE TO BLACK
 
-
-</html>

@@ -1,13 +1,3 @@
-<html>
-<head>
-<script>
-<!--
-if (window!= top)
-top.location.href=location.href
-// -->
-</script>
-<title>Logan's Run by David Zelag Goodman (April 30, 1975 revised draft)</title>
-</head>
 
 
 
@@ -6311,5 +6301,3 @@ FADE OUT:
 
 THE END
 
-
-</html>

@@ -1,13 +1,3 @@
-<html>
-<head>
-<script>
-<!--
-if (window!= top)
-top.location.href=location.href
-// -->
-</script>
-<title>Blood Simple</title>
-</head>
 
 
                                       "BLOOD SIMPLE"
@@ -5252,5 +5242,3 @@ top.location.href=location.href
 
 
 
-
-</html>

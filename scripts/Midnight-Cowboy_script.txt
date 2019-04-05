@@ -1,13 +1,3 @@
-<html>
-<head>
-<script>
-<!--
-if (window!= top)
-top.location.href=location.href
-// -->
-</script>
-<title>Midnight Cowboy by Waldo Salt</title>
-</head>
 
 
 FADE IN:
@@ -5040,5 +5030,3 @@ around Ratso, settling back, staring straight ahead.
 				  THE END
 
 
-
-</html>

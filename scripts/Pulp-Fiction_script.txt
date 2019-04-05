@@ -1,7 +1,3 @@
-<html>
-<head>
-<title>"PULP FICTION" -- by Quentin Tarantino &amp; Roger Avary</title>
-<body>
 
                                       "PULP FICTION"
 
@@ -7598,6 +7594,3 @@
                                          THE END
 
 
-
-
-</body></head></html>

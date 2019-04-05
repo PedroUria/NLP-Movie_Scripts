@@ -1,13 +1,3 @@
-<html>
-<head>
-<script>
-<!--
-if (window!= top)
-top.location.href=location.href
-// -->
-</script>
-<title>the Ghost and the Darkness - by William Goldman</title>
-</head>
 
 
 
@@ -6744,5 +6734,3 @@ FINAL FADE OUT.
 
 THE END
 
-
-</html>

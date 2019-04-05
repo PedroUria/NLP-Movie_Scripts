@@ -1,13 +1,3 @@
-<html>
-<head>
-<script>
-<!--
-if (window!= top)
-top.location.href=location.href
-// -->
-</script>
-<title>THE HORSE WHISPERER</title>
-</head>
 
 
 	The Horse Whisperer
@@ -8653,5 +8643,3 @@ top.location.href=location.href
 
 
 
-
-</html>

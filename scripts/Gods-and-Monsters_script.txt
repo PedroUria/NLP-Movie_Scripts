@@ -1,11 +1,3 @@
-<html>
-
-<head>
-   <title>"Gods and Monsters", shooting draft, by Bill Condon</title>
-</head>
-
-<body bgcolor="#FFFFFF">
-   
 
 
 
@@ -13,7 +5,8 @@
 
 
 
-                         <u>"GODS AND MONSTERS"</u>
+
+                         "GODS AND MONSTERS"
 
                               Screenplay
                                   by
@@ -2144,7 +2137,7 @@
      screams.
 
                                      BETTY
-                    All right!  You don't want <u>him</u>.
+                    All right!  You don't want him.
 
      The Monster is heartbroken.  Nobody loves him, not even his
      Bride.
@@ -2249,7 +2242,7 @@
                                      CLAY
                     If he were that famous, he probably
                     wouldn't give me the time of day.
-                    This way, he's like <u>my</u> famous
+                    This way, he's like my famous
                     person.
                          (laughs at himself)
                     Yeah, my own personal famous
@@ -3377,7 +3370,7 @@
      back.  The hands stop, palms raised.
 
                                      WHALE
-                    Oh dear.  I <u>have</u> made you
+                    Oh dear.  I have made you
                     nervous.
 
                                      CLAY
@@ -3763,8 +3756,8 @@
 
      INT. READING ROOM - DAY
 
-     Clay leafs through an oversized folio, bound copies of <u>The</u>
-     <u>New York Times</u>.  He glances at an article from
+     Clay leafs through an oversized folio, bound copies of The
+     New York Times.  He glances at an article from
      1936.  "Interview With a Passing Whale."  There is a picture
      of Whale, captioned "Famous British Director."  A LIBRARIAN
      approaches with more leatherbound books.
@@ -5690,7 +5683,7 @@
      Whale tilts his face up for another blow.
 
                                      WHALE
-                    <u>I want you to kill me</u>.
+                    I want you to kill me.
 
      Clay freezes.  He stares down at the old man with white hair
      and wild eyes lying beneath him.
@@ -5763,7 +5756,7 @@
                     What have I done?
                          (sits up)
                     Oh, selfish, selfish fool.  I
-                    <u>have</u> lost my mind.
+                    have lost my mind.
 
      He forces himself to his feet.
 
@@ -6281,6 +6274,3 @@
 
 
    
-
-
-</body></html>

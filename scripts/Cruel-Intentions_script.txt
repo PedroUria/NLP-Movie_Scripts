@@ -1,11 +1,4 @@
-<html>
 
-<head>
-   <title>"Cruel Intentions", by Roger Kumble</title>
-</head>
-
-<body bgcolor="#FFFFFF">
-   
 
 
 
@@ -1564,7 +1557,7 @@
 23   INT. ESTATE - ANNETTE'S GUEST ROOM - NIGHT                 23
 
      Little touches of Annette's life (photo of dead mother)
-     adorn the room. Annette is reading <u>The Fountainhead</u> when
+     adorn the room. Annette is reading The Fountainhead when
      she HEARS singing coming from outside. Unable to
      concentrate, she walks out onto the balcony.
 
@@ -5648,7 +5641,3 @@
 
 
    
-
-
-
-</body></html>

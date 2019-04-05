@@ -1,11 +1,4 @@
-<html>
 
-<head>
-	<title>"Ronin", early, by J.D. Zeik</title>
-</head>
-
-<body bgcolor="#FFFFFF">
-   
 
 
 
@@ -5863,7 +5856,3 @@
 
 
    
-
-
-
-</body></html>

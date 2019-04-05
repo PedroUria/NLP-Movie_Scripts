@@ -1,13 +1,3 @@
-<html>
-<head>
-<script>
-<!--
-if (window!= top)
-top.location.href=location.href
-// -->
-</script>
-<title>Mulholland Drive Screenplay</title>
-<body>
 
 
 			M  U  L  H  O  L  L  A  N  D
@@ -1583,7 +1573,7 @@ other, then back to the money.
 Rita takes the massive wad of bills out of the purse and sets
 it on the bed. She reaches back inside and comes up with the
 only other remaining item in the purse ... A BLUE KEY. Betty
-sees Rita's expression change to a kind of <u>horror</u>.
+sees Rita's expression change to a kind of horror.
 (note: This blue key is made of very fine heavy metal and
 does not look like a door key.)
     
@@ -2570,7 +2560,7 @@ The door slams shut. Rita grabs Betty's shoulders.
 
     
 				RITA
-		<u>Diane</u> <u>Selwyn</u>. Maybe it's my name.
+		Diane Selwyn. Maybe it's my name.
     
 							CUT TO:
     
@@ -3308,7 +3298,7 @@ Betty drops the kitchen knife and both girls start laughing.
 		Such a lame scene.
     
 				RITA
-		But you are <u>really</u> good.
+		But you are really good.
     
 Betty mimes tapping a cigarette in a cigarette holder ala
 Dietrich.
@@ -4917,8 +4907,3 @@ black with fungus. It's eyes turn and they seem to be red.
     
 
 
-
-
-
-
-</body></head></html>

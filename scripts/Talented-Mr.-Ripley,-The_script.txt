@@ -1,11 +1,4 @@
-<html>
 
-<head>
-   <title>"The Talented Mr Ripley", shooting draft, by Anthony Minghella</title>
-</head>
-
-<body bgcolor="#FFFFFF">
-   
 
 
 
@@ -958,7 +951,7 @@
                     his watch)
                Oh God!  Do you always type your letters?
                    (points at the letter)
-               That should be two <u>T</u>s.
+               That should be two Ts.
 
                          DICKIE
                I can't write and I can't spell.  That's
@@ -2556,7 +2549,7 @@
                          RIPLEY
                Yes, I'd like you to telephone the Hotel
                Goldoni. Yes. I want to speak to Signor
-               Thomas Ripley - No <u>R</u>ipley, R, yes.
+               Thomas Ripley - No Ripley, R, yes.
                Grazie.
 
      He produces Dickie's pen and signs the blotter quickly - <i>H R
@@ -3907,7 +3900,7 @@
                    (as if suffocating)
                No, but I thought that didn't happen in
                Italy, that each region was completely
-               separate! I was <u>sure</u> that was the -
+               separate! I was sure that was the -
 
                          PETER
                You've seen the papers, you know what a
@@ -5189,7 +5182,7 @@
 
 
 
-     <i><u>Lullaby for Cain</u></i>
+     <i>Lullaby for Cain</i>
 
      From the silence
      from the night
@@ -5232,6 +5225,3 @@
 
 
    
-
-
-</body></html>

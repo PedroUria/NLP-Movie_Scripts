@@ -1,13 +1,3 @@
-<html>
-<head>
-<script>
-<!--
-if (window!= top)
-top.location.href=location.href
-// -->
-</script>
-<title>FARGO</title>
-</head>
 
 
                                    FARGO
@@ -5363,5 +5353,3 @@ top.location.href=location.href
 	Hold; fade out.
 
 
-
-</html>

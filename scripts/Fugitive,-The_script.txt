@@ -1,13 +1,3 @@
-<html>
-<head>
-<script>
-<!--
-if (window!= top)
-top.location.href=location.href
-// -->
-</script>
-<title>THE FUGITIVE</title>
-</head>
 
 
 				THE FUGITIVE
@@ -7036,5 +7026,3 @@ top.location.href=location.href
 
 
 
-
-</html>

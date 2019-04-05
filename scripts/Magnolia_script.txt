@@ -1,11 +1,3 @@
-<html>
-
-<head>
-   <title>"Magnolia", shooting draft, by Paul Thomas Anderson</title>
-</head>
-
-<body bgcolor="#ffffff">
-   
 
 
 
@@ -19,7 +11,8 @@
 
 
 
-                                <u>magnolia</u>
+
+                                magnolia
 
 
 
@@ -60,22 +53,22 @@
 
                                                                 CUT TO: 
 
-     <u>Black and White Lumiere Footage</u>
+     Black and White Lumiere Footage
      Three men hung....bang...bang...bang.
                                                                 CUT TO: 
 
                                                               
-     <u>Newspaper Headline</u>
+     Newspaper Headline
      comes into focus; "Three Men Hung."
      
                                                         QUICK DISSOLVE:
      
-     <u>Sub Head</u>
+     Sub Head
      comes into focus; "...for murder of..."
                                                                 CUT TO: 
 
      
-     <u>INT. APARTMENT/FOYER - EVENING</u>  (Lumiere Footage Contd.)
+     INT. APARTMENT/FOYER - EVENING  (Lumiere Footage Contd.)
      
      A man in period dress (1911) walks in the door. CAMERA DOLLIES IN QUICK
      as he takes his hat off, shakes snow, looks off --
@@ -92,7 +85,7 @@
                  
                                                                 CUT TO: 
 
-     <u>EXT. STREET - NIGHT</u>
+     EXT. STREET - NIGHT
      
      CAMERA pushes in on the town sign, reads:
      
@@ -103,7 +96,7 @@
 
                                                                 CUT TO: 
 
-     <u>EXT. PHARMACY - NIGHT</u>
+     EXT. PHARMACY - NIGHT
      
      HIGH ANGLE, looking down as Sir Edmond comes out the door,
      locks up for the evening.  CAMERA BOOMS DOWN and PUSHES IN
@@ -138,7 +131,7 @@
      
                                                                 CUT TO: 
 
-     <u>LUMIERE FOOTAGE REPLAYED</u>.
+     LUMIERE FOOTAGE REPLAYED.
      Three men hug. Bang...bang...bang...
      
                                 NARRATOR
@@ -152,7 +145,7 @@
 
      OPTICAL WIPE OF FLAMES FILL THE SCREEN, CAMERA PULLS BACK:
 
-     <u>EXT. FORREST/NEAR LAKE TAHOE - NIGHT</u> (35mm/color/anamorphic now)
+     EXT. FORREST/NEAR LAKE TAHOE - NIGHT (35mm/color/anamorphic now)
 
      CAMERA is in the midst of a large FORREST FIRE. CAMERA
      WHIPS RT TO SEE:
@@ -176,7 +169,7 @@
      
                                                                 CUT TO: 
 
-     <u>EXT. FORREST/NEAR LAKE TAHOE - MORNING</u>
+     EXT. FORREST/NEAR LAKE TAHOE - MORNING
 
      CAMERA pushes in towards FOUR FIREFIGHTERS as they survey the
      area.  The fire is out and they are walking through. The MAIN
@@ -199,7 +192,7 @@
      
                                                                 CUT TO: 
 
-     <u>INT. PEPPERMILL CASINO - NIGHT - FLASHBACK</u>
+     INT. PEPPERMILL CASINO - NIGHT - FLASHBACK
 
      CAMERA looks down on a blackjack game, BOOM DOWN and TILT UP
      to reveal: DELMER DARION (40s)
@@ -211,7 +204,7 @@
 
                                                                 CUT TO:
 
-     <u>INT. CASINO/LOBBY - EARLY MORNING - FLASHBACK</u>
+     INT. CASINO/LOBBY - EARLY MORNING - FLASHBACK
 
      CAMERA pushes in towards Delmer as he leaves for the nght,
      his uniform draped on a hanger over his shoulder, he nods and
@@ -225,27 +218,27 @@
 
                                                                 CUT TO:
 
-     <u>INT. LAKE TAHOE/UNDERWATER - DAY</u>
+     INT. LAKE TAHOE/UNDERWATER - DAY
 
      Delmer SPLASHES in and comes down towards the CAMERA. SOUND drops out,
      becomes very quiet...
 
                                                                 CUT TO:
 
-     <u>EXT. LAKE TAHOE - THAT MOMENT</u>
+     EXT. LAKE TAHOE - THAT MOMENT
 
      The FIRE DEPARTMENT AIR TANKER comes flying in, heading towards
      the lake, coming directly at CAMERA...
 
                                                                 CUT TO:
 
-     <u>INT. LAKE TAHOE/UNDERWATER - THAT MOMENT</u>
+     INT. LAKE TAHOE/UNDERWATER - THAT MOMENT
 
      Delmer dives. Silent and peaceful.
 
                                                                 CUT TO:
 
-     <u>EXT. LAKE TAHOE - THAT MOMENT</u>
+     EXT. LAKE TAHOE - THAT MOMENT
 
      OVERHEAD ANGLE Looks down on the calm lake....beat, then:
 
@@ -265,13 +258,13 @@
 
                                                                 CUT TO:
 
-     <u>EXT. RENO MOTEL - DAY - FLASHBACK</u>
+     EXT. RENO MOTEL - DAY - FLASHBACK
 
      Establishing shot. (x3)
 
                                                                 CUT TO:
 
-     <u>INT. MOTEL - THAT MOMENT</u>
+     INT. MOTEL - THAT MOMENT
 
      CAMERA PUSHES IN SUPER QUICK towards a MAN named CRAIG HANSEN (30s)
      He shoves a RIFLE under his chin and pulls the trigger, blood and brains
@@ -279,7 +272,7 @@
 
                                                                 CUT TO:
 
-     <u>INT. AIR TANKER COCKPIT - FLASHBACK - DAY</u>
+     INT. AIR TANKER COCKPIT - FLASHBACK - DAY
 
      HANSEN flying the plane. HOLD CU. as he moves towards the lake.
 
@@ -292,14 +285,14 @@
 
                                                                 CUT TO:
 
-     <u>EXT. LAKE TAHOE - SHOT REPLAYED</u>.
+     EXT. LAKE TAHOE - SHOT REPLAYED.
 
      Quick flashback to the footage of the PLANE lifting the water
      from the lake, SOUND CARRIES OVER....
 
                                                                 CUT TO:
 
-     <u>INT. CASINO - NIGHT - FLASHBACK</u>
+     INT. CASINO - NIGHT - FLASHBACK
 
      The Blackjack table where DELMER Is dealing.  DOLLY AROUND to reveal
      a drunk and obnoxious CRAIG HANSEN, screaming about the cards he's
@@ -315,7 +308,7 @@
 
                                                                 CUT TO:
 
-     <u>INT. MOTEL ROOM - DAY - BACK TO SCENE</u>
+     INT. MOTEL ROOM - DAY - BACK TO SCENE
 
      CRAIG HANSEN reading the paper, looking at the cover story,
      that has a photo of DELMER DARION.  He's crying and
@@ -337,7 +330,7 @@
 
                                                                 CUT TO:
 
-     <u>INT. CASINO - NIGHT - BACK TO SCENE</u>
+     INT. CASINO - NIGHT - BACK TO SCENE
 
      Back to the fight DELMER and CRAIG HANSEN are having: CAMERA DOLLIES
      IN QUICK TOWARDS Delmer on the ground with blood coming from his nose.
@@ -349,13 +342,13 @@
 
                                                      QUICK DISSOLVE TO:
 
-     <u>INSERT, CLOSE UP - HOTEL EVENTS BOARD</u>.
+     INSERT, CLOSE UP - HOTEL EVENTS BOARD.
 
      It reads:        Welcome! AAFS Awards Dinner and Reception
                                    Walnut Room
                                        8pm
 
-     <u>INT. HOTEL BANQUET ROOM - NIGHT (1961)</u>
+     INT. HOTEL BANQUET ROOM - NIGHT (1961)
 
      CAMERA pushes in following two GUESTS through some double
      doors and reveals the DINNER RECEPTION.
@@ -373,7 +366,7 @@
 
                                                                 CUT TO:
 
-     <u>EXT. ROOFTOP - MORNING - FLASHBACK (1958)</u>.
+     EXT. ROOFTOP - MORNING - FLASHBACK (1958).
 
      A seventeen year old kid SYDNEY BARRINGER steps up on to the
      roof of a nine story building and looks down.
@@ -408,7 +401,7 @@
 
                                                                 CUT TO:
 
-     <u>EXT. ROOFTOP - FLASHBACK</u>.
+     EXT. ROOFTOP - FLASHBACK.
 
      Replay of shot.  Sydney steps up on the rooftop.  CAMERA pushes 
      in towards him quickly, this time moving into his COAT POCKET -- 
@@ -420,7 +413,7 @@
 
                                                          DISSOLVE INTO:
 
-     <u>INT. COAT POCKET - THAT MOMENT</u>
+     INT. COAT POCKET - THAT MOMENT
 
      CAMERA catches glimpses of the note, " I'm sorry..." 
      "...and in this time..." "...so I will go " "...and be with God..." 
@@ -432,7 +425,7 @@
 
                                                      QUICK DISSOLVE TO:
 
-     <u>INT. BUILDING/HALLWAY - THAT MOMENT</u>
+     INT. BUILDING/HALLWAY - THAT MOMENT
 
      CAMERA pushes in towards the door of ROOM 638. We hear same screaming
      and yelling coming fram behind the door;
@@ -443,7 +436,7 @@
 
                                                      QUICK DISSOLVE TO:
 
-     <u>INT. APARTMENT #638 - THAT MOMENT</u>
+     INT. APARTMENT #638 - THAT MOMENT
 
      An ELDERLY COUPLE (early 60s) are savagely fighting and 
      throwing things. The OLDER MAN is backing away from the OLDER WOMAN
@@ -488,7 +481,7 @@
 
                                                                 CUT TO: 
 
-     <u>INT. APARTMENT - DAY - LATER</u>
+     INT. APARTMENT - DAY - LATER
 
      CAMERA moves through the scene as POLICEMAN and DETECTIVES 
      question the OLDER COUPLE.  Neighbors and lookie-loos around. 
@@ -515,7 +508,7 @@
 
                                                                 CUT TO: 
 
-     <u>INT. APARTMENT/HALLWAY - THAT MOMENT</u>
+     INT. APARTMENT/HALLWAY - THAT MOMENT
 
      CAMERA moves through as OFFICERS are talking to and getting
      statements from VARIOUS NEIGHBORS...CAMERA closes in on
@@ -534,7 +527,7 @@
 
                                                                 CUT TO: 
 
-     <u>INT. APARTMENT - DAY - FLASHBACK</u>.
+     INT. APARTMENT - DAY - FLASHBACK.
 
      CAMERA moves into a bedroom area where we see a FIGURE from 
      the back sitting on the bed -- 
@@ -546,13 +539,13 @@
                       his mother and father's tendency to fight,
                       he decided to do something -- 
 
-     CAMERA reveals that it is <u>Sydney Barringer who is loading</u>
-     <u>the shotgun</u>. The YOUNG BOY is sitting nearby, watching Sydney
+     CAMERA reveals that it is Sydney Barringer who is loading
+     the shotgun. The YOUNG BOY is sitting nearby, watching Sydney
      mumble to himself as he loads shells into the shotgun. 
 
                                                                 CUT TO: 
 
-     <u>INT. APARTMENT/HALLWAY - PRESENT</u>
+     INT. APARTMENT/HALLWAY - PRESENT
 
      CAMERA moves in on the YOUNG BOY, who looks INTO CAMERA.
 
@@ -564,7 +557,7 @@
 
                                                                 CUT TO: 
 
-     <u>EXT. BUILDING/ROOFTOP - DAY - FLASHBACK</u>
+     EXT. BUILDING/ROOFTOP - DAY - FLASHBACK
 
      This is a WIDE ANGLE REPLAY of the whole event.  We see the whole
      bui1ding...Sydney starts to jump and the film suddenly slows down... 
@@ -604,7 +597,7 @@
 
                                                                 CUT TO: 
 
-     <u>INT. APARTMENT - DAY</u>
+     INT. APARTMENT - DAY
 
      CAMERA moves in on the PARENTS then over to some DETECTIVES and OFFICERS
      who are making sense of this, they nod to each other as if to say,
@@ -649,14 +642,14 @@
      Freeze Frame, continue w/optical Zoom and rotate 360 degrees;total blur.
      Flash title card: 
 
-                             <u>M a g n o l i a</u>
+                             M a g n o l i a
 
      CAMERA keeps moving in further and farther until the image
      gets incredibly blurry, then: 
 
                                                                 CUT TO: 
 
-     <u>INT. SUBURBAN HOME - DAY</u>   (Present Day, 1998)       <u>Sequence A</u>
+     INT. SUBURBAN HOME - DAY   (Present Day, 1998)       Sequence A
 
      CAMERA DOLLIES IN QUICK towards a TELEVISION in a living
      room.  It is playing an infomercial, shot on video with a
@@ -664,8 +657,8 @@
 
                                 FRANK 
                       In this big game that we play it is
-                      not what you <u>find</u> and it's not what
-                      you <u>deserve</u> - It's What You Take. 
+                      not what you find and it's not what
+                      you deserve - It's What You Take. 
                       I'm Frank T.J. Mackey, Master of the Muffin
                       and author of the Seduce and Destroy System 
                       of audio and videocassettes that will
@@ -674,7 +667,7 @@
 
      CAMERA moves INTO THE TELEVISION, QUICK DISSOLVE TO: 
 
-     <u>INT. BAR SET/LOCATION - THAT MOMENT</u>
+     INT. BAR SET/LOCATION - THAT MOMENT
 
      We are in the video (paneled 1.33) sales pitch/infomercial. 
      Various settings: The bar, a supermarket, a bedroom, a parked car.
@@ -703,7 +696,7 @@
 
                                                                 CUT TO: 
 
-     <u>INT. SMILING PEANUT BAR - NIGHT</u>
+     INT. SMILING PEANUT BAR - NIGHT
 
      CAMERA moves in on a young woman CLAUDIA (20s) sitting alone, bit drunk.
      A vaguely creepy looking MIDDLE AGED GUY (40s) takes a seat next to her: 
@@ -716,7 +709,7 @@
 
                                                                 CUT TO: 
 
-     <u>INT. CLAUDIA'S APARTMENT - LATER</u>
+     INT. CLAUDIA'S APARTMENT - LATER
 
      A series of quick shots where the following happens; CLAUDIA and the
      MIDDLE AGED GUY stumble into her apartment.  CAMERA DOLLIES in quick as
@@ -728,7 +721,7 @@
 
                                                                 CUT TO: 
 
-     <u>INT. CLAUDIA'S BEDROOM - MOMENTS LATER</u>
+     INT. CLAUDIA'S BEDROOM - MOMENTS LATER
 
      CAMERA DOLLIES in quick as they're having sex.  He's on top of her, 
      she's below, CAMERA lands in a CLOSE UP of her face as she gets through
@@ -737,11 +730,11 @@
 
                                                            DISSOLVE TO: 
 
-     <u>INT. TELEVISION IMAGE - CLIP - THAT MOMENT</u>
+     INT. TELEVISION IMAGE - CLIP - THAT MOMENT
 
      This is a promo for a game show called, "WHAT DO KIDS KNOW?" featuring
      the host JIMMY GATOR (60s)  We see various clips of him over the years,
-     hosting the show, at various clebrity events, etc. (<u>Director's Note</u>)
+     hosting the show, at various clebrity events, etc. (Director's Note)
 
                                 PROMO ANNOUNCER 
                       For over thirty years, America has hung 
@@ -755,7 +748,7 @@
                                 JIMMY 
                       God, have I been around that long? 
 
-     <u>INT. JIMMY GATOR'S OFFICE - DAY</u>
+     INT. JIMMY GATOR'S OFFICE - DAY
 
      Blind's closed, door locked.  Jimmy and a YOUNG SHOWGIRL from some
      other show are having sex on his couch.  CAMERA DOLLIES IN FAST.
@@ -765,14 +758,14 @@
                       for over forty years -- with two children
                       and one grandchild on the way -- 
 
-     <u>CU. PHOTOGRAPH</u>.
+     CU. PHOTOGRAPH.
      A family photo of JIMMY, his wife ROSE, his son JIM, JR. and CLAUDIA.
      This photo is circa 1987. OPTICAL ZOOM INTO photo that isolates Jimmy
      and Claudia in the picture.
 
                                                                 CUT TO: 
 
-     <u>INT. CEDARS SINAI MEDICAL CENTER - HALLWAY - PRESENT DAY</u>
+     INT. CEDARS SINAI MEDICAL CENTER - HALLWAY - PRESENT DAY
 
      JIMMY and ROSE (50s) walk down a hallway towards a door. 
 
@@ -783,7 +776,7 @@
 
                                                                 CUT TO: 
 
-     <u>INT. DOCTOR'S OFFICE - MOMENTS LATER</u>
+     INT. DOCTOR'S OFFICE - MOMENTS LATER
 
      CAMERA pushes in on JIMMY and ROSE as they enter, WHIPS over to 
      a NURSE who looks up, smiles says "hello."
@@ -797,7 +790,7 @@
 
                                                                 CUT TO:
 
-     <u>INT. SUBURBAN HOME - DAY</u>
+     INT. SUBURBAN HOME - DAY
 
      CAMERA DOLLIES in towards the televison again.  A quick highlight 
      clip shows a ten year old kid named STANLEY SPECTOR answering question
@@ -812,7 +805,7 @@
 
                                                                 CUT TO: 
 
-     <u>INT. SPECTOR HOUSE - DAY</u>
+     INT. SPECTOR HOUSE - DAY
 
      CAMERA is HAND HELD and moving around a small apartment, watching a 
      ten year old kid STANLEY SPECTOR (dressed in a suit) as he dumps dog
@@ -852,7 +845,7 @@
 
                                                                 CUT TO: 
 
-     <u>EXT. SPECTOR HOUSE - MOMENTS LATER</u>
+     EXT. SPECTOR HOUSE - MOMENTS LATER
 
      CAMERA pushes in quick as Rick sits in the car, engine running, watching
      Stanley struggle to get himself and the backpacks in;
@@ -864,7 +857,7 @@
 
                                                                 CUT TO: 
 
-     <u>EXT. SCHOOL - MOMENTS LATER</u>
+     EXT. SCHOOL - MOMENTS LATER
 
      CAMERA PULLS BACK from the parked car in a new location as Stanley gets
      out of the car with his backpacks, Rick watches from the driver's seat; 
@@ -887,7 +880,7 @@
 
                                                                 CUT TO: 
 
-     <u>INT. 1960's SUBURBAN HOME - DAY</u>
+     INT. 1960's SUBURBAN HOME - DAY
 
      CAMERA pushes in on an old television set playing a clip 
      from "What Do Kids Know?" (1968)  The clip shows a younger JIMMY GATOR
@@ -911,7 +904,7 @@
 
                                                                 CUT TO: 
 
-     <u>INT. DENTIST OFFICE/EXAMINING ROOM - MOMENTS LATER</u>
+     INT. DENTIST OFFICE/EXAMINING ROOM - MOMENTS LATER
 
      DONNIE SMITH, aged 40, is reclined back in a dentist chair.
      He has spiky hair, a small stud earing and a bad grey suit.
@@ -937,7 +930,7 @@
 
                                                                 CUT TO: 
 
-     <u>INT. DENTIST OFFICE/HALLWAY - LATER</u>
+     INT. DENTIST OFFICE/HALLWAY - LATER
 
      CAMERA pulls back as DONNIE and his dentist, DR. LEE (Asian, 40s) 
      exit an examining room, smiling, through with their appointment...
@@ -957,7 +950,7 @@
 
                                                                 CUT TO: 
 
-     <u>EXT. 7-11/PARKING LOT - NORTH HOLLYWOOD - DAY</u>
+     EXT. 7-11/PARKING LOT - NORTH HOLLYWOOD - DAY
 
      CAMERA pushes in towards Donnie as he pulls into the parking lot
      in his little HONDA ACCORD.  He's smiling and singing along to 
@@ -983,7 +976,7 @@
 
                                                                 CUT TO:
 
-     <u>INT. EARL'S HOUSE - DAY</u>
+     INT. EARL'S HOUSE - DAY
 
      CAMERA pushes in real fast on the front door as PHIL PARMA (20s) enters. 
      He has a flat top, flip shade sunglasses that he flips up and he's
@@ -1011,7 +1004,7 @@
      CAMERA MOVES INTO A CLOSE UP ON EARL, MOVES INTO HIS THROAT, QUICK
      DISSOLVE INTO:
 
-     <u>INT. EARL'S THROAT - THAT MOMENT</u>
+     INT. EARL'S THROAT - THAT MOMENT
 
      CAMERA moves around his throat and through his body, looking at 
      his BLOOD STREAM and watching, like a MEDICAL FILM, the cancer as
@@ -1026,7 +1019,7 @@
 
                                                      QUICK DISSOLVE TO:
 
-     <u>INT. EARL'S LIVING ROOM - THAT MOMENT</u>
+     INT. EARL'S LIVING ROOM - THAT MOMENT
 
      CAMERA PULLS BACK from Earl's throat to his MOUTH and his EYES and
      he looks to Phil says; 
@@ -1044,7 +1037,7 @@
 
                                                      QUICK DISSOLVE TO:
 
-     <u>INT. EARL'S HOUSE/UPSTAIRS BEDROOM - THAT MOMENT</u>
+     INT. EARL'S HOUSE/UPSTAIRS BEDROOM - THAT MOMENT
 
      CAMERA dollies in on LINDA PARTRIDGE (30s) as she paces around in a
      nightgown, pops a pill, talks on the phone; 
@@ -1069,7 +1062,7 @@
 
                                                                 CUT TO:
 
-     <u>INT. EARL'S HOUSE - LIVING ROOM - MOMENTS LATER</u>
+     INT. EARL'S HOUSE - LIVING ROOM - MOMENTS LATER
 
      CAMERA moves with Linda as she comes down the stairs, walks 
      over towards Earl's bed, trying to hide her state.  Phil stands
@@ -1095,14 +1088,14 @@
 
                                                                 CUT TO: 
 
-     <u>INT. GARAGE/LINDA'S MERCEDES - PARKED - MOMENTS LATER</u>
+     INT. GARAGE/LINDA'S MERCEDES - PARKED - MOMENTS LATER
 
      CAMERA DOLLIES IN real quick as she gets behind the wheel.  She SMASHES
      her fists on the steering wheel and cries and cries and cries. 
 
                                                                 CUT TO: 
 
-     <u>INT. JIM KURRING'S APARTMENT - DAY</u>
+     INT. JIM KURRING'S APARTMENT - DAY
 
      A very straight ahead apartment in Reseda where JIM KURRING (30s) lives.
      SOUND of a 1-900 PERSONAL DATING SERVICE plays over following quick
@@ -1144,7 +1137,7 @@
 
                                                                 CUT TO:
 
-     <u>INT. VAN NUYS POLICE STATION - DAY</u>
+     INT. VAN NUYS POLICE STATION - DAY
 
      CAMERA observing the officers at a morning role call, DOLLIES and BOOMS 
      DOWN towards JIM KURRING, sitting off to the side a bit by himself. 
@@ -1157,7 +1150,7 @@
 
                                                                 CUT TO: 
 
-     <u>INT. POLICE GARAGE - MOMENTS LATER</u>
+     INT. POLICE GARAGE - MOMENTS LATER
 
      CAMERA DOLLIES w/Jim Kurring as he walks to his squad car. 
      All the cops walk with partners, except him.  Kurring throws on
@@ -1165,7 +1158,7 @@
 
                                                                 CUT TO:
 
-     <u>INT. POLICE CAR - MOVING - LATER</u>
+     INT. POLICE CAR - MOVING - LATER
 
      CAMERA holds a CU. of Jim as he drives.  He speaks to someone unseen;
 
@@ -1193,20 +1186,20 @@
 
                                                                 CUT TO: 
 
-     <u>EXT. MAGNOLIA BOULEVARD - DAY</u>
+     EXT. MAGNOLIA BOULEVARD - DAY
 
      CAMERA looks straight down on an intersection.  Jim Kurring's POLICE
      CAR drives past....a little SUNLIGHT that hits the intersection goes
-     away as if covered very quickly by a grey cloud....<u>End Title Oue and</u>
-     <u>Sequence A</u>. 
+     away as if covered very quickly by a grey cloud....End Title Oue and
+     Sequence A. 
 
                                                           CUT TO BLACK.
 
-     TITLE CARD reads:     <u>Partly Cloudy, 75% chance of rain</u>
+     TITLE CARD reads:     Partly Cloudy, 75% chance of rain
 
                                                                FADE IN: 
 
-     <u>INT. APARTMENT COMPLEX/NORTH HOLLYWOOD - DAY</u>         <u>Sequence B</u>
+     INT. APARTMENT COMPLEX/NORTH HOLLYWOOD - DAY         Sequence B
 
      CAMERA (STEADICAM) follows behind JIM KURRING.  He walks through 
      a courtyard, past some young mexican and black kids playing,
@@ -1492,8 +1485,8 @@
                                 MARCIE 
                       I told you there was no one in there! 
 
-     Jim looks down the hall at <u>Marcie who has physically dragged</u>
-     <u>the large couch handcuffed behind her</u>; 
+     Jim looks down the hall at Marcie who has physically dragged
+     the large couch handcuffed behind her; 
 
                                 JIM KURRING 
                       Marcie - Do not drag that couch any further! 
@@ -1518,7 +1511,7 @@
 
                                                                 CUT TO: 
 
-     <u>INT. EARL'S HOUSE - LIVING ROOM - DAY</u>
+     INT. EARL'S HOUSE - LIVING ROOM - DAY
 
      Earl in bed, pretty out of it, but once in a while a couple clear
      moments.  Phil sits next to the bed, paper and coffee nearby. 
@@ -1705,7 +1698,7 @@
 
                                                                 CUT TO: 
 
-     <u>INT. BURBANK HOLIDAY INN/BANQUET ROOM - THAT MOMENT</u>
+     INT. BURBANK HOLIDAY INN/BANQUET ROOM - THAT MOMENT
 
      FRANK steps into a CLOSE UP and holding a mic, says:
 
@@ -1736,9 +1729,9 @@
                       It must be the way. 
                       The thing about chicks and the thing
                       about this course that we're going 
-                      through today is how <u>universal</u> the whole 
+                      through today is how universal the whole 
                       thing is.  I mean: I wish I could sit here 
-                      and say that it's not -- because <u>the reality</u>?
+                      and say that it's not -- because the reality?
                       If each chick had something new, something
                       really new that I'd never seen before? 
                       Fuckin' hell: I'd be in the money!  Because 
@@ -1767,7 +1760,7 @@
 
                                                                 CUT TO:
 
-     <u>INT. HOLIDAY INN/LOBBY - THAT MOMENT</u>
+     INT. HOLIDAY INN/LOBBY - THAT MOMENT
 
      Sliding doors open in the lobby and a young woman GWENOVIER (30s)
      enters, takes off her sunglasses and looks around.
@@ -1799,7 +1792,7 @@
 
                                                                 CUT TO: 
 
-     <u>INT. HOLIDAY INN/BANQUET ROOM - THAT MOMENT</u>
+     INT. HOLIDAY INN/BANQUET ROOM - THAT MOMENT
 
      Captain Muffy, Doc and Gwenovier enter and head tor some seats, 
      CAMERA swings a 180 and moves down the aisle, towards the stage
@@ -1834,7 +1827,7 @@
 
                                                                 CUT TO:
 
-     <u>INT. EARL'S HOUSE/OFFICE - THAT MOMENT</u>
+     INT. EARL'S HOUSE/OFFICE - THAT MOMENT
 
      Phil flips through a little adress book, finds a number. XCU - It reads,
      "Frank 8/509-9027"  He picks up a phone and dials; 
@@ -1871,7 +1864,7 @@
 
                                                                 CUT TO: 
 
-     <u>INT. HOLIDAY INN/BANOUET ROOM - THAT MOMENT</u>.
+     INT. HOLIDAY INN/BANOUET ROOM - THAT MOMENT.
 
      CAMERA with Gwenovier as she walks quietly over to the side
      of the crowd to a VIDEO CREW that's been set up and is recording
@@ -1950,7 +1943,7 @@
 
                                                               FLASH ON:
 
-     <u>INT. GIRL'S APARTMENT - NIGHT</u>
+     INT. GIRL'S APARTMENT - NIGHT
 
      CAMERA DOLLIES AROUND a young GIRL (20s) on the phone. 
 
@@ -1960,7 +1953,7 @@
 
                                                                 CUT TO:
 
-     <u>INT. FRANK'S APARTMENT - NIGHT</u>
+     INT. FRANK'S APARTMENT - NIGHT
 
      Frank on the phone. 
 
@@ -1972,7 +1965,7 @@
 
                                                                 CUT TO: 
 
-     <u>INT. GIRL'S HOUSE - ANOTHER NIGHT</u>
+     INT. GIRL'S HOUSE - ANOTHER NIGHT
  
      CAMERA (HAND HELD) follows behind the GIRL as she walks from the kitchen
      to the front door, shaking her head, huffing and puffing....
@@ -2011,7 +2004,7 @@
 
                                                                 CUT TO: 
 
-     <u>INT. HOLIDAY INN/BANQUET ROOM - THAT MOMENT</u>
+     INT. HOLIDAY INN/BANQUET ROOM - THAT MOMENT
 
      Frank is cracking himself up.  He continues.
 
@@ -2030,7 +2023,7 @@
                       
                                                                 CUT TO: 
 
-     <u>INT. GIRL'S HOUSE - NIGHT</u>
+     INT. GIRL'S HOUSE - NIGHT
 
      The Girl picks up her phone and presses some numbers... 
 
@@ -2039,7 +2032,7 @@
 
                                                                 CUT TO: 
 
-     <u>INT. FRANK'S HOUSE - NIGHT</u>
+     INT. FRANK'S HOUSE - NIGHT
 
      Frank picks up the phone. 
 
@@ -2061,13 +2054,13 @@
 
                                                                 CUT TO: 
 
-     <u>INT. GIRL'S HOUSE - THAT MOMENT</u>
+     INT. GIRL'S HOUSE - THAT MOMENT
 
      The Girl gets the dial tone.  She looks completely confused and hurt.
 
                                                                 CUT TO:
 
-     <u>INT. HOLIDAY INN/BANQUET ROOM - BACK TO SCENE</u>
+     INT. HOLIDAY INN/BANQUET ROOM - BACK TO SCENE
 
      Frank speaking to the group:
 
@@ -2089,7 +2082,7 @@
 
                                                                 CUT TO:
 
-     <u>INT. CEDARS SINAI MEDICAL CENTER - HALLWAY - DAY</u>
+     INT. CEDARS SINAI MEDICAL CENTER - HALLWAY - DAY
 
      CAMERA pushes in as LINDA walks towards us, down the same 
      hallway we saw Jimmy Gator walking down earlier, she heads
@@ -2097,7 +2090,7 @@
 
                                                                 CUT TO: 
 
-     <u>INT. DOCTOR'S OFFICE/RECPETION AREA - MOMENTS LATER</u>
+     INT. DOCTOR'S OFFICE/RECPETION AREA - MOMENTS LATER
 
      CAMERA pushes in on Linda as she enters, WHIPS over to a
      RECEPTIONIST who looks up;
@@ -2110,7 +2103,7 @@
 
                                                                 CUT TO: 
 
-     <u>INT. DOCTOR'S OFFICE - MOMENTS LATER</u>
+     INT. DOCTOR'S OFFICE - MOMENTS LATER
 
      Quick shots get them in the room:  DR. LANDON (40s) sits
      across from LINDA, who's in semi-hysterics, pacing; 
@@ -2133,7 +2126,7 @@
                       I just, I just -- I just -- I'm just
                       in a fucking state, I know he's 
                       going and it's like I don't know how
-                      -- just tell me <u>practical</u> things -- 
+                      -- just tell me practical things -- 
                       What the fuck do I do with his body? 
                       What happens when he dies? That next moment:
                       What? What do I do?  Then What? 
@@ -2230,28 +2223,28 @@
 
                                                                 CUT TO:
 
-     <u>INT. JIMMY'S JAGUAR - PARKED - DAY</u>
+     INT. JIMMY'S JAGUAR - PARKED - DAY
 
      CAMERA holds a CU on Jimmy sitting behind the wheel.  He hesitates
      a moment, exits the car. 
 
                                                                 CUT TO: 
 
-     <u>EXT. CLAUDIA'S APARTMENT/STAIRWELL - MOMENTS LATER</u>
+     EXT. CLAUDIA'S APARTMENT/STAIRWELL - MOMENTS LATER
 
      CAMERA holds looking down a staircase.  Jimmy enters FRAME, walks
      up to the second floor, stands a moment, then knocks.
 
                                                                 CUT TO: 
 
-     <u>INT. CLAUDIA'S BEDROOM - THAT MOMENT</u>
+     INT. CLAUDIA'S BEDROOM - THAT MOMENT
 
      CAMERA DOLLIES in on the bed.  Claudia's asleep.  The MIDDLE AGED GUY is 
      lying next to her in his underwear.  He hears the door, wakes.
 
                                                                 CUT TO: 
 
-     <u>EXT./INT. CLAUDIA'S APARTMENT - THAT MOMENT</u>
+     EXT./INT. CLAUDIA'S APARTMENT - THAT MOMENT
 
      Jimmy knocks again....after a BEAT...the door is opened by the MIDDLE
      AGED GUY.  He stands in his underwear.
@@ -2308,7 +2301,7 @@
 
      The Middle Aged Guy points Jimmy to the back bedroom. 
 
-     <u>INT. CLAUDIA'S BEDROOM - THAT MOMENT</u>
+     INT. CLAUDIA'S BEDROOM - THAT MOMENT
 
      Claudia is asleep. Jimmy enters, stands near the edge of the bed.
      After a moment, Claudia's eyes open, look over and see Jimmy.
@@ -2472,7 +2465,7 @@
 
                                                                 CUT TO: 
 
-     <u>INT. SOLOMON AND SOLOMON ELECTRONICS - DAY</u>
+     INT. SOLOMON AND SOLOMON ELECTRONICS - DAY
 
      CAMERA pushes in as Donnie Smith runs in the door, brushes his
      hair back, etc.  This is a "Good Guys" type electronics place.
@@ -2485,7 +2478,7 @@
 
                                                                 CUT TO: 
 
-     <u>INT. BACK HALLWAY - SOLOMON AND SOLOMON - THAT MOMENT</u>
+     INT. BACK HALLWAY - SOLOMON AND SOLOMON - THAT MOMENT
 
      Donnie enters, walks swiftly down the hall to another door.
      Just before he reaches it, AVI SOLOMON (30s) appears at the
@@ -2504,7 +2497,7 @@
 
                                                                 CUT TO: 
 
-     <u>INT. DRESSING ROOM/EMPLOYEE LOUNGE - MOMENTS LATER</u>
+     INT. DRESSING ROOM/EMPLOYEE LOUNGE - MOMENTS LATER
 
      Donnie is changed into his Solomon and Solomon Electronics vest
      and name tag.  He brushes himself up, sweating a bit. (Note:ON HIS BACK) 
@@ -2514,7 +2507,7 @@
 
                                                                 CUT TO:
 
-     <u>INT. SOLOMON'S OFFICE - MOMENTS LATER</u>
+     INT. SOLOMON'S OFFICE - MOMENTS LATER
 
      Donnie sitting across the desk from SOLOMON SOLOMON (40s) owner
      of the store. Avi, his brother, stands nearby. 
@@ -2591,7 +2584,7 @@
                       The keys to my store, the codes to my locks,
                       the life, the blood of my bussiness and 
                       return is smashing in seven-eleven, late,
-                      <u>always</u> late, loans -- I loaned you money
+                      always late, loans -- I loaned you money
                       for your kitchen that you never did -- 
 
                                 DONNIE
@@ -2729,7 +2722,7 @@
 
                                                                 CUT TO: 
 
-     <u>INT. APARTMENT COMPLEX/NORTH HOLLYWOOD - THAT MOMENT</u>
+     INT. APARTMENT COMPLEX/NORTH HOLLYWOOD - THAT MOMENT
 
      CAMERA hangs inside bedroom w/Detectives and Investigators and 
      County Coroner folks as we go through in a series of quick shots.
@@ -2758,10 +2751,10 @@
                       There's a son, apparently.  And a kid.
 
                                 DETECTIVE #1
-                      <u>Her</u> son?
+                      Her son?
  
                                 OFFICER
-                      <u>Her</u> son, that's right...and the kid.
+                      Her son, that's right...and the kid.
                       And they were here and around and
                       from late last night and through the
                       morning, it's screaming and yelling --
@@ -2810,13 +2803,13 @@
                       Why did you kill him, Marcie?
 
                                 DETECTIVE #3
-                      <u>Did</u> you kill him? 
+                      Did you kill him? 
 
                                 OFFICER #2 
-                      Did he hurt you, did he <u>do</u> something? 
+                      Did he hurt you, did he do something? 
 
                                 DETECTIVE #4
-                      How long's he <u>been</u> in there?
+                      How long's he been in there?
 
                                 DETECTIVE #3
                       You're hurting yourself, Marcie. 
@@ -2854,7 +2847,7 @@
      ANGLE, STREET OUTSIDE APARTMENT COMPLEX - LATER
      The investigation is wrapping up now and CAMERA (STEADICAM)
      moves with Jim Kurring as he heads towards his squad car, 
-     talking into his WALKIE TALKIE. (<u>Dir. Note</u>: technical info re:
+     talking into his WALKIE TALKIE. (Dir. Note: technical info re:
      disturbance at adress/Jim takes call/etc.)
 
                                 WALKIE VOICE
@@ -3054,7 +3047,7 @@
 
      MUSIC QUE starts, builds over the following cut and through sequence;
 
-     <u>INT. SCHOOL LIBRARY - DAY</u>                            <u>Sequence C</u>
+     INT. SCHOOL LIBRARY - DAY                            Sequence C
 
      CAMERA PUSHES IN SLOW on STANLEY as he sits at a desk...piles of
      books spread out in front of him....
@@ -3078,7 +3071,7 @@
 
                                                                 CUT TO:
 
-     <u>EXT. SCHOOL - PICK UP AREA - MOMENTS LATER</u>
+     EXT. SCHOOL - PICK UP AREA - MOMENTS LATER
 
      CAMERA (STEADICAM) follows behind Stanley as he heads, with all his
      backpacks, towards Rick, who's waiting in the car --
@@ -3110,18 +3103,18 @@
 
                                                                 CUT TO: 
 
-     <u>EXT. SKY - DAY</u>
+     EXT. SKY - DAY
 
      CAMERA looking straight up. It starts POURING RAIN real hard
      right INTO CAMERA....SLOW ZOOM IN....hold until it's just a
      WASH OF WATER. 
 
-     Title Card reads:      <u>Temperature/Percipitation reading/</u>
-                           <u>wind direction/weather info/humidity/etc</u>
+     Title Card reads:      Temperature/Percipitation reading/
+                           wind direction/weather info/humidity/etc
 
                                                      QUICK DISSOLVE TO: 
 
-     <u>EXT./INT. TELEVISION STUDIO - SECUIRTY ENTRANCE - MOMENTS LATER</u>
+     EXT./INT. TELEVISION STUDIO - SECUIRTY ENTRANCE - MOMENTS LATER
  
      CAMERA (STEADICAM) follows behind Stanley and Rick as they run
      in from the rain, through some sliding glass doors, past a SECURITY
@@ -3263,7 +3256,7 @@
 
                                                               INTERCUT:
 
-     <u>INT. JIMMY'S HOUSE - THAT MOMENT</u>
+     INT. JIMMY'S HOUSE - THAT MOMENT
 
      CAMERA PUSHES in on ROSE (Jimmy's wife) as she sits in the kitchen
      on the phone to him.  A MAID does some work in the b.g. 
@@ -3317,28 +3310,28 @@
 
                                                                 CUT TO: 
 
-     <u>EXT. CLAUDIA'S APARTMENT - THAT MOMENT</u>
+     EXT. CLAUDIA'S APARTMENT - THAT MOMENT
 
      CAMERA holds a moment on the building.  JIM KURRING pulls his squad 
      car INTO FRAME, looks at the building.
 
                                                                 CUT TO: 
 
-     <u>INT. CLAUDIA'S APARTMENT - THAT MOMENT</u>
+     INT. CLAUDIA'S APARTMENT - THAT MOMENT
 
      CAMERA dollies in quick on Claudia as she snorts a line of coke.
      She has some music BLASTING.
 
                                                                 CUT TO: 
 
-     <u>EXT. CLAUDIA'S APARTMENT - THAT MOMENT</u>
+     EXT. CLAUDIA'S APARTMENT - THAT MOMENT
 
      CAMERA (STEADICAM) follows behind Jim Kurring as he heads up the 
      pathway, up the stairs and lands at her door.  He knocks.
 
                                                                 CUT TO:
 
-     <u>INT. CLAUDIA'S APARTMENT - THAT MOMENT</u>
+     INT. CLAUDIA'S APARTMENT - THAT MOMENT
 
      Claudia jumps -- turns her head to the door.  She sniffs a bit,
      yells over the blasting music;
@@ -3367,20 +3360,20 @@
 
                                                                 CUT TO:
 
-     <u>EXT. MEDICAL BUILDING/SHERMAN OAKS - THAT MOMENT</u>
+     EXT. MEDICAL BUILDING/SHERMAN OAKS - THAT MOMENT
 
      CAMERA pushes in on LINDA'S MERCEDES as it pulls into a parking 
      structure.  The RAIN is pouring down.  She steps out of the car -- 
 
                                                                 CUT TO: 
 
-     <u>INT. MEDICAL BUILDING - MOMENTS LATER</u>
+     INT. MEDICAL BUILDING - MOMENTS LATER
 
      CAMERA pulls back as Linda exits some elevators, heads down a hall --
 
                                                                 CUT TO: 
 
-     <u>INT. OFFICE/WAITING ROOM - MOMENTS LATER</u>
+     INT. OFFICE/WAITING ROOM - MOMENTS LATER
 
      She enters a psychologist's waiting room. Three or four chairs
      and a LIGHT SWITCH that has a doctors name next to it.
@@ -3389,7 +3382,7 @@
 
                                                            JUMP CUT TO:
 
-     <u>INT. PSYCHOLOGIST'S OFFICE - MOMENTS LATER</u>
+     INT. PSYCHOLOGIST'S OFFICE - MOMENTS LATER
 
      A small, comfortable office space.  Linda is crying, talking,
      pacing.  The psychologist is a middle aged woman, DR. DIANE.
@@ -3429,7 +3422,7 @@
 
                                                                 CUT TO: 
 
-     <u>INT. EARL'S HOUSE - DEN - THAT MOMENT</u>
+     INT. EARL'S HOUSE - DEN - THAT MOMENT
 
      CAMERA holds on PHIL.  SLOW ZOOM IN as he stands in front of
      the television, flipping stations.
@@ -3456,13 +3449,13 @@
 
                                                                 CUT TO: 
 
-     <u>INT. EARL'S HOUSE/KITCHEN - MOMENT LATER</u>
+     INT. EARL'S HOUSE/KITCHEN - MOMENT LATER
 
-     Phil enters and picks up the phone. Dials a number. (<u>Director's Note</u>)
+     Phil enters and picks up the phone. Dials a number. (Director's Note)
 
                                                               INTERCUT: 
 
-     <u>INT. PINK DOT - THAT MOMENT</u>
+     INT. PINK DOT - THAT MOMENT
 
      A young Mexican GIRL (20's) takes orders for delivery at pink Dot, 
      sits in front of a little computer. 
@@ -3560,14 +3553,14 @@
 
                                                      QUICK DISSOLVE TO:
 
-     <u>INT. EARL'S BODY - THAT MOMENT</u>
+     INT. EARL'S BODY - THAT MOMENT
 
      CAMERA roams around a bit, watching the CANCER eat away at Earl's lungs.
      CAMERA MOVES BACKWARDS, pulling out;
 
                                                      QUICK DISSOLVE TO:
 
-     <u>INT. HOLIDAY INN/BANQUET ROOM - THAT MOMENT</u>
+     INT. HOLIDAY INN/BANQUET ROOM - THAT MOMENT
 
      CAMERA pulls back from Frank, who heads offstage.  The AUDIENCE is 
      applauding him.  The sidekick, DOC takes the mic and makes an
@@ -3603,7 +3596,7 @@
 
                                                                 CUT TO:
 
-     <u>INT. HOTEL SUITE - MOMENTS LATER</u>
+     INT. HOTEL SUITE - MOMENTS LATER
 
      Frank is getting his mic put on, Gwenovier has a small VIDEO CREW
      with her.  They both get touched up for the interview, Frank's
@@ -3645,7 +3638,7 @@
                       I'm not succeding in the bush because
                       I'm Frank TJ Mackey.  If anything, 
                       there are women out there that want 
-                      to <u>destroy</u> me -- it makes it twice as
+                      to destroy me -- it makes it twice as
                       hard for me, I run into some little 
                       muffin, knows who I am, knows my schemes
                       and plans -- shit, she's gonna wanna 
@@ -3672,7 +3665,7 @@
 
                                                                 CUT TO:
 
-     <u>EXT. SMILING PEANUT BAR - THAT MOMENT</u>
+     EXT. SMILING PEANUT BAR - THAT MOMENT
 
      CAMERA BOOMS DOWN and PUSHES IN on Donnie Smith's Honda Accord,
      with damaged front end, as it pulls into a parking space.
@@ -3689,7 +3682,7 @@
 
                                                                 CUT TO: 
 
-     <u>INT. SMILING PEANUT BAR - THAT MOMENT</u>
+     INT. SMILING PEANUT BAR - THAT MOMENT
 
      CAMERA (STEADICAM) pushes in as Donnie enters this dark little bar.
      It's not too crowded.  He takes off his wet coat, brushes his hair 
@@ -3720,7 +3713,7 @@
      the bar and pushes in towards -- 
 
      Bartender Brad takes the order from the Cocktail Waitress. 
-     He nods, turns from her and smiles to reveal <u>a full set of BRACES</u>. 
+     He nods, turns from her and smiles to reveal a full set of BRACES. 
 
      ANGLE, DONNIE.  CAMERA pushes in slow and he smiles, touches his
      hand to his mouth.
@@ -3750,7 +3743,7 @@
 
                                                                 CUT TO: 
 
-     <u>INT. TELEVISION STUDIO/HALLWAYS - THAT MOMENT</u>
+     INT. TELEVISION STUDIO/HALLWAYS - THAT MOMENT
 
      CAMERA leads/follows the kids from the show; STANLEY, RICHARD
      (overweight, 12) and JULIA (child-star-type 11).  They're led by
@@ -3918,7 +3911,7 @@
 
                                                                 CUT TO: 
 
-     <u>INT. JIMMY'S OFFICE - THAT MOMENT</u>
+     INT. JIMMY'S OFFICE - THAT MOMENT
 
      Jimmy and a woman named PAULA (3Os) sit in his office. SLOW DOLLY IN
      ON EACH thru scene;
@@ -3954,7 +3947,7 @@
                       That you regret, what? This? What's
                       this? Fuck, man, c'mon.  Treat me 
                       like an asshole, but treat me like
-                      an <u>asshole</u>. 
+                      an asshole. 
 
                                 JIMMY 
                       I don't wanna have to lie to anyone. 
@@ -4043,7 +4036,7 @@
 
                                                                 CUT TO:
 
-     <u>INT. TELEVISION STUDIO/HALLWAY - MOMENTS LATER</u>
+     INT. TELEVISION STUDIO/HALLWAY - MOMENTS LATER
 
      Burt and Jimmy walking and talking (STEADICAM);
 
@@ -4078,7 +4071,7 @@
 
                                                                 CUT TO: 
 
-     <u>INT. CLAUDIA'S APARTMENT - THAT MOMENT</u>. **
+     INT. CLAUDIA'S APARTMENT - THAT MOMENT. **
 
      Claudia finishes throwing her drugs into a dirty t-shirt and throwing
      that dirty t-shirt into her laundry basket.  Jim Kurring bangs away at
@@ -4298,7 +4291,7 @@
 
                                                                 CUT TO: 
 
-     <u>INT. SMILING PEANUT BAR - THAT MOMENT</u>.
+     INT. SMILING PEANUT BAR - THAT MOMENT.
 
      Donnie sits in his booth after two tequila's.  He's slightly fucked up. 
      He gets up, stumbles over to the bar and takes a seat uncomfortably 
@@ -4371,7 +4364,7 @@
 
                                                                 CUT TO:
 
-     <u>EXT. SHERMAN OAKS PHARMACY - THAT MOMENT</u>
+     EXT. SHERMAN OAKS PHARMACY - THAT MOMENT
 
      CAMERA holds wide angle on a pharmacy.  It's still POURING RAIN.
      LINDA'S MERCEDES comes driving real fast into FRAME and slams it's
@@ -4379,7 +4372,7 @@
 
                                                                 CUT TO: 
 
-     <u>INT. SHERMAN OAKS PHARMACY - THAT MOMENT</u>.
+     INT. SHERMAN OAKS PHARMACY - THAT MOMENT.
 
      CAMERA pushes in on Linda as she enters, heads to the back for 
      the perscription counter and a YOUNG PHARMACY KID behind the counter;
@@ -4405,7 +4398,7 @@
 
                                                                 CUT TO: 
 
-     <u>INT. TELEVISION STUDIO/STAGE - THAT MOMENT</u>
+     INT. TELEVISION STUDIO/STAGE - THAT MOMENT
 
      CAMERA PUSHES in on a oversized STOPWATCH and the FLOOR DIRECTOR nearby; 
 
@@ -4428,7 +4421,7 @@
 
                                                                 CUT TO: 
 
-     <u>INT. PARENT'S GREEN ROOM - THAT MOMENT</u>
+     INT. PARENT'S GREEN ROOM - THAT MOMENT
 
      CAMERA pushes in on the Parents;
 
@@ -4462,7 +4455,7 @@
                       -- It's not a fashion show, it's school.
 
                                 JULIA'S MOM
-                      It is <u>not</u> a fashion show. 
+                      It is not a fashion show. 
 
      CAMERA lands over on Rick, who's flipping through a brocheure
      for a new MERCEDES.
@@ -4474,7 +4467,7 @@
 
                                                                WHIP TO:
 
-     <u>INT. TELEVISION STUDIO/STAGE - THAT MOMENT</u>
+     INT. TELEVISION STUDIO/STAGE - THAT MOMENT
 
      CAMERA pushes in on JIMMY and BURT, behind the curtain.  Jimmy drunk;
 
@@ -4505,7 +4498,7 @@
      that cheers, then WHIPS again to see the "What Do Kids Know?" sign as it
      lowers over the stage.  The THEME MUSIC kicks in and we're away; 
 
-     <u>Director's Note</u>: We move between their TV CAMERA'S POV and our 35mm
+     Director's Note: We move between their TV CAMERA'S POV and our 35mm
      CAMERA POV. 
 
                                 DICK JENNINGS (VO) 
@@ -4542,7 +4535,7 @@
 
                                                                 CUT TO: 
 
-     <u>INT. EARL'S HOUSE - LIVING ROOM - THAT MOMENT</u>        <u>Sequence D</u>
+     INT. EARL'S HOUSE - LIVING ROOM - THAT MOMENT        Sequence D
 
      CAMERA pulls back from the TELEVISION and WHIPS to Phil watching. 
      The CAMERA pushes past him and over to Earl, asleep in the bed.
@@ -4557,7 +4550,7 @@
 
                                                                WHIP TO:
 
-     <u>INT. HOLIDAY INN SUITE - THAT MOMENT</u>
+     INT. HOLIDAY INN SUITE - THAT MOMENT
 
      CAMERA pushes in on Frank who's babbling away about "Seduce and
      Destroy," (Director's Note) then WHIP over to Gwenovier and her video
@@ -4571,7 +4564,7 @@
 
                                                                WHIP TO:
 
-     <u>INT. CLAUDIA'S APARTMENT - THAT MOMENT</u>
+     INT. CLAUDIA'S APARTMENT - THAT MOMENT
 
      CAMERA pushes in on Jim Kurring then WHIP to Claudia as they
      talk and he snoops, etc. (Director's Note: Ref. note pages) 
@@ -4586,7 +4579,7 @@
 
                                                                WHIP TO: 
 
-     <u>INT. SMILING PEANUT - THAT MOMENT</u>
+     INT. SMILING PEANUT - THAT MOMENT
 
      CAMERA WHIPS from the TELEVISION above the bar which is playing
      the quiz show and pushes over Donnie, staring at the monitor.
@@ -4600,7 +4593,7 @@
 
                                                                WHIP TO: 
 
-     <u>INT. SHERMAN OAKS PHARMACY - THAT MOMENT</u>
+     INT. SHERMAN OAKS PHARMACY - THAT MOMENT
 
      CAMERA whips a ZOOMS in slow on Linda, holding her temper as the 
      Pharamcy guy suspiciously glance at her and make a call or two to
@@ -4608,13 +4601,13 @@
 
                                 JIMMY GATOR (OC) 
                       -- for I have met the three adult challengers
-                      backstage and they <u>are</u> quite a challenge 
+                      backstage and they are quite a challenge 
                       for our youngsters -- SO LET'S GET THIS GAME
                       OFF AND AWAY, EH? 
 
                                                                WHIP TO: 
 
-     <u>INT. JIMMY GATOR'S HOUSE - THAT MOMENT</u>
+     INT. JIMMY GATOR'S HOUSE - THAT MOMENT
 
      CAMERA pushes in on ROSE as she watches her husband.
 
@@ -4625,7 +4618,7 @@
 
                                                                WHIP TO: 
 
-     <u>INT. POLICE STATION - THAT MOMENT</u>
+     INT. POLICE STATION - THAT MOMENT
 
      CAMERA pushes in on MARCIE who's being processed and finger printed/ 
      questioned.  Two DETECTIVES nearby/OC throughout.  A small
@@ -4651,15 +4644,15 @@
 
                                                                WHIP TO:
 
-     <u>INT. NORTH HOLLYWOOD APARTMENT - THAT MOMENT</u>
+     INT. NORTH HOLLYWOOD APARTMENT - THAT MOMENT
 
      CAMERA pushes in on the little kid, DIXON, who gave Jim Kurring
      the rap earlier.  Sitting around with the friends who we saw
      earlier in one of their apartments.  They're glued to the
      TELEVISION that plays the show.
 
-     <u>The BACK OF A FIGURE (black male) enters FRAME and tapes Dixon's</u>
-     <u>shoulder with a "let's go" motion and Dixon gets up and follows</u>...
+     The BACK OF A FIGURE (black male) enters FRAME and tapes Dixon's
+     shoulder with a "let's go" motion and Dixon gets up and follows...
      CAMERA keeps going in towards the television --
 
                                 JIMMY GATOR (OC)
@@ -4668,7 +4661,7 @@
 
                                                                WHIP TO:
 
-     <u>INT. EARL'S HOUSE - LIVING ROOM - THAT MOMENT</u>
+     INT. EARL'S HOUSE - LIVING ROOM - THAT MOMENT
 
      CAMERA pushes in profile on PHIL.  The DOORBELL RINGS and he jumps.
      The DOGS go crazy barking.  Phil heads for the door, opens up.
@@ -4725,7 +4718,7 @@
 
                                                                 CUT TO: 
 
-     <u>INT. GAME SHOW STAGE - THAT MOMENT</u>
+     INT. GAME SHOW STAGE - THAT MOMENT
 
      CAMERA does a super fast WHIP and DOLLY in to STANLEY as he presses 
      his buzzer: 
@@ -4764,7 +4757,7 @@
 
                                                                 CUT TO: 
 
-     <u>INT. PARENTS GREEN ROOM - THAT MOMENT</u>
+     INT. PARENTS GREEN ROOM - THAT MOMENT
 
      CAMERA pushes in on Rick as he sits back and smiles.
 
@@ -4774,7 +4767,7 @@
 
                                                                 CUT TO: 
 
-     <u>INT. VAN NUYS OFFICE SPACE - THAT MOMENT</u>
+     INT. VAN NUYS OFFICE SPACE - THAT MOMENT
 
      CAMERA pushes in on a geek named CHAD (20s) who answers a phone.
      He has a small computer in front of him.  This is the bolier-room-
@@ -4791,7 +4784,7 @@
 
                                                                 CUT TO: 
 
-     <u>INT. EARL'S HOUSE - KITCHEN - THAT MOMENT</u>
+     INT. EARL'S HOUSE - KITCHEN - THAT MOMENT
 
      CAMERA pushes in on Phil, on the phone.
 
@@ -4840,7 +4833,7 @@
 
                                                                 CUT TO: 
 
-     <u>INT. HOLIDAY INN SUITE - THAT MOMENT</u>
+     INT. HOLIDAY INN SUITE - THAT MOMENT
 
      Frank and Gwenovier doing the interview; 
 
@@ -4935,7 +4928,7 @@
 
                                                                 CUT TO:
 
-     <u>INT. PHARMACY - THAT MOMENT</u>
+     INT. PHARMACY - THAT MOMENT
 
      The YOUNG PHARMACY KID is stacking some stuff away while waiting 
      for the PHARMACIST to finish filling the perscription. 
@@ -4992,7 +4985,7 @@
                       I COME IN HERE - YOU DON'T KNOW,
                       YOU DON'T KNOW WHO THE FUCK I AM 
                       OR WHAT MY LIFE IS AND YOU HAVE THE
-                      FUCKING BALLS, THE <u>INDECENCY</u> TO ASK
+                      FUCKING BALLS, THE INDECENCY TO ASK
                       ME A QUESTION ABOUT MY LIFE --
 
      Linda PUSHES a large DISPLAY over on it's side, SMASHES things on the
@@ -5021,7 +5014,7 @@
 
                                                                 CUT TO:
 
-     <u>INT. LINDA'S MERCEDS - MOMENTS LATER</u>
+     INT. LINDA'S MERCEDS - MOMENTS LATER
 
      She slams the door.  She's shaking and crying.
 
@@ -5031,13 +5024,13 @@
 
                                                                 CUT TO:
 
-     <u>EXT. PHARMACY/STREET - THAT MOMENT</u>
+     EXT. PHARMACY/STREET - THAT MOMENT
 
      CAMERA BOOMS down on her Mercedes as it peel out and off -- 
 
                                                                 CUT TO: 
 
-     <u>INT. EARL'S HOUSE/VAN NUYS OFFICE SPACE - THAT MOMENT</u>
+     INT. EARL'S HOUSE/VAN NUYS OFFICE SPACE - THAT MOMENT
 
      Continue w/intercut between Phil and Chad on the phone.  BEAT, THEN: 
 
@@ -5117,7 +5110,7 @@
 
                                                                 CUT TO:
 
-     <u>INT. HOLIDAY INN SUITE - THAT MOMENT</u>
+     INT. HOLIDAY INN SUITE - THAT MOMENT
 
      Frank and Gwenovier doing the interview, CAMERA DOLLIES IN SLOW ON EACH: 
 
@@ -5137,8 +5130,8 @@
                       I was -- misguided, pathetic -- I was very fat.
                       Not even close to what I am today. 
                       Not the Frank TJ Mackey you're eager to talk
-                      to because I was swimming in what <u>was</u> as
-                      opposed to I <u>wanted</u>. 
+                      to because I was swimming in what was as
+                      opposed to I wanted. 
 
                                 GWEN 
                       Where does that name come from? 
@@ -5202,7 +5195,7 @@
 
                                                                 CUT TO: 
 
-     <u>INT. GAME SHOW SET - THAT MOMENT</u>.
+     INT. GAME SHOW SET - THAT MOMENT.
 
      CAMERA pushes in on Jimmy Gator.  A BELL is ringing.
 
@@ -5251,7 +5244,7 @@
 
                                                                 CUT TO: 
 
-     <u>INT. CLAUDIA'S APARTMENT - THAT MOMENT</u>               <u>Sequence E</u>
+     INT. CLAUDIA'S APARTMENT - THAT MOMENT               Sequence E
 
      Jim Kurring and Clauida continued.  He walks into the KITCHEN area
      and sees a pot of coffee.
@@ -5376,14 +5369,14 @@
 
                                                                 CUT TO: 
 
-     <u>INT. CLAUDIA'S BEDROOM - MOMENT LATER</u>
+     INT. CLAUDIA'S BEDROOM - MOMENT LATER
 
      She enters, gets the coke from the laundry basket -- and sets
      some up, snorts it back -- 
 
                                                                 CUT TO: 
 
-     <u>INT. CLAUDIA'S KITCHEN NOOK - THAT MOMENT</u>
+     INT. CLAUDIA'S KITCHEN NOOK - THAT MOMENT
 
      Jim Kurring looks over his shoulder and sees that she's gone.
      He quickly moves to the kitchen and dumps the coffee in the sink
@@ -5391,7 +5384,7 @@
 
                                                                 CUT TO:
 
-     <u>INT. GAME SHOW SET - THAT MOMENT</u>
+     INT. GAME SHOW SET - THAT MOMENT
 
      CAMERA on Jimmy, behind the curtain, during the Commercial Break. 
      He takes a shot of Jack Daniels that Mary has brought out for him. 
@@ -5470,7 +5463,7 @@
 
                                                                 CUT TO:
 
-     <u>EXT. LAW OFFICE BUILDING/PARKING STRUCTURE - THAT MOMENT</u>
+     EXT. LAW OFFICE BUILDING/PARKING STRUCTURE - THAT MOMENT
 
      Linda's Mercedes pulls out of the rain and to a parking 
      structure. CAMERA PUSHES IN real fast, she takes a ticket. 
@@ -5478,19 +5471,19 @@
 
                                                                 CUT TO: 
 
-     <u>INT. LINDA'S MERCEDES - MOMENTS LATER</u>
+     INT. LINDA'S MERCEDES - MOMENTS LATER
 
      CU's on Linda.  She pops three or four more DEXADRINE. 
 
                                                                 CUT TO: 
 
-     <u>INT. LAW OFFICE BUILDING/HALLWAY - THAT MOMENT</u>
+     INT. LAW OFFICE BUILDING/HALLWAY - THAT MOMENT
 
      Linda off the elevators...CAMERA pushes in with her....
 
                                                                 CUT TO: 
 
-     <u>INT. LAWYER'S OFFICE - THAT MOMENT</u>
+     INT. LAWYER'S OFFICE - THAT MOMENT
 
      CAMERA whips around, RECEPTIONIST -- 
 
@@ -5499,7 +5492,7 @@
 
                                                                 CUT TO: 
 
-     <u>INT. SEDUCE AND DESTROY CONDO - THAT MOMENT</u>
+     INT. SEDUCE AND DESTROY CONDO - THAT MOMENT
 
      CAMERA pushes in quick on a young girl named JANET. (This is the GIRL
      from Frank's flashback's.) She answers the phone in this converted 
@@ -5511,7 +5504,7 @@
 
                                                               INTERCUT: 
 
-     <u>INT. VAN NUYS OFFICE SPACE - THAT MOMENT</u>
+     INT. VAN NUYS OFFICE SPACE - THAT MOMENT
 
      CAMERA pushes in on Chad, on the phone; 
 
@@ -5533,7 +5526,7 @@
 
                                                                 CUT TO: 
 
-     <u>INT. EARL'S HOUSE - THAT MOMENT</u>
+     INT. EARL'S HOUSE - THAT MOMENT
 
      CAMERA (HAND HELD) with Phil, phone to his ear, on hold (we can 
      hear Frank's commercial playing on the receiver, ref. notes.)
@@ -5556,7 +5549,7 @@
 
                                                                 CUT TO: 
 
-     <u>INT. SEDUCE AND DESTROY CONDO - THAT MOMENT</u>
+     INT. SEDUCE AND DESTROY CONDO - THAT MOMENT
 
      CAMERA on Janet on the phone, listens, says:
 
@@ -5567,7 +5560,7 @@
 
                                                                 CUT TO: 
 
-     <u>INT. VAN NUYS OFFICE SPACE - THAT MOMENT</u>
+     INT. VAN NUYS OFFICE SPACE - THAT MOMENT
 
      CAMERA on Chad.  He puts Janet on hold and clicks over to Phil:
 
@@ -5576,7 +5569,7 @@
 
                                                               INTERCUT: 
 
-     <u>INT. EARL'S HOUSE - THAT MOMENT</u>
+     INT. EARL'S HOUSE - THAT MOMENT
 
      CAMERA on Phil, tending to Earl, who moans away. (Bit less pain now.) 
      The Mutt/Morphine Dog is starting to get a bit wobbly. 
@@ -5614,7 +5607,7 @@
 
                                                                 CUT TO: 
 
-     <u>INT. GAME SHOW - BACKSTAGE - THAT MOMENT</u>
+     INT. GAME SHOW - BACKSTAGE - THAT MOMENT
 
      Jimmy finishes cleaning himself up and he looks to Mary: 
 
@@ -5643,11 +5636,11 @@
 
                                                                 CUT TO:
 
-     <u>INT. SMILING PEANUT BAR - THAT MOMENT</u>                <u>Sequence F</u>
+     INT. SMILING PEANUT BAR - THAT MOMENT                Sequence F
 
      CAMERA pulls back from the TELEVISION above the bar, playing
      the show.  We see Jimmy start to chat w/and do intro's for the adults.
-     (<u>Director's Note</u>: This runs through scene and a complete script
+     (Director's Note: This runs through scene and a complete script
      is avail/will be shot.) 
 
      Donnie and Thurston and the Patrons continued; 
@@ -5807,7 +5800,7 @@
 
                                                                 CUT TO: 
 
-     <u>INT. GAME SHOW SET - THAT MOMENT</u>
+     INT. GAME SHOW SET - THAT MOMENT
 
      CAMERA on the set with Jimmy walking over to the "Kids" panel;
 
@@ -5863,7 +5856,7 @@
 
                                                                 CUT TO: 
 
-     <u>INT. JIMMY GATOR'S HOUSE - THAT MOMENT</u>
+     INT. JIMMY GATOR'S HOUSE - THAT MOMENT
 
      CAMERA pushes in on Rose, sitting in the kitchen, watching the 
      television.  She holds her breath and tears a bit, noticing
@@ -5871,7 +5864,7 @@
 
                                                                 CUT TO: 
 
-     <u>INT. GAME SHOW STAGE - THAT MOMENT</u>
+     INT. GAME SHOW STAGE - THAT MOMENT
 
      Back to Stanley and Jimmy.  Jimmy repeats himself;
 
@@ -5896,7 +5889,7 @@
 
                                                                 CUT TO: 
 
-     <u>INT. HOLIDAY INN SUITE - THAT MOMENT</u>
+     INT. HOLIDAY INN SUITE - THAT MOMENT
 
      Frank and Gwenovier doing the telvision interview. CAMERA DOLLIES
      IN SLOW ON EACH:
@@ -5909,11 +5902,11 @@
                       Do you realize how fucking miraculous this is?
                       How fucking razor sharp and cutting edge and
                       ahead of it's time this concept is?  I'm 
-                      talking about eliminating <u>insight</u> and <u>understanding</u>
+                      talking about eliminating insight and understanding
                       as human values.  GOD DAMN I'M GOOD.  There is
                       no need for INSIGHT.  There is no need for
                       UNDERSTANDING.  I have found a way to take 
-                      <u>any</u> subjective human experience -- in other
+                      any subjective human experience -- in other
                       words -- all the terrible shit or all the 
                       great shit that you've had happen to you in 
                       your life -- and quickly and easily transform
@@ -6002,7 +5995,7 @@
 
                                 FRANK 
                       -- there's a lot more important things
-                      I'd like to put myself <u>into</u> -- 
+                      I'd like to put myself into -- 
 
                                 GWENOVIER 
                       It's all important -- 
@@ -6103,7 +6096,7 @@
 
                                                                 CUT TO:
 
-     <u>INT. GAME SHOW SET - THAT MOMENT</u>
+     INT. GAME SHOW SET - THAT MOMENT
 
      Jimmy asks questions.  Stanley is visibly uncomfortable; 
 
@@ -6147,7 +6140,7 @@
 
                                                                 CUT TO: 
 
-     <u>INT. LAWYERS OFFICE - THAT MOMENT</u>
+     INT. LAWYERS OFFICE - THAT MOMENT
 
      Linda seated across from a lawyer, ALAN KLIGMAN (50s) She's visibly 
      shaking and fucked up.
@@ -6219,7 +6212,7 @@
 
                                                                 CUT TO: 
 
-     <u>INT. GAME SHOW STAGE - THAT MOMENT</u>
+     INT. GAME SHOW STAGE - THAT MOMENT
 
      CAMERA pushes in on Jimmy.
 
@@ -6245,7 +6238,7 @@
 
                                                                 CUT TO: 
 
-     <u>INT. PARENTS GREEN ROOM - THAT MOMENT</u>
+     INT. PARENTS GREEN ROOM - THAT MOMENT
 
      CAMERA pushes in on Rick, who sits back, starting to get real 
      pissed that Stanley isn't answering these questions. 
@@ -6255,7 +6248,7 @@
 
                                                                 CUT TO: 
 
-     <u>INT. GAME SHOW STAGE - THAT MOMENT</u>
+     INT. GAME SHOW STAGE - THAT MOMENT
 
      CAMERA moves from the AUDIENCE over to the Stage, listening 
      to another question that is spoken by the OC voice -- this
@@ -6283,7 +6276,7 @@
 
                                                                 CUT TO:
 
-     <u>INT. LAWYER'S OFFICE - THAT MOMENT</u>
+     INT. LAWYER'S OFFICE - THAT MOMENT
 
      Linda continued with the lawyer, Kligman.
 
@@ -6396,7 +6389,7 @@
 
                                                                 CUT TO: 
 
-     <u>INT. GAME SHOW STAGE - THAT MOMENT</u>
+     INT. GAME SHOW STAGE - THAT MOMENT
 
      Three MEN in TUXEDOS and HARMONICAS have taken a place near
      the band.  Jimmy, reading from his cards, introduces them and
@@ -6434,8 +6427,8 @@
      that sounds like Ravel's "Bolero."
 
      Stanley moves his arms down to his sides to cover his crotch 
-     and pull at his pants -- <u>and his BUZZER goes off with a brush</u>
-     <u>of the side of his arm</u> -- 
+     and pull at his pants -- and his BUZZER goes off with a brush
+     of the side of his arm -- 
 
                                 JIMMY 
                       Stanley the Man -- answer:
@@ -6464,7 +6457,7 @@
 
                                                                 CUT TO: 
 
-     <u>INT. BOOTH - THAT MOMENT</u>
+     INT. BOOTH - THAT MOMENT
 
      The main booth with monitors and board, etc.  The DIRECTOR and
      and ASSITANT watch the monitors; 
@@ -6479,7 +6472,7 @@
 
                                                                 CUT TO: 
 
-     <u>INT. GAME SHOW SET - THE FLOOR - THAT MOMENT</u>
+     INT. GAME SHOW SET - THE FLOOR - THAT MOMENT
 
      Jimmy is, with a lot of trouble, trying the Harmonica
      Fella's with the next question...
@@ -6502,7 +6495,7 @@
 
                                                                 CUT TO: 
 
-     <u>INT. BOOTH - THAT MOMENT</u>
+     INT. BOOTH - THAT MOMENT
 
      The DIRECTOR snaps his fingers to an ASSISTANT at the board.
 
@@ -6514,7 +6507,7 @@
 
                                                                 CUT TO:
 
-     <u>INT. CLAUDIA'S APARTMENT - THAT MOMENT</u>
+     INT. CLAUDIA'S APARTMENT - THAT MOMENT
 
      CAMERA pushes in real quick on Claudia SNORTING COKE from her
      hand in the bedroom -- she rushes back into the kitchen area --
@@ -6536,7 +6529,7 @@
 
                                                                 CUT TO: 
 
-     <u>INT. GAME SHOW STAGE - THAT MOMENT</u>
+     INT. GAME SHOW STAGE - THAT MOMENT
 
      Burt, Mary and Assistants and folks run over to Jimmy.  He stands,
      doesn't realize what's happend and mumbles, "what the fuck, what the..." 
@@ -6545,14 +6538,14 @@
 
                                                                 CUT TO: 
 
-     <u>INT. HALLWAY - THAT MOMENT</u>
+     INT. HALLWAY - THAT MOMENT
 
      CAMERA leads RICK as he comes charging out of the green room 
      and races down the hallway -- 
 
                                                                 CUT TO:
 
-     <u>INT. GAME SHOW SET - THAT MOMENT</u>
+     INT. GAME SHOW SET - THAT MOMENT
 
      CAMERA with the "Kids" panel as Richard and Julia looking at Stanley. 
 
@@ -6706,7 +6699,7 @@
 
                                                                 CUT TO: 
 
-     <u>INT. HOLIDAY INN SUITE - THAT MOMENT</u>.                <u>Sequence G</u>
+     INT. HOLIDAY INN SUITE - THAT MOMENT.                Sequence G
 
      CAMERA holds on Frank and starts a SLOW DOLLY IN.  Gwenovier remains OC. 
 
@@ -6743,7 +6736,7 @@
 
                                                                 CUT TO: 
 
-     <u>INT. CLAUDIA'S APARTMENT - THAT MOMENT</u>
+     INT. CLAUDIA'S APARTMENT - THAT MOMENT
 
      Claudia and Jim Kurring talking.  She's rubbing her jaw, blabbing 
      away and he's listening with a grin; 
@@ -6812,7 +6805,7 @@
 
                                                                 CUT TO: 
 
-     <u>EXT. CLAUDIA'S APARTMENT - THAT MOMENT</u>
+     EXT. CLAUDIA'S APARTMENT - THAT MOMENT
 
      Jim Kurring stands outside the door for a moment.  He hesitates
      a moment, then....he's about to knock....His RADIO goes off...he turns
@@ -6820,7 +6813,7 @@
 
                                                                 CUT TO: 
 
-     <u>INT. CLAUDIA'S APARTMENT - THAT MOMENT</u>
+     INT. CLAUDIA'S APARTMENT - THAT MOMENT
 
      Claudia hears the RADIO go off and stands back a bit from her
      door...hold a moment...then there's a KNOCK...she opens up: 
@@ -6925,7 +6918,7 @@
 
                                                                 CUT TO: 
 
-     <u>INT. HOLIDAY INN/SEMINAR ROOM - THAT MOMENT</u>
+     INT. HOLIDAY INN/SEMINAR ROOM - THAT MOMENT
 
      CAMERA pushes in on DOC, who's speaking to a group of Frank's
      disciples.  He's blah-blah-blahing about Seduce and Destory, etc. 
@@ -6955,7 +6948,7 @@
 
                                                               INTERCUT: 
 
-     <u>INT. SEDUCE AND DESTROY CONDO - THAT MOMENT</u>
+     INT. SEDUCE AND DESTROY CONDO - THAT MOMENT
 
      CAMERA on JANET.  She's on the phone. It rings.
 
@@ -6983,7 +6976,7 @@
 
                                                                 CUT TO: 
 
-     <u>INT. HOLIDAY INN SUITE - THAT MOMENT</u>
+     INT. HOLIDAY INN SUITE - THAT MOMENT
 
      CAMERA pushes in on Gwenovier and Frank. (Dead on Singles.) 
 
@@ -7001,7 +6994,7 @@
 
                                                                 CUT TO: 
 
-     <u>INT. GAME SHOW STAGE - THAT MOMENT</u>
+     INT. GAME SHOW STAGE - THAT MOMENT
 
      CAMERA pushes in on the FLOOR DIRECTOR again who counts down;
 
@@ -7080,7 +7073,7 @@
 
                                                                 CUT TO:
 
-     <u>INT. SMILING PEANUT BAR - THAT MOMENT</u> 
+     INT. SMILING PEANUT BAR - THAT MOMENT 
 
      The TELEVISION above the bar holds this moment where Stanley won't 
      move.  DONNIE is seriously fucked up now and the CAMERA pushes in 
@@ -7191,14 +7184,14 @@
 
                                                                 CUT TO: 
 
-     <u>INT. SMILING PEANUT/BATHROOM - THAT MOMENT</u>
+     INT. SMILING PEANUT/BATHROOM - THAT MOMENT
 
      OVERHEAD ANGLE, LOOKING STRAIGHT DOWN ONTO:
      Donnie bursts in the bathroom and starts to vomit and moan, etc.
 
                                                                 CUT TO: 
 
-     <u>INT. POLICE CAR - MOVING - THAT MOMENT</u>
+     INT. POLICE CAR - MOVING - THAT MOMENT
 
      It's pouring RAIN still.  Jim Kurring is talking to himself, doing
      "Cops." (Dial: Ref. improv. notes/sweet girl/excited/date/job) 
@@ -7217,20 +7210,20 @@
 
                                                                 CUT TO:
 
-     <u>EXT. STREET - THAT MOMENT</u>
+     EXT. STREET - THAT MOMENT
 
      Jim Kurring's POLICE CAR makes a U-turn.
 
                                                                 CUT TO:
 
-     <u>INT. CLAUDIA'S APARTMENT - THAT MOMENT</u>
+     INT. CLAUDIA'S APARTMENT - THAT MOMENT
 
      Claudia snorts a line of coke, comes up and looks at her televison;
      It's playing, "What Do Kids Know?" 
 
                                                                 CUT TO: 
 
-     <u>INT. GAME SHOW SET - THAT MOMENT</u>
+     INT. GAME SHOW SET - THAT MOMENT
 
      Stanley doesn't move.  He says to Jimmy:
 
@@ -7252,7 +7245,7 @@
 
                                                                 CUT TO: 
 
-     <u>INT. HOLIDAY INN/LOBBY - THAT MOMENT</u>
+     INT. HOLIDAY INN/LOBBY - THAT MOMENT
 
      CAMERA (STEADICAM) follows/leads DOC as he walks from the seminar area 
      to the elevators...this is one continuous shot...as he gets into the
@@ -7305,7 +7298,7 @@
 
                                                                 CUT TO: 
 
-     <u>INT. GAME SHOW SET - THAT MOMENT</u>
+     INT. GAME SHOW SET - THAT MOMENT
 
      Stanley doesn't move. Jimmy tries to hold it all together;
 
@@ -7334,27 +7327,27 @@
 
                                                                 CUT TO: 
 
-     <u>INT. HOLIDAY INN - HALLWAY - THAT MOMENT</u>
+     INT. HOLIDAY INN - HALLWAY - THAT MOMENT
 
      CAMERA (STEADICAM) following Doc as he walks swiftly down the 
      hallway towards the suite -- 
 
                                                                 CUT TO: 
 
-     <u>INT. EARL'S HOUSE - THAT MOMENT</u>
+     INT. EARL'S HOUSE - THAT MOMENT
 
      CAMERA on Phil on the phone.  He sits watching Earl.  30fps. PUSH IN.
 
                                                                 CUT TO: 
 
-     <u>INT. EARL'S HOUSE - GARAGE - THAT MOMENT</u>
+     INT. EARL'S HOUSE - GARAGE - THAT MOMENT
 
      It's black.  The GARAGE DOOR opens....Linda's MERCEDES is pulling in 
      out of the POURING RAIN....
 
                                                                 CUT TO:
 
-     <u>INT. BOOTH - THAT MOMENT</u>
+     INT. BOOTH - THAT MOMENT
 
      The DIRECTOR and his ASSISTANT and other folks in the booth;
 
@@ -7365,7 +7358,7 @@
 
                                                                 CUT TO: 
 
-     <u>INT. PARENTS GREEN ROOM - THAT MOMENT</u>
+     INT. PARENTS GREEN ROOM - THAT MOMENT
 
      The other parents snap at Rick.  CAMERA DOLLIES in on him slow.
 
@@ -7373,14 +7366,14 @@
                       What the hell does he think he's doing?
 
                                 RICHARD'S DAD 
-                      Is this a <u>point</u>? is this <u>a game</u>?
+                      Is this a point? is this a game?
 
                                 RICK
                       GET THE FUCK UP, KID.
 
                                                                 CUT TO:
 
-     <u>INT. HOLIDAY INN SUITE - THAT MOMENT</u>
+     INT. HOLIDAY INN SUITE - THAT MOMENT
 
      CAMERA on Frank.  He looks at his watch, then: 
 
@@ -7411,7 +7404,7 @@
 
                                                                 CUT TO: 
 
-     <u>INT. HALLWAY - THAT MOMENT</u>
+     INT. HALLWAY - THAT MOMENT
 
      CAMERA moving quick with Doc towards the room.  Frank and Captain Muffy
      step out of the room and Doc holds up the Cel Phone....stops.
@@ -7421,7 +7414,7 @@
 
                                                                 CUT TO: 
 
-     <u>INT. EARL'S HOUSE - THAT MOMENT</u>
+     INT. EARL'S HOUSE - THAT MOMENT
 
      The DOGS go crazy barking and Phil jumps a bit.  They hear the garage
      door and run towards it.  The Morphine Dog runs into a wall. 
@@ -7430,7 +7423,7 @@
 
                                                                 CUT TO: 
 
-     <u>INT. GAME SHOW SET - THAT MOMENT</u>
+     INT. GAME SHOW SET - THAT MOMENT
 
      CAMERA on Stanley.  BEAT.  HOLD.
 
@@ -7463,7 +7456,7 @@
 
                                                                 CUT TO: 
 
-     <u>EXT. APARTMENT BUILDING/LA RIVER - THAT MOMENT</u>
+     EXT. APARTMENT BUILDING/LA RIVER - THAT MOMENT
 
      CAMERA {STEADICAM) follows Jim Kurring as he walks around the side of
      an apartment building, looking for the BLACK MALE....he snoops a bit,
@@ -7477,18 +7470,18 @@
      sliding down the embankment next to the L.A. River --- another
      GUN SHOT is heard....
 
-     Kurring reaches for his REVOLVER <u>which is not in it's holster</u> --
+     Kurring reaches for his REVOLVER which is not in it's holster --
 
                                                                 CUT TO: 
 
-     <u>INT. SMILING PEANUT/BATHROOM - THAT MOMENT</u>
+     INT. SMILING PEANUT/BATHROOM - THAT MOMENT
 
      CAMERA zooms in from overhead angle as Donnie continues to
      throw up violently. 
 
                                                                 CUT TO: 
 
-     <u>INT. HOLIDAY INN - STAIRWELL - THAT MOMENT</u> (INTERCUT)
+     INT. HOLIDAY INN - STAIRWELL - THAT MOMENT (INTERCUT)
 
      CAMERA holds on Frank in close up, he's on the phone.
      Doc and Captain Muffy stand with him in the stairwell. 
@@ -7520,14 +7513,14 @@
 
                                                                 CUT TO: 
 
-     <u>INT. EARL'S GARAGE - THAT MOMENT</u>
+     INT. EARL'S GARAGE - THAT MOMENT
 
      Linda parks the car and leaves the ENGINE RUNNING.  BEAT.
      We can hear the DOGS BARKING OC....HOLD. 
 
                                                                 CUT TO:
 
-     <u>INT. GAME SHOW SET - THAT MOMENT</u>
+     INT. GAME SHOW SET - THAT MOMENT
 
      Stanley is continuing.  He's hyperventilating. 
 
@@ -7550,7 +7543,7 @@
 
                                                                 CUT TO: 
 
-     <u>INT. PARENTS GREEN ROOM - THAT MOMENT</u>
+     INT. PARENTS GREEN ROOM - THAT MOMENT
 
      RICK is standing now....he VIOLENTLY throws a chair against the 
      wall and it SHATTERS into a hundred pieces -- 
@@ -7560,7 +7553,7 @@
 
                                                                 CUT TO:
 
-     <u>EXT. APARTMENT/LA RIVER EMBANKMENT - THAT MOMENT</u>
+     EXT. APARTMENT/LA RIVER EMBANKMENT - THAT MOMENT
 
      It's FLOODING with RAIN....Jim Kurring is without gun and he's 
      scared shitless....and he can't see...and he's running for cover
@@ -7575,7 +7568,7 @@
 
                                                                 CUT TO: 
 
-     <u>INT. CLAUDIA'S APARTMENT - THAT MOMENT</u>
+     INT. CLAUDIA'S APARTMENT - THAT MOMENT
 
      CAMERA pushes in on her cocaine on the table, TILTS up to her FACE, 
      watching the show, then WHIPS RT. and pushes in towards the MONITOR. 
@@ -7585,7 +7578,7 @@
 
                                                                 CUT TO:
 
-     <u>INT. GAME SHOW SET - THAT MOMENT</u>
+     INT. GAME SHOW SET - THAT MOMENT
 
      CAMERA on Stanley.
 
@@ -7605,15 +7598,15 @@
 
                                                                 CUT TO: 
 
-     <u>INT. EARL'S GARAGE - THAT MOMENT</u>
+     INT. EARL'S GARAGE - THAT MOMENT
 
      Linda rolls down the windows in the closed garage with the engine
-     running...<u>fumes start to fill the garage</u>...she starts to cry and
+     running...fumes start to fill the garage...she starts to cry and
      lights a cigarrette...the bag of perscriptions sits next to her... 
 
                                                                 CUT TO:
 
-     <u>INT. STAIRWELL - THAT MOMENT</u> (INTERCUT)
+     INT. STAIRWELL - THAT MOMENT (INTERCUT)
 
      Frank on the phone with Janet, Captain Muffy and Doc in stairwell.
 
@@ -7626,7 +7619,7 @@
 
                                                                 CUT TO: 
 
-     <u>INT. GAME SHOW SET - THAT MOMENT</u>
+     INT. GAME SHOW SET - THAT MOMENT
 
      The MONITORS in the place go to a Still Card that has the 
      "What Do Kids Know?" logo...and the titles start to roll on it. 
@@ -7642,7 +7635,7 @@
 
                                                                 CUT TO: 
 
-     <u>INT. EARL'S HOUSE - THAT MOMENT</u>
+     INT. EARL'S HOUSE - THAT MOMENT
 
      Phil still on the phone, Earl is asleep.  He stands up and heads for
      the garage -- hears the sound of the engine running -- dogs are
@@ -7650,14 +7643,14 @@
 
                                                                 CUT TO: 
 
-     <u>INT. GARAGE - THAT MOMENT</u>
+     INT. GARAGE - THAT MOMENT
 
      Linda in CU.  She hesitates a moment.  THEN:  She quickly
      shuts off the engine, GRABS the bag of LIQUID MORPHINE -- 
 
                                                                 CUT TO: 
 
-     <u>INT. EARL'S HOUSE - THAT MOMENT</u>
+     INT. EARL'S HOUSE - THAT MOMENT
 
      CAMERA leads/follows Linda as she enters, approaches Phil; 
 
@@ -7684,7 +7677,7 @@
 
                                                                 CUT TO: 
 
-     <u>INT. STAIRWELL - HOLIDAY INN - THAT MOMENT</u> (INTERCUT)
+     INT. STAIRWELL - HOLIDAY INN - THAT MOMENT (INTERCUT)
 
      Frank on the cel phone to Janet --
 
@@ -7696,15 +7689,15 @@
 
                                                                 CUT TO:
 
-     <u>INT. EARL'S HOUSE - THAT MOMENT</u>
+     INT. EARL'S HOUSE - THAT MOMENT
 
      Linda screaming at Phil.
 
                                 LINDA
                       You don't do that, you don't call him,
                       you don't know to get involved in the
-                      bussiness of his, of his of <u>my</u> family.
-                      this is the <u>family</u>, <u>me</u> and <u>him</u> do you
+                      bussiness of his, of his of my family.
+                      this is the family, me and him do you
                       understand?  You understand? NO ONE ELSE.
                       THERE IS NO ONE ELSE.  That man, his son
                       does not exist.  HE IS DEAD.  HE IS DEAD
@@ -7725,7 +7718,7 @@
 
                                                                 CUT TO:
 
-     <u>INT. STAIRWELL - THAT MOMENT</u> (INTERCUT)
+     INT. STAIRWELL - THAT MOMENT (INTERCUT)
 
      Frank listens on the phone to dead air....hold a long moment, then:
      He hands the phone back to Doc;
@@ -7738,7 +7731,7 @@
 
                                                                 CUT TO:
 
-     <u>INT. GAME SHOW STAGE - THAT MOMENT</u>
+     INT. GAME SHOW STAGE - THAT MOMENT
 
      CAMERA (STEADICAM) follows Mary as she runs over to Jimmy.
 
@@ -7796,7 +7789,7 @@
 
                                                                 CUT TO: 
 
-     <u>INT. CLAUDIA'S APARTMENT - THAT MOMENT</u>
+     INT. CLAUDIA'S APARTMENT - THAT MOMENT
 
      She sits in front of the coke and in front of the television.
 
@@ -7805,11 +7798,11 @@
      A still card with the "What Do Kids Know?" logo and the credits
      still running.  At the end a logo that reads:
 
-                <u>This has been a Big Earl Partridge Production</u>
+                This has been a Big Earl Partridge Production
 
                                                                 CUT TO: 
 
-     <u>EXT. WASH AREA/APARTMENT - DAY</u>
+     EXT. WASH AREA/APARTMENT - DAY
 
      CAMERA (HAND HELD) with Jim Kurring.  He's searches around 
      frantic for his revolver....looking everywhere...RAIN IS POURING. 
@@ -7819,14 +7812,14 @@
 
                                                                 CUT TO: 
 
-     <u>EXT. STREETS/BURBANK - THAT MOMENT</u>
+     EXT. STREETS/BURBANK - THAT MOMENT
 
      CAMERA tracks with Stanley as he runs and runs down the streets
      in the RAIN.  CAMERA holds a ECU as we move.
 
                                                                 CUT TO:
 
-     <u>EXT. SMILING PEANUT/PARKING AREA - THAT MOMENT</u>
+     EXT. SMILING PEANUT/PARKING AREA - THAT MOMENT
 
      Donnie walks out and gets in his car -- he goes to start it,
      but it won't start.  HOLD outtside the car.  Rain pouring down. 
@@ -7841,7 +7834,7 @@
 
                                                                 CUT TO: 
 
-     <u>INT. EARL'S HOUSE - THAT MOMENT</u>
+     INT. EARL'S HOUSE - THAT MOMENT
 
      Linda is bedside with Earl.  She cries her eyes out.  She
      speaks to him in mumbles about "...sorry..." "...my love..."
@@ -7884,11 +7877,11 @@
 
                                                                 CUT TO: 
 
-     <u>INT. HOLIDAY INN - SEMINAR ROOM - THAT MOMENT</u>
+     INT. HOLIDAY INN - SEMINAR ROOM - THAT MOMENT
 
      CAMERA holds on the image of a slide that reads:
 
-                  "<u>How To Fake Like You Are Nice And Caring</u>"
+                  "How To Fake Like You Are Nice And Caring"
 
      Frank steps into FRAME.  HOLD.  OC we hear the audience applaud.
 
@@ -7948,7 +7941,7 @@
 
                                                                 CUT TO: 
 
-     <u>INT. EARL'S HOUSE - THAT MOMENT</u>                      <u>Sequence H</u>
+     INT. EARL'S HOUSE - THAT MOMENT                      Sequence H
 
      CAMERA on Earl.  He opens his eyes a bit....looks over to Phil. 
 
@@ -7961,7 +7954,7 @@
                       I'm onna try and talk...I'm atryan
                       say some thing some thing... 
 
-     Earl begins to talk. (<u>Director's Note</u>: Following is the story
+     Earl begins to talk. (Director's Note: Following is the story
      Earl tells, it is to be more broken and elliptical, factoring 
      in Earl's state of mind and health, etc, but here's the concept
      in its entirety;) 
@@ -8122,7 +8115,7 @@
 
                                                                 CUT TO: 
 
-     <u>EXT. JIMMY GATOR'S HOUSE - THAT MOMENT/EVENING</u>
+     EXT. JIMMY GATOR'S HOUSE - THAT MOMENT/EVENING
 
      Jimmy and Mary pull up in the pouring rain.  Rose comes out and
      they help him in the house. 
@@ -8134,7 +8127,7 @@
 
                                                                 CUT TO:
 
-     <u>INT. JIMMY GATOR'S HOUSE - THAT MOMENT/EVENING</u>
+     INT. JIMMY GATOR'S HOUSE - THAT MOMENT/EVENING
 
      Rose and Mary help Jimmy to the couch and get him situated.
 
@@ -8145,7 +8138,7 @@
 
                                                                 CUT TO: 
 
-     <u>INT. CLAUDIA'S APARTMENT - THAT MOMENT/EVENING</u>
+     INT. CLAUDIA'S APARTMENT - THAT MOMENT/EVENING
 
      Claudia in the shower.  Claudia brushinq her hair in the mirror. 
      Claudia attempting to look nice.  Claudia, dressed for the date,
@@ -8160,7 +8153,7 @@
 
                                                                 CUT TO:
 
-     <u>INT. POLICE CAR - THAT MOMENT/EVENING</u>
+     INT. POLICE CAR - THAT MOMENT/EVENING
 
      Jim Kurring on the radio of his squad car, reports the gun missing.
      (Technical language here.) 
@@ -8172,7 +8165,7 @@
 
                                                                 CUT TO:
 
-     <u>INT. WASH AREA/APARTMENT BUILDING - THAT MOMENT/EVENING</u>
+     INT. WASH AREA/APARTMENT BUILDING - THAT MOMENT/EVENING
 
      Other OFFICERS assist in the search for the missing gun.  They are out
      with flashlights, etc.  A severe search of the area is underway.  Jim 
@@ -8187,7 +8180,7 @@
 
                                                                 CUT TO: 
 
-     <u>INT. POLICE STATION/REPORT WRITING ROOM - LATER/EVENING</u>
+     INT. POLICE STATION/REPORT WRITING ROOM - LATER/EVENING
 
      CAMERA pushes in on Jim Kurring, in civilian clothes now, filling 
      out a Loss Report.  CU's on the form.  OC voices of officers making
@@ -8200,7 +8193,7 @@
 
                                                                 CUT TO:
 
-     <u>INT. HOLDING ROOM - THAT MOMENT</u>
+     INT. HOLDING ROOM - THAT MOMENT
 
      CAMERA pushes in on Marcie.  She's crying and looking down. 
      She lifts her head, speaks to an UNSEEN OFFICER nearby, guarding 
@@ -8211,7 +8204,7 @@
 
                                                                 CUT TO: 
 
-     <u>INT. SCHOOL LIBRARY - THAT MOMENT/EVENING</u>
+     INT. SCHOOL LIBRARY - THAT MOMENT/EVENING
 
      Stanley breaks a window.  Stanley reaches in and unlocks a lock.
      Stanley rummages around the dark school library.  He's soaking
@@ -8226,7 +8219,7 @@
 
                                                                 CUT TO:
 
-     <u>INT. DONNIE SMITH'S APARTMENT - THAT MOMENT/EVENING</u>
+     INT. DONNIE SMITH'S APARTMENT - THAT MOMENT/EVENING
 
      Donnie takes some KEYS out of a kitchen drawer and puts them 
      on his key chain.  Donnie places the keys on one by one....
@@ -8239,13 +8232,13 @@
 
                                                                 CUT TO: 
 
-     <u>EXT. EMPTY PARKING LOT - THAT MOMENT/EVENING/NIGHT</u>
+     EXT. EMPTY PARKING LOT - THAT MOMENT/EVENING/NIGHT
 
      CAMERA holds a wide angle.  Linda's Mercedes is parked.
 
                                                                 CUT TO: 
 
-     <u>INT. LINDA'S CAR - THAT MOMENT/EVENING/NIGHT</u>
+     INT. LINDA'S CAR - THAT MOMENT/EVENING/NIGHT
 
      Linda takes some pills.  Then she takes some more...then she takes 
      some more....then she swallows a whole bottle of pills...she 
@@ -8259,7 +8252,7 @@
 
                                                                 CUT TO: 
 
-     <u>INT. FRANK'S CAR - THAT MOMENT/NIGHT</u>
+     INT. FRANK'S CAR - THAT MOMENT/NIGHT
 
      CAMERA holds CU on Frank.  He just sits.  BEAT.  THEN.
 
@@ -8271,7 +8264,7 @@
 
                                                                 CUT TO: 
 
-     <u>INT. EARL'S HOUSE - MOMENTS LATER/NIGHT</u>
+     INT. EARL'S HOUSE - MOMENTS LATER/NIGHT
 
      Phil quietly stands in the front doorway, sotto words with the 
      Mexican Nurse, who keeps outside. 
@@ -8283,7 +8276,7 @@
 
                                                                 CUT TO: 
 
-     <u>INT. EARL'S HOUSE - THAT MOMENT/NIGHT</u>
+     INT. EARL'S HOUSE - THAT MOMENT/NIGHT
 
      CAMERA CU on the bottle of liquid morphine.  Phil's hand comes 
      into FRAME and takes it....TILT up to his face.
@@ -8292,11 +8285,11 @@
 
      Earl is out of breath, painfully....Phil hesitates, then: 
 
-     CU - <u>The liquid morhphine is dropped into Earl's mouth</u>. 
+     CU - The liquid morhphine is dropped into Earl's mouth. 
 
                                                                 CUT TO: 
 
-     <u>INT. CLAUDIA'S APARTMENT - THAT MOMENT/NIGHT</u>
+     INT. CLAUDIA'S APARTMENT - THAT MOMENT/NIGHT
 
      She looks at the coke in front of her.  She hesitates.  Her stereo is
      playing a song....it plays softly, then gets a bit louder....
@@ -8316,7 +8309,7 @@
 
                                                                 CUT TO: 
 
-     <u>INT. JIM KURRING'S APARTMENT - THAT MOMENT</u>
+     INT. JIM KURRING'S APARTMENT - THAT MOMENT
 
      CAMERA PUSHES in slowly on Jim Kurring.  He sits on the bed, dressed up
      and ready to go.  He starts to sing along to the song as well. 
@@ -8328,7 +8321,7 @@
 
                                                                 CUT TO:
 
-     <u>INT. JIMMY'S HOUSE - OFFICE - THAT MOMENT</u>
+     INT. JIMMY'S HOUSE - OFFICE - THAT MOMENT
 
      CAMERA moves in towards Jimmy, alone, sitting in his office, singing.
 
@@ -8338,7 +8331,7 @@
 
                                                                 CUT TO: 
 
-     <u>INT. DONNIE'S APARTMENT - THAT MOMENT</u>
+     INT. DONNIE'S APARTMENT - THAT MOMENT
 
      CAMERA pushes in on Donnie smith as he starts to sing.
 
@@ -8349,7 +8342,7 @@
 
                                                                 CUT TO:
 
-     <u>INT. EARL'S HOUSE - THAT MOMENT</u>
+     INT. EARL'S HOUSE - THAT MOMENT
 
      CAMERA DOLLIES in on Phil, holding back his tears and singing
      along to the song...as he sits over Earl....
@@ -8366,7 +8359,7 @@
 
                                                                 CUT TO:
 
-     <u>INT. EMPTY PARKING LOT - THAT MOMENT</u>
+     INT. EMPTY PARKING LOT - THAT MOMENT
 
      CAMERA DOLLIES in on LINDA.  She's passed out in her car, head
      pressed against the glass, but she starts to sing along....
@@ -8378,7 +8371,7 @@
 
                                                                 CUT TO:
 
-     <u>INT. FRANK'S CAR - PARKED - THAT MOMENT</u>
+     INT. FRANK'S CAR - PARKED - THAT MOMENT
 
      CAMERA pushes in a bit on Frank, singing along.
 
@@ -8390,7 +8383,7 @@
 
                                                                 CUT TO: 
 
-     <u>INT. SCHOOL LIBRARY - THAT MOMENT</u>
+     INT. SCHOOL LIBRARY - THAT MOMENT
 
      CAMERA pushes in, (light coming up from the book he reads) 
      optical, glimpse what he reads....then pulls back from STANLEY. 
@@ -8403,29 +8396,29 @@
 
                                                                 CUT TO: 
 
-     <u>EXT. SKY - NIGHT</u>                                     <u>Sequence I</u>
+     EXT. SKY - NIGHT                                     Sequence I
 
      The rain stops.  Suddenly and quickly it's over.  Clear as a bell. HOLD.
 
-     Title card:           <u>Weather information,etc</u>.
+     Title card:           Weather information,etc.
 
                                                                 CUT TO: 
 
-     <u>INT. CLAUDIA'S APARTMENT - STAIRWELL - NIGHT</u>
+     INT. CLAUDIA'S APARTMENT - STAIRWELL - NIGHT
 
      The door opens and Claudia looks really nice.  Jim Kurring smiles 
      and says hello. 
 
                                                                 CUT TO: 
 
-     <u>EXT. CLAUDIA'S APARTMENT - MOMENTS LATER</u>
+     EXT. CLAUDIA'S APARTMENT - MOMENTS LATER
 
      Jim Kurring opens the door for Claudia and she gets in. 
      He runs around and they drive off. 
 
                                                                 CUT TO: 
 
-     <u>INT. DONNIE'S APARTMENT - THAT MOMENT</u>
+     INT. DONNIE'S APARTMENT - THAT MOMENT
 
      Donnie takes the KEYS and puts on big dark coat and looks
      in the mirror. 
@@ -8435,7 +8428,7 @@
 
                                                                 CUT TO:
 
-     <u>INT. DONNIE'S APARTMENT - STAIRWELL - THAT MOMENT</u>
+     INT. DONNIE'S APARTMENT - STAIRWELL - THAT MOMENT
 
      Donnie knocks on his neighbor's door.  A little OLD LADY opens up; 
 
@@ -8447,21 +8440,21 @@
 
                                                                 CUT TO: 
 
-     <u>EXT. DONNIE'S APARTMENT - CAR PORT - THAT MOMENT</u>
+     EXT. DONNIE'S APARTMENT - CAR PORT - THAT MOMENT
 
      Donnie comes down and gets in the little old lady's
      Buick Regal and starts it up.
 
                                                                 CUT TO:
 
-     <u>EXT. EARL'S HOUSE - THAT MOMENT</u>
+     EXT. EARL'S HOUSE - THAT MOMENT
 
      Frank gets out of his car and walks up to the house.
      He rings the doorbell.
 
                                                                 CUT TO:
 
-     <u>INT. EARL'S HOUSE - THAT MOMENT</u>
+     INT. EARL'S HOUSE - THAT MOMENT
 
      The DOGS go crazy barking.  Phil walks away from Earl and answers
      the door.  Frank standing there.  Phil looks a bit surprised and
@@ -8615,7 +8608,7 @@
 
                                                                 CUT TO: 
 
-     <u>INT. LAMPLIGHTER - THAT MOMENT</u>
+     INT. LAMPLIGHTER - THAT MOMENT
 
      CAMERA with Stanley, sitting alone in a booth with a Coke and a cookie.
      He's reading a book.  BEAT, HOLD, THEN:
@@ -8650,7 +8643,7 @@
 
                                                                 CUT TO:
 
-     <u>EXT. PARKING LOT/BEHIND LAMPLIGHTER - MOMENTS LATER</u>
+     EXT. PARKING LOT/BEHIND LAMPLIGHTER - MOMENTS LATER
 
      CAMERA follows Dixon as he walks towards an old beat up PARKED CAR.
      He stops, hesitates, looks across the way --
@@ -8688,7 +8681,7 @@
 
                                                                 CUT TO: 
 
-     <u>INT. JIMMY'S HOUSE - LIVING ROOM - THAT MOMENT</u>
+     INT. JIMMY'S HOUSE - LIVING ROOM - THAT MOMENT
 
      Jimmy and Rose.  They're on the couch.  Lights dim.  Sitting, talking. 
      She hands him a pill from a bottle with a drink.
@@ -8796,7 +8789,7 @@
 
                                                                 CUT TO:
 
-     <u>INT. BILLINGSLEY'S - THAT MOMENT</u>
+     INT. BILLINGSLEY'S - THAT MOMENT
 
      In a secluded table in this dark steak place.  Jim Kurring and
      Claudia.  CAMERA does a slow push in on a 2-shot. 
@@ -8923,7 +8916,7 @@
 
                                                                 CUT TO: 
 
-     <u>EXT. SOLOMON and SOLOMON ELECTRONICS - THAT MOMENT</u>
+     EXT. SOLOMON and SOLOMON ELECTRONICS - THAT MOMENT
 
      CAMERA is around back with Donnie in the Buick Regal.
      He parks, gets out, looks around the empty place. 
@@ -8936,7 +8929,7 @@
 
                                                                 CUT TO: 
 
-     <u>INT. SOLOMON AND SOLOMON ELECTRONICS - THAT MOMENT</u>
+     INT. SOLOMON AND SOLOMON ELECTRONICS - THAT MOMENT
 
      Donnie in a back corridor.  He walks down through some BOXES
      and assorted MERCHANDISE towards another door.  He pulls his
@@ -8966,7 +8959,7 @@
 
                                                                 CUT TO: 
 
-     <u>INT. EARL'S HOUSE - THAT MOMENT</u>
+     INT. EARL'S HOUSE - THAT MOMENT
 
      Frank and Phil stand in the foyer.  They're quiet a moment, then: 
 
@@ -9006,7 +8999,7 @@
 
                                                                 CUT TO: 
 
-     <u>INT. JIMMY'S HOUSE - THAT MOMENT</u>
+     INT. JIMMY'S HOUSE - THAT MOMENT
 
      CAMERA holds CU on Jimmy.
 
@@ -9128,13 +9121,13 @@
 
                                                                 CUT TO: 
 
-     <u>EXT. VENTURA BLVD. - THAT MOMENT</u>
+     EXT. VENTURA BLVD. - THAT MOMENT
 
      CAMERA tracks with an AMBULANCE rushing down the street. 
 
                                                                 CUT TO: 
 
-     <u>INT. LAMPLIGHTER - THAT MOMENT</u>
+     INT. LAMPLIGHTER - THAT MOMENT
 
      Through the window, the AMBULANCE passes in the b.g., heading
      nearby...and OC we hear the siren throughout scene;
@@ -9163,7 +9156,7 @@
 
                                                                 CUT TO: 
 
-     <u>EXT. EMPTY PARKING LOT - THAT MOMENT</u>
+     EXT. EMPTY PARKING LOT - THAT MOMENT
 
      The AMBULANCE arrives at Linda's Mercedes and the PARAMEDICS
      hop out, open the doors, call direction and try to speak with
@@ -9181,14 +9174,14 @@
 
                                                                 CUT TO: 
 
-     <u>INT. BILLINGSLEY'S BATHROOM - THAT MOMENT</u>.
+     INT. BILLINGSLEY'S BATHROOM - THAT MOMENT.
 
      CAMERA with Claudia, she snorts some coke off her hand in the stall.
      She takes a quick look in the mirror, walks out --
 
                                                                 CUT TO:
 
-     <u>INT. BILLINGSLEY'S - THAT MOMENT</u>
+     INT. BILLINGSLEY'S - THAT MOMENT
 
      CAMERA tracks with Claudia as she walks back to the table...she
      comes up from behind Jim Kurring and leans in quick...KISSES
@@ -9313,7 +9306,7 @@
 
                                                                 CUT TO: 
 
-     <u>INT. SOLOMON AND SOLOMON ELCTRONICS - THAT MOMENT</u>
+     INT. SOLOMON AND SOLOMON ELCTRONICS - THAT MOMENT
 
      Donnie finishes taking the money from the safe....
 
@@ -9334,13 +9327,13 @@
 
                                                                 CUT TO: 
 
-     <u>EXT. SOLOMON AND SOLOMON PARKING LOT - THAT MOMENT</u>
+     EXT. SOLOMON AND SOLOMON PARKING LOT - THAT MOMENT
 
      Donnie gets in the Buick Regal and drives away. 
 
                                                                 CUT TO: 
 
-     <u>EXT. EMPTY PARKING LOT/LINDA'S MERCEDES - THAT MOMENT</u>
+     EXT. EMPTY PARKING LOT/LINDA'S MERCEDES - THAT MOMENT
 
      CAMERA (HAND HELD) is in the middle of the PARAMEDICS dealing with 
      Linda....they find the pill bottle...they put her on a gurney...they 
@@ -9349,7 +9342,7 @@
 
                                                                 CUT TO:
 
-     <u>INT. LAMPLIGHTER - THAT MOMENT</u>
+     INT. LAMPLIGHTER - THAT MOMENT
 
      Stanley finishes his cookie.  Worm, sitting across from 
      him starts to cry a little, very quietly.  He hides it best he can. 
@@ -9378,7 +9371,7 @@
 
                                                                 CUT TO: 
 
-     <u>INT. JIMMY'S HOUSE - THAT MOMENT</u>
+     INT. JIMMY'S HOUSE - THAT MOMENT
 
      Jimmy and Rose.  HOLD. THEN:
 
@@ -9434,7 +9427,7 @@
                       But you can't say....
 
                                 JIMMY
-                      <u>I don't know what I've done</u>. 
+                      I don't know what I've done. 
 
                                 ROSE 
                       Yes you do....you do and you won't say. 
@@ -9477,7 +9470,7 @@
 
                                                                 CUT TO: 
 
-     <u>INT. BILLINGSLEY'S - THAT MOMENT</u>
+     INT. BILLINGSLEY'S - THAT MOMENT
 
      CAMERA CU on Claudia as she pulls back from the kiss.  HOLD.
      She starts to cry....through her tears, then:
@@ -9513,7 +9506,7 @@
 
                                                                 CUT TO: 
 
-     <u>EXT. VENTURA BLVD. - THAT MOMENT</u>
+     EXT. VENTURA BLVD. - THAT MOMENT
 
      CAMERA is travelling with the PARAMEDICS who are driving real fast.
      They approach a RED LIGHT at an intersection....
@@ -9539,7 +9532,7 @@
 
                                                                 CUT TO: 
 
-     <u>INT. EARL'S HOUSE - THAT MOMENT</u>
+     INT. EARL'S HOUSE - THAT MOMENT
 
      Frank and Earl.  Earl opens his eyes a bit.
 
@@ -9576,7 +9569,7 @@
 
                                                                 CUT TO: 
 
-     <u>EXT. VENTURA BLVD - THAT MOMENT</u>
+     EXT. VENTURA BLVD - THAT MOMENT
 
      CAMERA with the Buick Regal.  It moves past CAMERA, which PANS 
      and DOLLIES over to -- 
@@ -9588,7 +9581,7 @@
 
                                                      QUICK DISSOLVE TO:
 
-     <u>INT. LAMPLIGHTER - THAT MOMENT</u>
+     INT. LAMPLIGHTER - THAT MOMENT
 
      Worm is in tears, talking to Stanley. SLOW ZOOM IN.
 
@@ -9642,7 +9635,7 @@
 
                                 STANLEY
                       I can take you to get money.  I don't
-                      need it...I don't <u>need</u> it -- listen to me: 
+                      need it...I don't need it -- listen to me: 
                       I can let you have money so your father
                       won't hit you ever again -- you'll have the 
                       money because I don't need it.
@@ -9658,21 +9651,21 @@
 
                                                      QUICK DISSOLVE TO: 
 
-     <u>EXT. VENTURA BLVD. - THAT MOMENT</u>
+     EXT. VENTURA BLVD. - THAT MOMENT
 
      CAMERA travels with the CAB for a moment or two...CAMERA goes
      inside the CAB....
 
                                                      QUICK DISSOLVE TO:
 
-     <u>INT. CAB - MOVING - THAT MOMENT</u>
+     INT. CAB - MOVING - THAT MOMENT
 
      CAMERA is in the back with CLAUDIA.  She slouches down.  She's
      still crying...she snorts some coke off her hand....
 
                                                                 CUT TO:
 
-     <u>EXT. VENTURA BLVD. - THAT MOMENT</u>
+     EXT. VENTURA BLVD. - THAT MOMENT
 
      CAMERA moves with the CAB a bit....it makes a right hand turn and
      the CAMERA PANS and DOLLIES away, over towards a JAGUAR stopped
@@ -9684,7 +9677,7 @@
 
                                                                 CUT TO: 
 
-     <u>INT. JIMMY'S HOUSE - THAT MOMENT</u>
+     INT. JIMMY'S HOUSE - THAT MOMENT
 
      Jimmy, without a real trace of coordination walks from the 
      living room and into
@@ -9697,20 +9690,20 @@
 
                                                                 CUT TO: 
 
-     <u>EXT. BILLINGSLEY'S PARKING LOT - THAT MOMENT</u>
+     EXT. BILLINGSLEY'S PARKING LOT - THAT MOMENT
 
      CAMERA tracks with Jim Kurring to his car. He gets behind the wheel.
 
                                                                 CUT TO: 
 
-     <u>EXT. INTERSECTION - MOMENTS LATER</u>
+     EXT. INTERSECTION - MOMENTS LATER
 
      CAMERA overhead as Jim Kurring's car drives past the Magnolia/Tujunga
      intersection....
 
                                                                 CUT TO: 
 
-     <u>INT. JIM KURRING'S CAR - MOVING - THAT MOMENT</u>
+     INT. JIM KURRING'S CAR - MOVING - THAT MOMENT
 
      CU - Jim Kurring driving.  HOLD.  He drives past Solomon and 
      Solomon Electronics.....
@@ -9723,7 +9716,7 @@
 
                                                                 CUT TO: 
 
-     <u>EXT. SOLOMON AND SOLOMON/LOADING DOCK AREA - THAT MOMENT</u>
+     EXT. SOLOMON AND SOLOMON/LOADING DOCK AREA - THAT MOMENT
 
      CAMERA moves with Donnie over to the back door...he reaches
      down to his KEY CHAIN and sees:
@@ -9737,7 +9730,7 @@
 
                                                                 CUT TO:
 
-     <u>INT. JIM KURRING'S CAR - THAT MOMENT</u>                 <u>Sequence J</u>
+     INT. JIM KURRING'S CAR - THAT MOMENT                 Sequence J
 
      Jim Kurring drives a few more feet....slows down...then starts 
      to make a u-turn to go back to the store....
@@ -9748,8 +9741,8 @@
 
      ........CRACK........
 
-     From the sky, out of the blue, <u>a large GREEN FROG lands on Jim Kurring's</u>
-     <u>windhsield</u>.
+     From the sky, out of the blue, a large GREEN FROG lands on Jim Kurring's
+     windhsield.
 
      CU - Jim Kurring.  Scared shitless.
 
@@ -9759,7 +9752,7 @@
 
                                                                 CUT TO: 
 
-     <u>EXT. MAGNOLIA BLVD. - THAT MOMENT</u>
+     EXT. MAGNOLIA BLVD. - THAT MOMENT
 
      CAMERA holds a wide angle as Jim Kurring's CAR SLAMS AND SKIDS TO
      A STOP IN THE MIDDLE OF THE EMPTY STREET.
@@ -9788,11 +9781,11 @@
 
      WIDE ANGLE.  THE STREET.
 
-     <u>It starts to RAIN FROGS in the middle of Magnolia Blvd</u>.
+     It starts to RAIN FROGS in the middle of Magnolia Blvd.
 
                                                                 CUT TO: 
 
-     <u>INT. CLAUDIA'S APARTMENT</u>
+     INT. CLAUDIA'S APARTMENT
 
      CU - Claudia snorts a line of coke off her coffee table.
 
@@ -9820,7 +9813,7 @@
 
                                                                 CUT TO: 
 
-     <u>EXT. CLAUDIA'S APARTMENT/STREET - THAT MOMENT</u>
+     EXT. CLAUDIA'S APARTMENT/STREET - THAT MOMENT
 
      The FROGS are falling sort of heavy now....Rose's JAGUAR comes
      through it....skids and SMASHES into a PARKED CAR....
@@ -9829,11 +9822,11 @@
      STRAIGHT INTO CAMERA AND ONTO THE HOOD, WINDSHIELD AND ROOF....
 
      ..Rose puts the Jaguar in reverse and tries to back away from the 
-     smashed parked car.....<u>the bumper's are stuck</u>....
+     smashed parked car.....the bumper's are stuck....
 
                                                                 CUT TO: 
 
-     <u>INT. EARL'S HOUSE - THAT MOMENT</u>
+     INT. EARL'S HOUSE - THAT MOMENT
 
      The CAMERA holds on Earl and Frank.  Frank has his head buried 
      in Earl's bed holding his hand, crying....it's very quiet....
@@ -9849,13 +9842,13 @@
 
                                                                 CUT TO:
 
-     <u>EXT. WHITSETT/NORTH HOLLYWOOD MED. CENTER - THAT MOMENT</u>
+     EXT. WHITSETT/NORTH HOLLYWOOD MED. CENTER - THAT MOMENT
 
      The PARAMEDICS are driving real fast down the street.....
 
                                                                 CUT TO:
 
-     <u>INT. AMBULANCE - MOVING - THAT MOMENT</u>
+     INT. AMBULANCE - MOVING - THAT MOMENT
 
      Linda is on life support stuff in the ambulance.  Looking past her,
      we see the view of the road through the windshield -- the amubulance 
@@ -9866,7 +9859,7 @@
 
                                                                 CUT TO:
 
-     <u>EXT. STREET/AMBULANCE - THAT MOMENT</u>
+     EXT. STREET/AMBULANCE - THAT MOMENT
 
      A WIDE ANGLE where we see the FROGS falling onto the moving,
      swerving Ambulance....one FROG lands so hard on top of the
@@ -9880,25 +9873,25 @@
 
                                                                 CUT TO: 
 
-     <u>INT. AMBULANCE - POV</u>
+     INT. AMBULANCE - POV
 
      As it falls on it's side and skids a bit....over the Frogs...
 
                                                                 CUT TO: 
 
-     <u>EXT. EMERGENCY ROOM ENTRANCE - THAT MOMENT</u>
+     EXT. EMERGENCY ROOM ENTRANCE - THAT MOMENT
 
      Ambulance skids right up to the emergency room entrance.
 
                                                                 CUT TO: 
 
-     <u>INT. JIMMY'S HOUSE - KITCHEN - THAT MOMENT</u>
+     INT. JIMMY'S HOUSE - KITCHEN - THAT MOMENT
 
      Jimmy with the Revolver to his head...he cocks it back...
 
                                                               INTERCUT: 
 
-     <u>EXT. SKY/INT. HOUSE - THAT MOMENT</u>
+     EXT. SKY/INT. HOUSE - THAT MOMENT
 
      CAMERA above Jimmy's house, looking straight down and MOVING
      towards a SKYLIGHT above the kitchen...a FROG enters FRAME,
@@ -9911,7 +9904,7 @@
      THROUGH....
 
      ...falls straight down onto Jimmy's head....the GUN GOES OFF 
-     WILDLY.....<u>SMASHES the TELEVISION</u>.......
+     WILDLY.....SMASHES the TELEVISION.......
 
      Jimmy falls to the ground....GLASS FALLS from the broken skylight....
 
@@ -9926,14 +9919,14 @@
 
                                                                 CUT TO: 
 
-     <u>EXT. SOLOMON AND SOLOMON ELECTRONICS - THAT MOMENT</u>
+     EXT. SOLOMON AND SOLOMON ELECTRONICS - THAT MOMENT
 
      Donnie starts to climb up a ladder attached to the side 
      of the building....near the loading dock area....
 
                                                                 CUT TO: 
 
-     <u>EXT. STREET NEARBY - THAT MOMENT</u>
+     EXT. STREET NEARBY - THAT MOMENT
 
      Jim Kurring is in the middle of the Frog Rain...he puts his
      car into gear and drives down the street....
@@ -9965,7 +9958,7 @@
 
                                                                 CUT TO: 
 
-     <u>INT. CLAUDIA'S APARTMENT - THAT MOMENT</u>
+     INT. CLAUDIA'S APARTMENT - THAT MOMENT
 
      CAMERA (STEADICAM) follows ROSE as she runs up the stairs to 
      Claudia's place and frantically BANGS ON THE DOOR...
@@ -9983,7 +9976,7 @@
 
                                                                 CUT TO: 
 
-     <u>INT. EARL'S HOUSE - THAT MOMENT</u>
+     INT. EARL'S HOUSE - THAT MOMENT
 
      Frank lifts his head and watches the FROGS FALL outside the house. 
      Earl looks to Frank....he musters something...Frank notices....
@@ -9997,7 +9990,7 @@
 
                                                                 CUT TO: 
 
-     <u>INT. LAMPLIGHTER - THAT MOMENT</u>
+     INT. LAMPLIGHTER - THAT MOMENT
 
      Stanley and Worm.  CAMERA holds as all around...through the glass 
      windows...it RAINS FROGS....smashing to the ground.....hitting a couple
@@ -10141,14 +10134,14 @@
 
                                                                 CUT TO:
 
-     <u>EXT. LAMPLIGHTER/VENTURA BLVD. - THAT MOMENT</u>         <u>Sequence K</u>
+     EXT. LAMPLIGHTER/VENTURA BLVD. - THAT MOMENT         Sequence K
 
      CAMERA holds a wide angle on the Lamplighter Coffee Shop.
      Frogs falling from sky onto and around the streets....
 
                                                                 CUT TO: 
 
-     <u>EXT. THE SKY - THAT MOMENT</u>
+     EXT. THE SKY - THAT MOMENT
 
      CAMERA up with the Falling Frogs....CAMERA is moving down with them...
      it becomes almost musical....like Busby-Berkely-style coreography of
@@ -10161,7 +10154,7 @@
 
                                                      CARRIES OVER CUT TO:
 
-     <u>INT. JIMMY'S HOUSE - THAT MOMENT</u>
+     INT. JIMMY'S HOUSE - THAT MOMENT
 
      It is on FIRE now....CU image of Jimmy on the floor of the kitchen
      with shards of glass around him...and FROGS...a few of them 
@@ -10169,7 +10162,7 @@
 
                                                                 CUT TO:
 
-     <u>EXT. SOLOMON AND SOLOMON/LOADING DOCK AREA - THAT MOMENT</u>
+     EXT. SOLOMON AND SOLOMON/LOADING DOCK AREA - THAT MOMENT
 
      Jim Kurring and Donnie underneath the shelter area.  Donnie's
      MOUTH IS FULL OF BLOOD and his TEETH ARE BROKEN...
@@ -10182,7 +10175,7 @@
 
                                                                 CUT TO: 
 
-     <u>INT. CLAUDIA'S APARTMENT - THAT MOMENT</u>
+     INT. CLAUDIA'S APARTMENT - THAT MOMENT
 
      Claudia cries to her Mom.  Rose holds her and they rock back
      and forth.... Claudia cries loud and over and over --
@@ -10193,7 +10186,7 @@
 
                                                                 CUT TO: 
 
-     <u>INT. EMERGENCY ROOM - THAT MOMENT</u>
+     INT. EMERGENCY ROOM - THAT MOMENT
 
      CAMERA is with Linda and DOCTORS as they PUMP HER STOMACH.
      Follow the process and get to point where it's clear that
@@ -10201,7 +10194,7 @@
 
                                                                 CUT TO: 
 
-     <u>INT. EARL'S HOUSE - THAT MOMENT</u>
+     INT. EARL'S HOUSE - THAT MOMENT
 
      CAMERA w/Frank and Earl and Phil.  Earl's last couple
      of breaths are short and quick...short and quick...short and 
@@ -10209,14 +10202,14 @@
 
                                                                 CUT TO: 
 
-     <u>EXT. SKY - THAT MOMENT</u>
+     EXT. SKY - THAT MOMENT
 
      CAMERA moves down straight towards the ground...towards the Magnolia
      intersection with a LARGE FROG....right before it hits the pavement -- 
 
      CUT TO BLACK. 
 
-     Title Card Reads:          <u>So Now Then</u>
+     Title Card Reads:          So Now Then
 
      - Replay Lumiere Footage from the opening of "Three Men Hung" 
      Green, Berry and Hill.
@@ -10232,7 +10225,7 @@
 
                                                                 CUT TO:
 
-     <u>INT. EARL'S HOUSE - DAWN</u>
+     INT. EARL'S HOUSE - DAWN
 
      The door is opened by Phil and two MORTUARY MEN in suits
      nod their heads.  Phil lets them in. 
@@ -10244,7 +10237,7 @@
 
                                                                 CUT TO: 
 
-     <u>INT. EARL'S HOUSE - LIVING ROOM - THAT MOMENT</u>
+     INT. EARL'S HOUSE - LIVING ROOM - THAT MOMENT
 
      Frank and Phil watch Earl get covered in a sheet and put on
      a stretcher.  CAMERA moves around and finds the MORPHINE DOG
@@ -10262,7 +10255,7 @@
 
                                                                 CUT TO:
 
-     <u>INT. HOSPITAL - DAWN</u>
+     INT. HOSPITAL - DAWN
 
      CAMERA looking down the long emergency room corridor as the doors
      open and Frank enters and moves to the reception desk, asks some
@@ -10284,7 +10277,7 @@
                       so and so and so on -- 
 
 
-     <u>EXT. EMPTY PARKING LOT AREA - DAWN</u>
+     EXT. EMPTY PARKING LOT AREA - DAWN
 
      CU - Dixon as he gets into the old beat up car with Worm. 
      Their call pulls away and drives off.  Dixon looks at Linda's Mercedes
@@ -10292,7 +10285,7 @@
 
                                                                 CUT TO:
 
-     <u>EXT. MAGNOLIA - DAWN</u>
+     EXT. MAGNOLIA - DAWN
 
      Worm's car drives down the street. LONG LENS.  ANGLE, at the car, 
      Dixon leans up and out the window a bit....he's got the gun wrapped
@@ -10301,7 +10294,7 @@
 
                                                                 CUT TO: 
 
-     <u>INT. LAMPLIGHTER - DAWN</u>
+     INT. LAMPLIGHTER - DAWN
 
      Stanley sits in the back of a squad car....an OFFICER watching 
      him...probably supposed to be comforting him, but instead drinking
@@ -10318,7 +10311,7 @@
 
                                                                 CUT TO: 
 
-     <u>INT. SPECTOR HOUSE - RICK'S BEDROOM - DAWN</u>
+     INT. SPECTOR HOUSE - RICK'S BEDROOM - DAWN
 
      Stanley enters Rick's bedroom.  Rick is asleep.
 
@@ -10343,7 +10336,7 @@
 
                                                                 CUT TO:
 
-     <u>EXT. JIMMY'S HOUSE - DAWN</u>
+     EXT. JIMMY'S HOUSE - DAWN
 
      CAMERA with Fire Trucks and County Coroner people.  A body
      bag and a stretcher carrying JIMMY'S BODY come out of the house.
@@ -10355,7 +10348,7 @@
 
                                                                 CUT TO: 
 
-     <u>INT. POLICE STATION - MARCIE</u>
+     INT. POLICE STATION - MARCIE
 
      Marcie looking down at the table in front of her, tape recorder
      and microphone in front of her, (and all that goes along w/full
@@ -10371,7 +10364,7 @@
 
                                                                 CUT TO: 
 
-     <u>EXT. SOLOMON AND SOLOMON - DAWN</u>
+     EXT. SOLOMON AND SOLOMON - DAWN
 
      Jim Kurring and Donnie sitting together at the loading dock. 
      Donnie, mouth full of blood, holding a kleenex to it, crying a bit.
@@ -10397,7 +10390,7 @@
 
                                                                 CUT TO:
 
-     <u>INT. SOLOMON AND SOLOMON ELECTRONICS - THAT MOMENT</u>
+     INT. SOLOMON AND SOLOMON ELECTRONICS - THAT MOMENT
 
      Donnie and Jim Kurring walking inside the store, towards the office --
 
@@ -10418,7 +10411,7 @@
 
                                                                 CUT TO: 
 
-     <u>INT. SOLOMON AND SOLOMON - OFFICE - MOMENT LATER</u>
+     INT. SOLOMON AND SOLOMON - OFFICE - MOMENT LATER
 
      Donnie puts the money back in the floor safe. CU. DONNIE.
 
@@ -10435,7 +10428,7 @@
 
                                                                 CUT TO:
 
-     <u>EXT. SOLOMON AND SOLOMON - THAT MOMENT</u>
+     EXT. SOLOMON AND SOLOMON - THAT MOMENT
 
      Wide Angle, Donnie and Jim Kurring shake hands and part ways,
      getting into their cars. A few words more about, "Call me up
@@ -10476,7 +10469,7 @@
 
                                                                 CUT TO: 
 
-     <u>INT. CLAUDIA'S APARTMENT - THAT MOMENT</u>
+     INT. CLAUDIA'S APARTMENT - THAT MOMENT
 
      CAMERA holds on Claudia.  She's sitting up in bed, covers around 
      her, staring into space....a SONG plays....for a very, very long
@@ -10490,13 +10483,9 @@
                                                           CUT TO BLACK.
 
 
-                                <u>END</u>.                      
+                                END.                      
 
 
 
 
    
-
-
-
-</body></html>

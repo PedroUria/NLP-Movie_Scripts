@@ -1,13 +1,3 @@
-<html>
-<head>
-<script>
-<!--
-if (window!= top)
-top.location.href=location.href
-// -->
-</script>
-<title>HELLRAISER by CLive Barker - July 28, 1986 Draft</title>
-</head>
 
 
                          HELLRAISER
@@ -5316,5 +5306,3 @@ top.location.href=location.href
      THE CREDITS ROLL
 
 
-
-</html>

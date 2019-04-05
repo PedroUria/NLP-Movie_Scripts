@@ -1,13 +1,3 @@
-<html>
-<head>
-<script>
-<!--
-if (window!= top)
-top.location.href=location.href
-// -->
-</script>
-<title>S A V I N G   P R I V A T E   R Y A N</title>
-</head>
 
 
 
@@ -6109,5 +6099,3 @@ top.location.href=location.href
 
                --------------------------------------------------------------
 
-
-</html>

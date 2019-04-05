@@ -1,13 +1,3 @@
-<html>
-<head>
-<script>
-<!--
-if (window!= top)
-top.location.href=location.href
-// -->
-</script>
-<title>13 Days by David Self</title>
-</head>
 
 	13 Days
 
@@ -7647,5 +7637,3 @@ top.location.href=location.href
 	Vietnam War.  He died in 1977.
 
 
-
-</html>

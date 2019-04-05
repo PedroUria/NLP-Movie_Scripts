@@ -1,13 +1,3 @@
-<html>
-<head>
-<script>
-<!--
-if (window!= top)
-top.location.href=location.href
-// -->
-</script>
-<title>Peggy Sue Got Married by Jerry Leichtling and Arlene Sarner</title>
-</head>
 
 
                                   PEGGY SUE GOT MARRIED
@@ -6627,22 +6617,14 @@ top.location.href=location.href
 	They hang on to each other as Beth enters the room.
 
 					FADE OUT.
-  
-<div align="center">
-THE END
-
-</div>
+  THE END
  
               
 
 
 
-<div align="center">
-  
 
  PEGGY AND RICHARD SCENE
-
-</div>
 
 	To be inserted after Dolores/Peggy scene and to replace the
 	goodbye to Richard scene.
@@ -6715,5 +6697,3 @@ THE END
 		be Valedictorian.
 
 
-
-</html>

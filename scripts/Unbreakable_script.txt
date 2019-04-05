@@ -1,13 +1,3 @@
-<html>
-<head>
-<script>
-<!--
-if (window!= top)
-top.location.href=location.href
-// -->
-</script>
-<title>unbreakable</title>
-</head>
 
 
 
@@ -1461,7 +1451,7 @@ Megan tries to mask her reaction to the oddness of the question. Beat.
 		this about?
 
 				 DAVID (low voice)
-		Megan, do you <u>ever</u> remember
+		Megan, do you ever remember
 		me getting sick?
 
 Beat.
@@ -2336,7 +2326,7 @@ Beat.
 David nods, "yes."
 
 				 MEGAN(whisper)
-		Have you <u>been</u> with anyone?
+		Have you been with anyone?
 		Since we started having
 		problems? The answer won't
 		affect me.
@@ -6026,5 +6016,3 @@ walking on an ordinary street, in an ordinary city.
 
 
 
-
-</html>

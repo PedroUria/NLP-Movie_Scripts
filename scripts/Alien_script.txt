@@ -1,19 +1,12 @@
-<html>
-
-<head>
-   <title>"Alien", early draft, by Dan O'Bannon</title>
-</head>
-
-<body bgcolor="#FFFFFF">
-   
 
 
 
 
-                               <u>ALIEN</u>
+
+                               ALIEN
 
 
-                  (project formerly titled <u>STARBEAST</u>)
+                  (project formerly titled STARBEAST)
 
 
                 Story by Dan O'Bannon &amp; Ronald Shusett
@@ -35,7 +28,7 @@
                               SYNOPSIS
 
      En route back to Earth from a far part of the galaxy, the crew of the
-     starship SNARK intercepts a transmission in an <u>alien language</u>,
+     starship SNARK intercepts a transmission in an alien language,
      originating from a nearby storm-shrouded planet.
 
      Mankind has waited centuries to contact another form of intelligent
@@ -111,12 +104,10 @@
 
 
    
-<img alt="IMAGE -- starmap.jpg" src="alienearlyimages/starmap.jpg"/>
-   
 
 
 
-     <u>FADE IN</u>:
+     FADE IN:
 
      EXTREME CLOSEUPS OF FLICKERING INSTRUMENT PANELS.  Readouts and digital
      displays pulse eerily with the technology of the distant future.
@@ -130,7 +121,7 @@
      CAMERA ANGLES GRADUALLY WIDEN, revealing more and more of the
      machinery, banks of panels, fluttering gauges, until we reveal:
 
-     <u>INTERIOR - HYPERSLEEP VAULT</u>
+     INTERIOR - HYPERSLEEP VAULT
 
      A stainless steel room with no windows, the walls packed with
      instrumentation.  The lights are dim and the air is frigid.
@@ -206,7 +197,7 @@
 
      Roby picks a limp cat out of a freezer.
 
-     <u>INTERIOR - CONTROL ROOM</u>
+     INTERIOR - CONTROL ROOM
 
      This is a fantastic circular room, jammed with instrumentation.  There
      are no windows, but above head level the room is ringed by
@@ -267,7 +258,7 @@
      CAMERA MOVES IN ON ONE OF THE SCREENS, with its moving image of a
      starfield.
 
-     <u>EXTERIOR - OUTER SPACE</u>
+     EXTERIOR - OUTER SPACE
 
      CLOSE SHOT OF A PANNING TV CAMERA.  This camera is remote controlled,
      turning silently on its base.
@@ -279,7 +270,7 @@
      "SNARK," hanging in the depths of interstellar space, against a
      background of glimmering stars.
 
-     <u>INTERIOR - BRIDGE</u>
+     INTERIOR - BRIDGE
 
                               ROBY
                Where are we?
@@ -350,7 +341,7 @@
                voyage.
 
                               ROBY
-               What?  <u>Why</u>?
+               What?  Why?
 
                               COMPUTER
                I am programmed to do so if certain
@@ -382,9 +373,9 @@
                               STANDARD
                Play it for us, please.
 
-     Over the speakers, we hear a hum, a crackle, static... <u>THEN A</u>
-     <u>STRANGE, UNEARTHLY VOICE FILLS THE ROOM, SPEAKING AN ALIEN</u>
-     <u>LANGUAGE</u>.  The bizarre voice speaks a long sentence, then falls
+     Over the speakers, we hear a hum, a crackle, static... THEN A
+     STRANGE, UNEARTHLY VOICE FILLS THE ROOM, SPEAKING AN ALIEN
+     LANGUAGE.  The bizarre voice speaks a long sentence, then falls
      silent.
 
      The men all stare at each other in amazement.
@@ -406,7 +397,7 @@
 
                               STANDARD
                     (silencing them)
-               Just <u>hold it</u>, <u>hold it</u>!
+               Just hold it, hold it!
                     (glares around the room)
                Computer: have you attempted to
                analyze the transmission?
@@ -495,7 +486,7 @@
                Martin, get the others up to the
                lounge.
 
-     <u>INTERIOR - MULTI-PURPOSE ROOM</u>
+     INTERIOR - MULTI-PURPOSE ROOM
 
      The entire crew -- STANDARD, ROBY, BROUSSARD, MELKONIS, HUNTER, and
      FAUST -- are all seated around a table, with Standard at the head.
@@ -515,8 +506,8 @@
                               BROUSSARD
                     (excited)
                Forget the credit; what we have here
-               is a chance to be the <u>first men</u> to
-               contact a <u>nonhuman intelligence</u>.
+               is a chance to be the first men to
+               contact a nonhuman intelligence.
 
                               ROBY
                If there is some kind of alien
@@ -557,7 +548,7 @@
                You're overruled, Martin.  Gentlemen
                -- let's go.
 
-     <u>INTERIOR - BRIDGE</u>
+     INTERIOR - BRIDGE
 
      The men are strapping in, but this time it is with grim determination.
 
@@ -592,19 +583,19 @@
                               STANDARD
                Put ship in atmospheric mode.
 
-     <u>EXTERIOR - "SNARK" - OUTER SPACE</u>
+     EXTERIOR - "SNARK" - OUTER SPACE
 
      The great dish antenna on the SNARK folds down against the main body
      of the ship, and other parts flatten out, until the ship has assumed
      an aerodynamic form.
 
-     <u>INTERIOR - BRIDGE</u>
+     INTERIOR - BRIDGE
 
                               STANDARD
                Dell, set a course and bring us in
                on that beam.
 
-     <u>EXTERIOR - SPACE</u>
+     EXTERIOR - SPACE
 
      The SNARK's engines cough into life, and send it drifting toward the
      distant dot that is the planetoid.
@@ -614,7 +605,7 @@
 
      The SNARK drops down toward the surface.
 
-     <u>INTERIOR - BRIDGE</u>
+     INTERIOR - BRIDGE
 
                               STANDARD
                Activate lifter quads.
@@ -628,14 +619,14 @@
                Crossing the terminator.  Entering
                night side.
 
-     <u>EXTERIOR - "SNARK" - IN ORBIT</u>
+     EXTERIOR - "SNARK" - IN ORBIT
 
      Beneath the orbiting SNARK, night's curtain rolls across the planet.
 
      Descending at an angle, the SNARK drops down into the thick atmosphere
      of the planetoid.
 
-     <u>INTERIOR - BRIDGE</u>
+     INTERIOR - BRIDGE
 
                               ROBY
                Atmospheric turbulence.  Dust storm.
@@ -643,13 +634,13 @@
                               STANDARD
                Turn on navigation lights.
 
-     <u>EXTERIOR - "SNARK"</u>
+     EXTERIOR - "SNARK"
 
      Hydroplaning down through the pea-soup atmosphere, a set of brilliant
      lights switches on, cutting through the dust, but hardly improving
      visibility.
 
-     <u>INTERIOR - BRIDGE</u>
+     INTERIOR - BRIDGE
 
                               BROUSSARD
                Approaching point of origin.  Closing
@@ -701,23 +692,23 @@
                Nine hundred meters and dropping.
                800.  700.  Hang on gentlemen.
 
-     <u>EXTERIOR - SURFACE OF PLANET - NIGHT</u>
+     EXTERIOR - SURFACE OF PLANET - NIGHT
 
      The night-shrouded surface is a hell of blowing dust.  The SNARK hovers
      above it on glowing beams of light, dropping down slowly.
 
      Landing struts unfold like insect legs.
 
-     <u>INTERIOR - BRIDGE</u>
+     INTERIOR - BRIDGE
 
                               BROUSSARD
                And we're... down.
 
-     <u>EXTERIOR - SURFACE OF PLANET - NIGHT</u>
+     EXTERIOR - SURFACE OF PLANET - NIGHT
 
      The ship touches down, heavily; it rocks on huge shock absorbers.
 
-     <u>INTERIOR - BRIDGE</u>
+     INTERIOR - BRIDGE
 
      The whole ship VIBRATES VIOLENTLY FOR AN INSTANT -- then all the
      panels in the room flash simultaneously and the LIGHT'S GO OUT.
@@ -784,7 +775,7 @@
                               BROUSSARD
                Can't see a blessed thing.
 
-     <u>EXTERIOR - SHIP - NIGHT</u>
+     EXTERIOR - SHIP - NIGHT
 
      Only a few glittering lights distinguish the ship from the absolute
      darkness around it.
@@ -792,12 +783,12 @@
      THE WIND MOANS AND SCREAMS.  DUST BLOWS IN FRONT OF THE TINY GLIMMERING
      LIGHTS.
 
-     <u>INTERIOR - BRIDGE - NIGHT</u>
+     INTERIOR - BRIDGE - NIGHT
 
                               STANDARD
                Kick on the floods.
 
-     <u>EXTERIOR - SHIP - NIGHT</u>
+     EXTERIOR - SHIP - NIGHT
 
      A ring of FLOODLIGHTS on the ship come to life, pouring blinding light
      out into the night.
@@ -805,7 +796,7 @@
      They illuminate nothing but a patch of featureless grey ground and
      clouds of blowing dust.  The wind shrieks.
 
-     <u>INTERIOR - BRIDGE - NIGHT</u>
+     INTERIOR - BRIDGE - NIGHT
 
                               ROBY
                Not much help.
@@ -833,14 +824,14 @@
 
                                                        DISSOLVE TO:
 
-     <u>EXTERIOR - SHIP - NIGHT (MAIN TITLE SEQUENCE)</u>
+     EXTERIOR - SHIP - NIGHT (MAIN TITLE SEQUENCE)
 
      The floodlights on the SNARK fight a losing battle against the
      darkness and the storm.  MAIN THEME MUSIC BEGINS, EXTREMELY OMINOUS.
 
      THE TITLE APPEARS:
 
-                              <u>ALIEN</u>
+                              ALIEN
 
      RUN TITLES.
 
@@ -852,7 +843,7 @@
 
      END MAIN TITLES.
 
-     <u>INTERIOR - BRIDGE - DAY</u>
+     INTERIOR - BRIDGE - DAY
 
      CLOSE ON A SCREEN - it shows nothing but swirling clouds of orange
      dust.
@@ -898,7 +889,7 @@
                               ROBY
                How's it coming on the engines?
 
-     <u>INTERIOR - ENGINE ROOM</u>
+     INTERIOR - ENGINE ROOM
 
      Faust is seated at an electronic workbench, brightly lit, speaking
      into a wall intercom.
@@ -910,7 +901,7 @@
                polish these things smooth again, so
                it's going to take a while.  Okay?
 
-     <u>INTERIOR - BRIDGE - DAY</u>
+     INTERIOR - BRIDGE - DAY
 
                               ROBY
                Yeah, okay.
@@ -985,7 +976,7 @@
                I heard you.  You want to break out
                the side arms?
 
-     <u>INTERIOR - MAIN ARM LOCK - DAY</u>
+     INTERIOR - MAIN ARM LOCK - DAY
 
      Standard, Broussard and Melkonis enter the lock.  They all wear gloves,
      boots, jackets, and pistols.
@@ -1011,12 +1002,12 @@
                away from those weapons unless I say
                otherwise.  Martin, do you read me?
 
-     <u>INTERIOR - BRIDGE - DAY</u>
+     INTERIOR - BRIDGE - DAY
 
                               ROBY
                Read you, Chaz.
 
-     <u>INTERIOR - MAIN AIR LOCK - DAY</u>
+     INTERIOR - MAIN AIR LOCK - DAY
 
                               STANDARD
                Open the outer door.
@@ -1030,7 +1021,7 @@
 
      Standard walks out into the storm, followed by the others.
 
-     <u>EXTERIOR - PLANETOID - DAY</u>
+     EXTERIOR - PLANETOID - DAY
 
      The three men trot down the gangplank to the surface of the planet.
      Their feet sink into a thick layer of dust and loose rock.
@@ -1056,7 +1047,7 @@
                               STANDARD
                Okay, Martin.  We're on our way.
 
-     <u>INTERIOR - BRIDGE - DAY</u>
+     INTERIOR - BRIDGE - DAY
 
      Roby is the sole occupant of the bridge.  He is huddled over his
      console, smoking a cigarette and watching three moving blips on a
@@ -1071,7 +1062,7 @@
                Good.  I'm getting you clear too.
                Let's just keep the line open.
 
-     <u>EXTERIOR - PLANETOID - DAY</u>
+     EXTERIOR - PLANETOID - DAY
 
      The three men plough their way through a limbo of yellow dust and
      shrieking wind.  With their rubbery masks and deliberate movements,
@@ -1095,7 +1086,7 @@
 
      He studies the direction finder.
 
-     <u>INTERIOR - BRIDGE - DAY</u>
+     INTERIOR - BRIDGE - DAY
 
      Roby is listening intently to the dialogue from the helmet radios.
 
@@ -1125,7 +1116,7 @@
      Hunter stares at Roby, whose momentary terror dissolves into
      embarrassed anger.
 
-     <u>EXTERIOR - PLANETOID - DAY</u>
+     EXTERIOR - PLANETOID - DAY
 
      The three men push their way through the storm.  Melkonis stops again,
      studies the direction finder.
@@ -1171,7 +1162,7 @@
 
      They start toward the alien ship.
 
-     <u>INTERIOR - BRIDGE - DAY</u>
+     INTERIOR - BRIDGE - DAY
 
                               STANDARD (CONT'D)
                     (over, filtered)
@@ -1184,7 +1175,7 @@
                     (over, filtered)
                We're, uh, approaching the base.
 
-     <u>EXTERIOR - BASE OF TOADSTOOL SHIP - DAY</u>
+     EXTERIOR - BASE OF TOADSTOOL SHIP - DAY
 
      A strangely shaped DOOR yawns open at the base of the ship.  Dust and
      sand have blown in, filling the lower part of the entrance.
@@ -1203,7 +1194,7 @@
                hold the conversation to a minimum
                from here on.
 
-     <u>INTERIOR - ALIEN SHIP - DAY</u>
+     INTERIOR - ALIEN SHIP - DAY
 
      The doorway is a glowing geometric blur of light against blackness,
      spewing dust.  In the darkness of the chamber are huge, formless
@@ -1213,8 +1204,6 @@
      doorway.  They switch on flashlight-like devices called "DATASTICKS",
      and step in.
 
-   
-<img alt="IMAGE -- datastick.jpg" src="alienearlyimages/datastick.jpg"/>
    
 
      Carefully, peering around, they pick their way past the indistinct
@@ -1266,7 +1255,7 @@
 
      Broussard attaches the wire to his own chest unit.
 
-     <u>INTERIOR - CONTROL ROOM OF ALIEN SHIP</u>
+     INTERIOR - CONTROL ROOM OF ALIEN SHIP
 
      This chamber is totally dark as Broussard arrives at the top of the
      hole.
@@ -1312,8 +1301,6 @@
      sharp instrument, is a small triangle:
 
    
-<img alt="IMAGE -- scrawledtriangle.jpg" src="alienearlyimages/scrawledtriangle.jpg"/>
-   
 
      Hearing something, Broussard flashes his light across the room.  As the
      beam scans the walls, it briefly touches on SOMETHING THAT MOVES.
@@ -1321,7 +1308,7 @@
      Melkonis convulsively yanks out his pistol.
 
                               MELKONIS
-               <u>LOOK OUT, IT MOVED</u>!
+               LOOK OUT, IT MOVED!
 
      Standard knocks his hand down.
 
@@ -1354,14 +1341,14 @@
                A recording.  A damned automatic
                recording.
 
-     <u>EXTERIOR - PLANETOID - SUNSET</u>
+     EXTERIOR - PLANETOID - SUNSET
 
      SINISTER ANGLE ON THE SNARK.  As we watch, the sunlight turns the color
      of blood, and then the sun is down, leaving murky blackness in its
      wake.  The ring of floodlights on the ship flares into life, feebly
      combatting the darkness and the storm.
 
-     <u>INTERIOR - MULTI-PURPOSE ROOM</u>
+     INTERIOR - MULTI-PURPOSE ROOM
 
      The entire crew is seated around the conference table, watching
      holographic pictures projected onto a screen.  These are photos taken
@@ -1406,7 +1393,7 @@
                               BROUSSARD
                We've got to go back and take a lot
                more pictures, holograph
-               <u>everything</u>.
+               everything.
 
                               MELKONIS
                And bring back as much physical
@@ -1444,13 +1431,13 @@
                came.  So they died.
 
                               ROBY
-               <u>He</u> died.
+               He died.
 
                               FAUST
                What?
 
                               ROBY
-               Not <u>they</u>... <u>he</u>... 
+               Not they... he... 
 
      They all turn to look in the direction of Roby's nod.  CAMERA MOVES
      OVER TO REVEAL THE ALIEN SKULL SITTING ON A TABLE.
@@ -1490,11 +1477,11 @@
                with intelligent life in the
                universe.
 
-     <u>EXTERIOR - SHIP - NIGHT</u>
+     EXTERIOR - SHIP - NIGHT
 
      ANGLE ON THE SHIP, its spotlights cutting into the gloom.
 
-     <u>INTERIOR - ENGINE ROOM</u>
+     INTERIOR - ENGINE ROOM
 
      A room throbbing with power, enormous pulsing engines capable of
      releasing unimaginable energies.
@@ -1505,7 +1492,7 @@
                               FAUST
                You ready up there?
 
-     <u>INTERIOR - BRIDGE - NIGHT</u>
+     INTERIOR - BRIDGE - NIGHT
 
      Broussard and Melkonis are seated at their consoles, conversing with
      Faust while they watch their instruments.
@@ -1513,7 +1500,7 @@
                               BROUSSARD
                Sure, we're ready.
 
-     <u>INTERIOR - ENGINE ROOM</u>
+     INTERIOR - ENGINE ROOM
 
                               FAUST
                Okay.  I'm going to start the
@@ -1521,7 +1508,7 @@
 
      He pauses to wipe his brow.
 
-     <u>INTERIOR - MULTI-PURPOSE ROOM</u>
+     INTERIOR - MULTI-PURPOSE ROOM
 
      Roby is alone in the room, slumped into a chair, watching the
      photographic slides on the screen.  He is clicking slowly through them.
@@ -1613,7 +1600,7 @@
 
      He and Roby head for the door.
 
-     <u>INTERIOR - BRIDGE - DAY</u>
+     INTERIOR - BRIDGE - DAY
 
      Broussard is alone in the control room when Standard and Roby arrive.
 
@@ -1623,11 +1610,11 @@
                               BROUSSARD
                Take a look.
 
-     <u>EXTERIOR - SHIP - DAY</u>
+     EXTERIOR - SHIP - DAY
 
      The dust no longer blows.  The day is crisp, clear, and silent.
 
-     <u>INTERIOR - BRIDGE - DAY</u>
+     INTERIOR - BRIDGE - DAY
 
                               BROUSSARD
                I was scanning the horizon to see
@@ -1646,8 +1633,6 @@
      ship.
 
    
-<img alt="IMAGE -- pyramid.jpg" src="alienearlyimages/pyramid.jpg"/>
-   
 
      Standard presses the nearest communicator and speaks into the grille.
 
@@ -1655,7 +1640,7 @@
                This is Chaz.  All hands topside.
                Now.
 
-     <u>INTERIOR - BRIDGE - DAY - A LITTLE LATER</u>
+     INTERIOR - BRIDGE - DAY - A LITTLE LATER
 
      ANGLE ON A VIEWSCREEN.  It shows the PYRAMID on the horizon.  CAMERA
      PULLS BACK to reveal all the men, sitting and standing around the
@@ -1695,15 +1680,15 @@
                               ROBY
                Here comes the dust again.
 
-     <u>EXTERIOR - SHIP - DAY</u>
+     EXTERIOR - SHIP - DAY
 
      WITH A SHRIEK, THE DUST STORM RETURNS, completely obscuring the SNARK.
 
-     <u>INTERIOR - BRIDGE - DAY</u>
+     INTERIOR - BRIDGE - DAY
 
                               STANDARD
                Well, does anyone else agree with
-               Martin that we should <u>not</u> explore
+               Martin that we should not explore
                it?
 
      Everyone looks around the room, but no one volunteers.
@@ -1712,7 +1697,7 @@
                Then the sooner we get moving, the
                better.
 
-     <u>EXTERIOR - PLANETOID - DAY</u>
+     EXTERIOR - PLANETOID - DAY
 
      LONG SHOT OF THE STONE PYRAMID, dust blowing in front of it.  It is a
      crumbling, ancient edifice, made of eroded grey stones, windowless,
@@ -1728,7 +1713,7 @@
                too regular for a natural
                formation... 
 
-     <u>INTERIOR - BRIDGE - DAY</u>
+     INTERIOR - BRIDGE - DAY
 
      Roby and Hunter are present.  They are listening to Standard's VOICE ON
      THE RADIO.
@@ -1752,7 +1737,7 @@
                               HUNTER
                I'm trying.
 
-     <u>EXTERIOR - BASE OF PYRAMID - DAY</u>
+     EXTERIOR - BASE OF PYRAMID - DAY
 
      The three men come to the base of the massive structure.  Dust and sand
      have piled thickly around the crumbling, grey stones that form the
@@ -1776,10 +1761,10 @@
                be under our feet.
 
                               STANDARD
-               Maybe there <u>is</u> no entrance; the
+               Maybe there is no entrance; the
                thing may be solid.
 
-     <u>INTERIOR - BRIDGE - DAY</u>
+     INTERIOR - BRIDGE - DAY
 
                               ROBY
                Well, there ought to be some way we
@@ -1844,7 +1829,7 @@
                goddamn message.  It's not an S.O.S.
                It was a warning.
 
-     <u>EXTERIOR - BASE OF PYRAMID - DAY</u>
+     EXTERIOR - BASE OF PYRAMID - DAY
 
                               BROUSSARD
                Maybe we can get in by the top.
@@ -1868,7 +1853,7 @@
      OMINOUS ANGLES showing Broussard climbing the pyramid, the dust
      blowing, the wind shrieking.
 
-     <u>EXTERIOR - TOP OF PYRAMID - DAY</u>
+     EXTERIOR - TOP OF PYRAMID - DAY
 
      The peak of the pyramid is in extreme disrepair.  Broussard arrives at
      the top and clings to the jagged, crumbling stones.
@@ -1876,7 +1861,7 @@
                               BROUSSARD
                There's a hole at the top.
 
-     <u>EXTERIOR - BASE OF PYRAMID - DAY</u>
+     EXTERIOR - BASE OF PYRAMID - DAY
 
                               STANDARD
                Can we come up?
@@ -1889,7 +1874,7 @@
                               STANDARD
                Can you see anything in the hole?
 
-     <u>EXTERIOR - TOP OF PYRAMID - DAY</u>
+     EXTERIOR - TOP OF PYRAMID - DAY
 
      Broussard leans over and looks into the hole.  He sees only blackness.
 
@@ -1902,7 +1887,7 @@
                walls.  I can't see the bottom --
                light won't reach.
 
-     <u>INTERIOR - BRIDGE - DAY</u>
+     INTERIOR - BRIDGE - DAY
 
      Faust comes trotting up the steps, a questioning look on his face.
 
@@ -1936,7 +1921,7 @@
                     (looks up at the others)
                And that's all it could translate.
 
-     <u>EXTERIOR - TOP OF PYRAMID - DAY</u>
+     EXTERIOR - TOP OF PYRAMID - DAY
 
      Hanging from the lip of the hole, Broussard is unclipping gear from
      his belt.
@@ -1949,7 +1934,7 @@
                               BROUSSARD
                No, I want to go in.
 
-     <u>EXTERIOR - BASE OF PYRAMID - DAY</u>
+     EXTERIOR - BASE OF PYRAMID - DAY
 
      Standard and Melkonis exchange a glance.
 
@@ -1959,7 +1944,7 @@
                unhook yourself from your cable.  And
                be out in less than ten minutes.
 
-     <u>EXTERIOR - TOP OF PYRAMID - DAY</u>
+     EXTERIOR - TOP OF PYRAMID - DAY
 
                               BROUSSARD
                Right.
@@ -1982,7 +1967,7 @@
      Broussard activates the climbing unit and lowers himself down into the
      hole.
 
-     <u>INTERIOR - PYRAMID - DAY</u>
+     INTERIOR - PYRAMID - DAY
 
      Bracing his feet against the rough stone wall of the vertical tunnel,
      Broussard switches on his datastick and points it down into the
@@ -2034,7 +2019,7 @@
                               BROUSSARD (CONT'D)
                I'm way below ground level.
 
-     <u>EXTERIOR - BASE OF PYRAMID - DAY</u>
+     EXTERIOR - BASE OF PYRAMID - DAY
 
                               STANDARD
                What'd he say?
@@ -2043,7 +2028,7 @@
                I couldn't make it out -- too much
                interference.
 
-     <u>INTERIOR - BRIDGE - DAY</u>
+     INTERIOR - BRIDGE - DAY
 
      Roby and Hunter.
 
@@ -2081,7 +2066,7 @@
                here till Chaz returns!  And nobody's
                leaving this ship!
 
-     <u>INTERIOR - PYRAMID - DAY</u>
+     INTERIOR - PYRAMID - DAY
 
      Broussard resumes his downward climb.  SUDDENLY, HIS FEET LOSE THEIR
      PURCHASE AS THE WALLS OF THE SHAFT DISAPPEAR.
@@ -2105,7 +2090,7 @@
      Finally, his feet hit bottom.  He grunts in surprise and almost loses
      his balance.
 
-     <u>INTERIOR - TOMB - DAY</u>
+     INTERIOR - TOMB - DAY
 
      Broussard is standing on a dusty stone floor, with a feeble column of
      sunlight shining down around him from the tunnel above.  Around is
@@ -2129,7 +2114,7 @@
      Annoyed, Broussard yanks off his breathing goggles, and leaves them
      hanging around his neck.  He takes a deep breath of the wet air.
 
-     <u>EXTERIOR - BASE OF PYRAMID - LATE AFTERNOON</u>
+     EXTERIOR - BASE OF PYRAMID - LATE AFTERNOON
 
      Standard and Melkonis are standing around nervously.
 
@@ -2140,7 +2125,7 @@
                               MELKONIS
                Sun will be down in a minute.
 
-     <u>INTERIOR - TOMB - LATE AFTERNOON</u>
+     INTERIOR - TOMB - LATE AFTERNOON
 
      Face bare, Broussard approaches the center of the room, which is
      dominated by a large, broad pedestal.  On the pedestal are ROWS OF
@@ -2168,7 +2153,7 @@
                raised areas appearing where my
                fingertips were.
 
-     <u>EXTERIOR - BASE OF PYRAMID - DAY</u>
+     EXTERIOR - BASE OF PYRAMID - DAY
 
      THE SUN DROPS BELOW THE HORIZON, throwing the landscape into gloom.
      Standard and Melkonis switch on their lights.
@@ -2178,7 +2163,7 @@
 
      He attaches his chest unit to the wire and starts up.
 
-     <u>INTERIOR - TOMB - NIGHT</u>
+     INTERIOR - TOMB - NIGHT
 
      Broussard is moving his light along the rows of heiroglyphs on the
      wall.  They depict stylized drawings of strange monsters.
@@ -2202,10 +2187,8 @@
      thing with his hands.
 
    
-<img alt="IMAGE -- facehugger.jpg" src="alienearlyimages/facehugger.jpg"/>
-   
 
-     <u>EXTERIOR - TOP OF PYRAMID - NIGHT</u>
+     EXTERIOR - TOP OF PYRAMID - NIGHT
 
      The dust blows and howls as Standard and Melkonis arrive at the top,
      lights bobbing in the darkness.
@@ -2283,16 +2266,16 @@
      wire.  Standard reaches for him -- then RECOILS SHARPLY.
 
                               STANDARD (CONT'D)
-               <u>Look out</u>!  <u>There's something on</u>
-               <u>his face</u>!
+               Look out!  There's something on
+               his face!
 
      Melkonis attempts to come to his aid.
 
                               MELKONIS
-               <u>What is it</u>?
+               What is it?
 
                               STANDARD
-               <u>Don't touch him, watch it</u>!
+               Don't touch him, watch it!
 
      In their panic and confusion, the men teeter momentarily, finally
      regain their balance.  They shine their lights on Broussard.
@@ -2324,7 +2307,7 @@
      The two men grapple with Broussard's limp body, lifting him from the
      hole.
 
-     <u>INTERIOR - BRIDGE - NIGHT</u>
+     INTERIOR - BRIDGE - NIGHT
 
      Roby and Hunter are sitting moodily, silent.  There is a long moment
      while nothing is said, then:
@@ -2379,7 +2362,7 @@
      Roby remains where he is, seated at his console.  He is stunned, his
      mind racing.  CAMERA MOVES IN ON HIS FACE.
 
-     <u>INTERIOR - CORRIDOR OUTSIDE AIR LOCK - NIGHT</u>
+     INTERIOR - CORRIDOR OUTSIDE AIR LOCK - NIGHT
 
      Hunter comes racing down the steps and hurries up to the inner lock
      door.
@@ -2392,13 +2375,13 @@
                I'll wait here for you to let them
                in!
 
-     <u>INTERIOR - BRIDGE - NIGHT</u>
+     INTERIOR - BRIDGE - NIGHT
 
                               ROBY
                     (strangely quiet)
                Right.
 
-     <u>INTERIOR - CORRIDOR OUTSIDE AIR LOCK - NIGHT</u>
+     INTERIOR - CORRIDOR OUTSIDE AIR LOCK - NIGHT
 
      Faust comes running up, covered with grime.
 
@@ -2419,7 +2402,7 @@
                I knew we shouldn't of come down
                here.
 
-     <u>INTERIOR - BRIDGE - NIGHT</u>
+     INTERIOR - BRIDGE - NIGHT
 
      Roby is seated alone in the room, listening to the transmission from
      Standard and Melkonis.
@@ -2477,7 +2460,7 @@
 
      Hating it, Roby leans forward and throws the switch.
 
-     <u>INTERIOR - CORRIDOR OUTSIDE AIR LOCK - NIGHT</u>
+     INTERIOR - CORRIDOR OUTSIDE AIR LOCK - NIGHT
 
      A RED LIGHT goes on, on a console on the wall.  The whine of a large
      servo is heard, followed by a solid metallic CLUNK.
@@ -2512,7 +2495,7 @@
 
      Hunter and Faust move in carefully to help with the limp burden.
 
-     <u>INTERIOR - INFIRMARY</u>
+     INTERIOR - INFIRMARY
 
      One of them flicks on the lights as they come shuffling into the
      medical room, carrying Broussard.
@@ -2610,7 +2593,7 @@
                               HUNTER
                Yeah... well, maybe he should have.  I
                mean, you brought the goddamn thing
-               in here.  Maybe <u>you</u> deserve to get
+               in here.  Maybe you deserve to get
                slapped.
 
                               FAUST
@@ -2646,7 +2629,7 @@
                Where did it come from?
 
                               MELKONIS
-               <u>He's</u> the only one that knows that.
+               He's the only one that knows that.
 
                               HUNTER
                How does he breathe?
@@ -2792,7 +2775,7 @@
      Frantically Standard leaps back, pulling off the smouldering gloves.
      Then he runs out into the corridor and yanks off his mask.
 
-     <u>INTERIOR - CORRIDOR OUTSIDE INFIRMARY</u>
+     INTERIOR - CORRIDOR OUTSIDE INFIRMARY
 
                               STANDARD
                That stuff's eating right through
@@ -2802,7 +2785,7 @@
 
      By this time Standard has started to run for the stairs.
 
-     <u>INTERIOR - CORRIDORS IN SHIP</u>
+     INTERIOR - CORRIDORS IN SHIP
 
      Followed by the others, Standard frantically clangs down the stairs to
      the level below.
@@ -2820,7 +2803,7 @@
 
      Standard and Hunter charge down the stairs to the level below.
 
-     <u>INTERIOR - LEVEL BELOW</u>
+     INTERIOR - LEVEL BELOW
 
      Standard and Hunter move cautiously down the corridor, looking up at
      the ceiling.
@@ -2833,7 +2816,7 @@
                               HUNTER
                Careful, don't get under it!
 
-     <u>INTERIOR - LEVEL ABOVE</u>
+     INTERIOR - LEVEL ABOVE
 
      Roby and Melkonis crouch by the spot on the floor where the acid
      sizzles.
@@ -2864,7 +2847,7 @@
                life... except molecular acid.
 
                               HUNTER
-               But this thing uses it for <u>blood</u>.
+               But this thing uses it for blood.
 
                               MELKONIS
                Hell of a defense mechanism.  You
@@ -2881,7 +2864,7 @@
                               STANDARD
                We're just plain lucky.  That could
                have gone right through the hull --
-               taken <u>weeks</u> to patch it.
+               taken weeks to patch it.
 
                               MELKONIS
                Reminded me of when I was a kid and
@@ -2893,7 +2876,7 @@
 
      They turn and run up the stairs.
 
-     <u>INTERIOR - INFIRMARY</u>
+     INTERIOR - INFIRMARY
 
      They all come into the room (Roby carrying the partially melted pen).
      Broussard is still motionless on the bunk, with the thing on his face.
@@ -2972,7 +2955,7 @@
                didn't he?  We can see what happened
                to him.
 
-     <u>INTERIOR - MULTI-PURPOSE ROOM</u>
+     INTERIOR - MULTI-PURPOSE ROOM
 
      Again we are watching slides in the darkened room.  This time Standard,
      Roby, Melkonis, and Hunter are watching the sequence of photographs
@@ -3046,7 +3029,7 @@
                     (rising)
                I'll come with you.
 
-     <u>INTERIOR - CORRIDOR OUTSIDE INFIRMARY</u>
+     INTERIOR - CORRIDOR OUTSIDE INFIRMARY
 
      Standard and Hunter come down the passageway.
 
@@ -3078,7 +3061,7 @@
 
      They arrive at the infirmary.
 
-     <u>INTERIOR - INFIRMARY</u>
+     INTERIOR - INFIRMARY
 
      The door slides open, and they step into the room.  Hunter activates
      the bed, and it slides out of the wall.
@@ -3151,7 +3134,7 @@
      With great care, he uses the probe to fish the motionless parasite
      into the tray.  Then he quickly closes the lid.
 
-     <u>INTERIOR - LABORATORY</u>
+     INTERIOR - LABORATORY
 
      Standard, Roby, and Melkonis have the parasite spread-eagled on a
      stainless steel table, with a bright light on it.  It is belly-side up.
@@ -3194,12 +3177,12 @@
 
      Carrying the thing, he heads for the door.
 
-     <u>INTERIOR - CORRIDORS IN SHIP</u>
+     INTERIOR - CORRIDORS IN SHIP
 
      The men run down the passageways, Standard carrying the dripping thing
      in the tongs.  It leaves little smoking droplets on the floor.
 
-     <u>INTERIOR - CORRIDOR OUTSIDE AIR LOCK</u>
+     INTERIOR - CORRIDOR OUTSIDE AIR LOCK
 
      They come running up to the airlock.  Roby stabs the button and the
      inner door slides open.  By the time Standard is in the lock, Roby is
@@ -3209,7 +3192,7 @@
                     (shouts into intercom)
                For Chrissake, open the main lock!
 
-     <u>INTERIOR - AIR LOCK - DAY</u>
+     INTERIOR - AIR LOCK - DAY
 
      Roby stumbles in as the inner door closes; and with a heavy whine, the
      thick surface door rumbles open.  Orange sunlight billows in, followed
@@ -3217,12 +3200,12 @@
 
      Standard HURLS THE CARCASS OUT, tongs and all.
 
-     <u>EXTERIOR - BASE OF SHIP - DAY</u>
+     EXTERIOR - BASE OF SHIP - DAY
 
      The parasite hits the ground and begins to sink into the dust,
      smouldering and fuming.
 
-     <u>INTERIOR - AIR LOCK - DAY</u>
+     INTERIOR - AIR LOCK - DAY
 
      The outer door rolls shut.
 
@@ -3238,7 +3221,7 @@
      Standard opens the inner door and steps out into the corridor.  There,
      he activates the wall intercom and punches out a combination.
 
-     <u>INTERIOR - CORRIDOR OUTSIDE AIR LOCK</u>
+     INTERIOR - CORRIDOR OUTSIDE AIR LOCK
 
                               HUNTER
                     (over intercom,
@@ -3279,7 +3262,7 @@
 
      He turns and walks away.
 
-     <u>INTERIOR - MULTI-PURPOSE ROOM</u>
+     INTERIOR - MULTI-PURPOSE ROOM
 
      The cat is strolling around as Roby and Melkonis drop into seats;
      Standard draws a cup of coffee from the machine.
@@ -3375,7 +3358,7 @@
                               FAUST
                The engines are fixed.
 
-     <u>EXTERIOR - PLANETOID - DAY</u>
+     EXTERIOR - PLANETOID - DAY
 
      The SNARK's engines cough and then with a ROAR BEGIN TO BELCH OUT
      STREAMS OF SUPERHEATED AIR, cutting through the tulgy dust.
@@ -3383,7 +3366,7 @@
      The ship roars and vibrates like a huge beast, capable of unlimited
      power.
 
-     <u>INTERIOR - BRIDGE - DAY</u>
+     INTERIOR - BRIDGE - DAY
 
      They are all at their posts.
 
@@ -3401,12 +3384,12 @@
                               STANDARD (CONT'D)
                Retract landing struts.
 
-     <u>EXTERIOR - SHIP - DAY</u>
+     EXTERIOR - SHIP - DAY
 
      The ship is hovering above the ground on beams of shimmering force.
      The landing struts fold up under the belly of the ship.
 
-     <u>INTERIOR - BRIDGE - DAY</u>
+     INTERIOR - BRIDGE - DAY
 
                               STANDARD
                Take us up.
@@ -3415,23 +3398,23 @@
                     (into intercom)
                Up one kilometer, Jay.
 
-     <u>EXTERIOR - PLANETOID - DAY</u>
+     EXTERIOR - PLANETOID - DAY
 
      The SNARK begins to levitate up into the sky, on the beams of light.
 
-     <u>INTERIOR - BRIDGE - DAY</u>
+     INTERIOR - BRIDGE - DAY
 
                               STANDARD
                Switch on lifter quads.
 
      A POWERFUL, DEEP THROBBING BEGINS.  THE SHIP VIBRATES.
 
-     <u>EXTERIOR - "SNARK" - DAY</u>
+     EXTERIOR - "SNARK" - DAY
 
      The hovering SNARK begins to accelerate through the choking
      atmosphere.
 
-     <u>INTERIOR - BRIDGE - DAY</u>
+     INTERIOR - BRIDGE - DAY
 
                               STANDARD
                Engage artificial gravity.
@@ -3469,30 +3452,30 @@
 
      The pitch of the engines changes, deepens.
 
-     <u>EXTERIOR - SKY - DAY</u>
+     EXTERIOR - SKY - DAY
 
      The SNARK swoops up at an acute angle into the boiling clouds.
      Visibility is zero.
 
-     <u>INTERIOR - ENGINE ROOM</u>
+     INTERIOR - ENGINE ROOM
 
      Faust is pulling on a gasmask, because the engine chamber is beginning
      to fill with dust.  He turns on a huge exhaust unit which begins to
      suck up some of the dust.
 
-     <u>INTERIOR - BRIDGE - DAY</u>
+     INTERIOR - BRIDGE - DAY
 
      On the screens, nothing but clouds.  Then, ANOTHER TREMOR SHUDDERS
      THROUGH THE SHIP.  The men no longer speak; their expressions are grim,
      set, and sweating; they are watching their instruments.  Periodically
      they mutter technical instructions to each other.
 
-     <u>EXTERIOR - SHIP - DAY</u>
+     EXTERIOR - SHIP - DAY
 
      Abruptly the ship CLEARS THE TOP OF THE CLOUD LAYER AND BURSTS OUT
      INTO STAR-SPRINKLED SPACE, trailing a wake of dust behind it.
 
-     <u>INTERIOR - BRIDGE - OUTER SPACE</u>
+     INTERIOR - BRIDGE - OUTER SPACE
 
      They all CHEER.
 
@@ -3515,7 +3498,7 @@
 
                                                             DISSOLVE TO:
 
-     <u>EXTERIOR - SHIP AT LIGHT SPEED - LATER</u>
+     EXTERIOR - SHIP AT LIGHT SPEED - LATER
 
      The ship's speed is so great that there is perceptible movement in the
      universe all around.
@@ -3524,7 +3507,7 @@
      the ship to appear blue, and the receding ones to be red.  This is
      redshift, made visible because of their incredible velocity.
 
-     <u>INTERIOR - BRIDGE - OUTER SPACE</u>
+     INTERIOR - BRIDGE - OUTER SPACE
 
      They are unstrapping.
 
@@ -3538,7 +3521,7 @@
 
      They rise and head out of the room.
 
-     <u>INTERIOR - CORRIDOR</u>
+     INTERIOR - CORRIDOR
 
      As they walk along.
 
@@ -3561,7 +3544,7 @@
 
      They enter the infirmary.
 
-     <u>INTERIOR - INFIRMARY</u>
+     INTERIOR - INFIRMARY
 
      As they enter the room, THEY ARE SHOCKED TO SEE BROUSSARD SITTING UP
      in BED -- AWAKE.
@@ -3643,7 +3626,7 @@
                I think that's a pretty reasonable
                request.
 
-     <u>INTERIOR - MULTI-PURPOSE ROOM</u>
+     INTERIOR - MULTI-PURPOSE ROOM
 
      The entire crew is seated around the table, eating huge portions
      greedily.  The cat eats from a dish on the table.
@@ -3709,7 +3692,7 @@
                               FAUST
                     (annoyed)
                Yes, I know what they make it out
-               of, so what?  It's food now.  <u>You're</u>
+               of, so what?  It's food now.  You're
                eating it.
 
                               ROBY
@@ -3729,7 +3712,7 @@
                               BROUSSARD
                     (his voice straining)
                I don't know... I'm getting these
-               <u>CRAMPS</u>!
+               CRAMPS!
 
      The others stare at him in alarm.  Another GROAN is torn from his lips.
      He clutches the edge of the table with his hands, his knuckles
@@ -3740,17 +3723,17 @@
 
                               BROUSSARD
                     (screaming)
-               <u>OH GOD IT HURTS SO BAD</u>!
+               OH GOD IT HURTS SO BAD!
 
                               ROBY
-               <u>What</u> Dell -- <u>what</u>?
+               What Dell -- what?
 
      Broussard's face is screwed up into a mask of agony, and he is
      trembling violently from head to foot.
 
                               BROUSSARD
                     (incoherent shriek)
-               OhmygooaaAA<u>AHHHHH</u>!!!
+               OhmygooaaAAAHHHHH!!!
 
      A RED SMEAR OF BLOOD BLOSSOMS ON THE CHEST OF BROUSSARD'S TUNIC.
 
@@ -3788,7 +3771,7 @@
                That thing used him for an
                incubator!
 
-     <u>EXTERIOR - SHIP - OUTER SPACE</u>
+     EXTERIOR - SHIP - OUTER SPACE
 
      A hatch slides open on the side of the ship, and Broussard's wrapped
      body tumbles silently out.
@@ -3796,7 +3779,7 @@
      AN ELECTRONIC BASS DRUM BEATS A DIRGE as Broussard drifts into
      eternity.
 
-     <u>INTERIOR - CORRIDORS</u>
+     INTERIOR - CORRIDORS
 
      The entire remaining crew is walking toward the bridge.
 
@@ -3848,13 +3831,13 @@
                A week.  It's plenty of time.
 
                               ROBY
-               But if we <u>haven't</u> caught it in a
+               But if we haven't caught it in a
                week, then we have to go into the
                freezers anyway.
 
      They enter the bridge.
 
-     <u>INTERIOR - BRIDGE</u>
+     INTERIOR - BRIDGE
 
                               STANDARD
                So does anybody have any
@@ -3913,11 +3896,11 @@
 
      They start for the exit.
 
-     <u>EXTERIOR - OUTER SPACE</u>
+     EXTERIOR - OUTER SPACE
 
      The SNARK continues on its way through the weird vortex of hyperspace.
 
-     <u>INTERIOR - CORRIDORS IN SHIP</u>
+     INTERIOR - CORRIDORS IN SHIP
 
      Standard is walking purposefully along the corridor, alone.  He is
      garmented in an unusual outfit which makes him look like a riot
@@ -3931,7 +3914,7 @@
      down.  He reaches a set of steps and climbs up them -- or rather, down
      them.
 
-     <u>INTERIOR - VENTRAL OBSERVATION DOME - VIEW OF OUTER SPACE</u>
+     INTERIOR - VENTRAL OBSERVATION DOME - VIEW OF OUTER SPACE
 
      Melkonis is seated in the dome, upside-down, peering down into space.
      He also wears the protective suit.
@@ -3993,7 +3976,7 @@
                Come on -- let's go above and see
                how they're coming with the gear.
 
-     <u>INTERIOR - BRIDGE</u>
+     INTERIOR - BRIDGE
 
      The whole crew has assembled.  Faust is unfolding several yards of
      shimmering metallic netting.
@@ -4075,7 +4058,7 @@
                We'll all carry communicators.  We
                want to keep in constant touch.
 
-     <u>INTERIOR - CORRIDORS IN SHIP</u>
+     INTERIOR - CORRIDORS IN SHIP
 
      Melkonis and Roby carry the net, while Faust walks directly behind it,
      carrying the tracking device.  He continually scans it from side to
@@ -4086,12 +4069,12 @@
                pretty fast as long as there's
                nothing on the tracker.
 
-     <u>INTERIOR - OTHER CORRIDORS</u>
+     INTERIOR - OTHER CORRIDORS
 
      Standard and Hunter move silently along.  Standard is forced to serve a
      double function, carrying one edge of the net and the tracker as well.
 
-     <u>INTERIOR - CORRIDORS</u>
+     INTERIOR - CORRIDORS
 
      Roby's team is moving at a fairly brisk pace, when:
 
@@ -4125,7 +4108,7 @@
 
      They all look down at their feet.
 
-     <u>INTERIOR - MAINTENANCE LEVEL</u>
+     INTERIOR - MAINTENANCE LEVEL
 
      Roby, Melkonis, and Faust come carefully down a set of crude metal
      stairs, into a drab, functional section of the ship.
@@ -4220,12 +4203,12 @@
 
      They dash for the stairs.
 
-     <u>INTERIOR - CORRIDORS IN SHIP</u>
+     INTERIOR - CORRIDORS IN SHIP
 
      Roby, Faust, and Melkonis charge down the hallways until they arrive
      at:
 
-     <u>INTERIOR - CORRIDOR OUTSIDE FOOD STORAGE ROOM</u>
+     INTERIOR - CORRIDOR OUTSIDE FOOD STORAGE ROOM
 
      Standard and Hunter are waiting for them, in hysterics.
 
@@ -4299,7 +4282,7 @@
                Somebody gimme a hand, I'll get the
                stuff.
 
-     <u>INTERIOR - CORRIDOR OUTSIDE FOOD LOCKER - LATER</u>
+     INTERIOR - CORRIDOR OUTSIDE FOOD LOCKER - LATER
 
      CAMERA PULLS BACK TO REVEAL THAT they are fastening a large funnel-
      shaped device over the ventilator grill at the bottom of the door.
@@ -4340,7 +4323,7 @@
      Standard steps to the door and opens it.  A thick cloud of gas billows
      out.
 
-     <u>INTERIOR - FOOD STORAGE ROOM</u>
+     INTERIOR - FOOD STORAGE ROOM
 
      The room is thick with the poison gas.  The men look like insects in
      their gasmasks.
@@ -4384,7 +4367,7 @@
 
      They slam the door shut and seal it.
 
-     <u>INTERIOR - BRIDGE</u>
+     INTERIOR - BRIDGE
 
      The screens are showing them a schematic of the ship's system of
      ventilator shafts.
@@ -4417,7 +4400,7 @@
                and flush it out.
 
                               ROBY
-               Are you <u>crazy</u>?
+               Are you crazy?
 
                               STANDARD
                The man would need protection,
@@ -4473,7 +4456,7 @@
                               STANDARD (CONT'D)
                Open it up, Cleave.
 
-     <u>INTERIOR - FOOD STORAGE ROOM</u>
+     INTERIOR - FOOD STORAGE ROOM
 
      Hunter is strapping on an oxygen mask and a flame thrower.  Faust is
      helping him.
@@ -4492,7 +4475,7 @@
      Hunter turns and climbs into the ventilator opening, which is just
      large enough to crawl through.
 
-     <u>INTERIOR - AIR SHAFT</u>
+     INTERIOR - AIR SHAFT
 
      It is completely dark in the shaft.  Hunter reaches up and turns on his
      helmet light.  Then he switches on his radio.
@@ -4500,7 +4483,7 @@
                               HUNTER
                Hey, do you guys read me down there?
 
-     <u>INTERIOR - CLIMATE CONTROL ROOM</u>
+     INTERIOR - CLIMATE CONTROL ROOM
 
      Standard, Melkonis and Roby are spreading out the net.  We hear the hum
      of huge cooling plants, and their hair ruffles.  Large airshafts run
@@ -4509,7 +4492,7 @@
                               STANDARD
                Yeah, we're getting into position.
 
-     <u>INTERIOR - AIR SHAFT</u>
+     INTERIOR - AIR SHAFT
 
                               HUNTER
                Okay, I'm starting now.
@@ -4523,7 +4506,7 @@
      DARKNESS.  It roars loudly in the confined tube, and the air instantly
      heats up.  Smoke drifts back into his face.  He begins to sweat.
 
-     <u>INTERIOR - CLIMATE CONTROL ROOM</u>
+     INTERIOR - CLIMATE CONTROL ROOM
 
      Roby points to a large rectangular opening in one wall.
 
@@ -4561,7 +4544,7 @@
 
      They lift the net up, holding it in front of the opening.
 
-     <u>INTERIOR - AIR SHAFT</u>
+     INTERIOR - AIR SHAFT
 
      Hunter is still crawling on hands and knees.  Up ahead, he can see that
      the shaft takes an abrupt downward turn.
@@ -4583,7 +4566,7 @@
      Then he has the weapon into position, and sprays another lethal
      flaming burst toward the sound.
 
-     <u>INTERIOR - CLIMATE CONTROL ROOM</u>
+     INTERIOR - CLIMATE CONTROL ROOM
 
      Melkonis is staring at his screen.
 
@@ -4608,7 +4591,7 @@
                     (tensely)
                Uh-huh.
 
-     <u>INTERIOR - AIR SHAFT</u>
+     INTERIOR - AIR SHAFT
 
      Hunter is huddled against a wall of the shaft, clutching the
      flamethrower.
@@ -4617,13 +4600,13 @@
                     (whispers)
                Hey, you guys.
 
-     <u>INTERIOR - CLIMATE CONTROL ROOM</u>
+     INTERIOR - CLIMATE CONTROL ROOM
 
                               STANDARD
                     (into communicator)
                Yes!
 
-     <u>INTERIOR - AIR SHAFT</u>
+     INTERIOR - AIR SHAFT
 
                               HUNTER
                     (whispering)
@@ -4631,7 +4614,7 @@
                much farther... anyway it's getting
                pretty hot in here... 
 
-     <u>INTERIOR - CLIMATE CONTROL ROOM</u>
+     INTERIOR - CLIMATE CONTROL ROOM
 
                               STANDARD
                     (into communicator)
@@ -4642,14 +4625,14 @@
                right out.  You don't have to go any
                farther.
 
-     <u>INTERIOR - AIR SHAFT</u>
+     INTERIOR - AIR SHAFT
 
                               HUNTER
                Good.
 
      He readies the flamethrower.
 
-     <u>INTERIOR - CLIMATE CONTROL ROOM</u>
+     INTERIOR - CLIMATE CONTROL ROOM
 
                               STANDARD
                Okay, get ready.
@@ -4670,7 +4653,7 @@
 
      Melkonis lets out a horrible shriek, and the thing grabs his head in
      one claw and TWISTS IT OFF LIKE A MAN PULLING THE HEAD OFF A CHICKEN,
-     THEN THROWS IT TO THE FLOOR WITH AN AUDIBLE <u>CLUNK</u>.
+     THEN THROWS IT TO THE FLOOR WITH AN AUDIBLE CLUNK.
 
      CLUTCHING MELKONIS' BODY TIGHTLY AGAINST ITSELF, IT TURNS AND BOUNDS
      DOWN THE HALL.  MELKONIS' HEADLESS BODY IS STILL KICKING AND STRUGGLING
@@ -4688,7 +4671,7 @@
 
                               STANDARD
                     (awed)
-               How did it get so <u>big</u>?
+               How did it get so big?
 
                               ROBY
                By eating our food supplies.
@@ -4696,7 +4679,7 @@
                               HUNTER
                Where's Melkonis?
 
-     <u>INTERIOR - FOOD STORAGE ROOM</u>
+     INTERIOR - FOOD STORAGE ROOM
 
      Faust is still waiting.
 
@@ -4708,7 +4691,7 @@
                               STANDARD
                     (over, filtered)
                Meet us on the bridge.  Be careful --
-               it's <u>huge</u> now.
+               it's huge now.
 
                               FAUST
                Right.
@@ -4716,7 +4699,7 @@
      Faust lets himself out of the food storage room and carefully locks
      the door behind him.
 
-     <u>INTERIOR - CORRIDORS</u>
+     INTERIOR - CORRIDORS
 
      Standard, Roby and Hunter are rapidly ascending toward the bridge.
 
@@ -4728,7 +4711,7 @@
                It was horrible -- horrible.  Like a
                chicken.
 
-     <u>INTERIOR - BRIDGE</u>
+     INTERIOR - BRIDGE
 
      Standard, Roby and Hunter enter and drop into chairs.  Faust follows
      shortly.  They all look blank, stunned.
@@ -4804,7 +4787,7 @@
                We sure need this flamethrower.
 
                               STANDARD
-               All right... but do <u>not</u> go below
+               All right... but do not go below
                decks.
 
                               FAUST
@@ -4897,7 +4880,7 @@
                               ROBY
                ... More spores coming.
 
-     <u>INTERIOR - CORRIDOR OUTSIDE AIR LOCK</u>
+     INTERIOR - CORRIDOR OUTSIDE AIR LOCK
 
      Faust quickly turns a couple of corners and then comes to an abrupt
      halt when he notices that a DOOR LEADING TO THE LOWER DECKS HAS BEEN
@@ -4908,12 +4891,12 @@
 
      Faust hesitates and peers into the lock.
 
-     <u>INTERIOR - AIR LOCK</u>
+     INTERIOR - AIR LOCK
 
      The creature is squatting in the middle of the floor, gnawing on a
      bloody thigh bone.  It does not see Faust.
 
-     <u>INTERIOR - CORRIDOR OUTSIDE AIR LOCK</u>
+     INTERIOR - CORRIDOR OUTSIDE AIR LOCK
 
      Stealthfully, dropping back into the shadows, Faust presses the wall
      intercom and speaks into it.
@@ -4923,7 +4906,7 @@
                It's in the lock -- blow the main
                lock.
 
-     <u>INTERIOR - BRIDGE</u>
+     INTERIOR - BRIDGE
 
      Standard, Roby and Hunter are staring at the pictures.  The call from
      Faust catches Standard in mid-sentence.
@@ -4932,24 +4915,24 @@
                     (into intercom)
                What?
 
-     <u>INTERIOR - CORRIDOR OUTSIDE AIR LOCK</u>
+     INTERIOR - CORRIDOR OUTSIDE AIR LOCK
 
                               FAUST
                     (whispering)
                It's in the main air lock.  Blow the
                lock.
 
-     <u>INTERIOR - BRIDGE</u>
+     INTERIOR - BRIDGE
 
      Standard hesitates, starts to frame a reply -- then changes his mind
      and runs to his console -- and THROWS THE SWITCH.
 
-     <u>INTERIOR - AIR LOCK</u>
+     INTERIOR - AIR LOCK
 
      With a mechanical whine, the inner door starts to close.  The creature
      hears it and INSTANTANEOUSLY LEAPS OUT OF THE LOCK.
 
-     <u>INTERIOR - CORRIDOR OUTSIDE AIR LOCK</u>
+     INTERIOR - CORRIDOR OUTSIDE AIR LOCK
 
      The creature comes flying out of the lock and DEALS FAUST A BACK-
      HANDED BLOW, KNOCKING HIM ACROSS THE THRESHOLD OF THE AIR LOCK DOOR.
@@ -4961,19 +4944,19 @@
 
                          "INNER DOOR CLOSED"
 
-     <u>INTERIOR - AIR LOCK</u>
+     INTERIOR - AIR LOCK
 
      Despite the fact that the inner door is still held open a few inches
      by Faust's squashed body, THE OUTER DOOR BEGINS TO SLIDE OPEN.
      IMMEDIATELY, THERE IS A TREMENDOUS SCREAM OF ESCAPING AIR.
 
-     <u>EXTERIOR - SHIP - OUTER SPACE</u>
+     EXTERIOR - SHIP - OUTER SPACE
 
      In dead silence, a thick spurt of steam comes out of the open air lock
      door.  This is the ship's atmosphere freezing as it squirts out into
      the vacuum under pressure.
 
-     <u>INTERIOR - BRIDGE</u>
+     INTERIOR - BRIDGE
 
      INSTANTLY, A TREMENDOUS WINDSTORM STARTS UP as the ship's air is
      sucked out toward the lock.
@@ -4985,18 +4968,18 @@
      After a moment of panic and confusion, Roby bolts out of the control
      room.
 
-     <u>INTERIOR - CORRIDORS</u>
+     INTERIOR - CORRIDORS
 
      Loose papers and articles of furniture hurtle through the passageways,
      as Roby hurries toward the rock, partly running, partly sucked along
      by the air current.
 
-     <u>EXTERIOR - SHIP - OUTER SPACE</u>
+     EXTERIOR - SHIP - OUTER SPACE
 
      A huge plume of steam grows from the side of the ship, with all kinds
      of tiny loose particles tumbling out in it.
 
-     <u>INTERIOR - CORRIDORS</u>
+     INTERIOR - CORRIDORS
 
      Whipped by the hurricane wind, Roby crashes to a momentary halt
      against a wall.  As he hesitates there, trying to regain his balance,
@@ -5005,7 +4988,7 @@
      Ignoring the monster, he pushes off from the wall and starts running
      again.
 
-     <u>INTERIOR - CORRIDOR OUTSIDE AIR LOCK</u>
+     INTERIOR - CORRIDOR OUTSIDE AIR LOCK
 
      Roby stops himself by grabbing the edge of a doorway at the end of the
      hall down from the airlock.  Here, the wind is really terrific -- his
@@ -5024,7 +5007,7 @@
      barely hear him; and his footsteps boom thinly like a man walking
      underwater.
 
-     <u>INTERIOR - CORRIDORS</u>
+     INTERIOR - CORRIDORS
 
      Clutching his throat, he comes across the others -- Standard and
      Hunter -- and they are all choking, clawing at their throats, gasping
@@ -5037,7 +5020,7 @@
      Standard mumbles something and stumbles down the hall.  The others
      follow him.
 
-     <u>INTERIOR - MAIN AIR TANK ROOM</u>
+     INTERIOR - MAIN AIR TANK ROOM
 
      The door bursts open and Standard reels in, his footsteps pinging
      thinly on the metal flooring.  We see several rows of large oxygen
@@ -5079,12 +5062,12 @@
                remaining air if we opened the
                connecting door.
 
-     <u>INTERIOR - AIR LOCK</u>
+     INTERIOR - AIR LOCK
 
      Faust's body, crushed in the inner door, floats weightlessly in the
      vacuum.  His nose and mouth are crusted with huge gobs of dried blood.
 
-     <u>INTERIOR - BRIDGE</u>
+     INTERIOR - BRIDGE
 
      The three survivors -- Standard, Roby and Hunter -- slump into chairs.
 
@@ -5115,7 +5098,7 @@
                the freezers.
 
                               HUNTER
-               <u>How</u>?
+               How?
 
                               STANDARD
                It's time for drastic remedies.
@@ -5204,7 +5187,7 @@
      They think.
 
                               STANDARD (CONT'D)
-               If we could just get the <u>creature</u>
+               If we could just get the creature
                into the lifeboat, we could launch
                it into space and blow it up.
 
@@ -5239,7 +5222,7 @@
                Right.  We've got a lot to
                accomplish.  Let's get moving.
 
-     <u>INTERIOR - MINING &amp; CARGO BAY</u>
+     INTERIOR - MINING &amp; CARGO BAY
 
      The three men come down steps into this rather dirty area of the ship.
      A lot of tools and large items of machinery are stored around.
@@ -5275,7 +5258,7 @@
 
                               ROBY
                     (grabbing at him)
-               <u>Hey watch it</u>!
+               Hey watch it!
 
                               STANDARD
                     (grinning)
@@ -5284,7 +5267,7 @@
 
      They begin to carry the explosives up the steps.
 
-     <u>INTERIOR - CORRIDOR</u>
+     INTERIOR - CORRIDOR
 
      The three men are carrying their equipment along the hallway, when
      Hunter's tracker suddenly BEEPS.
@@ -5315,14 +5298,14 @@
 
      Standard hefts the flamethrower and starts up the steps.
 
-     <u>INTERIOR - DIM STAIRWELL</u>
+     INTERIOR - DIM STAIRWELL
 
      Standard's face is tense as he advances up the circular steps.
      Suddenly, a METALLIC TAPPING SOUND is heard.  He freezes.
 
      Then he continues up.
 
-     <u>EXTERIOR - DORSAL OBSERVATION DOME - VIEW OF OUTER SPACE</u>
+     EXTERIOR - DORSAL OBSERVATION DOME - VIEW OF OUTER SPACE
 
      The view of interstellar space is spectacular.  As Standard comes up
      the steps, the METALLIC TAPPING is heard again.
@@ -5361,7 +5344,7 @@
      Glancing back, the men retreat from the observation dome.  Broussard
      remains against the glass, peering in with dead eyes.
 
-     <u>INTERIOR - NOSE OF SHIP</u>
+     INTERIOR - NOSE OF SHIP
 
      The floor slopes upward slightly here as the corridor funnels in and
      ends in the entrance to a narrow passageway or crawl-way.  This
@@ -5370,7 +5353,7 @@
      The three men come up to the entrance to the passageway, carrying the
      equipment.  They duck in and walk the short distance to the lifeboat.
 
-     <u>INTERIOR - LIFEBOAT</u>
+     INTERIOR - LIFEBOAT
 
      The passageway connects into the rear of the lifeboat.  It is an
      extremely simple, stripped-down vehicle; even the metal struts and
@@ -5406,7 +5389,7 @@
 
      By this time, they are exiting.
 
-     <u>INTERIOR - NOSE OF SHIP</u>
+     INTERIOR - NOSE OF SHIP
 
                               STANDARD
                Well... now we have to herd that
@@ -5513,7 +5496,7 @@
      Roby hears various tinny sound effects, rustlings, clunkings,
      breathing, etc.
 
-     <u>INTERIOR - CORRIDOR IN SHIP</u>
+     INTERIOR - CORRIDOR IN SHIP
 
      Standard has the flamethrower at the ready, and Hunter is staring at
      the tracker.
@@ -5526,7 +5509,7 @@
                Let me go first; you stay behind me.
 
      Carefully, Standard advances down the corridor.  Then THE CREATURE POPS
-     OUT OF HIDING <u>BEHIND</u> HUNTER, AND PICKS HIM UP.
+     OUT OF HIDING BEHIND HUNTER, AND PICKS HIM UP.
 
      HUNTER SCREAMS.
 
@@ -5551,7 +5534,7 @@
      Standard instantly stops firing, but now Hunter is a kicking ball of
      flame, held out at arm's length by the monster.
 
-     <u>INTERIOR - NOSE OF SHIP</u>
+     INTERIOR - NOSE OF SHIP
 
      Roby is listening to all this on the communicator.  He can hear the
      shrieks and crashing noises.
@@ -5567,7 +5550,7 @@
      He drops his face into his hands.  When he lifts his head again, he has
      managed to summon a certain amount of resolve.
 
-     <u>INTERIOR - CORRIDORS IN SHIP</u>
+     INTERIOR - CORRIDORS IN SHIP
 
      Roby walks along watching the tracker, carrying a pistol in the other
      hand.  He comes across Standard's flamethrower, lying on the floor.  He
@@ -5576,7 +5559,7 @@
      Then he continues to follow the tracker; it takes him down the steps
      into the maintenance level.
 
-     <u>INTERIOR - MAINTENANCE LEVEL</u>
+     INTERIOR - MAINTENANCE LEVEL
 
      Roby follows the device for a short distance until it indicates that
      the source of the signal is directly under his feet.  Looking down, he
@@ -5588,7 +5571,7 @@
      Substituting the tracker for a flashlight, but still carrying the
      flamethrower, Roby starts down the ladder.
 
-     <u>INTERIOR - DARK STORAGE ROOM</u>
+     INTERIOR - DARK STORAGE ROOM
 
      Shining the light around into the darkness, Roby descends the metal
      ladder to the floor.
@@ -5656,17 +5639,17 @@
      sprays a molten blast.  When the entire room is in flames, he turns and
      scrambles back up the ladder.
 
-     <u>INTERIOR - MAINTENANCE LEVEL</u>
+     INTERIOR - MAINTENANCE LEVEL
 
      Roby drops to his knees and gasps for breath, trying not to throw up.
      At length, he regains control of himself.
 
-     <u>EXTERIOR - OUTER SPACE - AT LIGHT SPEED</u>
+     EXTERIOR - OUTER SPACE - AT LIGHT SPEED
 
      The SNARK appears to hang motionless, with planets and star clusters
      rolling past in the infinite distance.
 
-     <u>INTERIOR - BRIDGE</u>
+     INTERIOR - BRIDGE
 
      Roby is putting the cat into a metal, vacuum-sealed catbox, with a
      little oxygen tank on it.
@@ -5680,7 +5663,7 @@
 
      He picks up the pressurized catbox and leaves the bridge.
 
-     <u>INTERIOR - MINING &amp; CARGO BAY</u>
+     INTERIOR - MINING &amp; CARGO BAY
 
      Carrying the catbox and a shoulder bag (and of course the
      flamethrower), Roby goes quickly to the nearest rank of metal
@@ -5696,7 +5679,7 @@
      Putting the invaluable cannister into the shoulder bag, he hurries
      back up the steps.
 
-     <u>INTERIOR - ENGINE ROOM</u>
+     INTERIOR - ENGINE ROOM
 
      Catbox in one hand, flamethrower in the other, Roby enters the engine
      room, containing the massive stardrive engines.
@@ -5717,7 +5700,7 @@
      hurriedly picks up catbox, bag and flamethrower and hurries out of the
      engine room.
 
-     <u>INTERIOR - CORRIDORS IN SHIP</u>
+     INTERIOR - CORRIDORS IN SHIP
 
      Roby hurries on, listening to the siren.
 
@@ -5726,19 +5709,19 @@
                main core will melt in 4 minutes, 30
                seconds!
 
-     <u>INTERIOR - NOSE OF SHIP</u>
+     INTERIOR - NOSE OF SHIP
 
      Roby comes hustling up to where the lifeboat is berthed.  Hands full,
      he starts to enter the connecting passageway.
 
-     <u>INTERIOR - CONNECTING PASSAGEWAY</u>
+     INTERIOR - CONNECTING PASSAGEWAY
 
      THE CREATURE IS WAITING AT THE OTHER END OF THE PASSAGEWAY, INSIDE THE
      LIFEBOAT.
 
      It HISSES and starts toward him.
 
-     <u>INTERIOR - NOSE OF SHIP</u>
+     INTERIOR - NOSE OF SHIP
 
      Roby leaps out of the passageway, bounds to the controls, and throws
      the switch.  The hatch door SLAMS SHUT, locking the thing in the
@@ -5753,7 +5736,7 @@
 
      Finally, he turns and bolts back toward the engine room.
 
-     <u>INTERIOR - CORRIDORS IN SHIP</u>
+     INTERIOR - CORRIDORS IN SHIP
 
      Like a maniac, Roby runs through the ship, level after level, pounding
      down stairwells, his footsteps clanging metallically throughout the
@@ -5763,7 +5746,7 @@
                Attention!  Engines will overload in
                3 minutes, 30 seconds!
 
-     <u>INTERIOR - ENGINE ROOM</u>
+     INTERIOR - ENGINE ROOM
 
      The door crashes open and Roby comes running in.  The room is full of
      smoke and the engines are whining dangerously.  It is extremely hot in
@@ -5793,16 +5776,16 @@
      A look of terror comes onto Roby's face.  He turns and runs from the
      engine room.
 
-     <u>INTERIOR - CORRIDORS IN SHIP</u>
+     INTERIOR - CORRIDORS IN SHIP
 
      Again, Roby must run through all the levels of the ship, this time
-     <u>up</u> the stairs, exhausted, stumbling, while the computer counts down:
+     up the stairs, exhausted, stumbling, while the computer counts down:
 
                               COMPUTER
                Attention!  Engines will overload in
                2 minutes!
 
-     <u>INTERIOR - NOSE OF SHIP</u>
+     INTERIOR - NOSE OF SHIP
 
      Reeling, gasping for breath, Roby staggers into the vestibule where
      the lifeboat is berthed.  He grabs the flamethrower and turns it toward
@@ -5813,7 +5796,7 @@
      Quickly, he glances around to see if the creature might be behind him.
      Then he advances on the passageway.
 
-     <u>INTERIOR - PASSAGEWAY</u>
+     INTERIOR - PASSAGEWAY
 
      Dripping with sweat, his face a mask of fear, Roby enters the
      passageway, flamethrower gripped tightly in his hands.  He is goaded on
@@ -5826,12 +5809,12 @@
      He makes it all the way to the end of the passageway, then sticks his
      head into the lifeboat.
 
-     <u>INTERIOR - LIFEBOAT</u>
+     INTERIOR - LIFEBOAT
 
      HIS POINT-OF-VIEW as he quickly scans the lifeboat, reveals that it is
      EMPTY.
 
-     <u>INTERIOR - PASSAGEWAY</u>
+     INTERIOR - PASSAGEWAY
 
      Immediately, he turns and dashes back to the head of the passageway.
      There he grabs the catbox and bag, then runs back into the lifeboat.
@@ -5840,35 +5823,35 @@
                Attention!  Engines will explode in
                60 seconds!
 
-     <u>INTERIOR - LIFEBOAT</u>
+     INTERIOR - LIFEBOAT
 
      He comes in on the run, hurls the catbox and bag toward the front, and
      does a dive over the back of the control chair.  He is no sooner in the
      seat than he hits the "LAUNCH" button.
 
-     <u>EXTERIOR - NOSE OF SHIP - OUTER SPACE</u>
+     EXTERIOR - NOSE OF SHIP - OUTER SPACE
 
      The retainer clips drop away, and with a blast of ramjets, THE
      LIFEBOAT IS LAUNCHED AWAY FROM THE "SNARK."
 
-     <u>INTERIOR - LIFEBOAT</u>
+     INTERIOR - LIFEBOAT
 
      Roby is frantically strapping himself in, as the lifeboat accelerates
      away from the mother ship.
 
-     <u>EXTERIOR - SPACE</u>
+     EXTERIOR - SPACE
 
      The tiny pod of the lifeboat accelerates away from the larger bulk of
      the SNARK.  The scene is strangely serene for such deadly
      circumstances.
 
-     <u>INTERIOR - LIFEBOAT</u>
+     INTERIOR - LIFEBOAT
 
      Roby finishes strapping himself in, then he reaches and grabs the
      catbox.  The cat is YOWLING.  Roby hugs the box to his chest and hunches
      his head down over it.
 
-     <u>EXTERIOR - SPACE</u>
+     EXTERIOR - SPACE
 
      The SNARK drifts ever farther away as the lifeboat leaves it behind,
      until it is barely a point of light.
@@ -5878,7 +5861,7 @@
      AN EXPANDING ORANGE FIREBALL WITH PIECES OF METAL FLYING IN ALL
      DIRECTIONS.
 
-     <u>INTERIOR - LIFEBOAT</u>
+     INTERIOR - LIFEBOAT
 
      The shockwave hits the escape craft, jolting it and rattling
      everything inside.  Then all is quiet.
@@ -5887,12 +5870,12 @@
      the lifeboat.  He stares out through the porthole.  His face is bathed
      in orange light.
 
-     <u>EXTERIOR - SPACE</u>
+     EXTERIOR - SPACE
 
      What he sees is the boiling fireball, now fading and fizzling away
      into nothingness, and a couple of pieces of debris floating past.
 
-     <u>INTERIOR - LIFEBOAT</u>
+     INTERIOR - LIFEBOAT
 
      Roby's expression is mournful as he watches the final obliteration of
      his ship and friends.
@@ -5917,7 +5900,7 @@
      It throws down the arm.  With that, Roby dives for the open locker
      door, hurls himself inside, and slams the door shut.
 
-     <u>INTERIOR - SPACESUIT LOCKER</u>
+     INTERIOR - SPACESUIT LOCKER
 
      There is a clear glass panel in the door, and the thing puts its face
      right up to the glass, peering in at Roby.  The locker is so small that
@@ -5926,14 +5909,14 @@
 
      Then the MOANING OF THE CAT distracts it.
 
-     <u>INTERIOR - LIFEBOAT</u>
+     INTERIOR - LIFEBOAT
 
      The creature waddles over to where the pressurized catbox sits.  It
      bends down and peers inside.  The CAT YOWLS LOUDER.
 
      It picks up the catbox in its tentacles.
 
-     <u>INTERIOR - SPACESUIT LOCKER</u>
+     INTERIOR - SPACESUIT LOCKER
 
      Trying to distract the monster away from the cat, Roby TAPS ON THE
      GLASS.
@@ -5947,16 +5930,16 @@
      Roby looks around.  He spies the spacesuit.  Quickly, he begins to pull
      it on.
 
-     <u>INTERIOR - LIFEBOAT</u>
+     INTERIOR - LIFEBOAT
 
      The creature picks the catbox up in its tentacles and shakes it to see
      if there is anything inside.  The cat MOANS.
 
-     <u>INTERIOR - SPACESUIT LOCKER</u>
+     INTERIOR - SPACESUIT LOCKER
 
      Roby is halfway into the pressure suit.
 
-     <u>INTERIOR - LIFEBOAT</u>
+     INTERIOR - LIFEBOAT
 
      The creature throws the catbox down.  It clangs, and bounces.  The thing
      picks it up again and hammers it against the wall.  Then it jams it
@@ -5965,7 +5948,7 @@
      With one tentacle, it begins to pound the sealed catbox into the
      crevice.  The cat has gone beyond hysterics.
 
-     <u>INTERIOR - SPACESUIT LOCKER</u>
+     INTERIOR - SPACESUIT LOCKER
 
      Roby pulls on the helmet, latches it into place, then turns on the
      oxygen.  With a hiss, the suit fills itself.
@@ -5975,11 +5958,11 @@
 
      Again he raps on the glass.
 
-     <u>INTERIOR - LIFEBOAT</u>
+     INTERIOR - LIFEBOAT
 
      The creature turns.  It faces the locker, peers at him.
 
-     <u>INTERIOR - SPACESUIT LOCKER</u>
+     INTERIOR - SPACESUIT LOCKER
 
                               ROBY
                Try a little of this, you fucking
@@ -5987,7 +5970,7 @@
 
      HE KICKS THE DOOR OPEN.
 
-     <u>INTERIOR - LIFEBOAT</u>
+     INTERIOR - LIFEBOAT
 
      The creature rises, but just in time to catch THE STEEL SHAFT RIGHT
      THROUGH ITS MIDRIFF.
@@ -6004,16 +5987,14 @@
      WRAPS THE END OF A TENTACLE AROUND HIS ANKLE.
 
    
-<img alt="IMAGE -- finalbattle.jpg" src="alienearlyimages/finalbattle.jpg"/>
-   
 
-     <u>EXTERIOR - LIFEBOAT - OUTER SPACE</u>
+     EXTERIOR - LIFEBOAT - OUTER SPACE
 
      Roby is now hanging halfway out of the lifeboat, with the thing
      clinging to his leg.  He kicks at it with his free foot, but it won't
      let go.
 
-     <u>INTERIOR - LIFEBOAT</u>
+     INTERIOR - LIFEBOAT
 
      Looking for any salvation, Roby grabs the hatch control lever and
      yanks it.
@@ -6023,12 +6004,12 @@
 
      It instantly releases Roby, who staggers back.
 
-     <u>EXTERIOR - LIFEBOAT - OUTER SPACE</u>
+     EXTERIOR - LIFEBOAT - OUTER SPACE
 
      The creature is now outside the lifeboat, in the vacuum, squirming,
      the tip of its tentacle caught in the closed hatch.
 
-     <u>INTERIOR - LIFEBOAT</u>
+     INTERIOR - LIFEBOAT
 
      Where the tentacle is caught in the hatch, it is wounded, and is
      starting to foam with acid, eating away at the metal.
@@ -6037,7 +6018,7 @@
 
                               "RAM JETS"
 
-     <u>EXTERIOR - LIFEBOAT - OUTER SPACE</u>
+     EXTERIOR - LIFEBOAT - OUTER SPACE
 
      The jet exhausts are located at the rear of the craft, right where the
      creature is wriggling.  THE ENGINES BELCH FLAME FOR A FEW SECONDS, THEN
@@ -6045,11 +6026,11 @@
 
      INCINERATED, THE CREATURE TUMBLES SLOWLY AWAY INTO SPACE.
 
-     <u>INTERIOR - LIFEBOAT</u>
+     INTERIOR - LIFEBOAT
 
      Roby hurries to the rear hatch and looks out after the thing.
 
-     <u>EXTERIOR - OUTER SPACE</u>
+     EXTERIOR - OUTER SPACE
 
      The burned mass of the monster drifts slowly away into space, a
      writhing, smoking, foaming mass.
@@ -6061,7 +6042,7 @@
 
                                                             DISSOLVE TO:
 
-     <u>INTERIOR - LIFEBOAT - LATER</u>
+     INTERIOR - LIFEBOAT - LATER
 
      The boat is re-pressurized and Roby is seated in the control chair.  He
      seems calm and composed, almost cheerful.  The cat purrs in his lap.
@@ -6108,7 +6089,7 @@
      CLOSE-UP OF THE ALIEN SKULL, watching sentinel over the slumbering
      Roby like some dead, melancholy pixie.
 
-     <u>EXTERIOR - OUTER SPACE</u>
+     EXTERIOR - OUTER SPACE
 
      The lifeboat -- SNARK 2 -- sails away toward its rendezvous with Irth,
      250 years from now.
@@ -6118,12 +6099,8 @@
 
      ROLL END TITLES &amp; MUSIC.
 
-                              <u>THE END</u>
+                              THE END
 
 
 
    
-
-
-
-</body></html>

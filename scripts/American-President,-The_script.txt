@@ -1,13 +1,3 @@
-<html>
-<head>
-<script>
-<!--
-if (window!= top)
-top.location.href=location.href
-// -->
-</script>
-<title>THE AMERICAN PRESIDENT</title>
-</head>
 
 
 
@@ -8044,5 +8034,3 @@ top.location.href=location.href
 	--------------------------------------------------------------
 
 
-
-</html>

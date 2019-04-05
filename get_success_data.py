@@ -3,12 +3,58 @@ from bs4 import BeautifulSoup
 import os
 import pandas as pd
 import numpy as np
+import operator
 
+def get_characters(script, threshold_char=5, threshold_space=-1):
+    """ Gets the characters of a script """
+    with open(os.getcwd() + "/scripts/" + script, "r") as s:
+        script = s.read()
+        
+    poss_char = {}
+    for line in script.split("\n"):
+        if line.count(" ") > threshold_space:
+            key = line.strip(" ").replace(line[line.find("("):line.find(")") + 1], "").strip(" ").replace("\t", "").strip(" ")
+            if key not in poss_char:
+                poss_char[key] = 1
+            else:
+                poss_char[key] += 1
+                        
+    sorted_poss_chars = sorted(poss_char.items(), key=operator.itemgetter(1), reverse=True)
+    chars = []
+    for char_tuple in sorted_poss_chars:
+        if char_tuple[1] > threshold_char:
+            chars.append(char_tuple)
+        else:
+            break
+            
+    return [char[0] for char in chars if char[0] != "" and "-" not in char[0] and "." not in char[0] and ":" not in char[0] and "?" not in char[0]]
 
 # Gets the titles of the movies for which we have scripts
 ready_scripts = [file_name[:file_name.find("_")] for file_name
                  in os.listdir(os.getcwd() + "/scripts/")
                  if ".txt" in file_name]
+n_scripts_before = len(ready_scripts)
+
+for script in ready_scripts:
+    path = os.getcwd() + "/scripts/" + script + "_script.txt"
+    with open(path, "r") as s:
+        m = s.read()
+    # Deletes scripts that were pdf and thus we got html trash
+    if len(m) < 3000:
+        os.remove(path)
+        continue
+    # Deletes scripts that do not follow the standard format
+    # Such us: MULAN: Hey yo what's up?
+    # Instead of:         MULAN
+     #              Hey yo what's up?
+    if len(get_characters(script + "_script.txt")) == 0:
+        os.remove(path)
+        
+ready_scripts = [file_name[:file_name.find("_")] for file_name
+                 in os.listdir(os.getcwd() + "/scripts/")
+                 if ".txt" in file_name]
+print("We removed", n_scripts_before - len(ready_scripts), "scripts")  # We removed 23 scripts
+print("There are", len(ready_scripts), "scripts now")
 
 # Will store the data for each title
 org_title, prep_title = [], []

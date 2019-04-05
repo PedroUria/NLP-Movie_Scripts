@@ -1,13 +1,3 @@
-<html>
-<head>
-<script>
-<!--
-if (window!= top)
-top.location.href=location.href
-// -->
-</script>
-<title>One Flew Over The Cuckoo's Nest </title>
-</head>
 
 
 EXT. WORK FARM - NIGHTFALL
@@ -7307,5 +7297,3 @@ CREDITS OVER.
 			THE END
 
 
-
-</html>

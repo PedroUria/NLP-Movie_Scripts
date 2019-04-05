@@ -1,13 +1,3 @@
-<html>
-<head>
-<script>
-<!--
-if (window!= top)
-top.location.href=location.href
-// -->
-</script>
-<title>The Princess Bride by William Goldman - 1987 Shooting Draft</title>
-</head>
 
 
                     "The Princess Bride"
@@ -6866,5 +6856,3 @@ FINAL FADE OUT.
 THE END.
 
 
-
-</html>

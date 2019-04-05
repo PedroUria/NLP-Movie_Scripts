@@ -1,13 +1,3 @@
-<html>
-<head>
-<script>
-<!--
-if (window!= top)
-top.location.href=location.href
-// -->
-</script>
-<title>BEING JOHN MALKOVICH A Screenplay by Charlie Kaufman</title>
-</head>
 
 
 			 BEING JOHN MALKOVICH
@@ -5974,5 +5964,3 @@ top.location.href=location.href
 
 
 
-
-</html>

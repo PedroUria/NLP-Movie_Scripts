@@ -1,7 +1,3 @@
-<html>
-<head>
-<title>"FORREST GUMP" -- by Eric Roth</title>
-<body>
 
                                       "FORREST GUMP"
 
@@ -6773,6 +6769,3 @@
                                          THE END
 
 
-
-
-</body></head></html>

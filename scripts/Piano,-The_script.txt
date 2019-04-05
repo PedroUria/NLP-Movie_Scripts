@@ -1,13 +1,3 @@
-<html>
-<head>
-<script>
-<!--
-if (window!= top)
-top.location.href=location.href
-// -->
-</script>
-<title>The Piano Lesson</title>
-</head>
 
 
  THE PIANO LESSON
@@ -4497,5 +4487,3 @@ Sc 100 Approximately 60 sec. of ADA's piano playing.
 
 
 
-
-</html>

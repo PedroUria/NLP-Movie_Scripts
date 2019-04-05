@@ -1,11 +1,4 @@
-<html>
 
-<head>
-   <title>"Wild Things", production draft, revised by Kem Nunn</title>
-</head>
-
-<body bgcolor="#FFFFFF">
-   
 
 
 
@@ -6330,14 +6323,9 @@
      Suzie, at the helm, looking good, face to the wind.
 
 
-                                <u>END</u>
+                                END
 
                               (really)
 
 
    
-
-
-
-
-</body></html>

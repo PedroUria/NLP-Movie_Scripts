@@ -1,17 +1,10 @@
-<html>
-
-<head>
-   <title>"Mission: Impossible", shooting draft, revised by Robert Towne</title>
-</head>
-
-<body bgcolor="#FFFFFF">
-   
 
 
 
 
 
-                        <u>MISSION</u>: <u>IMPOSSIBLE</u>
+
+                        MISSION: IMPOSSIBLE
 
 
 
@@ -120,7 +113,7 @@
      ANATOLY paces up the room, away from KASIMOV. 
 
                           ANATOLY 
-                You asked for my help.  You <u>asked</u> for <u>my</u>
+                You asked for my help.  You asked for my
                 help...come on... 
 
                           KASIMOV
@@ -203,7 +196,7 @@
 
      ANATOLY reaches up to his face --
 
-     --<u>and tears away a mask of flesh</u>.  He's no middle aged 
+     --and tears away a mask of flesh.  He's no middle aged 
      Russian mobster, he's ETHAN HUNT, an American in his early 
      thirties.  He gestures to KASIMOV contemptuously.  JACK hands 
      ETHAN a hypodermic kit and he goes quickly back into the 
@@ -258,7 +251,7 @@
      questioningly. 
 
                           CLAIRE 
-                Are <u>you</u> all right Ethan.  What's wrong
+                Are you all right Ethan.  What's wrong
                 with you? 
 
                           ETHAN 
@@ -525,7 +518,7 @@
 
                           PHELPS 
                 A hundred and sixty-seven, I think it is. 
-                Take it all, if you want.  <u>After</u> this one. 
+                Take it all, if you want.  After this one. 
 
                           ETHAN 
                 I thought I'd take some now. 
@@ -548,7 +541,7 @@
 
                           PHELPS 
                 When you started noticing your short term 
-                memory loss.  What <u>the problem was</u> you 
+                memory loss.  What the problem was you 
                 and Claire had in Kiev? 
 
                           ETHAN 
@@ -563,7 +556,7 @@
                 I guess. 
 
                           PHELPS 
-                Ethan, you <u>can't</u> burn out. 
+                Ethan, you can't burn out. 
 
                           ETHAN
                 Why not? 
@@ -643,8 +636,8 @@
                 throw a little light on the whole concept 
                 of the Pentagon's "black budget."  These 
                 covert agency subgroups have confidential 
-                funding, they report to no one -- <u>who are</u>
-                <u>these people</u>?!  We <u>were</u> living in a 
+                funding, they report to no one -- who are
+                these people?!  We were living in a 
                 democracy the last time I checked. 
 
      BACK TO SCENE 
@@ -676,7 +669,7 @@
                 Sure.  If the main character does. 
 
                           PHELPS 
-                If you were me, Ethan, who would <u>you</u>
+                If you were me, Ethan, who would you
                 trust to make him believable? 
 
      JACK comes breezing in with a piece of bubble gum.
@@ -733,7 +726,7 @@
      up the shaft, shining a flashlight until he finds what he's 
      looking for -- 
 
-     -- <u>a gray metal box</u>, protruding from the wall one floor up. 
+     -- a gray metal box, protruding from the wall one floor up. 
 
      INT. SAFE HOUSE - NIGHT
 
@@ -922,13 +915,13 @@
                           SARAH (CONT'D)
                      (covering) 
                 Senator, don't you have a young man on 
-                your staff named <u>JACK</u>? 
+                your staff named JACK? 
 
      She tries the thumb again, Still no soap. 
 
                           ETHAN 
-                <u>Jack</u>?  I believe we did have a young man 
-                named <u>Jack</u>.  Not a reliable man, as I 
+                Jack?  I believe we did have a young man 
+                named Jack.  Not a reliable man, as I 
                 recall.  Constantly late or behind in his 
                 work. 
 
@@ -1224,8 +1217,8 @@
      but gets no response.
 
                           PHELPS
-                I donít have it -- <u>I donít have</u>
-                <u>control</u>!
+                I donít have it -- I donít have
+                control!
 
      INT. ELEVATOR SHAFT (ABOVE ELEVATOR) - NIGHT
 
@@ -1269,7 +1262,7 @@
      JACK looks up again, he cringes, he covers his head with his
      hands, he SCREAMS --
 
-     --<u>and heís crushed to death against the roof</u>.
+     --and heís crushed to death against the roof.
 
      EXT. EMBASSY - NIGHT
 
@@ -1293,7 +1286,7 @@
 
      INT. EMBASSY WORK ROOM - NIGHT
 
-     GOLITSYN, <u>who now has the disk</u>, jabs again and again at the
+     GOLITSYN, who now has the disk, jabs again and again at the
      elevator button but it wonít even light up.  He studies the
      elevator doors and jumps into the shaft, just as ETHAN and
      SARAH did moments before.
@@ -1358,7 +1351,7 @@
                 Abort.  Thatís an order.
 
                           ETHAN
-                <u>Negative</u>, Golitsynís on the move.
+                Negative, Golitsynís on the move.
 
      INT. GETAWAY CAR - NIGHT
 
@@ -1425,7 +1418,7 @@
 
      PHELPSí point of view changes radically as his head swivels
      on the darkened bridge.  He whirls again, looking over his
-     shoulder and this time <u>the barrel of a gun</u> is visible,
+     shoulder and this time the barrel of a gun is visible,
      pointing at him and before PHELPS has a chance to react a
      GUNSHOT CRACKLES over the monitor.
 
@@ -1461,7 +1454,7 @@
      visible in the driverís seat.  But as he descends the stairs
      --
 
-     --<u>the car explodes and bursts into flames</u>.
+     --the car explodes and bursts into flames.
 
      The force of the blast knocks ETHAN back.
 
@@ -1490,7 +1483,7 @@
      EXT. EMBANKMENT - NIGHT
 
      SARAH is almost to GOLITSYN.  Suddenly, the MAN in front of
-     GOLITSYN <u>pulls him towards him</u>.  Sensing something wrong,
+     GOLITSYN pulls him towards him.  Sensing something wrong,
      SARAH quickens her pace.  The MAN is now hunched over
      GOLITSYN, facing away from SARAH, going through GOLITSYNís
      pockets.
@@ -1597,10 +1590,10 @@
                 dead too.  The disk is gone.
 
                           KITTRIDGE (O.S.)
-                <u>Are you intact</u>?
+                Are you intact?
 
                           ETHAN
-                Do you read me?  <u>The list is in the open</u>!
+                Do you read me?  The list is in the open!
 
                           KITTRIDGE (O.S.)
                 Let's just bring you in safely, and then
@@ -1614,7 +1607,7 @@
                 I donít think so.
 
                           KITTRIDGE (O.S.)
-                Donít <u>think</u>, be <u>sure</u>.  Are you clean?
+                Donít think, be sure.  Are you clean?
 
                           ETHAN
                 Yes.
@@ -1703,7 +1696,7 @@
                 We've lost enough agents for one night. 
 
                           ETHAN 
-                You mean <u>I've</u> lost enough agents for one 
+                You mean I've lost enough agents for one 
                 night. 
 
      KITTRIDGE seems to be at the point of saying one thing, then, 
@@ -1741,7 +1734,7 @@
                 The waiter behind Hannah at the top of 
                 the staircase - Bowtie, 12 o'clock. The 
                 other IMF team.  You're worried about me. 
-                <u>Why</u>?
+                Why?
 
                           KITTRIDGE 
                      (a tight little smile) 
@@ -1955,7 +1948,7 @@
                 Job three fourteen.  Job --
                      (a realization, 
                      the Biblical pronunciation) 
-                It's <u>Job</u>! 
+                It's Job! 
 
      He rummages around on the desk, checks the bookshelf and 
      finds a Gideon Bible.  He turns to Job 3:14 and reads the 
@@ -2016,7 +2009,7 @@
 
      ANGLE
 
-     It's <u>CLAIRE</u>. 
+     It's CLAIRE. 
 
                           ETHAN 
                 What are you doing here?! 
@@ -2287,7 +2280,7 @@
                 twenty five thousand. 
 
                           MAX 
-                The penny drops.  <u>You</u> are <u>not</u> Job.  Yes, 
+                The penny drops.  You are not Job.  Yes, 
                 Job is not given to quoting Scripture in 
                 his communications. And there was its 
                 tone -- aggressive but playful.  Job is 
@@ -2322,7 +2315,7 @@
                 Ah, but, we're asking about you. 
 
                           ETHAN
-                I'm NOC.  Was.  <u>Now</u> disavowed. 
+                I'm NOC.  Was.  Now disavowed. 
 
                           MAX 
                 Why, may I ask? 
@@ -2351,7 +2344,7 @@
                           MAX 
                 It's easy to say the disk is worthless 
                 when you say I can't look at the 
-                information and <u>see</u> if it's worthless. 
+                information and see if it's worthless. 
                 Not a tenable position, sir. 
 
                           ETHAN 
@@ -2511,12 +2504,12 @@
                 same.  But I want the complete list now, 
                 not just Eastern Europe.  I won't do this 
                 piecemeal, it's too dangerous.  I want 
-                the <u>entire</u> list, the true name of every 
+                the entire list, the true name of every 
                 non-official cover agent throughout the 
                 world. 
 
                           ETHAN 
-                <u>Ten</u> million.  Ten million in negotiable 
+                Ten million.  Ten million in negotiable 
                 U.S. Treasury certificates, in bearer 
                 form, coupons attached.  And one more 
                 thing -- your personal assurance that Job 
@@ -2575,7 +2568,7 @@
                 think Hunt has?  How many times has he 
                 slipped past custom, in how many 
                 countries?  These guys are trained to be 
-                ghosts.  <u>We</u> taught them how to do it, for 
+                ghosts.  We taught them how to do it, for 
                 Christ's sake! 
 
                           BARNES 
@@ -2684,7 +2677,7 @@
                 In Langley?  The one in Virginia, Langley? 
 
                           KRIEGER 
-                <u>Inside</u> CIA headquarters at Langley. 
+                Inside CIA headquarters at Langley. 
 
      ETHAN nods.  KRIEGER turns to CLAIRE. 
 
@@ -2757,7 +2750,7 @@
 
                           LUTHER 
                 Thinking Machine laptops, I'm talking 
-                about the 686 prototypes -- <u>with</u> the 
+                about the 686 prototypes -- with the 
                 artificial intelligence Risk chip -- 
 
      ETHAN looks at KRIEGER. 
@@ -2978,10 +2971,10 @@
 
                           KITTRIDGE 
                 I can't believe what I'm listening to. 
-                Hunt just kicked us in the ass, <u>you</u> guys 
+                Hunt just kicked us in the ass, you guys 
                 are standing here trying to figure out 
-                what kind of shoes he had on!  <u>I don't</u>
-                <u>care</u> how he did it, I want to know <u>why</u> he 
+                what kind of shoes he had on!  I don't
+                care how he did it, I want to know why he 
                 did it!  Is he recruiting?  For what 
                 purpose? 
 
@@ -2997,9 +2990,9 @@
 
                           KITTRIDGE
                 Too short sighted.  This guy's proactive,
-                he <u>initiates</u>.  The question is <u>what</u> does 
-                he want now and <u>where</u> does he need to get 
-                it and Barnes what the <u>hell</u> is that
+                he initiates.  The question is what does 
+                he want now and where does he need to get 
+                it and Barnes what the hell is that
                 noise?! 
 
      An AGENT is just coming in from the hallway. 
@@ -3067,13 +3060,13 @@
                 alarm didn't go off. 
 
                           ETHAN
-                Do you <u>want</u> to blow the fire through the 
+                Do you want to blow the fire through the 
                 whole building? 
 
                           GUARD RICHARD 
                      (reciting policy) 
-                <u>Nobody</u> goes into <u>any</u> sector where the 
-                <u>alarm</u> did not go off --
+                Nobody goes into any sector where the 
+                alarm did not go off --
 
      EXT. CIA LANGLEY - PARKING AREA - DAY                            
 
@@ -3095,7 +3088,7 @@
         
                           GUARD 
                      (on screen) 
-                --and it did <u>not</u> go off in twenty-one! 
+                --and it did not go off in twenty-one! 
 
      LUTHER turns to a screen on another computer and searches 
      through a complex facilities menu. 
@@ -3156,8 +3149,8 @@
 
      She reaches out and flicks something off his shoulder blade. 
 
-     He smiles.  But she hasn't flicked something <u>off</u> his shoulder 
-     blade, she's flicked something <u>onto</u> it -- a little piece of 
+     He smiles.  But she hasn't flicked something off his shoulder 
+     blade, she's flicked something onto it -- a little piece of 
      shiny gray metallic tape.  CLAIRE leaves the table. COFFEE 
      MAN drinks up and leaves the table. 
 
@@ -3308,7 +3301,7 @@
      earlier.  No-one is there, there's not a sound but for the 
      gentle HUM of the computer as it waits to be put to use. 
 
-     Now <u>ETHAN's head</u> descends slowly into the room, his hair 
+     Now ETHAN's head descends slowly into the room, his hair 
      falling in front of him. 
 
      At first it seems he's just poking his head in for a look, 
@@ -3485,7 +3478,7 @@
 
      --the drop of sweat falls -- 
 
-     --and he <u>catches</u> it with his right hand. 
+     --and he catches it with his right hand. 
 
      INT. CIA - MEN'S - DAY                                    
 
@@ -3553,7 +3546,7 @@
      INT. FIRE TRUCK - DAY                                         
 
                           LUTHER 
-                You're not <u>moving</u>!
+                You're not moving!
 
      INT. CIA - COMPUTER ROOM - DAY                                
 
@@ -3616,10 +3609,10 @@
      high.  KITTRIDGE is on his feet, berating his staff. 
 
                           KITTRIDGE 
-                <u>Think</u>, for Christ's sake, you guys are 
+                Think, for Christ's sake, you guys are 
                 mired in detail, open your minds, it's 
                 gotta be staring us in the face!  What 
-                does Ethan Hunt <u>want</u>?! 
+                does Ethan Hunt want?! 
 
                           BARNES 
                 Same thing he wanted in Prague!  Same 
@@ -3635,7 +3628,7 @@
                 And where is the list vulnerable? 
 
      There is nervous silence for a moment.  Behind KITTRIDGE, on 
-     the other side of the room, <u>the phone starts to ring</u>. 
+     the other side of the room, the phone starts to ring. 
 
      An AGENT gets up to answer it as a creeping fear pervades the 
      room. 
@@ -3649,7 +3642,7 @@
      turns, receiver in hand, face ashen. 
 
      He holds the phone out to KITTRIDGE, terrified, the bearer of 
-     <u>extremely</u> bad news. 
+     extremely bad news. 
 
      They all turn slowly and look at him.  He holds the phone out 
      to KITTRIDGE, shaking slightly. 
@@ -3820,7 +3813,7 @@
      trousers she's wearing and pulls out the disk. 
 
                           ETHAN (CONT'D) 
-                But not <u>too</u> far! 
+                But not too far! 
 
      He palms the disk in his right hand. 
 
@@ -3835,9 +3828,9 @@
      his left hand.  It's there now. 
 
                           ETHAN (CONT'D) 
-                <u>So</u> hard to keep track of these things. 
+                So hard to keep track of these things. 
 
-     ETHAN shows his hands -- now <u>both</u> are empty. 
+     ETHAN shows his hands -- now both are empty. 
 
                           KRIEGER 
                      (fuming) 
@@ -3851,7 +3844,7 @@
 
      KRIEGER just stares at him, shaken.  CLAIRE laughs.  KRIEGER 
      looks at her.  He turns completely red.  When he looks back 
-     at ETHAN, ETHAN holds <u>two</u> disks -- one in each hand. 
+     at ETHAN, ETHAN holds two disks -- one in each hand. 
 
                           KRIEGER 
                 Try any sleight-of-hand with my money and 
@@ -3884,7 +3877,7 @@
      jacket pocket. 
 
                           LUTHER 
-                Krieger <u>did</u> have the NOC list. 
+                Krieger did have the NOC list. 
 
                           ETHAN 
                 Now I want you to hold onto it. 
@@ -4165,7 +4158,7 @@
      inches in front of him.  Startled, ETHAN looks up, but what 
      he sees shakes him to the core. 
 
-     <u>The man is JIM PHELPS</u>. 
+     The man is JIM PHELPS. 
 
      ETHAN SHOUTS and almost falls back into the phone booth. 
      PHELPS leans against the door of the booth and smiles weakly. 
@@ -4450,7 +4443,7 @@
                 Twenty, twenty-five minutes.
 
                           KITTRIDGE
-                Youíve got ten.  <u>Move</u>!
+                Youíve got ten.  Move!
 
      INT. WATERLOO STATION PLATFORM - DAY
 
@@ -4566,7 +4559,7 @@
      to make room for him to pass.  As they move by him, their
      vision is momentarily blocked --
 
-     -- <u>and CLAIRE gets up to follow</u>.
+     -- and CLAIRE gets up to follow.
 
      She follows to the rear of the car and she passes through the
      door and out of the car, after KITTRIDGE and BARNES talk in
@@ -4901,7 +4894,7 @@
 
                           PHELPS
                 Donít flatter yourself - six was for
-                <u>Eastern Europe</u>.  You made a lousy deal -
+                Eastern Europe.  You made a lousy deal -
                 ten for the world?  What is that?  But I
                 needed you for the transfer with Max.  I
                 got a little extra change;  and you got a
@@ -5000,7 +4993,7 @@
      belt.
 
      He looks up, scanning the sky behind the train.  From out 
-     of the fog, a <u>helicopter</u> approaches. 
+     of the fog, a helicopter approaches. 
 
      PHELPS turns and looks ahead, in the direction the train is 
      going.  In the distance, he can see the chunnel approaching 
@@ -5084,7 +5077,7 @@
      train.  He grabs a radio and SCREAMS into it. 
 
                           CONDUCTOR 
-                No, no, it's <u>IN</u> the tunnel! 
+                No, no, it's IN the tunnel! 
 
                           VOICE (O.S.) 
                 Stop the train! 
@@ -5099,7 +5092,7 @@
      around to the other end of the car, we see where they've 
      gone. 
 
-     <u>They're dangling from either side of it</u>. 
+     They're dangling from either side of it. 
 
      PHELPS paws for one of the suction cups and pulls himself 
      back onto the roof of the train.  ETHAN reaches for the other 
@@ -5143,7 +5136,7 @@
      Crouching on the skid, ETHAN digs in his pocket and pulls 
      out -- 
 
-     -- <u>a red and green piece of bubble gum</u>. 
+     -- a red and green piece of bubble gum. 
 
      PHELPS sees it and SCREAMS at KRIEGER, who scrambles 
      frantically for his gun. 
@@ -5204,7 +5197,7 @@
                 that you need. 
 
                           KITTRIDGE 
-                You know, I would <u>love</u> to try. 
+                You know, I would love to try. 
 
      EXT. LONDON PUB - DAY
 
@@ -5346,6 +5339,3 @@
 
 
    
-
-
-</body></html>

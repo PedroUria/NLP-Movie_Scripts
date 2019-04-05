@@ -1,13 +1,3 @@
-<html>
-<head>
-<script>
-<!--
-if (window!= top)
-top.location.href=location.href
-// -->
-</script>
-<title>DROP DEAD GORGEOUS</title>
-</head>
 
 	DROP DEAD GORGEOUS
 
@@ -5209,5 +5199,3 @@ top.location.href=location.href
 
 
 
-
-</html>

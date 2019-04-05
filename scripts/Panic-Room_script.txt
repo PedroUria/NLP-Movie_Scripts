@@ -1,13 +1,3 @@
-<html>
-<head>
-<script>
-<!--
-if (window!= top)
-top.location.href=location.href
-// -->
-</script>
-<title>Panic Room - by David Koepp</title>
-</head>
 
 
 
@@ -5504,5 +5494,3 @@ top.location.href=location.href
 	
 	                                                FADE OUT.
 
-
-</html>

@@ -1,11 +1,4 @@
-<html>
 
-<head>
-   <title>"Sphere", early draft, by Stephen Hauser</title>
-</head>
-
-<body bgcolor="#FFFFFF">
-   
 
 
 
@@ -1032,7 +1025,7 @@
 
                          BARNES
                Nobody goes inside, until we know
-               <u>what's</u> inside.
+               what's inside.
 
      ON THE MONITOR -- THE ROBOT CAMERA scans the spacecraft hull, stops on
      a rectangular panel mounted to the left of the door.
@@ -1084,7 +1077,7 @@
      Barnes straightens up, looks at Ted...
 
                          BARNES
-               What <u>about</u> a crowbar?
+               What about a crowbar?
 
                          TED
                What if we go out there, you know --
@@ -1664,7 +1657,7 @@
                Please.  It must have flown here --
 
                          HARRY
-               It didn't fly here.  It <u>arrived</u> here.
+               It didn't fly here.  It arrived here.
 
                          TED
                Arrived?  From where?
@@ -1870,7 +1863,7 @@
                things up.  They see things they want
                -- these claws go out and bring it
                in.  They come across this.  This... 
-               <u>sphere</u>.  Find it interesting,
+               sphere.  Find it interesting,
                curious.  They draw it inside to take
                back home.
 
@@ -1995,7 +1988,7 @@
                Like "Thou shall not kill"?
 
                          NORMAN
-               Or maybe, it can't <u>be</u> killed.
+               Or maybe, it can't be killed.
 
                          BARNES
                You mean, what's in that thing is
@@ -2123,7 +2116,7 @@
      Harry leans his head over his bunk.
 
                          HARRY
-               So, <u>we know</u>.
+               So, we know.
                     (beat)
                We know it went through a black
                hole.  We saw it.  Norman -- when we'd
@@ -2135,7 +2128,7 @@
                they'd make precautions for a black
                hole.
                     (beat)
-               <u>But they didn't</u>.  The called it an
+               But they didn't.  The called it an
                Unknown Entry Event.
 
                          NORMAN
@@ -3517,7 +3510,7 @@
                See?  No code.  What'd I say?
 
                          HARRY
-               Codes are for <u>hiding</u> information.  So
+               Codes are for hiding information.  So
                it's making a mistake.  It's making a
                code without intending to.  I figured
                it's probably substituting numbers
@@ -3676,7 +3669,7 @@
                It's not ignorant.
 
                          TED
-               Maybe it's <u>pretending</u> to be
+               Maybe it's pretending to be
                ignorant.
 
      Harry types "==="
@@ -4018,8 +4011,8 @@
 
                          NORMAN
                ... it raises a very serious
-               question: <u>What happens if Jerry</u>
-               <u>gets mad</u>?
+               question: What happens if Jerry
+               gets mad?
 
      INT.  VIDEO FEED ROOM
 
@@ -4253,7 +4246,7 @@
                were taking us back.
 
                          BETH
-               Yeah, he <u>told</u> you.  Think.  What was
+               Yeah, he told you.  Think.  What was
                Barnes doing before they cut that
                cable loose?  He was on the phone.
                Except that cable is a thousand feet
@@ -4755,7 +4748,7 @@
 
                          BETH
                Don't pull it, Norman.  It'll start a
-               <u>fire</u> we can't stop.  Norman?
+               fire we can't stop.  Norman?
 
                          BARNES (O.S.)
                Do it, Norman, it's the only choice
@@ -5692,7 +5685,7 @@
 
                          NORMAN
                Hello.  How are you?  I am fine.  What
-               is your name?...  <u>My name is Harry</u>.
+               is your name?...  My name is Harry.
 
                                                             CUT TO:
 
@@ -6805,7 +6798,7 @@
                "Mommy, we're going out to the ocean
                -- to go swimming." "But I don't
                want to go swimming, Norman.  I'm
-               scared." "C'mon, <u>Harry</u>, it'll be
+               scared." "C'mon, Harry, it'll be
                fine, it'll be fun."
                     (resuming)
                You heartless fuck.  That's why
@@ -7942,6 +7935,3 @@
 
 
    
-
-
-</body></html>

@@ -1,13 +1,3 @@
-<html>
-<head>
-<script>
-<!--
-if (window!= top)
-top.location.href=location.href
-// -->
-</script>
-<title>Gone In 60 Seconds - Scott Rosenberg</title>
-</head>
 
 	GONE IN 60 SECONDS 
 	by Scott Rosenberg
@@ -7220,5 +7210,3 @@ top.location.href=location.href
 
 
 
-
-</html>

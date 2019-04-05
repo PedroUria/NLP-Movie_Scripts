@@ -1,18 +1,11 @@
-<html>
-
-<head>
-   <title>"The X Files", production draft, by Chris Carter</title>
-</head>
-
-<body bgcolor="#FFFFFF">
-   
 
 
 
 
 
 
-                           <u>X-FILES</u>
+
+                           X-FILES
 
 
                        FIGHT THE FUTURE
@@ -26,7 +19,7 @@
 
 
 
-                                                  <u>CHRIS CARTER</u>
+                                                  CHRIS CARTER
                                                     6/30/97
 
 
@@ -6844,6 +6837,3 @@
 
 
    
-
-
-</body></html>

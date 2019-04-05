@@ -1,13 +1,3 @@
-<html>
-<head>
-<script>
-<!--
-if (window!= top)
-top.location.href=location.href
-// -->
-</script>
-<title>THE TIME MACHINE - by David Duncan</title>
-</head>
 
 
 
@@ -6179,5 +6169,3 @@ top.location.href=location.href
                           THE END
 
 
-
-</html>

@@ -1,11 +1,3 @@
-<html>
-
-<head>
-   <title>"Dark City", early, by Alex Proyas</title>
-</head>
-
-<body bgcolor="#FFFFFF">
-   
 
 
 
@@ -18,7 +10,8 @@
 
 
 
-                              <u>DARK CITY</u>
+
+                              DARK CITY
 
                                  by
                              Alex Proyas
@@ -322,13 +315,13 @@
 
                          BUMSTEAD (cuts in)
                ...but you told me the meeting was
-               <u>ten-thirty</u>.
+               ten-thirty.
 
      A burst of chatter.
 
                          BUMSTEAD
                I know, sir, but I can't make it at
-               <u>nine-thirty</u>...  It's  -  um  -  well,
+               nine-thirty...  It's  -  um  -  well,
                inconvenient...
 
      A stream of chatter stops him.
@@ -376,7 +369,7 @@
      Suddenly White feels cold.
 
                          VOICE O.S.
-               <u>There</u> you are.
+               There you are.
 
      Startled, White drops the phone and turns.  A figure moves
      forward out of darkness:
@@ -1083,7 +1076,7 @@
      The librarian looks up from her book.
 
                          LIBRARIAN
-               Which would you like <u>first</u>?
+               Which would you like first?
 
                          WHITE
                Okay.  Newspapers.
@@ -1212,7 +1205,7 @@
                          WHITE
                It is?...  Which area is that number
                listed in?...  Is that near the
-               ocean?...  The <u>ocean</u>...  Never mind.
+               ocean?...  The ocean...  Never mind.
                Have a Jonathan White listed?...
                WHITE.  Seventeen?  All Johns?  I
                see...  Never mind.
@@ -1289,7 +1282,7 @@
                It seems fine.
 
                          BUMSTEAD
-               <u>Fine</u>?  Look here!
+               Fine?  Look here!
 
      His finger points at the bottom of the page  -  a tiny,
      INSIGNIFICANT ink smudge.
@@ -1442,7 +1435,7 @@
                Canít argue at that!
 
                          WHITE (evenly)
-               I donít <u>want</u> a haircut.
+               I donít want a haircut.
 
      LATER
 
@@ -1496,7 +1489,7 @@
                     (lathers up Whiteís
                     face)
                That night, couple weeks ago.  That
-               was <u>real</u> cold.  Remember that?
+               was real cold.  Remember that?
 
                          WHITE
                Not really...
@@ -1995,7 +1988,7 @@
                What time was your appointment?
 
                          WHITE (angry)
-               Look!  Tell him I'm here.  <u>Now</u>.
+               Look!  Tell him I'm here.  Now.
 
      He's leaning across her desk threateningly.
 
@@ -2111,7 +2104,7 @@
                Ah, that would be cheating, wouldn't
                it?
                     (smiles)
-               Is there nothing <u>you</u> remember?  Not
+               Is there nothing you remember?  Not
                even a detail?   You must try.
 
                          WHITE
@@ -2143,7 +2136,7 @@
                Asks my name.  Over and over.  Just
                like a broken record.  Only thing is,
                I can't answer.  I've no idea what my
-               name <u>is</u>.
+               name is.
 
                          SCHREBER
                Your name is John White.
@@ -2180,7 +2173,7 @@
                right?
 
                          SCHREBER
-               That's right.  I <u>am</u> your doctor.
+               That's right.  I am your doctor.
 
      White is very agitated now, his voice is getting edgy.
 
@@ -2316,7 +2309,7 @@
                I'm nothing then.
 
                          SCHREBER
-               Anything <u>but</u>, my friend.
+               Anything but, my friend.
 
      The two men look down on a monkey with the top of its head
      missing, squirming in a mechanical device that restricts its
@@ -3024,7 +3017,7 @@
                You didn't kill anyone.
 
                          WHITE  (sarcastic)
-               What am I doing in <u>here</u> then?
+               What am I doing in here then?
 
                          SCHREBER
                Listen to what I have to say.  Decide
@@ -3045,7 +3038,7 @@
                You know...
 
                          BUMSTEAD
-               I <u>know</u> it's his doctor...
+               I know it's his doctor...
                     (into intercom)
                I need the file on..
                     (reads clip-board)
@@ -3058,7 +3051,7 @@
                          BUMSTEAD (evenly)
                Yes.
                     (beat)
-               And it's <u>SCHREBER</u>  -  with an 'h'.
+               And it's SCHREBER  -  with an 'h'.
 
                          MISS CRENSHAW
                Yes.  An "h".
@@ -3083,7 +3076,7 @@
                No, it's the truth.
 
                          WHITE
-               So you're telling me the truth <u>this</u>
+               So you're telling me the truth this
                time?  Is that it!
 
      The doctor removes a SMALL SYRINGE from his black bag, places
@@ -3121,10 +3114,10 @@
      Schreber waves frantically at the air surrounding him.
 
                          SCHREBER
-               You can change this, <u>all</u> this.
+               You can change this, all this.
                     (points at syringe
                     again)
-               But you <u>must</u> take it.
+               But you must take it.
 
      White stares blankly at him for a moment, then:
 
@@ -3164,7 +3157,7 @@
                It's a trick.
 
                          SCHREBER
-               No it isn't.  <u>You</u> are doing it!  Now
+               No it isn't.  You are doing it!  Now
                raise it over the glass and...
 
      Suddenly the syringe spins towards the doctor, IMPALES itself
@@ -3538,7 +3531,7 @@
      White remains silent.  Sachiko stands and leaves the room.
 
                          WOMAN'S VOICE O.S.
-               <u>John</u>?  Is that you?
+               John?  Is that you?
 
                          WHITE
                Who is this?  What do you know about
@@ -3617,8 +3610,8 @@
      The strange woman looks at White intently between sobs.
 
                          WOMAN
-               Please believe me.  It's <u>me</u>, John.
-               Your <u>WIFE</u>.  I wouldn't lie to you.
+               Please believe me.  It's me, John.
+               Your WIFE.  I wouldn't lie to you.
                You told me I could come and see you
                -  now you want to just send me away
                again...
@@ -3733,7 +3726,7 @@
      White sits back down quietly.
 
                          WHITE
-               Yes.  <u>Very</u> strange.
+               Yes.  Very strange.
 
 
      INT.  BATHROOM
@@ -3812,7 +3805,7 @@
      and lets him through.
 
                          THOMPSON
-               I can't talk about <u>that</u>.  As long as
+               I can't talk about that.  As long as
                you understand, that's all.
 
      The room is very dark.  Bumstead is assailed by a wave of
@@ -3847,7 +3840,7 @@
                          THOMPSON (looks more frightened)
                Wish I could tell you, Bumstead.
                Strange business.  I...
-               <u>AAAAAAAHHHHHHHH</u>!
+               AAAAAAAHHHHHHHH!
 
      He screams horribly.  Stands, clutching his head.  Startled,
      Bumstead falls backwards off his chair.  Thompson, still
@@ -4200,7 +4193,7 @@
 
                          MISTER BLACK
                The tuning failed  -  when our agents
-               arrived he was gone.  He <u>knows</u> things
+               arrived he was gone.  He knows things
                -  predicts things.  Explain to us,
                Doctor.  Why is the situation this
                way?  Yes?
@@ -4277,7 +4270,7 @@
                White case.
 
                          MISS CRENSHAW
-               Yes, sir.  <u>Everything</u>?
+               Yes, sir.  Everything?
 
                          BUMSTEAD
                All the important stuff.  Wrap it up
@@ -4954,7 +4947,7 @@
      back.
 
                          BUMSTEAD
-               What the <u>hell</u> is that?
+               What the hell is that?
 
      At the end of the alley the PUPPET advances menacingly.
      Schreber takes his chance and runs down an alley and
@@ -5341,7 +5334,7 @@
      men.
 
                          KARL
-               What is <u>that</u>?
+               What is that?
 
                          WHITE (to Karl)
                Get back!
@@ -5695,7 +5688,7 @@
                You're one of them.  You bastard...
 
                          STROMBOLI (laughing)
-               In a way, we <u>all</u> are, inspector!
+               In a way, we all are, inspector!
                You.  Me.  Everybody!
 
      Stromboli carries Bumstead towards the EDGE of the roof.  He
@@ -5809,7 +5802,7 @@
                We are looking for the White victims.
 
                          MORTICIAN
-               And who the hell are <u>you</u>?
+               And who the hell are you?
 
      The mortician catches a glimpse of the shiny dagger Man 1 is
      clutching by his side.  He becomes very scared.
@@ -6131,7 +6124,7 @@
      He looks over to the victims.
 
                          WHITE
-               It was <u>them</u>, not me.
+               It was them, not me.
                     (points at the
                     Mystery Men)
                They killed you.
@@ -6141,7 +6134,7 @@
                          WHITE
                You have invented all this.  History
                is a lie, not just mine, everyone's  -
-               a fiction.  <u>You</u> are the authors.
+               a fiction.  You are the authors.
 
      His knuckles go white as he squeezes tighter on the barrier.
 
@@ -6152,7 +6145,7 @@
                Everyone has a job  -  a function.  Each
                one teaches you more about your
                invention.  I'm what is called a
-               <u>murderer</u>.
+               murderer.
 
      The whole court listens in silence to White's testimony.
 
@@ -6181,7 +6174,7 @@
      the adjoining room remain silent.
 
                          MISTER BLACK
-               Ah  -  a <u>plot</u>.  Now we have a plot!
+               Ah  -  a plot.  Now we have a plot!
                     (chuckling)
                Very inventive...
 
@@ -6549,6 +6542,3 @@
 
 
    
-
-
-</body></html>

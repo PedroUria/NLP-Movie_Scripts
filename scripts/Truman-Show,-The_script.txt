@@ -1,11 +1,4 @@
-<html>
 
-<head>
-   <title>"The Truman Show", early, by Andrew M. Niccol</title>
-</head>
-
-<body bgcolor="#FFFFFF">
-   
 
 
 
@@ -3438,7 +3431,7 @@
 
                genuinely, etc.  2. in fact; really.
 
-              TrumanËsque (<u>Ë</u>sk)<i>a.</i> characteristic
+              TrumanËsque (Ësk)<i>a.</i> characteristic
                of the experiences of Truman Burbank
                <i>(a Trumanesque town, conversation,
                etc.)</i> [circa. 1972)
@@ -6340,6 +6333,3 @@
 
 
    
-
-
-</body></html>

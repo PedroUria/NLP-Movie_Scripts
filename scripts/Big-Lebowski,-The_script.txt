@@ -1,13 +1,3 @@
-<html>
-<head>
-<script>
-<!--
-if (window!= top)
-top.location.href=location.href
-// -->
-</script>
-<title>THE BIG LEBOWSKI</title>
-</head>
 
 
 			THE BIG LEBOWSKI
@@ -6412,5 +6402,3 @@ voice fades:
 
 
 
-
-</html>

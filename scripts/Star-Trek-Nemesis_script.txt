@@ -1,13 +1,3 @@
-<html>
-<head>
-<script>
-<!--
-if (window!= top)
-top.location.href=location.href
-// -->
-</script>
-<title>STAR TREK: NEMESIS</title>
-</head>
 
 
 
@@ -6268,5 +6258,3 @@ stars.  Then ZOOM forward into the cosmos as the rousing
 
 
 
-
-</html>

@@ -1,16 +1,9 @@
-<html>
-
-<head>
-   <title>"L.A. Confidential", by Brian Helgeland</title>
-</head>
-
-<body bgcolor="#FFFFFF">
-   
 
 
 
 
-                             <u>L.A. CONFIDENTIAL</u>
+
+                             L.A. CONFIDENTIAL
 
 
 
@@ -46,9 +39,9 @@
 
         OVER the opening strains of "I LOVE YOU, CALIFORNIA," a
         MONTAGE:  a mixture of headlines, newsreel footage and
-        live action.  <u>Economy Booming</u>!  <u>Postwar Optimism</u>!  <u>L.A.:</u>
-        <u>City of the Future</u>!  But most prominent among them:
-        <u>GANGLAND</u>!  Police photographers document crime scenes.
+        live action.  Economy Booming!  Postwar Optimism!  L.A.:
+        City of the Future!  But most prominent among them:
+        GANGLAND!  Police photographers document crime scenes.
         The meat wagon hauls ex-button men to the morgue.  Where
         will it end?
 
@@ -135,17 +128,17 @@
         from his shoulder holster.  As he laughs at himself...
 
 
-        INT. <u>HUSH-HUSH</u> MAGAZINE OFFICE - DAY
+        INT. HUSH-HUSH MAGAZINE OFFICE - DAY
 
         Lurid page one headlines cover the wall where SID
         HUDGEONS types.  The essence of sleaze, Sid is the
-        publisher-photographer-writer of <u>Hush-Hush</u> magazine and
+        publisher-photographer-writer of Hush-Hush magazine and
         keeper of inside dirt supreme.  As he continues...
 
                                 HUDGEONS (V.O.)
                   Remember, dear readers, you heard
                   it here first, off the record, on
-                  the Q.T. and very <u>Hush-Hush</u>.
+                  the Q.T. and very Hush-Hush.
 
 
         INT. HANCOCK PARK MANSION - BALLROOM - NIGHT
@@ -219,7 +212,7 @@
                   Non-payment of federal income tax.
 
                                 COHEN
-                  <u>Bullshit</u>.
+                  Bullshit.
 
 
         EXT. GRAUMAN'S CHINESE - DAY
@@ -287,7 +280,7 @@
                                 BUD
                   And you fuck people up for a
                   living.  That don't make me you.
-                  <u>Capisce</u>, shitbird?
+                  Capisce, shitbird?
 
         Stompanato smiles.  Nervous.  Through the window, Bud
         watches a Salvation Army Santa palm coins from a kettle.
@@ -439,7 +432,7 @@
 
                                 JACK
                   Karen, this is Sid Hudgeons from
-                  <u>Hush-Hush</u> magazine.
+                  Hush-Hush magazine.
 
                                 ACTRESS
                   I know who he is.
@@ -561,7 +554,7 @@
                                 HUDGEONS
                   Remember: you heard it first here,
                   off the record, on the Q.T. and
-                  very <u>Hush-Hush</u>.
+                  very Hush-Hush.
 
 
         INT. HOLLYWOOD STATION - DISPATCH DESK - NIGHT
@@ -637,7 +630,7 @@
                   Merry Christmas.
 
                                 LYNN
-                  Merry Christmas yourself, <u>Officer</u>.
+                  Merry Christmas yourself, Officer.
 
                                 BUD
                   That obvious, huh?
@@ -758,7 +751,7 @@
 
         INT. PRECINCT HOUSE - MUSTER ROOM - NIGHT
 
-        An <u>L.A. Herald Express</u> REPORTER and photographer listen
+        An L.A. Herald Express REPORTER and photographer listen
         along with the gathered patrolmen as Dudley finishes to
         applause.  Dudley joins the press.
 
@@ -1116,7 +1109,7 @@
         up.
 
                                 GARCIA
-                  Fuck you, <u>pendejo</u>.
+                  Fuck you, pendejo.
 
                                 BUD
                   Yeah yeah...
@@ -1162,7 +1155,7 @@
 
         CELL BLOCK
 
-        The <u>Herald</u> Reporter and photographer enter unchaperoned
+        The Herald Reporter and photographer enter unchaperoned
         and unnoticed.  Stensland swings like a madman.  That's
         when a flashbulb goes off.  Freezing everyone in black
         and white.
@@ -1284,7 +1277,7 @@
                   I want to know who we give the
                   public in contrast?  The
                   department needs role models.
-                  Clean-cut, <u>forthright</u> men the
+                  Clean-cut, forthright men the
                   public can admire.
 
                                 EXLEY
@@ -1298,7 +1291,7 @@
         Exley seizes the moment, going over Dudley's head.
 
                                 EXLEY
-                  <u>Detective</u> lieutenant.
+                  Detective lieutenant.
 
         The Chief and Dudley exchange a look.  Neither approves.
 
@@ -1416,7 +1409,7 @@
         through.
 
                                 CHIEF
-                  So be it.  <u>Detective</u> Lieutenant.
+                  So be it.  Detective Lieutenant.
 
 
         OTHER SIDE OF GLASS
@@ -1445,7 +1438,7 @@
                   Chief throwing you?
 
                                 EXLEY
-                  <u>Throwing me</u>?
+                  Throwing me?
 
                                 JACK
                   Yeah, Exley.  What's the payoff?
@@ -1583,8 +1576,8 @@
                                 BUD
                   What's going to happen to
                   Stensland?  He'll give himself
-                  cirrhosis over this.  <u>He's one</u>
-                  <u>year from his pension</u>.
+                  cirrhosis over this.  He's one
+                  year from his pension.
 
                                 DUDLEY
                   It would've happened years ago if
@@ -1601,7 +1594,7 @@
                   he'll be indicted and he'll swing.
 
                                 BUD
-                  Him and me both.  <u>Fucking Exley</u>.
+                  Him and me both.  Fucking Exley.
 
                                 DUDLEY
                   Don't underestimate his skills.
@@ -1611,7 +1604,7 @@
                   men like yourself
 
                                 BUD
-                  <u>What do you want</u>?
+                  What do you want?
 
                                 DUDLEY
                   Wendell, I want you to come to
@@ -1680,14 +1673,14 @@
                                                    DISSOLVE TO:
 
 
-        <u>L.A. MONTAGE</u>
+        L.A. MONTAGE
 
         Over the pop song "STRANGER IN PARADISE."
 
         A)  EXT. GRAUMAN'S CHINESE - NIGHT
 
-            Frank Sinatra at the premiere of <u>From Here to</u>
-            <u>Eternity</u>.
+            Frank Sinatra at the premiere of From Here to
+            Eternity.
 
         B)  INT. KLUB ZAMBOANGA - NIGHT
 
@@ -1708,7 +1701,7 @@
             with a gold shovel.  Pierce Patchett is among the
             distinguished guests.
 
-        <u>END OF MONTAGE</u>
+        END OF MONTAGE
 
 
         EXT. HOLLYWOOD HIGH SCHOOL - DAY
@@ -1761,7 +1754,7 @@
 
         PRINTING PRESS
 
-        The latest issue of <u>Hush-Hush</u> flies through.  On the
+        The latest issue of Hush-Hush flies through.  On the
         cover:  "Gail Russell Caught In Love Nest.  Nymph or
         No?"
 
@@ -1930,12 +1923,12 @@
         card, magazines spread before him, Jack dials the number.
 
 
-        INT. <u>HUSH-HUSH</u> MAGAZINE OFFICE - DAY
+        INT. HUSH-HUSH MAGAZINE OFFICE - DAY
 
         Sid Hudgeons sits behind his desk, answers the phone.
 
                                 HUDGEONS
-                  <u>Hush-Hush</u>.  Off the record and on
+                  Hush-Hush.  Off the record and on
                   the Q.T.
 
                                 JACK (V.O.)
@@ -2069,7 +2062,7 @@
                                 STENSLAND
                   It's confidential, Bud.  Like that
                   magazines Vincennes scams for.
-                  <u>Hush-Hush</u>.
+                  Hush-Hush.
                          (smiles)
                   I'll see you tomorrow.  And hey,
                   if it works out, you'll get a
@@ -2450,7 +2443,7 @@
 
         The room buzzes, jammed to the rafters with every
         detective standing ready.  The Chief waits as Dudley
-        Smith takes the mike, holds up an <u>L.A. Times</u> headline.
+        Smith takes the mike, holds up an L.A. Times headline.
 
                                 DUDLEY
                   'Nite Owl Massacre.'  Hyperbole
@@ -2678,7 +2671,7 @@
                          (a beat)
                   Find Susan's killer, Mr. White.
                   I'll give you a handsome reward.
-                  <u>Whatever you desire</u>.
+                  Whatever you desire.
 
         If only Jack had been around to hear that.
 
@@ -2785,7 +2778,7 @@
 
         INT. 1736 NOTTINGHAM (LYNN BRACKEN'S) - DAY
 
-        The film is <u>This Gun For Hire</u> with Alan Ladd and Veronica
+        The film is This Gun For Hire with Alan Ladd and Veronica
         Lake.  It's projected on a wall in front of which stands
         Lynn Bracken and an OLDER GENTLEMAN, in his underwear.
         Lynn's long, blonde hair hangs down over one eye.  She
@@ -3080,7 +3073,7 @@
 
                                 BUD
                   You look better than Veronica
-                  Lake.  Now, <u>Pierce Patchett</u>.
+                  Lake.  Now, Pierce Patchett.
 
                                 LYNN
                   He takes a cut of our earnings
@@ -3146,7 +3139,7 @@
                   L.A.P.D.
 
                                 JACK
-                  <u>Shit</u>.  Someone beat us here.
+                  Shit.  Someone beat us here.
 
         VOICES from the carport ahead.  We see a chrome bumper,
         the purple fender of a '49 Mercury coupe.  A door slams.
@@ -3428,7 +3421,7 @@
                                 EXLEY
                   You guys were arrested this
                   morning, but none of you have
-                  last night's clothes.  <u>You</u> were
+                  last night's clothes.  You were
                   seen burning them.  Add to that
                   the fact that you hid the car
                   you were cruising around in
@@ -3618,7 +3611,7 @@
 
                                 EXLEY
                          (over speaker)
-                  You <u>think</u>?
+                  You think?
 
         Jack turns to Dudley.
 
@@ -3659,7 +3652,7 @@
         down the wall.  Bud jerks him back up, roars.
 
                                 BUD
-                  <u>WHERE</u>?!
+                  WHERE?!
 
         Two more clicks.  Jones spills.
 
@@ -3768,7 +3761,7 @@
 
                                 BUD
                   It'll look like justice.  That's
-                  what that fat fuck got.  <u>Justice</u>.
+                  what that fat fuck got.  Justice.
 
                                 EXLEY
                   You don't know what the word means,
@@ -3837,7 +3830,7 @@
 
         INT. 4TH FLOOR HALLWAY - VICTORIAN BUILDING - DAY
 
-        Exley squints, reaches to a pocket.  <u>No glasses</u>.  He
+        Exley squints, reaches to a pocket.  No glasses.  He
         passes an elevator, rounds a corner.  There's 408.  Exley
         pumps the shotgun, nods to Carlisle who kicks the door
         in.
@@ -4334,7 +4327,7 @@
         Jack takes the $50 as Reynolds returns, shaking his head.
 
                                 HUDGEONS
-                  <u>What</u>?
+                  What?
 
                                 REYNOLDS
                   I can't do it.
@@ -4781,7 +4774,7 @@
                   inside the meat locker door.
 
                                 BUD
-                  <u>Ear plugs</u>.
+                  Ear plugs.
 
                                 PINKER
                   Exactly.  At least one of those
@@ -5088,7 +5081,7 @@
         Exley clicks off the phone.
 
                                 JACK
-                  Damnit... <u>What</u>?
+                  Damnit... What?
 
                                 EXLEY
                   I want you to follow Bud White.
@@ -5144,7 +5137,7 @@
                                 JACK
                   You should be the last person who
                   wants to dig any deeper into the
-                  Nite Owl, <u>Lieutenant</u>.
+                  Nite Owl, Lieutenant.
 
         Exley watches as Jack continues down a hall.  Then:
 
@@ -5187,7 +5180,7 @@
 
                                 JACK
                   I'm trying to figure what angle
-                  you're playing <u>this</u> time, but I
+                  you're playing this time, but I
                   sure as hell can't see one.
 
                                 EXLEY
@@ -5231,16 +5224,16 @@
 
                                 STOMPANATO
                   Wendell White, how's tricks,
-                  <u>paesano</u>?
+                  paesano?
 
                                 BUD
-                  I ain't your <u>paesano</u>, you wop
+                  I ain't your paesano, you wop
                   cocksucker.
 
         Nervous, Johnny taps his pinkie ring on a bottle of beer.
 
                                 STOMPANATO
-                  What do you want, <u>officer</u>?
+                  What do you want, officer?
 
                                 BUD
                   You remember an ex-cop named Buzz
@@ -5419,7 +5412,7 @@
                   hookers give out autographs?
 
                                 STOMPANATO
-                  <u>What</u>?
+                  What?
 
         As Stompanato stands, Exley flashes his badge.
 
@@ -5435,8 +5428,8 @@
                   your ass downtown.
 
                                 "LANA"
-                  <u>Who in the hell do you think</u>
-                  <u>are</u>?!
+                  Who in the hell do you think
+                  are?!
 
                                 STOMPANATO
                   You are making a large mistake.
@@ -5461,7 +5454,7 @@
                   What?
 
                                 JACK
-                  She <u>is</u> Lana Turner.
+                  She is Lana Turner.
 
 
         INT. EXLEY'S PLYMOUTH - SUNSET
@@ -5588,7 +5581,7 @@
 
                                 HUDGEONS (V.O.)
                          (over phone)
-                  <u>Hush-Hush</u>.  Off the record and on
+                  Hush-Hush.  Off the record and on
                   the Q.T.
 
 
@@ -5691,7 +5684,7 @@
                   used to be a cop.  Turner Meeks.
 
                                 JACK
-                  <u>Buzz</u> Meeks?
+                  Buzz Meeks?
 
                                 PINKER
                   You knew him?
@@ -6435,7 +6428,7 @@
                   Perkins was shot.
 
                                 EXLEY
-                  <u>Stensland and Buzz Meeks</u>.  Two-man
+                  Stensland and Buzz Meeks.  Two-man
                   triggers knocking off Mickey Cohen
                   lieutenants.  When they killed
                   Deuce Perkins, they got heroin as
@@ -6611,7 +6604,7 @@
 
                                 BUD
                          (it hits him)
-                  <u>Lynn</u>.
+                  Lynn.
 
         Bud dashes to the PHONE, dials.  It RINGS.  No one
         answers.
@@ -6693,7 +6686,7 @@
                                 LOEW
                   It's okay.  These are police.
                          (as she leaves)
-                  <u>What</u> do you want?
+                  What do you want?
 
                                 EXLEY
                   I want D.A. bureau men to tail
@@ -6848,7 +6841,7 @@
         neck.
 
                                 EXLEY
-                  <u>Not everybody</u>.  You tip-off Dudley
+                  Not everybody.  You tip-off Dudley
                   and Officer White visits you alone
                   next time.
 
@@ -6951,7 +6944,7 @@
                   Uh -- Sergeant White?
 
                                 BUD
-                  <u>What</u>?
+                  What?
 
                                 ROOKIE-TYPE
                   Dispatch just got a call for you.
@@ -7200,7 +7193,7 @@
         Exley steps ahead to block his way.
 
                                 EXLEY
-                  <u>No</u>.
+                  No.
 
                                 DUDLEY
                   Why not, lad?  Absolute justice?
@@ -7209,7 +7202,7 @@
                   Something like that.
 
                                 DUDLEY
-                  <u>Really</u>?  Would you be willing to
+                  Really?  Would you be willing to
                   rig crime scene evidence to
                   support a prosecuting attorney's
                   working hypothesis?
@@ -7304,7 +7297,7 @@
 
         EXT. NEWSSTAND - DAY
 
-        <u>Hush-Hush</u> is delivered.  The headline:  "Actor Reynolds
+        Hush-Hush is delivered.  The headline:  "Actor Reynolds
         in his Final Role:  Conductor of the Night Train to Slice
         City."
 
@@ -7337,7 +7330,7 @@
                                                    CUT TO:
 
 
-        <u>LOS ANGELES EXAMINER</u> HEADLINE:
+        LOS ANGELES EXAMINER HEADLINE:
 
                            R.I.P. DUDLEY SMITH
                    Fabled L.A. Cop Dies Defending City
@@ -7441,7 +7434,7 @@
 
 
 
-                                 <u>THE END</u>
+                                 THE END
 
 
 
@@ -7449,6 +7442,3 @@
 
 
    
-
-
-</body></html>

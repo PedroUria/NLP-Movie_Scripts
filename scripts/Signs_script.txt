@@ -1,13 +1,3 @@
-<html>
-<head>
-<script>
-<!--
-if (window!= top)
-top.location.href=location.href
-// -->
-</script>
-<title>"SIGNS"</title>
-</head>
 
 
 
@@ -5757,5 +5747,3 @@ Huddled together in the sunlight.
 
 
 
-
-</html>

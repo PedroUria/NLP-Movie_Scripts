@@ -1,13 +1,3 @@
-<html>
-<head>
-<script>
-<!--
-if (window!= top)
-top.location.href=location.href
-// -->
-</script>
-<title>JURASSIC PARK</title>
-</head>
 
 
 
@@ -6783,5 +6773,3 @@ slowly drifting across the moonlit water.
 
 
 
-
-</html>

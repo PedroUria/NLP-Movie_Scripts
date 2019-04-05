@@ -1,18 +1,4 @@
-<html>
 
-<head>
-
-<title>Spider-Man Script</title>
-<script>
-<!--
-if (window!= top)
-top.location.href=location.href
-// -->
-</script>
-</head>
-
-<body>
-</body>
 	8/4/1993
 
 
@@ -6648,6 +6634,3 @@ top.location.href=location.href
 
 
 
-
-
-</html>

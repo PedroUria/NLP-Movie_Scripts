@@ -1,18 +1,11 @@
-<html>
-
-<head>
-   <title>"Batman", early draft, by Sam Hamm</title>
-</head>
-
-<body bgcolor="#FFFFFF">
-   
 
 
 
 
 
 
-                           <u>BATMAN</u>
+
+                           BATMAN
 
 
 
@@ -31,7 +24,7 @@
 
 
 
-                                               <u>FIRST DRAFT</u>
+                                               FIRST DRAFT
 
                                                October 20, 1986
 
@@ -44,7 +37,7 @@
 
      FADE IN:
 
-     <u>EXT. CITYSCAPE - NIGHT</u>
+     EXT. CITYSCAPE - NIGHT
 
      The place is Gotham City. The time, 1987 -- once removed.
 
@@ -55,7 +48,7 @@
      kept on growing. A dangling fat moon shines overhead, ready 
      to burst.
 
-     <u>EXT. CATHEDRAL - NIGHT</u>
+     EXT. CATHEDRAL - NIGHT
 
      Amid the chrome and glass sits a dark and ornate Gothic 
      anomaly: old City Cathedral, once grand, now abandoned -- 
@@ -68,12 +61,12 @@
 
      One of them is moving.
 
-     <u>EXT. GOTHAM SQUARE - NIGHT</u>
+     EXT. GOTHAM SQUARE - NIGHT
 
      The pulsing heart of downtown Gotham, a neon nightmare of 
      big-city corruption, almost surreal in its oppressiveness. 
      Hookers wave to drug dealers. Street hustlers slap high-
-     fives with three-card monte dealers. They all seem to <u>know</u>
+     fives with three-card monte dealers. They all seem to know
      each other... with one conspicuous exception:
 
      A TOURIST FAMILY, Mom, Dad, and little Jimmy, staring 
@@ -85,10 +78,10 @@
 
                               MOM
                For God's sake, Harold, can we
-               please just get a <u>taxi</u>??
+               please just get a taxi??
 
                               DAD
-               I'm <u>trying</u> to get a --
+               I'm trying to get a --
                      (shouting)
                TAXI!!
 
@@ -115,12 +108,12 @@
                cut over to Seventh.
 
                               JIMMY
-               Seventh is <u>that</u> way.
+               Seventh is that way.
 
                               DAD
                I know where we are!
 
-     <u>EXT. SIDE STREET - THAT MOMENT - NIGHT</u>
+     EXT. SIDE STREET - THAT MOMENT - NIGHT
 
      A deserted access street, sidewalks lined with the husks of 
      stripped-down cars. MOM, DAD, and JIMMY take a deep breath 
@@ -139,9 +132,9 @@
                               DERELICT
                Mister. How about it. One dollar?
                      (standing up)
-               One <u>dollar</u>, man. Are you <u>deaf</u>?
-               Are you <u>deaf</u>? -- Do you speak
-               <u>English</u>??
+               One dollar, man. Are you deaf?
+               Are you deaf? -- Do you speak
+               English??
 
      By now the TOURISTS are halfway across the street. 
      Mercifully, the DERELICT doesn't seem to be following.
@@ -170,7 +163,7 @@
      The two PUNKS watch them break into a run -- then chuckle, 
      slap hands, race off in the opposite direction.
 
-     <u>EXT. ROOFTOP - NIGHT</u>
+     EXT. ROOFTOP - NIGHT
 
      Six stories up. The PUNKS -- NICK and EDDIE -- hunker down 
      on the tar-and-gravel roof, sizing up their take.
@@ -213,7 +206,7 @@
 
                               EDDIE
                Five stories, straight down. There
-               was <u>no blood</u> in the body.
+               was no blood in the body.
 
                               NICK
                No shit. It was all over the
@@ -228,18 +221,18 @@
                      (beat)
                My brother says... all the bad things
                you done... they come back and
-               <u>haunt</u> you... 
+               haunt you... 
 
                               NICK
                Listen to this. How old are you?
-               There <u>ain't no bat</u>.
+               There ain't no bat.
 
                               EDDIE
                My brother's a priest, man.
 
                               NICK
                No wonder you're such a chickenshit.
-               Now <u>shut up</u>.
+               Now shut up.
                      (conclusively)
                There ain't no bat.
 
@@ -253,8 +246,8 @@
                that kid, man. You shouldn'ta --
 
                               NICK
-               Do you want this money or <u>don't</u>
-               you? Now shut up! Shut <u>up</u> --
+               Do you want this money or don't
+               you? Now shut up! Shut up --
 
      BOTH PUNKS FREEZE at the sudden, inexplicable sound of 
      BOOTS CRUNCHING ON GRAVEL. They turn slowly. Their JAWS 
@@ -360,11 +353,11 @@
      NICK is still screaming as we PAN UP to the bilious yellow 
      globe of Gotham's moon. MAIN CREDITS ROLL:
 
-                              <u>BATMAN</u>
+                              BATMAN
 
                                                  CUT TO:
 
-     <u>INT. GOTHAM CITY DEMOCRATS' CLUB - NIGHT</u>
+     INT. GOTHAM CITY DEMOCRATS' CLUB - NIGHT
 
      An oversized CAMPAIGN POSTER fills one wall: "A NEW GOTHAM. 
      HARVEY DENT FOR DISTRICT ATTORNEY". We TILT DOWN to find 
@@ -378,12 +371,12 @@
                Gotham City. Crime and corruption
                must be attacked at the root!
 
-     <u>ANOTHER ANGLE - THE AUDIENCE</u>
+     ANOTHER ANGLE - THE AUDIENCE
 
      Civic-minded politicos decked out in fund-raiser finery. 
      They applaud DENT's tough talk wildly. They've just shelled 
      out $500 a plate for a chicken dinner, and by God they're 
-     going to <u>enjoy</u> this.
+     going to enjoy this.
 
      Tuxedoed WAITERS move among the tables, deftly refilling 
      water glasses. As they do, we SEE an EMPTY PLACE SETTING -- 
@@ -392,17 +385,17 @@
 
      The engraved placecard reads: BRUCE WAYNE.
 
-     <u>ANGLE ON DENT</u>
+     ANGLE ON DENT
 
                               DENT
                If elected, my first act as district
                attorney will be to return an
-               indictment against <u>Boss Carl</u>
-               <u>Grissom</u>!
+               indictment against Boss Carl
+               Grissom!
 
                                                  CUT TO:
 
-     <u>INT. APARTMENT - NIGHT</u>
+     INT. APARTMENT - NIGHT
 
      A woman's apartment, decorated in pastel pinks and mauves. 
      Original paintings and sculptures everywhere. The place 
@@ -452,8 +445,8 @@
      begins knotting it playfully about his neck.
 
                               ALICIA
-               If Grissom knew about <u>us</u>... he
-               might kill <u>you</u>.
+               If Grissom knew about us... he
+               might kill you.
 
      JACK seems uninterested in her affections. His eye darts 
      back and forth between the TV and his own reflection in a 
@@ -480,7 +473,7 @@
 
                                                  CUT TO:
 
-     <u>EXT. ALLEYWAY - NIGHT</u>
+     EXT. ALLEYWAY - NIGHT
 
      The scene of the earlier mugging, a half-block off Gotham 
      Square. Only now, the deserted alleyway is a beehive of 
@@ -499,7 +492,7 @@
 
      At the mouth of the alley, we find ALEXANDER KNOX --
      thirty, hyperactive, a crime reporter for the Gotham
-     <u>Gazette</u>. At the moment, he's chatting with a uniformed
+     Gazette. At the moment, he's chatting with a uniformed
      PATROLMAN.
 
                               PATROLMAN
@@ -536,15 +529,15 @@
      fried NICK past the mouth of the alley.
 
                               NICK
-               A <u>bat</u>, I tell you, a giant <u>bat</u>!
-               He wanted me to do him a <u>favor</u>...!
+               A bat, I tell you, a giant bat!
+               He wanted me to do him a favor...!
 
      KNOX tilts one eyebrow. ECKHARDT and the MEDIC trade 
      disgusted looks.
 
                               KNOX
                No offense, boys, but these guys are
-               seeing <u>something</u> up there.
+               seeing something up there.
 
                               ECKHARDT
                No comment. Print what you like.
@@ -561,7 +554,7 @@
                If so, what's he pulling down after
                taxes?
 
-     <u>EXT. STREET - THAT MOMENT - NIGHT</u>
+     EXT. STREET - THAT MOMENT - NIGHT
 
      We pick up LT. ECKHARDT as he emerges onto the side street. 
      He's headed for his car when he spies a STRETCH LIMO idling 
@@ -664,7 +657,7 @@
 
                                                  DISSOLVE TO:
 
-     <u>INT. GOTHAM GLOBE - CITY ROOM - DAY</u>
+     INT. GOTHAM GLOBE - CITY ROOM - DAY
 
      Gotham city's leading tabloid daily. COPY BOYS rush to and 
      fro; REPORTERS pound out articles on computer terminals. 
@@ -715,7 +708,7 @@
 
                               KNOX
                Honey -- I would know any randomly
-               selected <u>square inch</u> of Vicki
+               selected square inch of Vicki
                Vale.
                      (grinning)
                If I had a good enough hint.
@@ -812,7 +805,7 @@
 
                                                  CUT TO:
 
-     <u>INT. PENTHOUSE - DAY</u>
+     INT. PENTHOUSE - DAY
 
      A HUGE PLATE GLASS WINDOW opens on the best view in Gotham. 
      This spectacular penthouse suite is just one of the power 
@@ -823,7 +816,7 @@
      -- a fearsome assemblage of bloodless white-collar types 
      and few outright goons, sprawled in chairs throughout this 
      makeshift 'boardroom.'  The big boss waves a copy of the 
-     Gotham <u>Globe</u> -- with HARVEY DENT's face on the cover.
+     Gotham Globe -- with HARVEY DENT's face on the cover.
 
                               GRISSOM
                Nine points ahead in the new poll. I
@@ -874,7 +867,7 @@
      deck. His hand freezes in midair.
 
                               JACK
-               ... <u>Me</u>?
+               ... Me?
 
      At this exact moment, METAL DOORS slide back -- and ALICIA 
      HUNT steps out of GRISSOM's private penthouse elevator. 
@@ -888,13 +881,13 @@
      door. The eye contact is not lost on GRISSOM.
 
                               JACK
-               Why do you need <u>me</u> to handle a
+               Why do you need me to handle a
                simple break-in?
 
                               GRISSOM
                      (emphatically)
                Because I want someone I can
-               <u>trust</u>.
+               trust.
 
      JACK bridles, but doesn't protest. Nervously, he turns the 
      fourth card off the top of the deck. It's not an ace.
@@ -938,13 +931,13 @@
 
                                                  CUT TO:
 
-     <u>EXT. WAYNE MANOR - ESTABLISHING - NIGHT</u>
+     EXT. WAYNE MANOR - ESTABLISHING - NIGHT
 
      A vast, rambling mansion on sixty wooded acres a half-
      hour's drive from Gotham: old money, and how. Out front, a 
      team of red-jacketed VALETS are parking expensive cars.
 
-     <u>INT. BALLROOM - NIGHT</u>
+     INT. BALLROOM - NIGHT
 
      A DEALER'S HAND pushes cards out of a shoe (the card kind, 
      not the Florsheim kind). It's casino night at Wayne Manor; 
@@ -985,10 +978,10 @@
 
                               KNOX (cont.)
                Man, I feel like Robin Leach. You
-               actually <u>know</u> all these people?
+               actually know all these people?
 
                               VICKI
-               Some. I <u>am</u> a rich bitch, remember.
+               Some. I am a rich bitch, remember.
                      (pause)
                I'm quoting.
 
@@ -996,10 +989,10 @@
 
                               KNOX
                Yeah, I guess we move in different
-               circles. -- Though I <u>did</u> meet a
+               circles. -- Though I did meet a
                one-eyed pimp last week.
 
-     <u>ANGLE ON JAMES W. GORDON</u>
+     ANGLE ON JAMES W. GORDON
 
      Gotham's Police Commissioner, a distinguished-looking gent 
      in his late fifties. He's at a craps table, blowing into 
@@ -1017,11 +1010,11 @@
 
                               GORDON
                Knox, for the ninth time, and you
-               can quote me -- <u>there is no bat</u>.
+               can quote me -- there is no bat.
 
                               KNOX
                Aww, Commissioner. There's gotta be
-               <u>one</u> honest cop in Gotham city.
+               one honest cop in Gotham city.
 
      HARVEY DENT is working the room. He ambles up, claps a 
      friendly hand on GORDON's shoulder.
@@ -1030,7 +1023,7 @@
                How's your luck, Jim?
 
                               KNOX
-               Mr. Dent. What's <u>your</u> stand on
+               Mr. Dent. What's your stand on
                winged vigilantes?
 
      DENT exchanges a meaningful look with GORDON.
@@ -1043,13 +1036,13 @@
 
                                                  CUT TO:
 
-     <u>EXT. ACE CHEMICAL CO. ESTABLISHING - NIGHT</u>
+     EXT. ACE CHEMICAL CO. ESTABLISHING - NIGHT
 
      A NEON SIGN reads: "ACE CHEMICAL. FOR A MODERN TOMORROW."  
      From the SIGN we pan over to a METAL SLUICE GATE -- dumping 
      TONS of CHURNING TOXIC SLUDGE into Gotham's East River.
 
-     <u>INT. VAN - THAT MOMENT - NIGHT</u>
+     INT. VAN - THAT MOMENT - NIGHT
 
      TIGHT ON the rear-view mirror. JACK NAPIER is meticulously 
      applying BLACK CAMOUFLAGE PAINT to his face. He could be 
@@ -1058,19 +1051,19 @@
      The van is parked outside a chain-link fence which 
      surrounds the Ace Chemical complex.
 
-     <u>JACK'S POV - THROUGH WINDSHIELD</u>
+     JACK'S POV - THROUGH WINDSHIELD
 
      The SECURITY GUARD in a glass booth at the entrance to the 
      parking lot. ONE OF JACK'S BOYS creeps up behind the booth 
      and takes the GUARD out.
 
-     <u>INT. VAN - ON JACK</u>
+     INT. VAN - ON JACK
 
      He turns the key in the ignition, shifts into first.
 
                                                  CUT TO:
 
-     <u>INT. WAYNE MANOR - NIGHT</u>
+     INT. WAYNE MANOR - NIGHT
 
      KNOX and VICKI are taking an unauthorized tour of BRUCE's 
      house, wandering through rooms decorated in wildly 
@@ -1079,7 +1072,7 @@
 
                               KNOX
                My question is, where does one man
-               get all this <u>junk</u>.
+               get all this junk.
 
                               VICKI
                All over the world. They say he
@@ -1091,7 +1084,7 @@
 
      KNOX goes goggle-eyed as they enter the LIBRARY.
 
-     <u>INT. BRUCE WAYNE'S LIBRARY - NIGHT</u>
+     INT. BRUCE WAYNE'S LIBRARY - NIGHT
 
                               KNOX (cont.)
                ... We found the arsenal.
@@ -1140,7 +1133,7 @@
 
      KNOX turns. We get our first good look at the smiling face 
      of BRUCE WAYNE: 32, tall, athletic, impeccably mannered... 
-     and <u>intensely</u> handsome.
+     and intensely handsome.
 
                               KNOX
                I assume in my usual charming manner
@@ -1163,7 +1156,7 @@
      is. KNOX shrugs and forges bravely ahead:
 
                               KNOX
-               "This is Miss Vale." -- <u>That</u> felt
+               "This is Miss Vale." -- That felt
                redundant.
 
                               BRUCE
@@ -1174,7 +1167,7 @@
 
                               VICKI
                That's intriguing. They haven't been
-               <u>published</u> yet.
+               published yet.
 
      BRUCE smiles and ignores the implied question.
 
@@ -1185,7 +1178,7 @@
      instincts aroused, pipes up:
 
                               KNOX
-               Some people think she has <u>two</u>.
+               Some people think she has two.
 
      VICKI shoots KNOX a sidelong glance:
 
@@ -1195,12 +1188,12 @@
 
      KNOX, chastened, calls off the dogs and sizes up his 
      competition. BRUCE is charming, all right, but there's 
-     something formal, maybe even <u>calculating</u> about it -- he
+     something formal, maybe even calculating about it -- he
      could be reading his clever remarks off cue cards. It's 
      almost as though he's an actor doing a brilliant imitation 
      of charm.
 
-     <u>This is a man who thinks three moves ahead</u>. KNOX doesn't
+     This is a man who thinks three moves ahead. KNOX doesn't
      like him. But VICKI -- who's used to seeing male charm 
      turned on and off, at will -- doesn't seem to mind at all:
 
@@ -1225,7 +1218,7 @@
 
                               ALFRED
                Excuse me, sir. Commissioner Gordon
-               was compelled to leave -- <u>very</u>
+               was compelled to leave -- very
                unexpectedly. He asked me to convey
                his regrets.
 
@@ -1242,7 +1235,7 @@
 
                               KNOX
                I know the rich are different, but
-               that guy is <u>real</u> different.
+               that guy is real different.
 
      VICKI, staring off after BRUCE, doesn't seem to hear him.
 
@@ -1259,7 +1252,7 @@
                Yum, yum.
 
                               KNOX
-               Well, <u>he</u> must like the way he
+               Well, he must like the way he
                looks. He's got a mirror in every
                room.
 
@@ -1274,18 +1267,18 @@
 
                                                  CUT TO:
 
-     <u>REVERSE ANGLE - THROUGH THE MIRROR</u>
+     REVERSE ANGLE - THROUGH THE MIRROR
 
      looking DOWN ON KNOX and VICKI -- THROUGH ONE-WAY GLASS -- 
      as they continue to chat. Behind the mirror... recording 
      everything that happens in the room... is a small, silent, 
      state-of-the-art SURVEILLANCE CAMERA.
 
-     <u>CLOSEUP - VIDEO MONITOR</u>
+     CLOSEUP - VIDEO MONITOR
 
      showing KNOX and VICKI in the library. CAMERA PULLS BACK to 
      reveal that the screen we're watching is only one in a 
-     whole vast <u>bank</u> of video monitors. From this control 
+     whole vast bank of video monitors. From this control 
      center, we can see everything that's happening in the 
      house.
 
@@ -1310,14 +1303,14 @@
                Lt. Eckhardt, sir.
 
                               GORDON
-               <u>Eckhardt</u>. Oh my God... 
+               Eckhardt. Oh my God... 
 
      And suddenly COMMISSIONER GORDON is grabbing for his coat. 
      The monitor goes black. BRUCE reaches up, loosens his tie.
 
                                                  CUT TO:
 
-     <u>EXT. ACE CHEMICAL CO. - PARKING LOT - NIGHT</u>
+     EXT. ACE CHEMICAL CO. - PARKING LOT - NIGHT
 
      UNMARKED POLICE CARS are pulling into the lot, headlights 
      off. ECKHARDT circulates among his ARMED SWAT TEAM, handing 
@@ -1328,7 +1321,7 @@
                               ECKHARDT
                Shoot to kill.
 
-     <u>INT. ACE CHEMICAL - FILE ROOM - NIGHT</u>
+     INT. ACE CHEMICAL - FILE ROOM - NIGHT
 
      SPARKS FLY. A SAFECRACKER, in welder's mask, trains a 
      blowtorch on the office safe. Behind him, JACK'S HOODS are 
@@ -1354,7 +1347,7 @@
      Then, as if they needed any proof -- a SIREN blares 
      outside.
 
-     <u>EXT. ACE CHEMICAL - NIGHT</u>
+     EXT. ACE CHEMICAL - NIGHT
 
      ECKHARDT'S SWAT TEAM goes wide-eyed as a CONVOY OF POLICE 
      BLACK-AND-WHITES roars into the Ace parking lot. UNIFORMED 
@@ -1378,7 +1371,7 @@
                               GORDON (cont.)
                You. Stick around.
 
-     <u>INT. ACE CHEMICAL - THAT MOMENT</u>
+     INT. ACE CHEMICAL - THAT MOMENT
 
      JACK and his HOODS ducking out of the office. It's two 
      stories above the refinery floor, accessible by a network 
@@ -1393,7 +1386,7 @@
      colleagues dive back into the office, looking for a rear 
      exit. The others take off across the CATWALKS.
 
-     <u>ANGLE ON GORDON</u>
+     ANGLE ON GORDON
 
      standing in the doorway as his MEN rush into the building 
      and take their places behind heavy machinery. SHOTS RING 
@@ -1407,7 +1400,7 @@
                I'm in charge here. Not Carl
                Grissom.
 
-     <u>INT. HALLWAY - THAT MOMENT</u>
+     INT. HALLWAY - THAT MOMENT
 
      TWO HOODS run down a tiled corridor in the office section 
      of the complex. They're almost at the end of the hall when 
@@ -1438,7 +1431,7 @@
 
      HOOD II slumps against the wall, unconscious.
 
-     <u>ANGLE ON JACK</u>
+     ANGLE ON JACK
 
      down on the floor, racing along a wall, THROWING SWITCHES 
      -- anything to create a diversion. With every switch he 
@@ -1450,7 +1443,7 @@
      JACK SEES a squad of COPS on his tail, moving from machine 
      to machine, keeping covered. He SHOOTS AND RUNS.
 
-     <u>ANGLE ON CATWALKS</u>
+     ANGLE ON CATWALKS
 
      BLASTING AWAY, HOODS III and IV scuttle across the elevated 
      walkways, keeping down, avoiding police fire. One of them 
@@ -1462,13 +1455,13 @@
 
      HOOD IV gapes. He LEVELS HIS GUN at BATMAN, who stands his 
      ground, holding onto the rails of the catwalk for support. 
-     A bullet hits him squarely in the chest. He <u>does not fall</u>.
+     A bullet hits him squarely in the chest. He does not fall.
 
      HOOD IV turns and scrambles. BATMAN goes to his belt for a 
      miniature SPEAR GUN. He points it at HOOD IV and FIRES... 
      planting a BARBED HOOK in the HOOD'S LEG.
 
-     <u>ANGLE ON COPS</u>
+     ANGLE ON COPS
 
      staring up in utter disbelief at the action on the catwalk.
 
@@ -1476,9 +1469,9 @@
                LOOK!
 
                               GORDON
-               My God... it's <u>him</u>.
+               My God... it's him.
 
-     <u>ANGLE ON CATWALK</u>
+     ANGLE ON CATWALK
 
      HOOD III, on his feet now, charges BATMAN from behind. 
      BATMAN -- not even turning to face him -- DROPS HOOD III 
@@ -1493,7 +1486,7 @@
      STAFF into HOOD IV's BACK -- knocking him OFF THE CATWALK 
      to the factory floor forty feet below!
 
-     <u>INT. ACE LOADING BAY - THAT MOMENT</u>
+     INT. ACE LOADING BAY - THAT MOMENT
 
      JACK spots a possible out. He hits a button on the wall; 
      STEEL DOORS RISE to reveal ACE CARGO TRUCKS in the parking 
@@ -1504,7 +1497,7 @@
      -- are rushing at him in full riot gear. JACK ducks behind 
      a forklift and darts into the adjacent room.
 
-     <u>INT. CHEMICAL SUPPLY ROOM - A MOMENT LATER</u>
+     INT. CHEMICAL SUPPLY ROOM - A MOMENT LATER
 
      JACK sprints through the room, firing FOUR SHOTS at the 
      metal CHEMICAL TANKS on the wall. TOXIC CHEMICALS gush out 
@@ -1516,7 +1509,7 @@
 
      AN EXPLOSION knocks him off his feet.
 
-     <u>INT. FACTORY FLOOR - A MOMENT LATER</u>
+     INT. FACTORY FLOOR - A MOMENT LATER
 
      COPS LOOK ON IN PUZZLEMENT as a RIVER OF CHEMICALS courses 
      out into the main refinery. A second later, they go UP IN 
@@ -1566,9 +1559,9 @@
 
      ECKHARDT's pig-like eyes glisten. His hand drops to his 
      side. He's half-tempted to pull a gun and get the 
-     Commissioner <u>plugged</u>.
+     Commissioner plugged.
 
-     <u>ANGLE ON JACK</u>
+     ANGLE ON JACK
 
      at a crouch, groping his way along the rail of the catwalk. 
      He reaches a paneled glass window propped open by a 
@@ -1579,7 +1572,7 @@
      AUTOMATIC -- which lies, abandoned, on the gridwork floor 
      of the catwalk mere yards away.
 
-     <u>ANGLE ON FACTORY FLOOR</u>
+     ANGLE ON FACTORY FLOOR
 
      The HOOD, one arm around GORDON. With his gun at the 
      Commissioner's temple, he backs slowly toward the door.
@@ -1607,7 +1600,7 @@
      JACK REELS and STAGGERS, his hands CLUTCHING AT HIS CHEEKS. 
      BLOOD GUSHES from between his fingers.
 
-     <u>JACK NAPIER HAS BEEN SHOT THROUGH THE FACE</u>.
+     JACK NAPIER HAS BEEN SHOT THROUGH THE FACE.
 
      A YOUNG COP, unnerved by the sight of JACK's agonized 
      pirouette, draws his gun and OPENS FIRE.
@@ -1622,7 +1615,7 @@
      ALL THE WAY.
 
                               GORDON (cont.)
-               Goddammit, we <u>had</u> him. We --
+               Goddammit, we had him. We --
 
      And suddenly, with JACK out of the picture, all attention 
      focusses on THE BATMAN. COPS reach for their guns, circle 
@@ -1657,7 +1650,7 @@
                HOLD YOUR FIRE!
 
                               COP
-               ... Who <u>is</u> this guy?
+               ... Who is this guy?
 
                               GORDON
                I don't know, but he's one hell of a
@@ -1665,7 +1658,7 @@
 
                                                  CUT TO:
 
-     <u>EXT. ACE CHEMICAL CO. - THAT MOMENT - NIGHT</u>
+     EXT. ACE CHEMICAL CO. - THAT MOMENT - NIGHT
 
      A BLACK SHADOW scurries across the roof. From the 
      illuminated sign with its neon ace, WE PAN DOWN past the 
@@ -1681,9 +1674,9 @@
 
                                                  SHOCK CUT TO:
 
-     <u>INT. GOTHAM GLOBE - CITY ROOM - DAY</u>
+     INT. GOTHAM GLOBE - CITY ROOM - DAY
 
-     A BANNER HEADLINE on the late edition of the <u>Globe</u>: "BAT 
+     A BANNER HEADLINE on the late edition of the Globe: "BAT 
      MAN FOILS ROBBERY. WHO IS MASKED VIGILANTE?"
 
      Behind the newspaper, feet propped up on his desk, is a 
@@ -1691,7 +1684,7 @@
 
                               KNOX
                Commissioner. Do us both a favor.
-               Don't tell me some <u>lie</u> you'll have
+               Don't tell me some lie you'll have
                to retract later.
 
      CLICK. KNOX grins, lowers the paper, finds himself looking 
@@ -1708,7 +1701,7 @@
 
                               KNOX
                Bruce Wayne? Date? He called you up
-               and asked you for a date?... <u>Shit</u>.
+               and asked you for a date?... Shit.
                      (shouting)
                HEY MIRANDA! C'MERE!
                      (to VICKI)
@@ -1717,7 +1710,7 @@
                what you told me about Bruce Wayne.
 
      A SUPERANNUATED SOUTHERN BELLE toddles over. MIRANDA REITZ, 
-     60, is the society editor of the <u>Globe</u>.
+     60, is the society editor of the Globe.
 
                               MIRANDA
                You mean Mister One-Nighter?
@@ -1741,7 +1734,7 @@
 
                               KNOX
                Yeah. Peanuts. Which is how he goes
-               through <u>women</u>.
+               through women.
 
                               MIRANDA
                Like Planter's Peanuts.
@@ -1769,13 +1762,13 @@
 
                               VICKI (cont.)
                You're awfully sweet to be
-               concerned, but it's <u>really</u> not
+               concerned, but it's really not
                necessary. I'll call you, okay?
 
      She exits. KNOX stands there looking poleaxed.
 
                               KNOX
-               ... What was <u>that</u>?
+               ... What was that?
 
                               MIRANDA
                That was one of the most gracious
@@ -1789,12 +1782,12 @@
 
                                                  CUT TO:
 
-     <u>EXT. COASTLINE - DAY</u>
+     EXT. COASTLINE - DAY
 
      A CABIN CRUISER slices through the waves. In the distance, 
      closer to the shore, we see a throng of SAILBOATS.
 
-     <u>EXT. DECK - YACHT - DAY</u>
+     EXT. DECK - YACHT - DAY
 
      BRUCE's forty-foot cabin cruiser, aptly christened "DIE 
      FLEIDERMAUS." BRUCE and VICKI are on the deck, in chairs, 
@@ -1868,7 +1861,7 @@
 
                               BRUCE
                There's terror everywhere. Some
-               types are just more -- <u>familiar</u>
+               types are just more -- familiar
                than others.
 
      For a moment BRUCE seems to be drifting back into his 
@@ -1889,7 +1882,7 @@
                               VICKI
                Bruce, really, when I say these
                things I don't mean to criticize
-               <u>you</u>.
+               you.
 
                               BRUCE
                I think you see things very clearly.
@@ -1923,14 +1916,14 @@
                that's how I'll mean it.
 
      Bingo. The guy's a chessplayer, but on the other hand he's 
-     also rather touchingly, almost childishly, <u>sincere</u>. Before 
+     also rather touchingly, almost childishly, sincere. Before 
      she knows it, VICKI finds herself melting.
 
                                                  CUT TO:
 
-     <u>INT. GOTHAM CITY OPERA HOUSE - NIGHT</u>
+     INT. GOTHAM CITY OPERA HOUSE - NIGHT
 
-     <u>Rigoletto</u>. THE DUKE onstage, launching into his big 
+     Rigoletto. THE DUKE onstage, launching into his big 
      crowd-pleaser, "La Donna e Mobile."
 
      WE PAN THE AUDIENCE, finding several mobile young DONNAS in 
@@ -1941,12 +1934,12 @@
 
      She scans the crowd, finds her counterpart (DONNA #2) some 
      rows back, on the arm of a bald bigwig. DONNA #2 is wearing 
-     a similar sour expression, staring up at the <u>same box</u>.
+     a similar sour expression, staring up at the same box.
 
      DONNA #3 is even less discreet than her comrades. She has 
-     her <u>opera glasses</u> trained on the couple in the box.
+     her opera glasses trained on the couple in the box.
 
-     <u>HER POV - THROUGH OPERA GLASSES - THE BOX</u>
+     HER POV - THROUGH OPERA GLASSES - THE BOX
 
      BRUCE and VICKI. He whispers in her ear. She smiles and 
      whispers back.
@@ -1955,31 +1948,31 @@
      her lips part slightly. SCREEN GOES BLACK as the opera 
      glasses SNAP SHUT.
 
-     <u>ANGLE ON CROWD - DONNA #3</u>
+     ANGLE ON CROWD - DONNA #3
 
      staring icily at the DUKE as he finishes up to a round of 
      TUMULTUOUS APPLAUSE.
 
                                                  CUT TO:
 
-     <u>INT. WAYNE MANOR - NIGHT</u>
+     INT. WAYNE MANOR - NIGHT
 
      BRUCE and VICKI enter. He takes her coat, drops it on a 
      chair by the door. VICKI is giddy, all champagned up.
 
                               VICKI
-               -- but it's not <u>fair</u>. I'm half
+               -- but it's not fair. I'm half
                drunk and you're not even --
 
                               BRUCE
                Would you like me to take you home?
 
                               VICKI
-               God. You <u>would</u>.
+               God. You would.
                      (sidling up to him)
                Come on, Bruce. I just want to get
-               <u>two drinks</u> in you. As an
-               <u>experiment</u>.
+               two drinks in you. As an
+               experiment.
 
                               BRUCE
                Maybe we should just kiss.
@@ -1987,18 +1980,18 @@
                               VICKI
                ... We could try that.
 
-     <u>WIDER ANGLE</u>
+     WIDER ANGLE
 
      BRUCE embracing VICKI in the vastness of the darkened entry 
      hall, framed by long semicircular STAIRWAYS on opposite 
      walls. A SUDDEN FLASH OF LIGHTNING transports us to:
 
-     <u>EXT. OFFICE BUILDING - ESTABLISHING - NIGHT</u>
+     EXT. OFFICE BUILDING - ESTABLISHING - NIGHT
 
      Broken windows, graffiti on the walls: a decrepit rathole 
      near the Gotham docks.
 
-     <u>INT. DOCTOR'S OFFICE - NIGHT</u>
+     INT. DOCTOR'S OFFICE - NIGHT
 
      TIGHT ON a face swathed in bandages. The patient sits erect 
      in a wooden chair, surrounded by the grimy paraphernalia of 
@@ -2013,7 +2006,7 @@
 
      He begins to snip away. As the bandages come off, we get:
 
-     <u>JACK NAPIER'S POV</u>
+     JACK NAPIER'S POV
 
      The last strands of gauze peel away. The DOCTOR stands 
      there, looking at his handiwork. His mouth falls open. His 
@@ -2026,9 +2019,9 @@
      still, apparently transfixed by the sight of JACK's face.
 
                               JACK (V.O.)
-               <u>Mirror</u>.
+               Mirror.
 
-     <u>ANGLE ON DOCTOR</u>
+     ANGLE ON DOCTOR
 
      He clears his throat, reaches apprehensively for a hand 
      mirror, and passes it out of frame to JACK. Two beats. 
@@ -2060,7 +2053,7 @@
      A DOOR SLAMS. JACK is gone. The grateful DOCTOR breathes a 
      sigh of relief and steadies himself on an operating table.
 
-     <u>EXT. OFFICE BUILDING - OVERHEAD ANGLE - NIGHT</u>
+     EXT. OFFICE BUILDING - OVERHEAD ANGLE - NIGHT
 
      From a point high above we see JACK emerging into the 
      alley, pulling on a hat, wrapping a muffler about his head. 
@@ -2068,12 +2061,12 @@
 
                                                  CUT TO:
 
-     <u>INT. BRUCE WAYNE'S BEDROOM - NIGHT</u>
+     INT. BRUCE WAYNE'S BEDROOM - NIGHT
 
      VICKI nestled peacefully under the covers. Beside her is 
      BRUCE: hands behind his head, staring up at the ceiling.
 
-     It's almost as though BRUCE is not used to <u>sleeping</u> at 
+     It's almost as though BRUCE is not used to sleeping at 
      night. He doesn't know what to do with himself.
 
      He looks at VICKI. She's terribly lovely. But despite all 
@@ -2082,7 +2075,7 @@
 
                                                  CUT TO:
 
-     <u>EXT. STREET - NIGHT</u>
+     EXT. STREET - NIGHT
 
      LOUD MUSIC. KIDS in punk regalia stand outside a rock club 
      as JACK stalks past. The wind knocks his hat off.
@@ -2094,7 +2087,7 @@
      gazes up at the steel-and-glass facade of a SKYSCRAPER -- 
      and strides deliberately across the street.
 
-     <u>INT. GRISSOM'S PENTHOUSE - NIGHT</u>
+     INT. GRISSOM'S PENTHOUSE - NIGHT
 
      The spectacular Gotham skyline, seen through the plate-
      glass window of GRISSOM's conference room. The doors to the 
@@ -2133,7 +2126,7 @@
                               JACK (cont.)
                YOU SET ME UP!
                      (beat)
-               Over a <u>girl</u>. You must be insane!
+               Over a girl. You must be insane!
 
      GRISSOM surreptitiously reaches for a desk drawer.
 
@@ -2148,7 +2141,7 @@
 
                               JACK
                I've died once already. It wasn't so
-               bad. -- In fact I <u>recommend</u> it.
+               bad. -- In fact I recommend it.
 
      GRISSOM is beginning to panic now. It's obvious that JACK 
      is utterly, hopelessly deranged.
@@ -2187,13 +2180,13 @@
      And with that JACK pulls the trigger. And fires. And fires 
      again until the CLIP IS EMPTY.
 
-     <u>EXT. GRISSOM'S BUILDING - NIGHT</u>
+     EXT. GRISSOM'S BUILDING - NIGHT
 
      We TILT UP the chrome-and-glass facade of the skyscraper, 
      arriving finally at the TOP FLOOR: a PLATE GLASS WINDOW 
      spiderwebbed with cracks where Jack's bullets hit.
 
-     <u>INT. GRISSOM'S PENTHOUSE - THAT MOMENT - NIGHT</u>
+     INT. GRISSOM'S PENTHOUSE - THAT MOMENT - NIGHT
 
      The room is still dark. JACK -- or, as we'll know him from 
      this moment on, THE JOKER -- sits in GRISSOM's swivel 
@@ -2208,16 +2201,16 @@
      wrapped around him. THE JOKER laughs softly to himself.
 
                               JOKER (cont.)
-               Guess it's <u>my</u> little city now.
+               Guess it's my little city now.
                Wonder what it'll look like when I
                get done with it.
                      (pause)
                I bet it'll be something real fine.
-               <u>Real fine and pretty</u>.
+               Real fine and pretty.
 
                                                  DISSOLVE T0:
 
-     <u>INT. BRUCE WAYNE'S BEDROOM - MORNING</u>
+     INT. BRUCE WAYNE'S BEDROOM - MORNING
 
      The sun is just up, and VICKI finds herself alone in bed. A 
      SOFT, OFF-KEY BARITONE VOICE drifts out of the adjacent 
@@ -2226,7 +2219,7 @@
      She breaks into a huge smile and climbs out of bed. Somehow 
      she's wound up wearing BRUCE's ribbed formal shirt.
 
-     <u>INT. BATHROOM - A MOMENT LATER - MORNING</u>
+     INT. BATHROOM - A MOMENT LATER - MORNING
 
      BRUCE in his opulent deco shower stall, still SINGING to 
      himself. VICKI sneaks up behind him, opens the door. He 
@@ -2235,10 +2228,10 @@
                               VICKI
                I didn't mean to scare you. I just
                had to come in here and see it that
-               was really you <u>singing</u>.
+               was really you singing.
 
      She smiles, teasing him. He doesn't respond. He acts as if 
-     she's caught him doing something shameful -- <u>exposed</u> him.
+     she's caught him doing something shameful -- exposed him.
 
                               VICKI (cont.)
                      (singing)
@@ -2270,10 +2263,10 @@
 
                                                    CUT TO:
 
-     <u>INT. GLOBE - CITY ROOM - DAY</u>
+     INT. GLOBE - CITY ROOM - DAY
 
      KNOX, in a surly mood, examines the morning edition of the 
-     <u>Globe</u>. He's turned to page six -- the gossip page -- and 
+     Globe. He's turned to page six -- the gossip page -- and 
      there, under Miranda Reitz's byline, is a picture of VICKI. 
      It seems she and BRUCE are the talk of the town.
 
@@ -2288,7 +2281,7 @@
 
      KNOX leans back in his chair. The file is labelled "BRUCE 
      WAYNE: 1982-1987."  KNOX opens it and begins to leaf 
-     through old clippings from back issues of the <u>Globe</u>.
+     through old clippings from back issues of the Globe.
 
      WAYNE FOUNDATION TO FUND LOW-COST HOUSING. MILLIONAIRE 
      HEADS CHARITY DRIVE FOR GOTHAM HANDICAPPED. HURRICANE 
@@ -2297,10 +2290,10 @@
      a rich philanthropist can be.
 
                               KNOX
-               Come on. Gimme some <u>dirt</u>!
+               Come on. Gimme some dirt!
 
      Then he notices something odd. In the whole fat file of 
-     clippings, <u>there are no pictures of Bruce Wayne</u> -- with two 
+     clippings, there are no pictures of Bruce Wayne -- with two 
      partial exceptions.
 
      One is a group shot, Bruce in the middle, waving at the 
@@ -2315,7 +2308,7 @@
 
                                                    CUT TO:
 
-     <u>INT. APARTMENT LOBBY - NIGHT</u>
+     INT. APARTMENT LOBBY - NIGHT
 
      A DOORMAN DOZES in the plush lobby of ALICIA HUNT's 
      apartment building on the East Side of Gotham. Through the 
@@ -2335,7 +2328,7 @@
                               ALICIA
                ... The rent? Paid?
 
-     <u>INT. ALICIA'S APARTMENT - NIGHT</u>
+     INT. ALICIA'S APARTMENT - NIGHT
 
      ALICIA, mystified, lets herself in and turns to lock the 
      door. She's startled once more by a VOICE FROM BEHIND.
@@ -2352,7 +2345,7 @@
      This grim parody of domesticity sends poor ALICIA into a 
      dead faint.
 
-     <u>INT. PENTHOUSE SUITE - DAY</u>
+     INT. PENTHOUSE SUITE - DAY
 
      It looks for all the world like a corporate boardroom. At a 
      long table sit Gotham's most distinguished criminals: 
@@ -2377,19 +2370,19 @@
                               RACKETEER
                I got something I'd like to know.
                How come you're wearing that stupid
-               <u>smirk</u>?
+               smirk?
 
                               JOKER
                'Cause I got an army, chum. And I
-               got <u>Grissom's</u> army. And this city
-               is <u>mine</u>.
+               got Grissom's army. And this city
+               is mine.
 
      CARMINE ROTELLI, an especially oily mobster, speaks up:
 
                               ROTELLI
                I don't like taking orders, from
                Grissom. And I especially don't like
-               taking orders from Grissom's <u>goon</u>.
+               taking orders from Grissom's goon.
 
                               JOKER
                I've considered that possibility.
@@ -2425,7 +2418,7 @@
                under the collar.
 
                               CRIMELORD
-               ... You're <u>insane</u>!
+               ... You're insane!
 
      The JOKER is a wee bit agitated. He removes the hat and 
      mops sweat from his brow, exposing a patch of CHALK-WHITE 
@@ -2446,13 +2439,13 @@
                say we give 'em a couple of days to
                come around.
                      (thoughtful pause)
-               We-e-ll... maybe <u>one</u> day.
+               We-e-ll... maybe one day.
                      (then, casually)
                Aaah, screw it. Let's grease 'em.
 
                                                  CUT TO:
 
-     <u>INT. SMALL BACK ROOM - NIGHT</u>
+     INT. SMALL BACK ROOM - NIGHT
 
      A poker game. A CRIMELORD from the JOKER's board meeting 
      picks up his hand and fans out the cards. FIVE JOKERS.
@@ -2460,7 +2453,7 @@
      He looks up, puzzled. The last thing he sees is a HIRED 
      KILLER bursting in through the door, GUN IN HAND.
 
-     <u>EXT. GOTHAM PARK - DAY</u>
+     EXT. GOTHAM PARK - DAY
 
      A COSTUMED CLOWN with a wheeled cart, filling balloons from 
      a helium tank, passing them out to the kids. CRIMELORD #2 
@@ -2468,10 +2461,10 @@
      politely refuses.
 
      THE CLOWN reaches into his cart for a RED METAL TANK. But, 
-     as we quickly find out, it's <u>not</u> a helium tank -- it's a 
+     as we quickly find out, it's not a helium tank -- it's a 
      FLAMETHROWER.
 
-     <u>EXT. HALLIDAY PLAZA - DAY</u>
+     EXT. HALLIDAY PLAZA - DAY
 
      A sunny, landscaped quad surrounded by corporate 
      skyscrapers: trees, grass, marble fountains, flags of many 
@@ -2512,16 +2505,16 @@
                much like someone I used to... 
                      (stopping suddenly)
                Bruce? I know this is silly, but --
-               you're not <u>married</u>, are you?
+               you're not married, are you?
 
      He stops and laughs. She smiles crookedly, takes his arm.
 
-     <u>ANOTHER ANGLE - ACROSS PLAZA - THAT MOMENT</u>
+     ANOTHER ANGLE - ACROSS PLAZA - THAT MOMENT
 
      PHILLY RICORSO -- another CRIMELORD from the boardroom -- 
      enters the plaza flanked by a cadre of PAID BODYGUARDS.
 
-     <u>ON BRUCE AND VICKI</u>
+     ON BRUCE AND VICKI
 
      A PAINTED STREET MIME walks alongside them, feeling his way 
      along an imaginary wall. VICKI groans.
@@ -2530,7 +2523,7 @@
                All street mimes should be executed.
 
                               BRUCE
-               ... Looks like a <u>convention</u>.
+               ... Looks like a convention.
 
      And indeed, there are HALF A DOZEN STREET MIMES converging 
      on the center of the plaza.
@@ -2547,7 +2540,7 @@
      VICKI turns to BRUCE. Before she can get his name out, he's 
      HOISTED HER BODILY and THROWN HER behind a marble fountain.
 
-     <u>SERIES OF SHOTS</u>
+     SERIES OF SHOTS
 
      BRUCE'S EYES darting birdlike around the plaza -- INTERCUT 
      with the following POV SHOTS, ALL IN SLOW MOTION:
@@ -2568,21 +2561,21 @@
      just another citizen... TOTALLY IMPOTENT.
 
      He darts around a corner, backs against a wall. WOMEN, 
-     CHILDREN, GROWN MEN race past. <u>No privacy</u>. He's 
+     CHILDREN, GROWN MEN race past. No privacy. He's 
      practically quaking now, in the throes of some terrible 
      anxiety. He looks up at the sky overhead, terrified.
 
      A BRILLIANT SUN bears down on him as MACHINE GUNS CHATTER.
 
-     <u>ANGLE ON PHILLY AND BODYGUARDS</u>
+     ANGLE ON PHILLY AND BODYGUARDS
 
      BODIES JERKING as GLASS rains down in shards.
 
-     <u>ANGLE ON BRUCE</u>
+     ANGLE ON BRUCE
 
      his back arched, his mouth agape, his face drained of blood 
      as the sounds of carnage echo through the plaza. It's 
-     almost as if the bullets are striking <u>him</u>.
+     almost as if the bullets are striking him.
 
      A moment later, it's all over but the screaming. VICKI 
      emerges from the crowd and finds BRUCE slumped against the 
@@ -2608,7 +2601,7 @@
      pleading. This time she lets him embrace her... but her 
      face is full of bewilderment and doubt.
 
-     <u>INSERT - TELEVISION SCREEN</u>
+     INSERT - TELEVISION SCREEN
 
                               ANCHORWOMAN
                ... live from Halliday Plaza, where a
@@ -2629,12 +2622,12 @@
      desk he SWIVELS INTO VIEW, phone in hand.
 
                               JOKER
-               All <u>reet</u>! I think it's about time
+               All reet! I think it's about time
                we called another meeting, huh?
 
                                                  CUT TO:
 
-     <u>INT. WAYNE MANOR - DAY</u>
+     INT. WAYNE MANOR - DAY
 
      ALFRED on the phone, a feather duster in his hand.
 
@@ -2645,13 +2638,13 @@
      ANGLE WIDENS. BRUCE is sitting mere feet away, obviously 
      distraught, locked in some sort of internal struggle.
 
-     <u>INT. VICKI'S APARTMENT - THAT MOMENT - DAY</u>
+     INT. VICKI'S APARTMENT - THAT MOMENT - DAY
 
                               VICKI
                Please tell him... I'm not trying to
                make his life difficult. I'd just --
                I'd just like to know what's going
-               <u>on</u>.
+               on.
 
      A KNOCK at the door as VICKI hangs up. She goes to open it, 
      finds KNOX -- wearing a big, cheshire-cat smile.
@@ -2660,14 +2653,14 @@
                Hiya, peanut. I got something I'd
                like you to see.
 
-     <u>INT. LIBRARY - DAY</u>
+     INT. LIBRARY - DAY
 
      A MICROFILM MACHINE. As VICKI looks on curiously, KNOX -- 
      all eagerness now -- threads up a roll of film and begins 
      cranking through back-issue newspapers.
 
                               KNOX
-               Okay, here we go. <u>Check it out</u>.
+               Okay, here we go. Check it out.
 
      He steps back. VICKI stares down at the display screen. A 
      FRONT-PAGE BANNER HEADLINE reads:
@@ -2694,13 +2687,13 @@
 
      TIGHT ON THE BOY'S contorted face, staring out in shock and 
      disbelief, his features recognizable across all the years 
-     -- permanently, indelibly traumatized. <u>The same face VICKI</u>
-     <u>saw in Halliday Plaza</u>.
+     -- permanently, indelibly traumatized. The same face VICKI
+     saw in Halliday Plaza.
 
                               KNOX
                Yep. He watched the whole thing
                happen. -- Recognize the beat cop?
-               <u>Jim Gordon</u>.
+               Jim Gordon.
 
                               VICKI
                Oh, Bruce... 
@@ -2709,9 +2702,9 @@
                Something like this -- what do you
                suppose this could drive a guy to?
 
-     <u>INT. RESTAURANT - DAY</u>
+     INT. RESTAURANT - DAY
 
-     A greasy spoon off the lobby of the <u>Globe</u> building. KNOX
+     A greasy spoon off the lobby of the Globe building. KNOX
      and VICKI in a booth.
 
                               VICKI
@@ -2723,7 +2716,7 @@
                turns up in full bat-drag.
                      (beat)
                Sees an execution, freaks out in an
-               alleyway. No place to <u>change</u>.
+               alleyway. No place to change.
                      (smiling)
                Yeah, Vicki, he's "married" all
                right.
@@ -2741,11 +2734,11 @@
 
                               VICKI
                He's best friends with Jim Gordon
-               and Harvey Dent. They would <u>know</u>.
+               and Harvey Dent. They would know.
 
                               KNOX
                ... Okay, Vicki, I have a confession
-               to make. <u>I'm</u> the Batman.
+               to make. I'm the Batman.
 
      VICKI snorts, rolls her eyes impatiently.
 
@@ -2753,10 +2746,10 @@
                Don't believe me? Why not?
 
                               VICKI
-               Alexander... I <u>know</u> you.
+               Alexander... I know you.
 
                               KNOX
-               Right. And <u>they know him</u>. And
+               Right. And they know him. And
                that's why it would never occur to
                them for a minute that their old
                buddy Bruce puts on a cape at night
@@ -2770,18 +2763,18 @@
                Your little chum is out of his mind.
                      (relaxing his grip)
                Next time you call him up and he
-               can't go <u>out</u> Friday night -- think
+               can't go out Friday night -- think
                it over.
 
                                                  CUT TO:
 
-     <u>INT. ACE CHEMICAL CO. - DAY</u>
+     INT. ACE CHEMICAL CO. - DAY
 
      LOW ANGLE on the JOKER. He stands on a catwalk high above 
      the refinery floor, lord of all he surveys, overseeing 
      production like a demented middle manager.
 
-     <u>INT. STOREROOM - DAY</u>
+     INT. STOREROOM - DAY
 
      A dank, windowless room in the bowels of Ace Chemical, 
      which the JOKER has converted into a makeshift lair. SAP-
@@ -2800,7 +2793,7 @@
 
      And finally: a sheaf of PHOTOS. Laboratory apes, chimps and
      orangutans, all DEAD. Their LIPS are drawn back, exposing 
-     <u>HIDEOUS, CHEMICAL-INDUCED GRIMACES</u>.
+     HIDEOUS, CHEMICAL-INDUCED GRIMACES.
 
      ON ONE WALL: POSTER-SIZED BLOWUPS of the grinning apes.
 
@@ -2837,7 +2830,7 @@
      We've seen these photos before. VICKI VALE took them... in 
      Corto Maltese.
 
-     <u>INT. PHOTOGRAPHER'S STUDIO - DAY</u>
+     INT. PHOTOGRAPHER'S STUDIO - DAY
 
      In foreground, ROWS OF MAKEUP in startling profusion: 
      mascara, blusher, eyeliner, lipstick. HALF A DOZEN 
@@ -2854,7 +2847,7 @@
                Not to me. I need a job.
 
                               CLAIRE
-               Now Vicki. Everyone <u>knows</u> you've
+               Now Vicki. Everyone knows you've
                got your hooks in Bruce Wayne.
 
                               VICKI
@@ -2863,7 +2856,7 @@
 
                               CLAIRE
                      (cattily)
-               Oh. Really. <u>Well</u>. -- Come on,
+               Oh. Really. Well. -- Come on,
                dear, Tony's dying to see you.
 
      In a corner of the studio, TONY, a gaunt, tubercular Brit, 
@@ -2872,18 +2865,18 @@
      hyperkinetically, snapping the girls in a series of poses.
 
                               TONY
-               <u>Yes</u>, ladies, <u>smiles</u>, show me
-               those smiles, fabulous, <u>tropical</u>
-               smiles, think <u>Tahiti</u>, I want to
-               see <u>teeth</u>, yes, those glorious
-               <u>teeth</u> --
+               Yes, ladies, smiles, show me
+               those smiles, fabulous, tropical
+               smiles, think Tahiti, I want to
+               see teeth, yes, those glorious
+               teeth --
 
      As VICKI looks on, the SUPERMODELS freeze in place 
      simultaneously, a strange, STRICKEN LOOK on their faces.
 
                               TONY (cont.)
-               My <u>God</u> no, don't stop now, those
-               smiles, I need those <u>smiles</u> --
+               My God no, don't stop now, those
+               smiles, I need those smiles --
 
      Suddenly the girls are LAUGHING -- but the laughter is 
      unnatural, involuntary. VICKI, sensing that something is 
@@ -2893,7 +2886,7 @@
      SPASMODICALLY. TONY snaps away.
 
                               TONY (cont.)
-               Yes! Oh <u>baby</u>, YES! That's --
+               Yes! Oh baby, YES! That's --
                      (beat)
                No! Too far, too far! Pull back,
                pull back!
@@ -2906,9 +2899,9 @@
 
                                                  CUT TO:
 
-     <u>INT. TELEVISION STUDIO - EVENING</u>
+     INT. TELEVISION STUDIO - EVENING
 
-     The <u>Eyewitness News</u> set, with anchors PATSY NARITA and
+     The Eyewitness News set, with anchors PATSY NARITA and
      DAVE McELROY. Behind them, BLOWUPS of the two dead 
      SUPERMODELS.
 
@@ -2956,8 +2949,8 @@
 
      TECHNICIANS rush the soundstage in an unrehearsed frenzy. 
      PATSY spins like a dervish and LURCHES BACKWARD over the 
-     newsdesk in a death spasm, giving us a quick look at <u>the</u>
-     <u>grisly Joker's grin</u> etched on her now-lifeless face.
+     newsdesk in a death spasm, giving us a quick look at the
+     grisly Joker's grin etched on her now-lifeless face.
 
      DAVE gestures frantically to the cameraman:
 
@@ -2967,23 +2960,23 @@
      Suddenly, CRACKLING VIDEO STATIC wipes out the screen. A 
      moment later, we're looking at:
 
-     <u>SPLITSCREEN CLOSEUP - THE SUPERMODELS</u>
+     SPLITSCREEN CLOSEUP - THE SUPERMODELS
 
      Their gorgeous faces sprout BIG, ANIMATED-CARTOON GRINS as 
      a BOUNCY TUNE -- "Put on a Happy Face" -- comes up 
      underneath.
 
                               MODELS (CARTOON VOICE)
-               ... <u>Love</u> that <u>Joker</u>!
+               ... Love that Joker!
 
-     <u>INT. SUPERMARKET - DAY</u>
+     INT. SUPERMARKET - DAY
 
      THEME MUSIC CONTINUES as a grinning, deranged pitchman -- 
      THE JOKER -- pushes his shopping cart down the aisle. The 
      shelves are filled with products bearing his TRADEMARK 
      HARLEQUIN'S FACE. He waves merrily in time to the music.
 
-     <u>INT. STUDIO - VIDEO CONTROL BOOTH - THAT MOMENT</u>
+     INT. STUDIO - VIDEO CONTROL BOOTH - THAT MOMENT
 
      PANICKED TECHNICIANS swarm the booth. The studio feed has 
      been JAMMED. Every monitor shows THE JOKER'S COMMERCIAL.
@@ -2994,10 +2987,10 @@
                               TECHNICIAN
                I DON'T KNOW!
 
-     <u>CLOSEUP - THE JOKER</u>
+     CLOSEUP - THE JOKER
 
                               JOKER
-               ... new improved <u>Joker</u> brand. With
+               ... new improved Joker brand. With
                the secret ingredient... SMYLENOL!
                      (a sweep of the hand)
                Let's go to our blind taste test.
@@ -3012,7 +3005,7 @@
                sorts.
                      (wagging a finger)
                He's been using Brand X! But with
-               new improved <u>Joker</u> brand... 
+               new improved Joker brand... 
 
      ANGLE WIDENS to include a BLINDFOLDED CORPSE, limp in his 
      chair, GRINNING HORRIFICALLY.
@@ -3020,7 +3013,7 @@
                               JOKER (cont.)
                ... it's a SMILE EVERY TIME!!
 
-     <u>EXT. IDYLLIC PASTORAL SETTING - DAY</u>
+     EXT. IDYLLIC PASTORAL SETTING - DAY
 
      THE JOKER in a field of wheat. On a picnic blanket before 
      him are TWO CLEAN-CUT MODELS -- one male, one female, BOTH 
@@ -3033,17 +3026,17 @@
      He grabs the dead MODELS by the hair. THEIR TEETH CLINK as 
      he forces their heads together for a post-mortem kiss.
 
-     <u>SERIES OF SHOTS</u>
+     SERIES OF SHOTS
 
      Television sets all over Gotham, as startled citizens react 
      to the JOKER's maniacal promo.
 
                               JOKER
                I know what you're saying. Where can
-               I <u>buy</u> these fine, fine products?
+               I buy these fine, fine products?
                Well, that's the gag, folks, you
-               <u>never know</u>. Chances are... <u>you've</u>
-               <u>bought 'em already</u>!!!
+               never know. Chances are... you've
+               bought 'em already!!!
 
      As his RANT CONTINUES, we SEE:
 
@@ -3064,7 +3057,7 @@
           Then: her HUSBAND, slumped down in the tub, a lethal 
           GRIN on his face. She lets out a SHRIEK.
 
-     <u>INT. WAYNE MANOR - STUDY - NIGHT</u>
+     INT. WAYNE MANOR - STUDY - NIGHT
 
      ALFRED THE BUTLER in a crouch, glued to the tube.
 
@@ -3076,7 +3069,7 @@
 
                               JOKER
                Baby's got a tummyache? Here's
-               something that'll fix him <u>quick</u>!
+               something that'll fix him quick!
 
      He tosses a JOKER PRODUCT out of frame. Then -- leering -- 
      he gives the camera a BIG JUICY WINK.
@@ -3084,16 +3077,16 @@
                               JOKER (cont.)
                Now on your grocer's shelf. So
                remember -- use Joker brand -- and
-               put on a <u>happy</u> face!!
+               put on a happy face!!
 
      MUSIC UP. VIDEO SNOW fills the screen as the jammed 
      transmission end. ALFRED looks over his shoulder.
 
      TRACK IN ON THE GRIM, DETERMINED FACE OF BRUCE WAYNE.
 
-     <u>SERIES OF SHOTS</u>
+     SERIES OF SHOTS
 
-     -    The Gotham <u>Globe</u> cartwheeling into frame:
+     -    The Gotham Globe cartwheeling into frame:
 
                          PANIC GRIPS GOTHAM
                 Contaminated Products Claim 72 Lives
@@ -3137,7 +3130,7 @@
 
                                                  CUT TO:
 
-     <u>EXT. STREET - DUSK</u>
+     EXT. STREET - DUSK
 
      From across the street we see VICKI headed down the 
      sidewalk toward a museum. A GLOVED HAND reaches for a pay 
@@ -3146,7 +3139,7 @@
                               VOICE
                She's outside the Fluegelheim.
 
-     <u>INT. ALICIA HUNT'S PENTHOUSE - THAT MOMENT</u>
+     INT. ALICIA HUNT'S PENTHOUSE - THAT MOMENT
 
      A BONE-WHITE HAND slams a phone receiver down. THE JOKER is 
      at his vanity. He's rinsed his hair black. He's applying 
@@ -3169,7 +3162,7 @@
                               JOKER
                Get dressed. We're going out.
 
-     <u>INT. FLUEGELHEIM MUSEUM - EVENING</u>
+     INT. FLUEGELHEIM MUSEUM - EVENING
 
      A Gotham landmark, the Fluegelheim looks like something 
      Frank Lloyd Wright would've dreamed up -- a large open 
@@ -3177,7 +3170,7 @@
      the interior walls to the CEILING four stories above. You 
      walk up this gently-inclined ramp to view the paintings.
 
-     <u>INT. FLUEGELHEIM - ROOFTOP TEA ROOM - EVENING</u>
+     INT. FLUEGELHEIM - ROOFTOP TEA ROOM - EVENING
 
      The upper terminus of the ramp opens on an airy, fern-
      filled dining room popular with tourists and elderly 
@@ -3191,7 +3184,7 @@
                               MAITRE D'
                No, but your table is ready.
 
-     <u>INT. TEA ROOM - TWENTY MINUTES LATER - EVENING</u>
+     INT. TEA ROOM - TWENTY MINUTES LATER - EVENING
 
      VICKI, sipping on a gin and tonic, checks her watch. A 
      WAITER brings her a small parcel, wrapped in brown paper, 
@@ -3205,7 +3198,7 @@
      a small white box and a NOTE -- SCRIBBLED IN CRAYON.
 
                DEAR V. VALE,
-                    PUT THIS ON <u>RIGHT NOW</u>.
+                    PUT THIS ON RIGHT NOW.
 
      Unsigned, of course. VICKI, puzzled, opens the box to find 
      a MINIATURE GAS MASK.
@@ -3219,7 +3212,7 @@
      VICKI hurriedly fits the gas mask over her nose and mouth. 
      Within seconds, she's the only one conscious in the room.
 
-     <u>INT. MUSEUM - THAT MOMENT</u>
+     INT. MUSEUM - THAT MOMENT
 
      GREEN SMOKE plumes up toward the ceiling as we TILT DOWN 
      toward the floor of the atrium. PATRONS and SECURITY GUARDS 
@@ -3255,7 +3248,7 @@
                               JOKER (cont.)
                I kinda like this one. Leave it.
 
-     <u>INT. TEA ROOM - A MOMENT LATER - EVENING</u>
+     INT. TEA ROOM - A MOMENT LATER - EVENING
 
      VICKI at her table, still wearing the gas mask, scared as 
      hell. The overhead lights wink out and the room goes dark. 
@@ -3283,11 +3276,11 @@
 
                               JOKER (cont.)
                You're Vicki Vale. I guess you know
-               who <u>I</u> am. -- Is this your
+               who I am. -- Is this your
                portfolio?
 
      She nods. He opens it, begins leafing through the record of 
-     VICKI's career. Newspaper photos from the <u>Globe</u>, at first.
+     VICKI's career. Newspaper photos from the Globe, at first.
      Then fashion layouts, magazine covers of celebrities. 
      Artier B&amp;W shots from VICKI's first couple of exhibitions.
 
@@ -3300,27 +3293,27 @@
                               JOKER (cont.)
                The panic. The bloody skulls. The
                armless screaming fellows... you
-               know, the <u>atrocities</u>.
+               know, the atrocities.
                      (smirking)
                Somehow, when you shoot it, it all
-               comes out so clean, so <u>lovely</u>.
+               comes out so clean, so lovely.
 
      VICKI is squirming, but she doesn't think it wise to debate 
      the point. Not with this lunatic, anyway.
 
                               JOKER (cont.)
                I guess I'm just an old cornball,
-               but... I <u>live</u> for beauty. I look
+               but... I live for beauty. I look
                around at my little city, it gets me
                down.
                      (indicating the photos)
-               We don't have <u>anything</u> like this.
+               We don't have anything like this.
                Well, it came to me that what this
                city needs... is beautification. Kind
                of a big makeover.
                      (enraptured)
                Miss Vale, I finally realized that
-               one man <u>can</u> make a difference. You
+               one man can make a difference. You
                know the saying. "In his image... 
                created he them"?
 
@@ -3334,10 +3327,10 @@
                A visual record, yes. A before-and-
                after kind of thing.
                      (leaning closer)
-               This could <u>make</u> your reputation.
+               This could make your reputation.
 
      Her first impulse is to get up and run. But she fights the 
-     impulse. She <u>won't</u> run... not until she gets this maniac
+     impulse. She won't run... not until she gets this maniac
      on film. She reaches for her camera bag.
 
                               VICKI
@@ -3348,11 +3341,11 @@
 
                               JOKER
                      (momentarily puzzled)
-               ... <u>Behind</u> the makeup?
+               ... Behind the makeup?
 
      Then it sinks in. By candlelight, in the darkened 
      restaurant, with his pancake makeup and his black rinse 
-     job, he looks practically <u>normal</u>. VICKI must think she's
+     job, he looks practically normal. VICKI must think she's
      looking at his real face!
 
                               JOKER (cont.)
@@ -3369,7 +3362,7 @@
      He sits back and grins expectantly. VICKI is thoroughly 
      nonplussed by this bizarre outburst. A moment passes.
 
-     He obviously wants her to <u>do</u> something, but she hasn't
+     He obviously wants her to do something, but she hasn't
      got a clue as to what it is. Growing impatient now, he 
      POINTS at the WATER GLASS:
 
@@ -3387,7 +3380,7 @@
      running makeup, he LEERS at her.
 
                               JOKER (cont.)
-               You see, Miss Vale -- that <u>was</u> my
+               You see, Miss Vale -- that was my
                makeup.
                      (leaning forward)
                What do you think?
@@ -3395,7 +3388,7 @@
      VICKI is repulsed, but she's determined to tough it out.
 
                               VICKI
-               I've seen worse. <u>Much</u> worse.
+               I've seen worse. Much worse.
 
                               JOKER
                Strong stomach, huh? I like that in
@@ -3415,7 +3408,7 @@
 
                               JOKER
                      (to VICKI)
-               Christ, it's my <u>girlfriend</u>.
+               Christ, it's my girlfriend.
                      (to ALICIA)
                WHAT?
 
@@ -3427,7 +3420,7 @@
                Shucks, honey, I forgot.
                      (rolling his eyes at
                       VICKI)
-               I'm in trouble <u>now</u>.
+               I'm in trouble now.
                      (to ALICIA)
                This is business, sweetie. Why don't
                you go outside and see how the boys
@@ -3448,15 +3441,15 @@
 
                               JOKER (cont.)
                You see, Miss Vale, Alicia's beautiful.
-               One in a million. A work of <u>art</u>. In 
+               One in a million. A work of art. In 
                fact... 
 
      We're looking at ALICIA's profile as the mask comes off. 
-     The side that's turned to <u>us</u> is indeed beautiful. But the 
-     side we <u>can't</u> see... SENDS VICKI RIGHT OVER THE EDGE.
+     The side that's turned to us is indeed beautiful. But the 
+     side we can't see... SENDS VICKI RIGHT OVER THE EDGE.
 
                               JOKER (cont.)
-               She makes you look <u>sick</u>.
+               She makes you look sick.
 
      VICKI lurches out of her seat, knocking it over, HER FACE 
      FROZEN IN HORROR. She finds her CAMERA, holds it out like a 
@@ -3467,13 +3460,13 @@
                THAT to her!
 
                               JOKER
-               What? I <u>improved</u> her a little... 
+               What? I improved her a little... 
 
      VICKI backs away, snapping the shutter on her camera. HE 
      BLINKS as the flash gun goes off repeatedly.
 
                               VICKI
-               I'll see you <u>burn</u>. I'll see you <u>dead</u>.
+               I'll see you burn. I'll see you dead.
                -- GET AWAY FROM ME!!
 
                               JOKER
@@ -3491,7 +3484,7 @@
      spurts out of the FLOWER, NARROWLY MISSING VICKI.
 
      She GASPS. BUMPS INTO A TABLE. ACRID BLACK SMOKE rises from 
-     the floor where the clear liquid hit. <u>Acid</u>.
+     the floor where the clear liquid hit. Acid.
 
                               JOKER
                Come on, Miss Vale... STOP AND SMELL
@@ -3529,7 +3522,7 @@
      still defacing masterpieces. They pull their guns and OPEN 
      FIRE as BATMAN and VICKI plummet past.
 
-     <u>ANGLE ON BATMAN AND VICKI - AS THEY FALL</u>
+     ANGLE ON BATMAN AND VICKI - AS THEY FALL
 
      He holds the gauntlet overhead, ROPE whistling through it. 
      As we watch, the gauntlet sprouts STEEL WINGS -- forming a 
@@ -3544,7 +3537,7 @@
 
      VICKI hustles through. He points her to a side alley.
 
-     <u>EXT. SIDE ALLEY - THAT MOMENT - DUSK</u>
+     EXT. SIDE ALLEY - THAT MOMENT - DUSK
 
      VICKI rounds the corner just as BATMAN lobs a SMOKE PELLET 
      into the doorway of the Fluegelheim.
@@ -3553,7 +3546,7 @@
                GET IN THE CAR!
 
                               VICKI
-               <u>WHICH</u> CAR?
+               WHICH CAR?
 
      VICKI suddenly feels quite stupid. Because -- while there 
      are many cars parked along the side alley -- there is only 
@@ -3594,11 +3587,11 @@
      PLAYING CARDS."  Half his GOONS pile into the van behind 
      him, the other half into a second car nearby.
 
-     <u>EXT. STREETS - THAT MOMENT</u>
+     EXT. STREETS - THAT MOMENT
 
      SIRENS HOWL as POLICE CARS converge on the Flugelheim.
 
-     <u>INT. BATMOBILE - THAT MOMENT</u>
+     INT. BATMOBILE - THAT MOMENT
 
      roaring out into CITY TRAFFIC.
 
@@ -3615,7 +3608,7 @@
      COP CAR does a quick 180 and sets out in hot pursuit of the 
      BATMOBILE. BATMAN FLOORS THE ACCELERATOR in response.
 
-     <u>INT. VAN - THAT MOMENT</u>
+     INT. VAN - THAT MOMENT
 
      TIGHT ON the demented face of THE JOKER. A GOON calls out 
      from the front of the van.
@@ -3628,20 +3621,20 @@
                               JOKER
                ALL UNITS! SOUTHBOUND ON RIVERVIEW!
 
-     <u>SERIES OF SHOTS</u>
+     SERIES OF SHOTS
 
      The JOKER'S ARMY. THUGS in cars. CREEPS in Italian 
      restaurants. CROOKED COPS at a coffee shop. LIGHTS FLASH, 
      BEEPERS SOUND, and within seconds they're racing to the 
      streets, eager to join the chase.
 
-     <u>SERIES OF SHOTS - THE STREETS</u>
+     SERIES OF SHOTS - THE STREETS
 
      COP CARS. GOON CARS. THE BATMOBILE streaks through an 
      intersection, nearly causing a pileup. THE JOKER'S VAN 
      makes short work of a SABRETT'S HOT DOG STAND in its path.
 
-     <u>INT. BATMOBILE - THAT MOMENT</u>
+     INT. BATMOBILE - THAT MOMENT
 
      PEDESTRIANS GAWK as the sleek supercar RIPS UP THE 
      PAVEMENT.
@@ -3650,7 +3643,7 @@
                What about her? What about the girl?
 
                               BATMAN
-               He <u>won't kill her</u>.
+               He won't kill her.
                      (gritting his teeth)
                GODDAMMIT!
 
@@ -3688,7 +3681,7 @@
      BATMAN and VICKI sprint through the CONSTRUCTION SITE, 
      vaulting over mounds of loose dirt and concrete rubble.
 
-     <u>INT. VAN - MOVING - NIGHT</u>
+     INT. VAN - MOVING - NIGHT
 
      THREE POLICE CARS, red lights blazing, OVERTAKE THE JOKER'S 
      VAN and bear down on the abandoned BATMOBILE.
@@ -3705,12 +3698,12 @@
      The VAN does a discreet U-turn and rumbles off sedately 
      down the street.
 
-     <u>EXT. SIDE STREET - THAT MOMENT - NIGHT</u>
+     EXT. SIDE STREET - THAT MOMENT - NIGHT
 
      BATMAN and VICKI zigzag past storefronts and candy stands, 
      dodging astonished PEDESTRIANS.
 
-     <u>INT. CAR - MOVING - THAT MOMENT</u>
+     INT. CAR - MOVING - THAT MOMENT
 
      FOUR GOONS with GUNS. They spot BATMAN and VICKI coming off 
      the side street. GOON I, the driver, speaks into a radio:
@@ -3720,9 +3713,9 @@
 
                               JOKER (V.O.)
                      (over radio)
-               Take 'em! I want his <u>head</u>!
+               Take 'em! I want his head!
 
-     <u>EXT. STREET - THAT MOMENT - NIGHT</u>
+     EXT. STREET - THAT MOMENT - NIGHT
 
      BATMAN and VICKI race down the sidewalk. The car is gaining 
      on them; and then, from behind --
@@ -3732,7 +3725,7 @@
 
      They've ducked into a BLIND ALLEY.
 
-     <u>INT. ALLEYWAY - NIGHT</u>
+     INT. ALLEYWAY - NIGHT
 
      Hunkered on the pavement, they watch the car glide past the 
      mouth of the alley. VICKI sighs in relief. BATMAN -- still 
@@ -3765,7 +3758,7 @@
      goons advance. BATMAN wriggles, twists. They lurch upward 
      another few feet -- and stop again. VICKI SCREAMS.
 
-     <u>Her additional weight is too much for the reel mechanism</u>. They're
+     Her additional weight is too much for the reel mechanism. They're
      stranded two stories up -- SITTING DUCKS.
 
                               BATMAN (cont.)
@@ -3796,7 +3789,7 @@
      They move closer. And stop.
 
                               GOON I
-               ... <u>No blood</u>.
+               ... No blood.
 
                               GOON II
                Jesus.
@@ -3808,16 +3801,16 @@
      body. He examines THE BATMAN'S TUNIC... and RIPS IT OPEN.
 
                               GOON IV
-               ... What <u>is</u> that?
+               ... What is that?
 
                               GOON III
-               Some kind of <u>body armor</u>.
+               Some kind of body armor.
 
                               GOON I
                He's human after all. -- Take that
                mask off.
 
-     <u>EXT. ROOFTOP - ON VICKI</u>
+     EXT. ROOFTOP - ON VICKI
 
      Five stories overhead, VICKI has pulled herself up onto the 
      roof of the adjacent building. She watches transfixed as 
@@ -3825,7 +3818,7 @@
      height -- and this angle -- she can't see his face. On a 
      sudden impulse she reaches for her CAMERA BAG.
 
-     <u>ANGLE ON GOONS</u>
+     ANGLE ON GOONS
 
      peering-down open-mouthed at the unconscious face of BRUCE 
      WAYNE. Blood seeps from BRUCE's left nostril.
@@ -3856,17 +3849,17 @@
                               GOON III
                Goddam, it's the redhead!
 
-     <u>ON VICKI</u>
+     ON VICKI
 
      A chunk of ledge chips off mere inches from her head as the 
      GOONS OPEN FIRE. She ducks back behind the overhang, holds 
      the camera out over the ledge, and KEEPS ON FLASHING.
 
-     <u>ON BRUCE</u>
+     ON BRUCE
 
      HIS EYES WINK OPEN.
 
-     <u>ON VICKI</u>
+     ON VICKI
 
      momentarily idle. She's used up her roll. The GOONS KEEP 
      SHOOTING as she reaches in her bag for new film. She finds 
@@ -3874,7 +3867,7 @@
      then, on instinct, reaches back inside the bag for a 
      TELEPHOTO LENS. All the better to see you with, Batman... 
 
-     <u>ON THE THUGS</u>
+     ON THE THUGS
 
      No response from VICKI. They begin to relax a little.
 
@@ -3906,7 +3899,7 @@
      on the ledge, snapping away. BRUCE looks up at the FLASH 
      GUN and shakes his head. He bends to retrieve his cowl.
 
-     <u>ON VICKI</u>
+     ON VICKI
 
      She finally dares to peek down at the alley. Limp goons 
      everywhere. And, in addition, THE BATMAN -- leaping up, 
@@ -3917,7 +3910,7 @@
      FACE. She advances the film in the camera and removes the 
      roll, then drops it down her blouse.
 
-     But BATMAN is likely to <u>want that roll</u>. So she straightens 
+     But BATMAN is likely to want that roll. So she straightens 
      her skirt and scurries across the roof, away from the 
      alley. She should have a minute or so before be gets there.
 
@@ -3933,7 +3926,7 @@
 
                               VICKI
                Well -- I think you might consider
-               thanking <u>me</u>. You were good as
+               thanking me. You were good as
                dead.
 
                               BATMAN
@@ -3950,7 +3943,7 @@
                               VICKI
                I just wanted to distract them. I
                wasn't trying to get a picture of
-               <u>you</u>.
+               you.
 
      BATMAN looks down at the camera hanging from her neck. The 
      telephoto lens must jut out six inches. VICKI gulps.
@@ -3969,7 +3962,7 @@
                same roll. I --
 
                               BATMAN
-               The Joker is a murderer. And <u>you</u>
+               The Joker is a murderer. And you
                were as good as dead. So --
 
                               VICKI
@@ -3995,7 +3988,7 @@
      him.
 
      Still cautious, though. She reaches into her bag and hands 
-     over a roll of film. The <u>original</u> roll -- not the telephoto
+     over a roll of film. The original roll -- not the telephoto
      shots, which are still stashed in her blouse.
 
                               BATMAN (cont.)
@@ -4013,7 +4006,7 @@
 
                                                  CUT TO:
 
-     <u>EXT. ALLEYWAY - NIGHT</u>
+     EXT. ALLEYWAY - NIGHT
 
      Street level. BATMAN emerges carrying VICKI's inert form in 
      his arms. He pauses and peers around the edge of a wall at 
@@ -4027,13 +4020,13 @@
      CATERPILLAR WINCH rumbles up the street toward the 
      Batmobile.
 
-     He's about to get <u>towed</u>. BATMAN takes a RADIO TRANSMITTER
+     He's about to get towed. BATMAN takes a RADIO TRANSMITTER
      from his utility belt and SPEAKS INTO IT.
 
                               BATMAN
                Shields open.
 
-     <u>EXT. STREET - ON BATMOBILE</u>
+     EXT. STREET - ON BATMOBILE
 
      TWO COPS are crawling along the hood of the car. From 
      within they hear the tinny computerized voice:
@@ -4053,7 +4046,7 @@
      The stunned COPS gaze into the Batmobile's cockpit.
 
                               COP
-               There's somebody <u>in</u> there!
+               There's somebody in there!
 
      They TUMBLE OFF THE HOOD as the turbine engines ROAR TO 
      LIFE and THE BATMOBILE BEGINS TO MOVE.
@@ -4065,14 +4058,14 @@
 
      PANDEMONIUM BREAKS LOOSE as the COPS bolt for their cars.
 
-     <u>EXT. STREET - NIGHT</u>
+     EXT. STREET - NIGHT
 
      SIRENS WAIL. PASSERSBY STARE SLACKJAWED at the driverless 
      BATMOBILE as it tears down the street, passing, darting, 
      dodging buses and CUTTING OFF TAXIS -- all with a squad of 
      COP CARS in hot pursuit.
 
-     <u>EXT. ALLEYWAY - NIGHT</u>
+     EXT. ALLEYWAY - NIGHT
 
      BATMAN sees the BATMOBILE rounding the corner and 
      approaching on the straightaway. He takes VICKI in his arms 
@@ -4092,12 +4085,12 @@
 
                                                  DISSOLVE TO:
 
-     <u>EXT. BACK ROAD - NIGHT</u>
+     EXT. BACK ROAD - NIGHT
 
      A deserted stretch of road, lined by ancient tall pines on 
      either side. The BATMOBILE roars past.
 
-     <u>INT. BATMOBILE - NIGHT</u>
+     INT. BATMOBILE - NIGHT
 
      VICKI is gradually coming to on the passenger's side.
 
@@ -4118,7 +4111,7 @@
                               BATMAN
                Garage door.
 
-     <u>EXT. ROAD - THAT MOMENT - NIGHT</u>
+     EXT. ROAD - THAT MOMENT - NIGHT
 
      At the side of the road, a FALLEN TREE, surrounded by 
      underbrush, RISES HYDRAULICALLY INTO THE AIR -- revealing a 
@@ -4127,7 +4120,7 @@
      Doing sixty, the BATMOBILE makes a hairpin turn. Seconds 
      later, the FALLEN TREE drops back magically into place.
 
-     <u>INT. BATMOBILE - A MOMENT LATER - NIGHT</u>
+     INT. BATMOBILE - A MOMENT LATER - NIGHT
 
      As they cruise down the hidden road, VICKI STUDIES BATMAN'S 
      FACE. KNOX's words are very much on her mind.
@@ -4148,7 +4141,7 @@
      Wide-eyed, she looks at BATMAN. Still smiling, he HITS THE 
      GAS -- SPEEDING UP. She lets out a SCREAM.
 
-     <u>ANGLE ON CLIFF WALL</u>
+     ANGLE ON CLIFF WALL
 
      One second to impact. Suddenly the cliff wall VANISHES 
      ALTOGETHER -- revealing, in its place, the GAPING MOUTH OF 
@@ -4158,7 +4151,7 @@
      -- which is nothing more than a HOLOGRAPHIC PROJECTION -- 
      winks back into existence, showing no trace of the cavern.
 
-     <u>INT. BATCAVE - NIGHT</u>
+     INT. BATCAVE - NIGHT
 
      We all know this place. Although we haven't had time to 
      acquire the familiar mementos -- the dinosaur, the giant 
@@ -4187,7 +4180,7 @@
 
                               BATMAN
                That's why I wear a target on my
-               <u>chest</u>.
+               chest.
 
      THE BATMAN takes obvious pleasure in showing her his 
      futuristic bachelor's pad. His tone is jokey, almost 
@@ -4232,7 +4225,7 @@
      kicks a pebble over. Long seconds pass; no sound.
 
      She looks up. Suspended over the bottomless pit are a pair 
-     of GYMNAST'S RINGS. This guy is <u>dedicated</u>.
+     of GYMNAST'S RINGS. This guy is dedicated.
 
                               VICKI
                Who pays for all this?
@@ -4245,12 +4238,12 @@
 
                               BATMAN
                I'm running a check on the tainted
-               products. There <u>is</u> a pattern.
+               products. There is a pattern.
                Beauty products. Personal hygiene.
 
                               VICKI
                No more makeup. -- Looks like we'll
-               <u>all</u> be showing our true faces now.
+               all be showing our true faces now.
 
      She looks straight at him. It's almost a direct request. 
      But BATMAN is preoccupied with the matter at hand.
@@ -4281,7 +4274,7 @@
                You could have killed the Joker.
 
                               BATMAN
-               I had to save <u>you</u>, Vicki.
+               I had to save you, Vicki.
                      (turning to face her)
                Here you go. I think I'll let you
                keep the whole set.
@@ -4341,7 +4334,7 @@
 
                                                  DISSOLVE TO:
 
-     <u>EXT. GOTHAM STREET - 1963 - NIGHT (DREAM SEQUENCE)</u>
+     EXT. GOTHAM STREET - 1963 - NIGHT (DREAM SEQUENCE)
 
      The red glow resolves itself into a DREAMLIKE STREET SCENE: 
      liquid, weightless figures moving in a tinted, soundless 
@@ -4408,7 +4401,7 @@
      tightly around the waist of OFFICER GORDON.
 
      There's only one difference. BRUCE's head is turned away 
-     from us. <u>We can't see his face</u>.
+     from us. We can't see his face.
 
      And now a HAND enters the frame. Much like the GUNMAN's 
      hand, but feminine, beckoning. BRUCE, hearing his name, 
@@ -4416,10 +4409,10 @@
      GORDON's side. GORDON gestures angrily at the intruder.
 
      But the hand keeps beckoning. And ultimately BRUCE turns. 
-     <u>Showing us the tear-stained face from the famous photo</u>. A
+     Showing us the tear-stained face from the famous photo. A
      face slack with horror. The horror of his parents' death... 
-     and more importantly, <u>the horror that someone would dare to</u>
-     <u>violate this most private and terrible of moments</u>.
+     and more importantly, the horror that someone would dare to
+     violate this most private and terrible of moments.
 
      At last we see what BRUCE sees: a WOMAN crouched on the 
      sidewalk nearby. The WOMAN is holding a camera. The WOMAN 
@@ -4433,7 +4426,7 @@
 
                                                  CUT TO:
 
-     <u>INT. BEDROOM - NIGHT</u>
+     INT. BEDROOM - NIGHT
 
      VICKI AWAKENS. She sits up in bed, tremulous, distraught. 
      The bedside phone is ringing. She reaches for it, but her 
@@ -4446,7 +4439,7 @@
                               BRUCE (V.O.)
                Vicki... ?
 
-     <u>INT. BRUCE WAYNE'S STUDY - NIGHT</u>
+     INT. BRUCE WAYNE'S STUDY - NIGHT
 
      BRUCE at a big mahogany desk in his somber, book-lined 
      study. The room is dark but for a small table lamp.
@@ -4457,7 +4450,7 @@
                I know it's late. I'm sorry. I --
                Are you there?
 
-     <u>INTERCUT BRUCE AND VICKI</u>
+     INTERCUT BRUCE AND VICKI
 
                               VICKI
                Yes, Bruce -- I'm here --
@@ -4480,7 +4473,7 @@
                               VICKI
                I, uh... 
 
-     <u>ON VICKI</u>
+     ON VICKI
 
      Her voice trails off. She's profoundly shaken. She knows.
 
@@ -4489,14 +4482,14 @@
 
      She returns the receiver to its cradle.
 
-     <u>ON BRUCE</u>
+     ON BRUCE
 
      He hears the click. His lips part slightly. He hangs up and 
      sits there at the desk, staring straight ahead.
 
                                                  CUT TO:
 
-     <u>INT. VICKI'S BATHROOM - NIGHT</u>
+     INT. VICKI'S BATHROOM - NIGHT
 
      TOTAL DARKNESS. VICKI stands before the bathroom mirror. 
      She holds the OPENED ROLL OF TELEPHOTO SHOTS over the sink.
@@ -4506,7 +4499,7 @@
 
                                                  CUT TO:
 
-     <u>INT. VICKI'S APARTMENT - LATER - NIGHT</u>
+     INT. VICKI'S APARTMENT - LATER - NIGHT
 
      It's four in the morning. VICKI, wrapped in a bathrobe, 
      still shaky, pours her fifth cup of coffee. Sitting across 
@@ -4515,7 +4508,7 @@
                               KNOX
                Vicki, it all fits. The stuff you're
                telling me -- the car, the equipment
-               -- <u>somebody's</u> paying for it.
+               -- somebody's paying for it.
 
                               VICKI
                I just can't --
@@ -4525,8 +4518,8 @@
                computer contract? Wayne
                Technologies.
                      (shaking his head)
-               The guy's bats all right. He's <u>bat</u>
-               <u>shit crazy</u>. This is gonna be the
+               The guy's bats all right. He's bat
+               shit crazy. This is gonna be the
                most incredible --
 
                               VICKI
@@ -4545,18 +4538,18 @@
                Vicki. We got a wealthy millionaire
                here... who dresses up like a bat. He
                goes out at night and swings around
-               -- in his cape -- on a <u>rope</u>.
+               -- in his cape -- on a rope.
                      (throwing up his hands)
-               Okay. Maybe <u>I'm</u> crazy.
+               Okay. Maybe I'm crazy.
 
                               VICKI
-               Allie... <u>he wants to tell me</u>.
+               Allie... he wants to tell me.
                That's why he took me there. Because
                he's trying to tell me.
 
                               KNOX
                Gimme a break. If he wants to chat,
-               he can talk to his <u>car</u>.
+               he can talk to his car.
 
      The joke dies. VICKI stares dead ahead. KNOX looks on in 
      utter disbelief as it all comes into focus: he's lost her 
@@ -4575,10 +4568,10 @@
 
                                                  CUT TO:
 
-     <u>EXT. NEWSSTAND - DAY</u>
+     EXT. NEWSSTAND - DAY
 
      CUSTOMERS are lining up to buy the early edition of the
-     <u>Globe</u>, which carries the full-page banner headline:
+     Globe, which carries the full-page banner headline:
 
                        WAR OF THE FREAKS
              Batman, Joker in Fluegelheim Shootout
@@ -4593,7 +4586,7 @@
              Product Scare Drops Dow to 1100
              Biggest One-Day Decline in History
 
-     <u>INT. WAYNE FOUNDATION - DAY</u>
+     INT. WAYNE FOUNDATION - DAY
 
      BRUCE in a plush office suite downtown, on the phone to his 
      broker. Behind his desk is a big plate-glass window with a 
@@ -4607,25 +4600,25 @@
      With exaggerated calm, he hangs up. He lifts the receiver 
      to dial another number, then hesitates and hangs up again.
 
-     <u>INT. RECEPTION AREA - A MOMENT LATER - DAY</u>
+     INT. RECEPTION AREA - A MOMENT LATER - DAY
 
      BRUCE, affecting an air of nonchalance, strolls past a 
      squad of SECRETARIES at desks. Phones are ringing off the 
      hook.
 
-     <u>INT. HALLWAY - A MOMENT LATER - DAY</u>
+     INT. HALLWAY - A MOMENT LATER - DAY
 
      BRUCE ambles past a couple of COLLEAGUES. One of them is 
      shambling catatonically down the hall, bumping into walls. 
      The other is WAILING HYSTERICALLY.
 
                               WAILING COLLEAGUE
-               ... a nine-million-dollar <u>bath</u>!
+               ... a nine-million-dollar bath!
 
      BRUCE nods in sympathy as they pass. He stops outside the 
      door to a men's room, looks around cautiously, then enters.
 
-     <u>INT. MEN'S ROOM - A MOMENT LATER - DAY</u>
+     INT. MEN'S ROOM - A MOMENT LATER - DAY
 
      A small anteroom outside the bathroom proper, with a bank 
      of PAY PHONES on one wall. BRUCE checks the bathroom to 
@@ -4637,7 +4630,7 @@
                Vicki?... This is Batman. I thought
                I'd call and see how you're doing.
 
-     <u>INT. VICKI'S APARTMENT - DAY</u>
+     INT. VICKI'S APARTMENT - DAY
 
                               VICKI
                      (hesitantly)
@@ -4645,7 +4638,7 @@
                going to talk to you unless we can
                discuss it.
 
-     <u>INT. MEN'S ROOM - ON BRUCE</u>
+     INT. MEN'S ROOM - ON BRUCE
 
                               BRUCE
                      (a little smile)
@@ -4667,7 +4660,7 @@
 
                                                    CUT TO:
 
-     <u>INT. DISTRICT ATTORNEY'S OFFICE - NIGHT</u>
+     INT. DISTRICT ATTORNEY'S OFFICE - NIGHT
 
      HARVEY DENT at a big desk, flanked by a number of 
      POLITICOS.
@@ -4680,12 +4673,12 @@
                      (shaking his head)
                If your first official act as D.A.
                is to cut a deal with a
-               <u>terrorist</u>... 
+               terrorist... 
 
                               DENT
                Screw that, Ed. We've got a market
                panic of national proportions.
-               -- We've got 786 people <u>dead</u>.
+               -- We've got 786 people dead.
                      (beat)
                I won't sacrifice one more life for
                the sake of appearing strong.
@@ -4710,7 +4703,7 @@
                               GORDON
                Cut the deal.
 
-     <u>INT. CITY HALL - NIGHT</u>
+     INT. CITY HALL - NIGHT
 
      The MAYOR sits impatiently at a long table, flanked by JIM 
      GORDON, HARVEY DENT, and other prominent officials. The 
@@ -4724,7 +4717,7 @@
                past the appointed deadline, and
                still no word from --
 
-     <u>INT. GOTHAM GLOBE - CITY ROOM - THAT MOMENT - NIGHT</u>
+     INT. GOTHAM GLOBE - CITY ROOM - THAT MOMENT - NIGHT
 
      REPORTERS cluster around a bank of four TV sets, each tuned 
      to a different station, all broadcasting from city Hall.
@@ -4741,7 +4734,7 @@
      grunt. SUDDEN HUBBUB from the ONLOOKERS as a wave of VIDEO 
      NOISE wipes half the screen away.
 
-     <u>INSERT - TELEVISION SCREEN</u>
+     INSERT - TELEVISION SCREEN
 
      Split-screen. On one side is the MAYOR. On the other -- 
      sitting in a director's chair with a big yellow HAPPY-FACE 
@@ -4761,16 +4754,16 @@
                the populace."
 
                               JOKER
-               Huh. <u>Demands</u>. Well, gents, this is
+               Huh. Demands. Well, gents, this is
                kinda embarrassing, but... I'm having
                such a swell time, I just haven't
-               thought any <u>up</u>.
+               thought any up.
 
      He shrugs. STARTLED REACTIONS from the city officials.
 
                               JOKER (cont.)
                But I'm a reasonable fella. If you
-               want to make me an <u>offer</u>... 
+               want to make me an offer... 
 
      Panicked, the MAYOR and co. go into a quick huddle.
 
@@ -4784,14 +4777,14 @@
                dollars.
                      (flying off the handle)
                Ten mi-- YOU CHEAPSKATES! I've just
-               wiped out the <u>stock market</u>. I've
-               cost you <u>billions</u>!
+               wiped out the stock market. I've
+               cost you billions!
                      (petulantly)
-               I want ten million and <u>one</u>.
+               I want ten million and one.
 
                               MAYOR
                No, wait, please! We'll talk. Just
-               tell us what you <u>expect</u>.
+               tell us what you expect.
 
                               JOKER
                Goddammit, I expect to be treated
@@ -4806,14 +4799,14 @@
                friends, and see what they want,
                too. And then maybe we'll get
                together -- have a little party --
-               exchange <u>presents</u>.
+               exchange presents.
                      (waving goodbye)
                Happy Birthday, Gotham.
 
      "The Shadow of Your Smile" comes up UNDERNEATH as the 
      JOKER's transmission ends and the SCREEN GOES BLACK.
 
-     <u>INT. GLOBE CITY ROOM - THAT MOMENT - NIGHT</u>
+     INT. GLOBE CITY ROOM - THAT MOMENT - NIGHT
 
      FRANTIC ACTIVITY as REPORTERS rush to their telephones and
      typewriters. KNOX strolls slowly back to his desk. He's 
@@ -4822,7 +4815,7 @@
 
                                                    CUT TO:
 
-     <u>EXT. ANDREWS ISLAND - DAY</u>
+     EXT. ANDREWS ISLAND - DAY
 
      A tiny island in Gotham Harbor, homesite of LADY GOTHAM -- 
      the huge, newly restored stone statue that welcomes 
@@ -4836,7 +4829,7 @@
 
                                                    CUT TO:
 
-     <u>EXT. WAYNE MANOR - DAY</u>
+     EXT. WAYNE MANOR - DAY
 
      A TAXI pulls away from the wrought-iron gate at the 
      entrance to the estate. KNOX ambles up to a stone pillar, 
@@ -4848,7 +4841,7 @@
                Yes?
 
                               KNOX
-               Alexander Knox. Gotham <u>Globe</u>.
+               Alexander Knox. Gotham Globe.
 
                               ALFRED (V.O.)
                Mr. Wayne is out for the day.
@@ -4861,7 +4854,7 @@
      KNOX starts cockily off down the driveway -- then STOPS. 
      Behind him, the iron gates are SLIDING OPEN.
 
-     <u>INT. BRUCE'S LIBRARY - TEN MINUTES LATER - DAY</u>
+     INT. BRUCE'S LIBRARY - TEN MINUTES LATER - DAY
 
      KNOX, agitated, drums his fingers on the edge of a big 
      leather chair. BRUCE stands across from him.
@@ -4943,7 +4936,7 @@
 
                                                    CUT TO:
 
-     <u>EXT. GOTHAM PARK - LATE AFTERNOON</u>
+     EXT. GOTHAM PARK - LATE AFTERNOON
 
      The weekend-long BIRTHDAY GALA is getting underway, and 
      Gotham Park is mobbed with CELEBRANTS enjoying a FREE 
@@ -4952,7 +4945,7 @@
      representing the King in progressive stages of 
      deterioration.
 
-     <u>INT. VICKI'S APARTMENT - DUSK</u>
+     INT. VICKI'S APARTMENT - DUSK
 
      She's on the sofa beside a disconsolate BRUCE.
 
@@ -4968,8 +4961,8 @@
 
                               VICKI
                I don't understand it. You can do so
-               much good for people. <u>As Bruce</u>
-               <u>Wayne</u>.
+               much good for people. As Bruce
+               Wayne.
 
      He sinks back on the sofa, closes his eyes. He's had the 
      same argument with himself a thousand times.
@@ -5003,7 +4996,7 @@
 
                               VICKI
                Oh, God. I've got to have some
-               coffee or <u>something</u>.
+               coffee or something.
 
      A moment's breather as BRUCE sits on the sofa reflecting. 
      Then, suddenly, a KNOCK at the door.
@@ -5055,7 +5048,7 @@
 
                               VICKI
                Oh, Bruce. Don't tell me you carry
-               it <u>around</u> with you.
+               it around with you.
 
                               BRUCE
                I feel naked without it.
@@ -5081,13 +5074,13 @@
      counter.
 
                               BRUCE
-               ... They're <u>wax</u>.
+               ... They're wax.
 
      VICKI finds a hand-scrawled NOTE among the ears.
 
                               VICKI
                "It worked for Van Gogh. Let's make
-               up. I'll need you soon." -- <u>Whew</u>.
+               up. I'll need you soon." -- Whew.
 
                               BRUCE
                      (lost in thought)
@@ -5097,7 +5090,7 @@
      The KITCHEN PHONE rings. VICKI reaches for the receiver. 
      Her eyes go wide and she gestures him over.
 
-     <u>INT. ALICIA HUNT'S APARTMENT - THAT MOMENT</u>
+     INT. ALICIA HUNT'S APARTMENT - THAT MOMENT
 
      ALICIA, in her porcelain mask, on the phone.
 
@@ -5105,7 +5098,7 @@
                I thought you ought to know -- he's
                coming for you... 
 
-     <u>ON BRUCE AND VICKI</u>
+     ON BRUCE AND VICKI
 
      Faces pressed together as they listen in. BRUCE covers the 
      mouthpiece with one hand.
@@ -5138,13 +5131,13 @@
                number ever since he tracked you to
                the museum.
 
-     <u>INT. BATCAVE - THAT MOMENT</u>
+     INT. BATCAVE - THAT MOMENT
 
      MASSIVE COMPUTERS click and whir. At BRUCE's prodding, 
      INFORMATION comes up on the monitor: a number, a name -- 
      ALICIA HUNT -- and an East Side address.
 
-     <u>INT. VICKI'S APARTMENT - THAT MOMENT - EVENING</u>
+     INT. VICKI'S APARTMENT - THAT MOMENT - EVENING
 
      THE SAME INFORMATION scrolls across BRUCE's screen.
 
@@ -5159,7 +5152,7 @@
 
      HE FREEZES. He's heard something in the hallway outside.
 
-     <u>INT. HALLWAY - THAT MOMENT</u>
+     INT. HALLWAY - THAT MOMENT
 
      ELEVATOR DOORS open on THREE THUGS. One of them uses a key 
      to lock the car in place on VICKI's floor. The key is on 
@@ -5170,7 +5163,7 @@
      The THUGS dump him unceremoniously on the floor of the hall 
      and march toward VICKI's apartment.
 
-     <u>INT. VICKI'S APARTMENT - A MOMENT LATER</u>
+     INT. VICKI'S APARTMENT - A MOMENT LATER
 
      BRUCE is nowhere in sight. VICKI is at the sink washing 
      dishes, acting nonchalant. She pretends not to hear the 
@@ -5206,15 +5199,15 @@
      off the key ring -- which he then tosses to VICKI.
 
                               BRUCE (cont.)
-               Pick an apartment and <u>stay there</u>.
+               Pick an apartment and stay there.
                And listen: call the police. Give
-               them that address. <u>Every available</u>
-               <u>man</u>.
+               them that address. Every available
+               man.
 
      He starts out the door, stops just long enough to take a 
      dumbfounded VICKI in his arms for a kiss.
 
-     <u>INT. UNDERGROUND GARAGE - A MOMENT LATER - EVENING</u>
+     INT. UNDERGROUND GARAGE - A MOMENT LATER - EVENING
 
      THE JOKER'S VAN, bearing the Monarch Playing Card logo. TWO 
      ARMED GOONS lean against the hood. They watch as the 
@@ -5227,7 +5220,7 @@
 
      He walks another six paces, then stops short. He feels 
      around in all his pockets, making a big show of having
-     <u>forgotten</u> something.
+     forgotten something.
 
                               BRUCE
                Oh, hell!
@@ -5240,7 +5233,7 @@
                Hey, boss, something's up. The
                elevator's working.
 
-     <u>INT. VAN - ON JOKER</u>
+     INT. VAN - ON JOKER
 
      Frustrated, snarling, ready to throw a tantrum.
 
@@ -5248,7 +5241,7 @@
                DAMMIT! You can't get good help
                these days. -- Let's move out.
 
-     <u>EXT. STREET - EVENING - OVERHEAD ANGLE</u>
+     EXT. STREET - EVENING - OVERHEAD ANGLE
 
      From high above the street we see the JOKER'S VAN pulling 
      out of VICKI's building. We're up on the roof, with BRUCE. 
@@ -5259,7 +5252,7 @@
      BLACK NYLON STOCKING over his head. And suddenly, he's 
      BOUNDING ACROSS THE ROOFTOPS in pursuit of the JOKER.
 
-     <u>EXT. CROSS STREET - A MOMENT LATER - EVENING</u>
+     EXT. CROSS STREET - A MOMENT LATER - EVENING
 
      The VAN turns right at the intersection. Nothing unusual. 
      But for some reason, PEDESTRIANS are pointing at the sky, 
@@ -5269,15 +5262,15 @@
      belt and a BLACK STOCKING MASK -- is gliding across the 
      intersection on a ROPE.
 
-     <u>INT. VAN - A MOMENT LATER</u>
+     INT. VAN - A MOMENT LATER
 
      The VAN DRIVER guns through a red light. BRAKES SQUEAL on 
      either side. In the back of the van, the JOKER GROWLS:
 
                               JOKER
-               Slow down, you <u>maniac</u>!
+               Slow down, you maniac!
 
-     <u>EXT. INTERSECTION - THAT MOMENT - EVENING</u>
+     EXT. INTERSECTION - THAT MOMENT - EVENING
 
      As the VAN ROARS PAST, a MOUNTED POLICEMAN shakes his fist. 
      His horse shies, rears back, turns in a circle. He's just 
@@ -5285,16 +5278,16 @@
      MASK plummets down on a rope from nowhere and lands 
      directly behind him on the horse's back.
 
-     BRUCE elbows the startled COP. Now there's only <u>one</u> rider. 
+     BRUCE elbows the startled COP. Now there's only one rider. 
      The VAN turns left. BRUCE gallops straight ahead through 
      the intersection, hoping to cut the JOKER off.
 
-     <u>INT. ALICIA HUNT'S APARTMENT - THAT MOMENT</u>
+     INT. ALICIA HUNT'S APARTMENT - THAT MOMENT
 
      ALICIA peers out through the window. On the street below, 
      UNMARKED CARS are converging.
 
-     <u>INT. VAN - THAT MOMENT</u>
+     INT. VAN - THAT MOMENT
 
      The JOKER and co. are two blocks away from ALICIA's. They 
      see a POLICE SWAT TEAM sealing off the building.
@@ -5303,27 +5296,27 @@
                Boss! Jesus! They've --
 
                               JOKER
-               They'll be sorry. <u>They'll be</u>
-               <u>sorry</u>. -- GET OUT OF HERE!
+               They'll be sorry. They'll be
+               sorry. -- GET OUT OF HERE!
 
-     <u>EXT. SIDE STREET - THAT MOMENT - EVENING</u>
+     EXT. SIDE STREET - THAT MOMENT - EVENING
 
      BRUCE on horseback, charging past elegant old brownstones, 
      drawing stares from passersby. We get a quick look at the 
      FLASHING RED SIGNAL LIGHT on his belt.
 
-     <u>EXT. RIVERVIEW DRIVE - THAT MOMENT - EVENING</u>
+     EXT. RIVERVIEW DRIVE - THAT MOMENT - EVENING
 
      A YELLOW VW BUG rips up the street at 70 mph.
 
-     <u>INT. VOLKSWAGEN BUG - THAT MOMENT</u>
+     INT. VOLKSWAGEN BUG - THAT MOMENT
 
-     We can't see the driver. But we <u>do</u> see, on the seat 
+     We can't see the driver. But we do see, on the seat 
      beside him, a VIDEO DISPLAY with a shifting grid map of the 
      city -- and on it, a FLASHING SIGNAL blinking in perfect 
      sync with the one on BRUCE's belt.
 
-     <u>EXT. SIDE STREET - THAT MOMENT</u>
+     EXT. SIDE STREET - THAT MOMENT
 
      BRUCE sees the VW bug rounding the corner and STREAKING 
      TOWARD HIM. He reins in the horse; it rears back on its 
@@ -5335,7 +5328,7 @@
      BRUCE snatches it out of the air, gives ALFRED a quick 
      salute -- and the BUG is gone.
 
-     <u>INT. JOKER'S VAN - EVENING</u>
+     INT. JOKER'S VAN - EVENING
 
      The JOKER and his boys are stalled in heavy traffic at the 
      southern border of Gotham Park. POLICE BARRICADES are 
@@ -5343,7 +5336,7 @@
      the birthday gala. HORNS HONK in anger.
 
                               JOKER
-               MOVE! Can't you <u>do</u> something??
+               MOVE! Can't you do something??
 
                               DRIVER
                It's some kind of detour. They're
@@ -5353,15 +5346,15 @@
      mirror. What he sees there... CURDLES HIS BLOOD.
 
                               JOKER
-               Oh my God. How does he <u>do</u> it... ?
+               Oh my God. How does he do it... ?
 
-     <u>EXT. STREET - A BLOCK AWAY - THAT MOMENT</u>
+     EXT. STREET - A BLOCK AWAY - THAT MOMENT
 
      THE BATMAN, IN FULL COSTUMED GLORY, GALLOPING UP THE STREET 
      ON HORSEBACK -- passing stunned COPS, weaving in and around 
      the stalled autos, GAINING FAST on the JOKER.
 
-     <u>INT. VAN - THAT MOMENT</u>
+     INT. VAN - THAT MOMENT
 
      THE JOKER climbing all over the DRIVER. He HITS THE GAS, 
      RUNS THE VAN UP ON THE SIDEWALK, and -- at the first 
@@ -5372,7 +5365,7 @@
      the JOKER's heels, TWO HELICOPTERS swing into the park from 
      overhead.
 
-     <u>EXT. GOTHAM PARK - EVENING</u>
+     EXT. GOTHAM PARK - EVENING
 
      CROWDS EVERYWHERE. On the central platform where we saw the 
      FREE CONCERT earlier, an EMCEE mans the microphone:
@@ -5386,7 +5379,7 @@
      He points up at the two approaching HELICOPTERS, flying 
      side-by-side in tight formation some forty feet apart.
 
-     <u>ANGLE ON HELICOPTERS</u>
+     ANGLE ON HELICOPTERS
 
      ONLOOKERS GASP as TWO TRAPEZES drop from the bellies of the 
      twin copters. Dangling from the trapezes are the FLYING 
@@ -5394,7 +5387,7 @@
      red-and-green suits. They begin swinging toward each other 
      in a plane perpendicular to the path of the copters.
 
-     <u>EXT. GOTHAM PARK - GROUND LEVEL</u>
+     EXT. GOTHAM PARK - GROUND LEVEL
 
      PANIC DOWN BELOW as the JOKER's van barrels through the 
      crowd, HORN BLARING. BATMAN is moving up swiftly.
@@ -5405,14 +5398,14 @@
      driving it off the access road down into the brush, where 
      it nearly topples over sideways.
 
-     <u>ANGLE ON FLYING GRAYSONS</u>
+     ANGLE ON FLYING GRAYSONS
 
      GRAYSON has just completed a double somersault in midair, 
      landing in the capable hands of his wife. Now they're 
      swinging again, building momentum as he prepares to make 
      the return leap back to his own trapeze.
 
-     <u>INT. HELICOPTER - THAT MOMENT</u>
+     INT. HELICOPTER - THAT MOMENT
 
      In the bay of the helicopter stands a kid, fifteen, 
      compact, tough, and wiry: DICK GRAYSON. Like his parents, 
@@ -5425,12 +5418,12 @@
                               DICK
                What's all the ruckus down there?
 
-     <u>EXT. PARK - GROUND LEVEL - THAT MOMENT</u>
+     EXT. PARK - GROUND LEVEL - THAT MOMENT
 
      The VAN bounces over rocks and bushes, narrowly avoiding 
      trees, with BATMAN in hot pursuit.
 
-     <u>INT. VAN - THAT MOMENT</u>
+     INT. VAN - THAT MOMENT
 
      At the foot of a hill, the JOKER spies a truck. On its 
      side, in bright red letters, a WARNING: "DANGER - 
@@ -5441,13 +5434,13 @@
                               JOKER
                Head for the truck!
 
-     <u>INT. HELICOPTER - THAT MOMENT</u>
+     INT. HELICOPTER - THAT MOMENT
 
      Hovering over the chase scene, DICK catches sight of the 
      JOKER. He GASPS IN SHOCK as a LIT FLARE flies from the back 
      of the VAN... directly into the FIREWORKS TRUCK.
 
-     <u>EXT. PARK - GROUND LEVEL - A MOMENT LATER</u>
+     EXT. PARK - GROUND LEVEL - A MOMENT LATER
 
      THE BATMAN is thrown off his horse by the shock of a 
      massive EXPLOSION. All at once, THE SKY IS FULL of 
@@ -5457,9 +5450,9 @@
      expression of PURE DELIGHT on his face.
 
                               JOKER
-               I <u>love</u> fireworks!
+               I love fireworks!
 
-     <u>ANGLE ON HELICOPTERS</u>
+     ANGLE ON HELICOPTERS
 
      LURCHING AND SPINNING IN THE SKY as FIREWORKS rocket past. 
      One of them takes a dead hit on the rotor. JOHN GRAYSON 
@@ -5469,14 +5462,14 @@
      MARY GRAYSON hangs from the second copter as it bobs and 
      weaves out of control. ONLOOKERS SCREAM IN TERROR.
 
-     <u>EXT. STREET - THAT MOMENT</u>
+     EXT. STREET - THAT MOMENT
 
      THE JOKER'S VAN bursts out of the park and speeds up a 
      wide, cordoned-off avenue. Overhead, THE SECOND COPTER 
      veers wildly, out of the park now, swinging dangerously 
      close to the tall buildings along the avenue.
 
-     <u>INT. HELICOPTER - THAT MOMENT</u>
+     INT. HELICOPTER - THAT MOMENT
 
      DICK GRAYSON at the mouth of the bay, hanging on by a 
      canvas strap. He watches helplessly as his MOTHER swings 
@@ -5491,7 +5484,7 @@
      THE PILOT can make a move to stop him -- DICK HAS JUMPED 
      OUT OF THE COPTER.
 
-     <u>ANGLE ON DICK</u>
+     ANGLE ON DICK
 
      With astonishing physical grace, he DIVES. GRABS A 
      FLAGPOLE. Executes a perfect somersault. FLIPS onto a 
@@ -5501,12 +5494,12 @@
      -- MAKING A PERFECT TWO-POINT LANDING on his intended 
      target... THE ROOF OF THE JOKER'S VAN!!
 
-     <u>INT. VAN - THAT MOMENT</u>
+     INT. VAN - THAT MOMENT
 
      THE JOKER hears a THUNK overhead. He casually lifts his gun 
      and BLOWS A HOLE THROUGH THE ROOF OF THE VAN.
 
-     <u>EXT. ROOF OF VAN - MOVING - THAT MOMENT</u>
+     EXT. ROOF OF VAN - MOVING - THAT MOMENT
 
      The blast just misses DICK. He sprawls flat, YANKS at the 
      chrome luggage rack on the roof of the van, and BREAKS OFF 
@@ -5515,13 +5508,13 @@
      ANOTHER SHOT through the roof. DICK rolls forward, hoists 
      his chrome spear over the windshield.
 
-     <u>INT. VAN - THAT MOMENT</u>
+     INT. VAN - THAT MOMENT
 
      SPLINTERED GLASS flies everywhere as DICK RAMS THE SHAFT 
      THROUGH THE WINDSHIELD. THE DRIVER dodges left and LOSES 
      CONTROL OF THE WHEEL.
 
-     <u>EXT. ROOF OF VAN - MOVING - THAT MOMENT</u>
+     EXT. ROOF OF VAN - MOVING - THAT MOMENT
 
      The VAN careens wildly toward an OVERPASS. DICK rises up 
      into a crouch just in time to see a sign which reads 
@@ -5531,7 +5524,7 @@
      ONE SECOND BEFORE IMPACT a BLACK-CAPED SHADOW swings across 
      the street and SCOOPS DICK OFF THE ROOF OF THE VAN.
 
-     <u>EXT. STREET - NIGHT</u>
+     EXT. STREET - NIGHT
 
      BATMAN AND DICK tumble to the pavement. THE VAN knocks over 
      a fire hydrant and STOPS. DICK is already on his feet, 
@@ -5553,7 +5546,7 @@
 
                               JOKER
                Like your boyfriend. He's kinda
-               <u>hot</u>.
+               hot.
                      (glowering at BATMAN)
                Hands off the belt.
 
@@ -5562,7 +5555,7 @@
 
                               JOKER
                Gosh, I could kill you, but then
-               you'd miss my <u>party</u>. And I'd be
+               you'd miss my party. And I'd be
                real, real sad if you couldn't make
                it.
 
@@ -5573,7 +5566,7 @@
                Batman! Don't you even recognize
                your old pal Jack? After all... 
                      (cackling insanely)
-               You <u>made</u> me what I <u>am today</u>.
+               You made me what I am today.
 
      BATMAN cocks his head in puzzlement as DISTANT SIRENS 
      BLARE. The JOKER and his HOODS -- guns still aimed at the 
@@ -5593,7 +5586,7 @@
 
                                                  DISSOLVE TO:
 
-     <u>INSERT - TELEVISION SCREEN</u>
+     INSERT - TELEVISION SCREEN
 
      A taped report from the hallway outside ALICIA's apartment. 
      COPS and FORENSICS MEN mill about in the b.g.
@@ -5620,16 +5613,16 @@
      as we watch, the two spinning heads COLLIDE AND MERGE.
      Except for the fearsome grin, they MESH PERFECTLY.
 
-     Yet <u>another</u> terminal: BRUCE's database. The same phrase
+     Yet another terminal: BRUCE's database. The same phrase
      flashes again and again, scrolling up the screen: ACE 
      CHEMICAL CO. ACE CHEMICAL CO. ACE CHEMICAL CO.
 
      And, finally: BRUCE HIMSELF, slumped at a table, his head 
-     in his hands. He's realized, to his horror, that <u>he is</u>
-     <u>responsible for the birth of the Joker</u>. And frankly...
+     in his hands. He's realized, to his horror, that he is
+     responsible for the birth of the Joker. And frankly...
      he would just as soon be dead.
 
-     <u>INT. WAYNE MANOR - GUEST BEDROOM - DAY</u>
+     INT. WAYNE MANOR - GUEST BEDROOM - DAY
 
      DICK GRAYSON is sprawled on a huge four-poster bed, 
      unconscious, softly moaning. He COMES TO with a jolt.
@@ -5649,7 +5642,7 @@
      tray. DICK makes a puzzled face. What the hell is going on 
      here?
 
-     <u>INT. HALL OF JUSTICE - DAY</u>
+     INT. HALL OF JUSTICE - DAY
 
      Beneath the statue of blind Justice, BRUCE and HARVEY DENT 
      march through the portico, engaged in a heated argument.
@@ -5667,38 +5660,38 @@
                suggest?
 
                               BRUCE
-               I suggest a nice big <u>bomb</u>.
+               I suggest a nice big bomb.
 
                               DENT
                Good. A bomb. On a blind tip from
-               Bruce Wayne. -- We <u>do</u> have <u>laws</u>.
+               Bruce Wayne. -- We do have laws.
 
                               BRUCE
                Then for God's sake, Harvey, cancel
                the anniversary celebration.
 
                               DENT
-               We've <u>told</u> him we'll deal. What
+               We've told him we'll deal. What
                could he possibly have to gain by --
 
                               BRUCE
                Do you still think the Joker cares
-               about <u>money</u>??
+               about money??
 
                               DENT
                I don't know. I'm just a D.A. I
-               don't have access to all <u>your</u>
-               expert <u>sources</u>.
+               don't have access to all your
+               expert sources.
 
      Mexican standoff. BRUCE stalks off fuming. DENT hangs back 
      a moment, then turns down the hall.
 
-     <u>EXT. WAYNE MANOR - ESTABLISHING - DAY</u>
+     EXT. WAYNE MANOR - ESTABLISHING - DAY
 
      The ornate, wrought-iron GATE which opens on the long 
      driveway snaking up toward Wayne Manor. It's bolted shut.
 
-     <u>INT. WAYNE MANOR - DAY</u>
+     INT. WAYNE MANOR - DAY
 
      A glass-enclosed room which houses an enormous HEATED 
      INDOOR SWIMMING POOL. DICK GRAYSON does a couple of laps, 
@@ -5708,7 +5701,7 @@
      in the distance. He's not happy. All this opulence could 
      drive a guy stark staring nuts in short order.
 
-     <u>INT. GUEST BEDROOM - DAY</u>
+     INT. GUEST BEDROOM - DAY
 
      An OPEN SUITCASE on the bed. DICK fingers a gold ashtray 
      bearing the figure of Winged Victory -- then shrugs and 
@@ -5734,9 +5727,9 @@
                      (turning to go)
 
                               DICK
-               <u>Hey</u>, man. Look at you. You're
+               Hey, man. Look at you. You're
                rich. You got everything you want.
-               How do you know what's in <u>my</u> mind?
+               How do you know what's in my mind?
 
      BRUCE turns to face him. The little hellion's eyes are 
      filled with raw, burning hatred. BRUCE knows the feeling.
@@ -5751,20 +5744,20 @@
      spinning DICK around -- INTO A WALL.
 
      DICK is stunned, but he has to laugh. This rich boy has a 
-     <u>move</u> or two. BRUCE stands there, silently challenging him.
+     move or two. BRUCE stands there, silently challenging him.
 
      A second later, the kid is airborne -- upping the ante with 
      a scissor-kick aimed squarely at BRUCE's gut. In a blur of 
      motion BRUCE checks the kick, swings an arm into DICK's 
      chest, and sends the boy sprawling flat on his back.
 
-     <u>INT. WAYNE MANOR - KITCHEN - THAT MOMENT</u>
+     INT. WAYNE MANOR - KITCHEN - THAT MOMENT
 
      ALFRED, in his apron, fixing a tray of snacks. He looks up 
      curiously at the ceiling. From the sound of it, a battle 
      royal is shaping up in the guest bedroom.
 
-     <u>INT. GUEST BEDROOM - THAT MOMENT</u>
+     INT. GUEST BEDROOM - THAT MOMENT
 
      DICK'S BODY -- head down, feet up -- flies through the air. 
      He SMASHES INTO a closet door and slumps to the carpet. 
@@ -5774,7 +5767,7 @@
      A long, tense moment passes between them. Then:
 
                               DICK
-               ... You're <u>him</u>.
+               ... You're him.
 
      No reply from BRUCE. Their gazes lock. And suddenly... 
 
@@ -5796,7 +5789,7 @@
 
                                                  CUT TO:
 
-     <u>INT. CONFERENCE ROOM - AFTERNOON</u>
+     INT. CONFERENCE ROOM - AFTERNOON
 
      CANNED APPLAUSE as THE JOKER marches out onto a makeshift 
      STAGE to give his QUARTERLY REPORT to the stockholders.
@@ -5804,7 +5797,7 @@
                               JOKER
                Thankya, thankya. Ladies and germs,
                I'm here to tell you... we have had
-               one <u>helluva</u> quarter.
+               one helluva quarter.
 
      He waves a pointer at three SALES CHARTS on portable 
      easels.
@@ -5812,14 +5805,14 @@
                               JOKER (cont.)
                Panic's up. Terror's up. And fear --
                fear's gone straight through the
-               <u>roof</u>. You guys should be proud --
+               roof. You guys should be proud --
                'cause I couldn'ta done it without
                each and every one of you!
 
      MORE CANNED APPLAUSE. The JOKER takes a bow.
 
                               JOKER (cont.)
-               I feel it's time to <u>expand</u> the
+               I feel it's time to expand the
                Joker line. I was askin' myself,
                what are the products that every
                consumer wants most? And that's when
@@ -5828,7 +5821,7 @@
                      (strutting across stage)
                Now, some of you have your eye on
                the profit margin. You're thinkin':
-               this boy's too <u>ambitious</u>. You
+               this boy's too ambitious. You
                don't approve. In fact, some of you
                have been talking about turning me
                in to the cops. Or knocking me off.
@@ -5840,31 +5833,31 @@
                everyone shares my eye for beauty.
                And just to show there's no hard
                feelings, I'm throwin' a little
-               shindig tonight -- and <u>you're all</u>
-               <u>invited</u>!
+               shindig tonight -- and you're all
+               invited!
 
      THE CANNED APPLAUSE goes right off the meter.
 
                               JOKER (cont.)
                How 'bout it? IS EVERYBODY HAPPY??
 
-     <u>REVERSE ANGLE - THE AUDIENCE</u>
+     REVERSE ANGLE - THE AUDIENCE
 
      Familiar faces all around -- the major players of the 
      Gotham underworld. But despite the enormous twisted grins, 
      no one here is laughing or applauding. No one here is
-     <u>living</u>. The JOKER is playing to a roomful of smiling 
+     living. The JOKER is playing to a roomful of smiling 
      corpses.
 
      One of them topples out of his chair and lands with a plop.
 
                               JOKER
                Look at that, folks. We got 'em
-               <u>rolling in the aisles</u>!
+               rolling in the aisles!
 
                                                  CUT TO:
 
-     <u>INT. BRUCE'S BEDROOM - TOWARD DUSK</u>
+     INT. BRUCE'S BEDROOM - TOWARD DUSK
 
      VICKI lies in BRUCE's bed, under the covers, propped up on 
      the pillows. BRUCE is in his robe over by the window, 
@@ -5879,26 +5872,26 @@
                      (pause)
                All I ever hoped for was someone who
                could see through Bruce -- who could
-               see <u>me</u> -- and not be frightened.
+               see me -- and not be frightened.
 
                               VICKI
                I'm not frightened of you, Bruce.
-               I'm frightened <u>for</u> you.
+               I'm frightened for you.
 
                               BRUCE
                In all these years... why couldn't I
                see how it would turn out?
 
      He turns toward her. His face is ravaged with guilt. Now 
-     she's <u>truly</u> afraid.
+     she's truly afraid.
 
                               BRUCE (cont.)
                I'm responsible, Vicki. If it wasn't
-               for me, there'd <u>be</u> no Joker.
+               for me, there'd be no Joker.
 
                                                  CUT TO:
 
-     <u>INT. BATCAVE - EVENING</u>
+     INT. BATCAVE - EVENING
 
      TIGHT ON a tiny electronic device: two cylindrical steel 
      casings bracketed together, topped by a DIGITAL TIMER. 
@@ -5951,7 +5944,7 @@
      As BRUCE disappears up the stairs, a shaken ALFRED steadies 
      himself against a lab table, fighting back tears.
 
-     <u>INT. BRUCE'S BEDROOM - EVENING</u>
+     INT. BRUCE'S BEDROOM - EVENING
 
      BRUCE draws the curtains, sets an alarm clock. The current 
      time is 7:09 PM.
@@ -5974,7 +5967,7 @@
 
                                                  DISSOLVE TO:
 
-     <u>EXT. ACE CHEMICAL - AERIAL SHOT - NIGHT</u>
+     EXT. ACE CHEMICAL - AERIAL SHOT - NIGHT
 
      The trademark ace on the illuminated sign. From our vantage 
      point high above, we can see THREE CARGO TRUCKS rolling out 
@@ -5983,7 +5976,7 @@
      off... preparing for a final showdown with the JOKER's 
      forces.
 
-     <u>INT. ACE CHEMICAL - THAT MOMENT - NIGHT</u>
+     INT. ACE CHEMICAL - THAT MOMENT - NIGHT
 
      The JOKER'S MINIONS, working late, readying a huge 
      shipment. At an open loading bay, we find a DISPATCHER with 
@@ -5993,7 +5986,7 @@
                               DISPATCHER
                Boston, Philly: loading bay one.
 
-     <u>EXT. ACE CHEMICAL - THAT MOMENT - NIGHT</u>
+     EXT. ACE CHEMICAL - THAT MOMENT - NIGHT
 
      The BATMOBILE stops short of the main gate. ENGINES ROAR 
      and the supercar ACCELERATES, SMASHING THROUGH THE GATE and 
@@ -6005,7 +5998,7 @@
      factory floor. A THUNDEROUS EXPLOSION tears a gaping hole 
      in the door.
 
-     <u>INT. ACE CHEMICAL - THAT MOMENT - NIGHT</u>
+     INT. ACE CHEMICAL - THAT MOMENT - NIGHT
 
      The BATMOBILE cruises through the flaming wreckage and 
      SKIDS TO A HALT on the refinery floor. The JOKER'S MEN are 
@@ -6016,10 +6009,10 @@
      dome. Within moments, the windshield SHATTERS -- and 
      COLLAPSES ALTOGETHER.
 
-     <u>INT. BATMOBILE - THAT MOMENT</u>
+     INT. BATMOBILE - THAT MOMENT
 
      BULLETS rip through the upholstered passenger seats. It 
-     doesn't matter. The car is empty. <u>No one's driving</u>.
+     doesn't matter. The car is empty. No one's driving.
 
      TRACK IN on the computer console -- where a familiar tinny 
      voice calmly repeats its pre-programmed command:
@@ -6029,7 +6022,7 @@
 
      A beat. Then: BLAM.
 
-     <u>INT. POLICE CAR - THAT MOMENT - NIGHT</u>
+     INT. POLICE CAR - THAT MOMENT - NIGHT
 
      A CONVOY approaches Ace Chemical -- GORDON's team preparing 
      to raid the plant. Inside each car: SPECIAL UNIT COPS 
@@ -6040,7 +6033,7 @@
                               COP
                     Good Lord!
 
-     <u>EXT. ACE CHEMICAL - THAT MOMENT - NIGHT</u>
+     EXT. ACE CHEMICAL - THAT MOMENT - NIGHT
 
      THE JOKER'S MEN running for their lives across the parking 
      lot, KNOCKED FLAT by the force of SIX DEAFENING EXPLOSIONS. 
@@ -6051,7 +6044,7 @@
 
                                                  CUT TO:
 
-     <u>EXT. ANDREWS ISLAND - NIGHT</u>
+     EXT. ANDREWS ISLAND - NIGHT
 
      DAZZLING FIREWORKS explode in the night sky over Gotham 
      Harbor. SEARCHLIGHTS sweep across the mammoth, welcoming 
@@ -6073,7 +6066,7 @@
                is now my honor to unveil for you a
                very special lady -- a lady who
                stands tall for life and liberty --
-               America's <u>favorite</u> lady... LADY
+               America's favorite lady... LADY
                GOTHAM!
 
      The CROWD begins to APPLAUD RHYTHMICALLY, chanting 'LADY 
@@ -6083,8 +6076,8 @@
      hydraulic CRANES kick into gear: CABLES DROP FREE, and the 
      canvas cover draws back from LADY GOTHAM's face... 
 
-     ... to a chorus of SCREAMS from the crowd. <u>LADY GOTHAM IS</u>
-     <u>WEARING A GRISLY JOKER GRIN</u>!!!
+     ... to a chorus of SCREAMS from the crowd. LADY GOTHAM IS
+     WEARING A GRISLY JOKER GRIN!!!
 
      Suddenly -- in the midst of the hysteria -- THE 
      SEARCHLIGHTS DIE. The STAGE LIGHTS BLINK OUT. ANDREWS 
@@ -6096,7 +6089,7 @@
      And across the harbor... block by block... GOTHAM CITY IS 
      GOING DARK.
 
-     <u>EXT. GOTHAM SKIES - AERIAL SHOTS - NIGHT</u>
+     EXT. GOTHAM SKIES - AERIAL SHOTS - NIGHT
 
      QUICK SHOTS of FOUR HELICOPTERS hovering at different 
      points over the blacked-out city. LOUDSPEAKERS blare out a 
@@ -6110,7 +6103,7 @@
      INSANE LAUGHTER echoes. CARGO BAYS open wide. The JOKER'S 
      HELICOPTERS begin LEAFLETING THE CITY... with MONEY!
 
-     <u>SERIES OF SHOTS</u>
+     SERIES OF SHOTS
 
      ANARCHY IN GOTHAM as high-denomination bills flutter to 
      earth, blanketing the streets. HOPELESSLY OUTMANNED COPS 
@@ -6132,13 +6125,13 @@
      and color TV's. LOOTERS break through the display window of 
      an electronics store, and climb in among the goodies... 
      only to FLY OUT, two seconds later, on the wrong end of a 
-     SHOTGUN BLAST. <u>THE JOKER'S DREAM IS COMING TRUE</u>.
+     SHOTGUN BLAST. THE JOKER'S DREAM IS COMING TRUE.
 
-     <u>EXT. STREET - NIGHT</u>
+     EXT. STREET - NIGHT
 
      In a crouch on the pavement, snapping photos of the wild 
-     street action, is VICKI -- fearless, professional, <u>doing</u>
-     <u>her job</u>. A battered FORD ESCORT cruises up behind her.
+     street action, is VICKI -- fearless, professional, doing
+     her job. A battered FORD ESCORT cruises up behind her.
 
                               KNOX
                VICKI!
@@ -6151,7 +6144,7 @@
                girl could get hurt this way.
 
                               VICKI
-               Yeah. <u>Deja vu</u>.
+               Yeah. Deja vu.
 
                               KNOX
                What do you say? Let's head for the
@@ -6160,7 +6153,7 @@
      In the distance, above the tops of the buildings, BEACONS 
      are sweeping the sky.
 
-     <u>EXT. BROAD AVENUE - NIGHT</u>
+     EXT. BROAD AVENUE - NIGHT
 
      Stationed all up and down Gotham's widest thoroughfare are
      huge portable SEARCHLIGHTS -- mounted on trucks with
@@ -6184,7 +6177,7 @@
 
                                                  CUT TO:
 
-     <u>EXT. LAKE - NIGHT</u>
+     EXT. LAKE - NIGHT
 
      A desolate rural setting. UTTER SILENCE. Moonlight glints 
      on placid waters. We track in on a small sign bearing the 
@@ -6192,7 +6185,7 @@
 
      Far off in the distance, HEADLIGHTS ARE APPROACHING.
 
-     <u>EXT. ACCESS ROAD - AERIAL SHOT - MOVING - NIGHT</u>
+     EXT. ACCESS ROAD - AERIAL SHOT - MOVING - NIGHT
 
      The THREE CARGO TRUCKS from Ace Chemical roll ominously 
      TOWARD THE RESERVOIR on their deadly mission. And then -- A 
@@ -6203,7 +6196,7 @@
      EASILY past the trucks, swooping low just long enough to 
      release a BOMB over a concrete bridge.
 
-     <u>EXT. ACCESS ROAD - A MOMENT LATER</u>
+     EXT. ACCESS ROAD - A MOMENT LATER
 
      The BRIDGE EXPLODES, blocking the trucks' path to the 
      reservoir. PUZZLED DRIVERS climb out of their cabs and 
@@ -6215,13 +6208,13 @@
      TRUCKS, firing THREE ARMOR-PIERCING SHELLS... and 
      destroying the JOKER's lethal cargo once and for all.
 
-     <u>ANGLE ON BATMAN</u>
+     ANGLE ON BATMAN
 
      in the cockpit, his jaw set, not even looking back at the 
      wreckage as his plane screams off toward the Gotham 
      skyline.
 
-     <u>EXT. GOTHAM STREET - NIGHT</u>
+     EXT. GOTHAM STREET - NIGHT
 
      FRIGHTENED PEDESTRIANS race past OVERTURNED CARS. A PARADE 
      FLOAT, run aground on the sidewalk, begins to BURN.
@@ -6231,7 +6224,7 @@
      itself, sinking down gently toward the flames. Down the 
      street, KNOX'S FORD ESCORT is coming up fast.
 
-     <u>INT. FORD - MOVING - THAT MOMENT</u>
+     INT. FORD - MOVING - THAT MOMENT
 
      VICKI snapping photos out the window as UNDERDOG drifts 
      downward. FLAMES lick up at his belly -- and the cartoon 
@@ -6246,13 +6239,13 @@
                               VICKI
                ALLIE!! THE WINDOWS!!
 
-     <u>EXT. STREET - A MOMENT LATER - NIGHT</u>
+     EXT. STREET - A MOMENT LATER - NIGHT
 
      The Ford Escort, windows up, swerves out of a THICK 
      SPREADING CLOUD of GREEN LAUGHING GAS -- threatening to 
      engulf the entire block!
 
-     <u>INT. FORD - MOVING - THAT MOMENT</u>
+     INT. FORD - MOVING - THAT MOMENT
 
                               KNOX
                WHAT HAPPENED?!?
@@ -6261,21 +6254,21 @@
      the street, THE JOKER'S PROCESSION: BALLOONS BY THE DOZEN!
 
                               VICKI
-               Oh my God. <u>Compressor tanks</u>. He's
+               Oh my God. Compressor tanks. He's
                got the balloons rigged with
-               <u>compressor tanks</u>!!
+               compressor tanks!!
 
                               KNOX
                Jesus Christ, the guy's a genius.
 
-     <u>INT. BATWING - THAT MOMENT - NIGHT</u>
+     INT. BATWING - THAT MOMENT - NIGHT
 
      BATMAN, at the controls, gliding over the Gotham streets. 
      He looks down, sees a BILLOWING HAZE of DENSE GREEN FUMES. 
      At its periphery: LOOTERS reeling and staggering, falling 
      to the pavement, LAUGHING THEMSELVES TO DEATH.
 
-     <u>INT. FORD - MOVING - THAT MOMENT</u>
+     INT. FORD - MOVING - THAT MOMENT
 
      VICKI staring through the windshield. Overhead, an AIRCRAFT 
      streaks past... an aircraft with SCALLOPED BLACK BAT WINGS.
@@ -6287,7 +6280,7 @@
                find some way to tell him!
 
                               KNOX
-               Great. <u>How</u>??
+               Great. How??
 
      They speed up the street toward the PARADE. SPOTLIGHTS 
      SHINE. Suddenly KNOX's eyes bug out. He SLAMS ON THE BRAKES 
@@ -6296,7 +6289,7 @@
                               KNOX (cont.)
                COME ON!
 
-     <u>EXT. AVENUE - A SECOND LATER - NIGHT</u>
+     EXT. AVENUE - A SECOND LATER - NIGHT
 
      Before VICKI can speak, KNOX has grabbed a tire iron from 
      the back of the car and RACED OUT ONTO THE STREET. He 
@@ -6311,7 +6304,7 @@
      DASHES MANIACALLY UP THE SIDEWALK.
 
      Waving the cape, he VAULTS onto the back of a SPOTLIGHT 
-     TRUCK. VICKI's face goes slack. <u>Now she gets it</u>.
+     TRUCK. VICKI's face goes slack. Now she gets it.
 
                               KNOX
                GIMME A HAND UP HERE!
@@ -6320,17 +6313,17 @@
      the spotlight. Then they put their shoulders to the swivel 
      assembly -- tilting the spotlight -- AIMING THE BEAM... 
 
-     ... <u>DIRECTLY AT THE JOKER'S WHITE CLOWN BALLOON</u>!!!
+     ... DIRECTLY AT THE JOKER'S WHITE CLOWN BALLOON!!!
 
-     <u>INT. BATWING - THAT MOMENT</u>
+     INT. BATWING - THAT MOMENT
 
      BATMAN stares at the CLOWN BALLOON dead ahead. On its 
      massive distended belly... a BURNING YELLOW OVAL. And in 
      the center of the oval... THE BLACK SILHOUETTE OF A BAT.
 
-     BATMAN'S MOUTH drops open. <u>He understands</u>.
+     BATMAN'S MOUTH drops open. He understands.
 
-     <u>EXT. AVENUE - ON JOKER'S FLOAT - THAT MOMENT</u>
+     EXT. AVENUE - ON JOKER'S FLOAT - THAT MOMENT
 
      THE JOKER reaches into a big sack and begins distributing 
      MINIATURE GAS MASKS, like party favors, to his cronies on 
@@ -6351,14 +6344,14 @@
                               JOKER
                No... NOOOOO!!!
 
-     <u>ANGLE ON CLOWN BALLOON</u>
+     ANGLE ON CLOWN BALLOON
 
      as it rises, rises, swelling to grotesque proportions in 
      the starless night. The tallest buildings are far below it 
      now. Finally it BURSTS -- and the deadly GAS inside it 
      disperses harmlessly in the wind.
 
-     <u>EXT. AVENUE - THAT MOMENT</u>
+     EXT. AVENUE - THAT MOMENT
 
      THE JOKER on the edge of a tantrum as he digs amid the 
      rubble of his float for the remote device. At last he finds 
@@ -6366,7 +6359,7 @@
      hits a button repeatedly... 
 
      ... and HOWLS IN FRUSTRATION. Nothing's happening. The 
-     damned thing is <u>broken</u>. He heaves it to the street in a
+     damned thing is broken. He heaves it to the street in a
      fit of pique.
 
      A SCREAMING COMES ACROSS THE SKY as the BATWING swings back 
@@ -6381,9 +6374,9 @@
      THE MAKESHIFT BAT-SIGNAL.
 
                               JOKER
-               There. <u>There</u>. -- GET 'EM!!
+               There. There. -- GET 'EM!!
 
-     <u>ANGLE ON SPOTLIGHT TRUCK</u>
+     ANGLE ON SPOTLIGHT TRUCK
 
      A SPRAY OF MACHINE-GUN FIRE shatters the Bat-signal. KNOX 
      throws VICKI to the street, ducks down behind the 
@@ -6399,7 +6392,7 @@
 
      GUNFIRE as KNOX jumps inside and they PEEL OUT.
 
-     <u>INT. FORD ESCORT - MOVING - A MOMENT LATER</u>
+     INT. FORD ESCORT - MOVING - A MOMENT LATER
 
      KNOX's breathing is ragged, but he breaks out in HYSTERICAL 
      LAUGHTER nonetheless. The two of them are totally 
@@ -6417,13 +6410,13 @@
 
                               VICKI
                      (laughing wildly)
-               God <u>yes</u>, Allie. I've gotta say --
+               God yes, Allie. I've gotta say --
                that was the ballsiest move I
                ever --
 
                               KNOX
                      (ecstatic)
-               Holy <u>shit</u>. Holy --
+               Holy shit. Holy --
 
      He GURGLES. AN ENORMOUS GOUT OF BLOOD bubbles up between 
      his lips -- and BURSTS.
@@ -6441,11 +6434,11 @@
      slams on the brakes. She sits there in the middle of the 
      street, POUNDING THE WHEEL, TEARS pouring down her face.
 
-     <u>EXT. GOTHAM HARBOR - NIGHT</u>
+     EXT. GOTHAM HARBOR - NIGHT
 
      In the sky, CARTOON CHARACTERS drift lazily out to sea.
 
-     <u>EXT. BROAD AVENUE - NIGHT</u>
+     EXT. BROAD AVENUE - NIGHT
 
      THE JOKER and his boys running like hell down the avenue, 
      past the parade. They reach the last of the floats -- the 
@@ -6458,7 +6451,7 @@
 
      A ROSE-COVERED TANK is rumbling up Broad Avenue!
 
-     <u>INT. BATWING - THAT MOMENT</u>
+     INT. BATWING - THAT MOMENT
 
      BATMAN sweeps past overhead. He sees the tank, unleashes a 
      burst of LASER FIRE. It bounces harmlessly off the tank, 
@@ -6466,35 +6459,35 @@
      low overhead, hits a button on his control panel as he 
      streaks OVER THE TANK and into firing range.
 
-     <u>INT. TANK - THAT MOMENT</u>
+     INT. TANK - THAT MOMENT
 
      THE JOKER and his MEN clap hands to their ears as an EAR-
      SPLITTING ULTRASONIC SHRIEK reverberates in the tank. The 
-     JOKER screams out commands, to no avail. No one can <u>hear</u>
+     JOKER screams out commands, to no avail. No one can hear
      him. He falls on the controls, begins hitting buttons.
 
-     <u>EXT. STREET - THAT MOMENT</u>
+     EXT. STREET - THAT MOMENT
 
      The TANK TURRET swings wildly. A HEAT-SEEKING MISSILE rips 
      through the night, narrowly missing the BATWING... and 
      BLOWING A HOLE in the side of a skyscraper.
 
-     <u>INT. BATWING - THAT MOMENT</u>
+     INT. BATWING - THAT MOMENT
 
      THE BLAST all but knocks the BATWING out of the sky. BATMAN 
      stabilizes the plane, climbs for the clouds. When he's 
      clear of the buildings, he grits his teeth and rolls out.
 
-     <u>He's coming back for more</u>!
+     He's coming back for more!
 
-     <u>INT. TANK - THAT MOMENT</u>
+     INT. TANK - THAT MOMENT
 
      The JOKER stares at a tiny BLIP on his radar screen.
 
                               JOKER
                He'll be back... he'll be back!!
 
-     <u>EXT. BROAD AVENUE - ON BATWING</u>
+     EXT. BROAD AVENUE - ON BATWING
 
      The black ultralight hurtles down Broad Avenue at full 
      speed, on a suicide mission. MISSILES streak past on either 
@@ -6512,7 +6505,7 @@
      the bombs go off -- and BROAD AVENUE BEGINS TO SPLIT WIDE 
      OPEN!
 
-     <u>INT. SUBWAY TUNNEL - THAT MOMENT</u>
+     INT. SUBWAY TUNNEL - THAT MOMENT
 
      BROKEN CONCRETE SLABS rain down on a SUBWAY CAR stalled in 
      the tunnel DIRECTLY BENEATH BROAD AVENUE. SUPPORT GIRDERS 
@@ -6520,7 +6513,7 @@
      the front end of the TANK drops through, CRUSHING THE 
      SUBWAY TRAIN BENEATH IT!
 
-     <u>EXT. BROAD AVENUE - THAT MOMENT - NIGHT</u>
+     EXT. BROAD AVENUE - THAT MOMENT - NIGHT
 
      The rear end of the TANK projects out through the rubble. A 
      hatch pops open. The JOKER crawls out through the smoke and 
@@ -6532,7 +6525,7 @@
      tunnel.
 
                               JOKER
-               <u>You</u> do him. I'm outta here.
+               You do him. I'm outta here.
 
      The GOONS look on in dismay as the JOKER scurries off. They 
      sidestep blackened debris and move up cautiously on the 
@@ -6553,7 +6546,7 @@
      one left standing is a fifteen-year-old boy garbed in a 
      red-and-green aerialist's uniform... DICK GRAYSON.
 
-     <u>INT. BATWING - THAT MOMENT</u>
+     INT. BATWING - THAT MOMENT
 
      BATMAN slumps at the controls. Beneath him, asphalt SHIFTS 
      and BUCKLES. The Batwing lurches to the right, drops a foot 
@@ -6571,7 +6564,7 @@
      wreckage. He gets an arm around BATMAN's chest and with an 
      extraordinary effort HAULS HIM OUT OF THE BATWING.
 
-     <u>EXT. STREET - A MOMENT LATER - NIGHT</u>
+     EXT. STREET - A MOMENT LATER - NIGHT
 
      They stagger across the ruptured street. BATMAN grimaces in 
      agony. His right leg -- shattered -- is like rubber beneath 
@@ -6584,7 +6577,7 @@
                How did you... 
 
                               DICK
-               I <u>hitched</u>. MOVE IT!
+               I hitched. MOVE IT!
 
      DICK drags BATMAN to safety as the Batwing ERUPTS INTO 
      FLAME behind them.
@@ -6595,7 +6588,7 @@
                               DICK
                Forget it. Relax.
                      (beat)
-               ... He's <u>mine now</u>.
+               ... He's mine now.
 
      DICK snatches an abandoned .38 off the pavement.
 
@@ -6608,7 +6601,7 @@
      He collapses on the pavement, powerless to intervene, as 
      DICK races off with murder in his eyes.
 
-     <u>EXT. GOTHAM CATHEDRAL - NIGHT</u>
+     EXT. GOTHAM CATHEDRAL - NIGHT
 
      A BELLTOWER's jagged spire, jutting up into the night sky, 
      piercing the moon. Down at street level, the JOKER is 
@@ -6622,7 +6615,7 @@
      forces his way inside. A beat. Then DICK GRAYSON appears, 
      hot on his trail, sprinting up the steps two at a time.
 
-     <u>INT. CATHEDRAL - A MOMENT LATER - NIGHT</u>
+     INT. CATHEDRAL - A MOMENT LATER - NIGHT
 
      Ancient and creepy. A huge pipe organ, shattered stained
      glass windows, row after row of mahogany pews... all 
@@ -6648,7 +6641,7 @@
      BLACK GHOST begins his final unholy march down the center 
      aisle of the old cathedral.
 
-     <u>INT. CATHEDRAL - BELLTOWER - NIGHT</u>
+     INT. CATHEDRAL - BELLTOWER - NIGHT
 
      A tiny stone chamber, 8'x8', open on four sides to the 
      wind. The enormous church bell has long since been removed.
@@ -6659,7 +6652,7 @@
                               JOKER
                I'm in the belltower. Don't land.
 
-     <u>INT. HELICOPTER - MOVING - NIGHT</u>
+     INT. HELICOPTER - MOVING - NIGHT
 
      A PILOT replies through his radio headset.
 
@@ -6668,10 +6661,10 @@
 
      The PILOT swings the copter right in a wide, swooping arc.
 
-     <u>INT. STAIRWAY TO BELLTOWER - THAT MOMENT - NIGHT</u>
+     INT. STAIRWAY TO BELLTOWER - THAT MOMENT - NIGHT
 
      BATMAN. Broken, beaten, his right leg useless, he hauls 
-     himself up the steps one at a time. <u>He should be dead</u>.
+     himself up the steps one at a time. He should be dead.
      Dried blood cakes his face, his chest.
 
      Dizzy, exhausted, his body strained to the limit, he slumps 
@@ -6710,7 +6703,7 @@
 
      THE BATMAN is out like a light.
 
-     <u>INT. BELLTOWER - THAT MOMENT - NIGHT</u>
+     INT. BELLTOWER - THAT MOMENT - NIGHT
 
      The JOKER glances casually down at the trapdoor, wondering 
      what all the noise is about. He draws his gun, moves 
@@ -6759,7 +6752,7 @@
 
                               JOKER (cont.)
                My goodness, what in the world made
-               you <u>do it</u>? It must've been
+               you do it? It must've been
                something pretty terrible!
 
      He's practically dancing now. He's made a friend.
@@ -6804,7 +6797,7 @@
      is momentarily amused by this seeming display of affection.
 
                               JOKER (cont.)
-               Why, <u>Bruce</u>... 
+               Why, Bruce... 
 
      Then he hears ticking.
 
@@ -6819,7 +6812,7 @@
      BRUCE is wearing a great big Joker smile.
 
                               JOKER (cont.)
-               <u>IT'S NOT FUNNY</u>!!!
+               IT'S NOT FUNNY!!!
 
                               BRUCE
                No... sense... of humor?
@@ -6835,49 +6828,49 @@
      the trapdoor. He races over, flings it open, starts down 
      the stairs in a frenzy.
 
-     <u>There are no stairs</u>. They've collapsed. 0:16 and 
+     There are no stairs. They've collapsed. 0:16 and 
      counting.
 
      Screaming insanely, the JOKER vaults through the door and 
      makes for the open stone archway. The copter is directly 
      overhead now. A rope ladder drops from its belly.
 
-     <u>EXT. BELLTOWER - THAT MOMENT</u>
+     EXT. BELLTOWER - THAT MOMENT
 
      The helicopter descends, its whirling blades stirring up a 
      windstorm on the roof of the old abandoned cathedral. DEAD 
      LEAVES rise and swirl in the churning air.
 
-     <u>INT. BELLTOWER</u>
+     INT. BELLTOWER
 
      The JOKER makes a futile grab at the rope ladder, almost 
      losing his purchase on the archway parapet. He gestures 
      wildly for the copter to make another pass. 0:12 to go.
 
-     <u>EXT. BELLTOWER</u>
+     EXT. BELLTOWER
 
      A maelstrom of swirling leaves. And now, among the leaves 
      -- roused from their resting place in the rotten rafters of 
      the old cathedral --
 
-     -- A HORDE OF SQUEALING, CHITTERING <u>BATS</u>!! Filling the air 
-     like a black cloud, <u>HUNDREDS OF THEM</u>, taking flight in
+     -- A HORDE OF SQUEALING, CHITTERING BATS!! Filling the air 
+     like a black cloud, HUNDREDS OF THEM, taking flight in
      blind uncomprehending fury --
 
-     <u>INT. BELLTOWER</u>
+     INT. BELLTOWER
 
      The JOKER leaps into empty space, grabs hold of the ladder, 
      cackles in mad triumph --
 
      -- AND SUDDENLY THE BELLTOWER IS FULL OF BATS. A SCREECHING 
      SWARM, HIDEOUS, BLACK-WINGED -- SWOOPING THROUGH THE 
-     ARCHWAYS <u>DIRECTLY AT</u> THE JOKER --
+     ARCHWAYS DIRECTLY AT THE JOKER --
 
      -- WHO SCREAMS IN TERROR -- LETS GO OF THE LADDER --
 
      -- and plunges into the night.
 
-     <u>TIGHT ON BATMAN</u>. Six seconds remain. <u>There is still time</u> if 
+     TIGHT ON BATMAN. Six seconds remain. There is still time if 
      he makes his choice now.
 
      Surrounded by the flapping of leathery wings, his body 
@@ -6886,7 +6879,7 @@
 
      It snags on the bottom rung of the dangling rope ladder.
 
-     <u>INT. HELICOPTER - POV CO-PILOT</u>
+     INT. HELICOPTER - POV CO-PILOT
 
      The CO-PILOT is hanging out one side of the copter, just 
      enough to see what's going on.
@@ -6894,7 +6887,7 @@
                               CO-PILOT
                PULL UP!! PULL --
 
-     <u>EXT. CHURCHYARD - OVERHEAD ANGLE</u>
+     EXT. CHURCHYARD - OVERHEAD ANGLE
 
      It's as if time has stopped. The world has grown suddenly 
      silent. We're looking down at the JOKER, whose body lies 
@@ -6906,13 +6899,13 @@
      Sad clown, A-one crazy boy, staring aimlessly at the stars. 
      Suddenly his face is bathed in a brilliant gasoline GLOW.
 
-     <u>POV JOKER</u>
+     POV JOKER
 
      Looking up he sees a beautiful display of fireworks, 
      bursting and burning, spirals of color snaking through the 
      sky as the helicopter explodes in eerie silence.
 
-     <u>REVERSE ANGLE - THE JOKER'S FACE</u>
+     REVERSE ANGLE - THE JOKER'S FACE
 
      It's all so lovely. The JOKER's expression is happy, almost 
      childlike, as he gazes up at this private show. Gradually, 
@@ -6922,7 +6915,7 @@
 
                                                FADE THROUGH TO:
 
-     <u>INT. TELEVISION STUDIO - NIGHT</u>
+     INT. TELEVISION STUDIO - NIGHT
 
      AN ANCHORWOMAN delivering an oncamera EDITORIAL.
 
@@ -6935,7 +6928,7 @@
                alive -- if you're listening --
                thank you.
 
-     <u>EXT. CEMETERY - DAY</u>
+     EXT. CEMETERY - DAY
 
      VICKI at a fresh gravesite. She places a FLORAL ARRANGEMENT 
      in the urn at the head of the grave; stands back to examine 
@@ -6950,7 +6943,7 @@
 
      The headstone reads: "ALEXANDER KNOX, 1956-1987."
 
-     <u>INT. WAYNE MANOR - STUDY - DAY</u>
+     INT. WAYNE MANOR - STUDY - DAY
 
      ALFRED, in his apron, on the phone.
 
@@ -6958,7 +6951,7 @@
                No, Mr. Wayne is in Thailand. I'm
                afraid he's quite unreachable.
 
-     <u>INT. WAYNE MANOR - DAY</u>
+     INT. WAYNE MANOR - DAY
 
      The glass-enclosed room which houses BRUCE's Olympic-sized 
      SWIMMING POOL. Outside, snow is falling.
@@ -6976,8 +6969,8 @@
 
                               VICKI
                      (grasping for words)
-               I don't, but... I <u>do</u>. It's just... I
-               <u>love</u> you, Bruce. I --
+               I don't, but... I do. It's just... I
+               love you, Bruce. I --
 
                               BRUCE
                      (taking her hand)
@@ -6998,10 +6991,10 @@
 
                               BRUCE
                I don't know how to explain this so
-               it makes sense... but <u>you</u> saved
-               <u>me</u>.
+               it makes sense... but you saved
+               me.
 
-     <u>INT. BATCAVE - THAT MOMENT - DAY</u>
+     INT. BATCAVE - THAT MOMENT - DAY
 
      DICK GRAYSON stands at the brink of the bottomless pit and 
      looks up at the GYMNAST'S RINGS suspended overhead. He sets 
@@ -7017,7 +7010,7 @@
 
                                                  CUT TO:
 
-     <u>EXT. ROOFTOP - GOTHAM CITY - NIGHT</u>
+     EXT. ROOFTOP - GOTHAM CITY - NIGHT
 
      A dark, moonless night. LIGHTS OF THE CITY sparkle in the 
      distance. CAMERA DRIFTS across the rooftop, settling 
@@ -7040,7 +7033,3 @@
 
 
    
-
-
-
-</body></html>

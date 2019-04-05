@@ -1,13 +1,3 @@
-<html>
-<head>
-<script>
-<!--
-if (window!= top)
-top.location.href=location.href
-// -->
-</script>
-<title>TOMBSTONE</title>
-</head>
 
 
 
@@ -7308,5 +7298,3 @@ HOLD on these two images as the music swells and we....
 THE END
 
 
-
-</html>

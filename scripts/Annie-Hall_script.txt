@@ -1,13 +1,3 @@
-<html>
-<head>
-<script>
-<!--
-if (window!= top)
-top.location.href=location.href
-// -->
-</script>
-<title>ANNIE HALL</title>
-</head>
 
 
 					ANNIE HALL
@@ -7392,5 +7382,3 @@ credits popping on and off in white.
 
 
 
-
-</html>

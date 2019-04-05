@@ -2,17 +2,6 @@
 
 
 
-<html>
-
-<head>
-   <title>Gattaca, early draft, by Andrew M Niccol</title>
-</head>
-<body bgcolor="#FFFFFF">
-   <p>
-   
-
-
-
 
 
 
@@ -5687,6 +5676,3 @@
 
 
      
-
-
-</p></body></html>

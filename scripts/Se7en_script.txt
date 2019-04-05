@@ -1,11 +1,4 @@
-<html>
-
-<head>
-   <title>"Seven", unproduced draft, by Andrew Kevin Walker</title>
-</head>
-
-<body bgcolor="#FFFFFF">
-    
+ 
 
 
 
@@ -460,7 +453,7 @@
 
                                   SOMERSET
                    But, you've never worked homicide in
-                   <u>this</u> city.
+                   this city.
 
                                   MILLS
                    I realize that.
@@ -876,7 +869,7 @@
                    You've worked Homicide for four years,
                    or for five years...
                    Don't count the half-years, unless you
-                   <u>want</u> to sound like a rookie.
+                   want to sound like a rookie.
 
      Mills unloads a mighty wallop and one practice pad recoils into
      Somerset's face, knocks Somerset on his ass.
@@ -1505,7 +1498,7 @@
                    He uses colors and symbols.  He
                    positions the bodies after death, so
                    he's working with composition.  It's
-                   been premeditated <u>so</u> meticulously... and
+                   been premeditated so meticulously... and
                    this is just the beginning.
 
                                  CAPTAIN
@@ -1519,7 +1512,7 @@
                    The rats and the pennies.  The circle
                    and the triangle on the wall.  There's
                    something about them... these murders
-                   <u>mean</u> something.
+                   mean something.
 
                                  CAPTAIN
                    So?  What?
@@ -1574,7 +1567,7 @@
                                  CAPTAIN
                    I don't have anyone else to give this
                    to, Somerset.  And nobody's going to
-                   <u>swap</u> with you.
+                   swap with you.
 
                                  MILLS
                    Give it to me, then.  There's nothing
@@ -1624,7 +1617,7 @@
      The vendor lays out another tabloid pile.  Headline: "GIVE ME MY
      POUND OF FLESH," SAYS BLOODTHRISTY KILLER, in big, red letters.
      The vendor places a third pile beside the others:  SICKENING
-     MURDERS - <u>EXCLUSIVE DETAILS INSIDE</u>!!!
+     MURDERS - EXCLUSIVE DETAILS INSIDE!!!
 
 
      INT.  PRECINCT HOUSE, SOMERSET'S OFFICE -- MORNING
@@ -1774,7 +1767,7 @@
 
      A framed photo of a falsely pretty, middle-aged woman smiling
      and wearing pearls.  Under the glass, on the photo itself,
-     <u>circles have been drawn in blood around the woman's eyes</u>.
+     circles have been drawn in blood around the woman's eyes.
 
 
      EXT.  CITY STREETS, DOWNTOWN -- NIGHT
@@ -3287,7 +3280,7 @@ ette to the empty street, watching the
 
                                  FORENSIC (CONT)
                    ...just by studying the underloop...
-                   these are <u>not</u> the victim's prints.
+                   these are not the victim's prints.
 
 
      INT.  PRECINCT HOUSE, PRINT LAB -- NIGHT
@@ -4125,7 +4118,7 @@ ette to the empty street, watching the
                                  BLEEKER
                    Allegations were made... Stone was
                    accused of abusing the children in his
-                   care.  But, those charges were <u>never</u>
+                   care.  But, those charges were never
                    substantiated.
 
                                  SOMERSET
@@ -4313,7 +4306,7 @@ ette to the empty street, watching the
      Father Bleeker finds this talk insulting and offensive.
 
                                  BLEEKER
-                   You have <u>no</u> faith, Somerset?  Have you
+                   You have no faith, Somerset?  Have you
                    given up on the church entirely?
 
                                  SOMERSET
@@ -4525,7 +4518,7 @@ ette to the empty street, watching the
                    Toxicology... The Encyclopedia of Modern
                    Serial Killers...
                            (looks up, excited)
-                   Of <u>Human Bondage</u>.
+                   Of Human Bondage.
 
                                  SOMERSET
                    That's not what you think it is.
@@ -6798,7 +6791,7 @@ ette to the empty street, watching the
                    read the Bible, have you, David?
 
                                  MILLS
-                   I remember a lot of people reading it <u>at</u>
+                   I remember a lot of people reading it at
                    me when I was a kid.  I preferred the
                    classic comic version myself.
 
@@ -7048,7 +7041,7 @@ ette to the empty street, watching the
 
      INT.  WAREHOUSE ALLEYWAY -- NIGHT
 
-     Mills stands facing the <u>open manhole cover</u> Doe disappeared into.
+     Mills stands facing the open manhole cover Doe disappeared into.
 
      A torrent of water rushes by underground.  Mills fires a few
      futile shots into the water, out of his mind with rage.  He
@@ -7322,7 +7315,7 @@ ette to the empty street, watching the
 
                                  JOHN DOE (CONT)
                    But, I don't mourn the victims in this
-                   any more than I mourn the <u>thousands</u> who
+                   any more than I mourn the thousands who
                    died in Sodom and Gomorrah.
 
      Somerset looks fearful.  He starts approaching again.
@@ -7822,8 +7815,3 @@ ette to the empty street, watching the
 
 
    
-
-
-
-
-</body></html>

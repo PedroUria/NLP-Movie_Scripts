@@ -1,11 +1,4 @@
-<html>
 
-<head>
-   <title>"The Relic", early draft, by Amy Holden Jones</title>
-</head>
-
-<body bgcolor="#FFFFFF">
-   
 
 
 
@@ -176,7 +169,7 @@
      KNIFE, and unexpectedly puts it to HIS OWN NECK.  Better to kill
      himself than face what comes next.  The knife touches... 
 
-     A <u>NECKLACE of TWO ARROWS</u>, one gold, another silver.
+     A NECKLACE of TWO ARROWS, one gold, another silver.
 
      Whittlesley stares wide-eyed into the blackness of the hold.  The goats
      start BLEATING in blind panic.  A shaft of moonlight comes through a
@@ -284,7 +277,7 @@
      terror.  Flies congregate in the eye sockets.  With his foot, Pendergast
      nudges the body over.  The skull has been torn open.
 
-     <u>THERE IS NO BACK TO FRANCO'S HEAD</u>.
+     THERE IS NO BACK TO FRANCO'S HEAD.
 
      FADE TO BLACK:
 
@@ -295,7 +288,7 @@
 
      FADE IN:
 
-     ON A <u>NECKLACE of TWO ARROWS</u>, one of gold, the other silver.  The twin
+     ON A NECKLACE of TWO ARROWS, one of gold, the other silver.  The twin
      to the one seen on Whittlesley.  Widen to... 
 
      EXT. ROOFTOP GARDEN - MARGO'S NEW YORK APARTMENT - MORNING
@@ -544,7 +537,7 @@
                               BEAUREGARD
                     No one broke into this room, sir.
                     Someone broke out.  That lock was
-                    torn off from the <u>inside</u>.
+                    torn off from the inside.
 
      Cuthbert glances at the evil face of Mbwun, pales.  As he exits, HOLD
      ON BEAUREGARD, left alone with the crates.
@@ -1045,7 +1038,7 @@
 
      Several COPS stand guard as DETECTIVE VINCE D'AGOSTA goes over the
      area.  He is a round, balding, man with an unmistakable air of
-     authority.  A modern knight in shining armor in disguise... <u>deep</u>
+     authority.  A modern knight in shining armor in disguise... deep
      disguise.  He has on a cheap polyester short sleeved shirt.  His t-shirt
      is plainly visible underneath.  On his worn plastic belt is a badge.
 
@@ -1116,7 +1109,7 @@
                     likely suspect.
 
      The photographer is finally ready and he floods the dark room with
-     light.  And now everyone (but not <u>us</u>) gets a very clear look at the
+     light.  And now everyone (but not us) gets a very clear look at the
      body.
 
      THE PHOTOGRAPHER... spits out his donut.  His eyes roll up and he drops
@@ -2723,8 +2716,8 @@
                     with claw marks, just like the door.
 
      As D'Agosta studies the lid, a brittle, water damaged envelope slips
-     out.  D'Agosta picks it up.  The envelope bears an imprint of <u>TWO</u>
-     <u>ARROWS, one silver overlaid with another of GOLD</u>.
+     out.  D'Agosta picks it up.  The envelope bears an imprint of TWO
+     ARROWS, one silver overlaid with another of GOLD.
 
                               D'AGOSTA
                     Look.  It's some kind of letter.
@@ -5793,7 +5786,7 @@
      Oddly enough, the beast pauses for once.  Talking to the damn thing is
      the one tactic no one has tried!  The claw halts in mid-air.  The beast
      blinks once and looks from Pendergast to Margo.  Margo sees a flash of
-     something <u>unexpectedly HUMAN</u>in its eyes!  In astonishment, she
+     something unexpectedly HUMANin its eyes!  In astonishment, she
      whispers... 
 
                               MARGO
@@ -5869,7 +5862,7 @@
 
      And in that split moment Margo looks down... 
 
-     <u>A NECKLACE OF SILVER</u> gleams around the beast's throat too!  The
+     A NECKLACE OF SILVER gleams around the beast's throat too!  The
      necklace is the twin to her own!
 
      ON MARGO... Can it be possible?  She stares at the thing... 
@@ -6269,6 +6262,3 @@
 
 
    
-
-
-</body></html>

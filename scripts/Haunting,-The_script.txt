@@ -1,18 +1,11 @@
-<html>
-
-<head>
-   <title>"The Haunting", production draft, revised by Michael Tolkin</title>
-</head>
-
-<body bgcolor="#FFFFFF">
-   
 
 
 
 
 
 
-                     <u>THE HAUNTING OF HILL HOUSE</u>
+
+                     THE HAUNTING OF HILL HOUSE
 
 
 
@@ -1048,8 +1041,8 @@
      the door after her.
 
      Nell stands there a long moment, the room silent, heavy, old.  She 
-     goes to the windows, peers out.  Nothing but forest for miles.  <u>The</u>
-     <u>sun is setting</u>.
+     goes to the windows, peers out.  Nothing but forest for miles.  The
+     sun is setting.
 
      Nell removes her windbreaker, opens her suitcase, takes out a 
      blouse and skirt.  Decent enough clothes, but cheap, the tags still 
@@ -1586,7 +1579,7 @@
                    Well... we're glad to have you.
 
      His smile is devastating.  Nell reddens, instantly taken by Marrow's
-     warmth, observant sensitivity.  <u>Theo notices</u>.
+     warmth, observant sensitivity.  Theo notices.
 
                                MARROW
                    Have either of you seen David 
@@ -1702,7 +1695,7 @@
                    What?
 
                                LUKE
-                   <u>Every</u> year is a good year.
+                   Every year is a good year.
 
                                MARROW
                    Theo?  It's your turn.
@@ -1940,7 +1933,7 @@
 
                                MARROW
                    There were no children.  Rene 
-                   died, and <u>then</u> Hugh Crain built
+                   died, and then Hugh Crain built
                    all of this, and then he died.  
                    His heart was broken.
 
@@ -2070,7 +2063,7 @@
                    his beautiful Rene killed herself.
 
                                THEO
-                   And why didn't Marrow tell <u>us</u>?
+                   And why didn't Marrow tell us?
                    Doesn't he trust women?  That 
                    fuck.
 
@@ -2265,7 +2258,7 @@
      Nell and Theo stare out AT US in terror.  BUMP.  BUMP.  BUMP.  BUMP.
 
      Nell and Theo's eyes travel over the walls, following whatever it is
-     which now seems to be <u>moving out here in the theater</u>.
+     which now seems to be moving out here in the theater.
 
      The SOUND moves along the wall to the right, reaching its loudest as
      it crosses the back of the theater, then seems to come down the left
@@ -3969,7 +3962,7 @@
 
                                THEO
                    Marrow said the same thing as last 
-                   night, he <u>says</u> --
+                   night, he says --
                           (meaning, this is
                            on his now
                            doubtful word)
@@ -4235,7 +4228,7 @@
 
      Nell turns the page yet again.
 
-     <u>But something is wrong</u>.  It is another image of Carolyn and the
+     But something is wrong.  It is another image of Carolyn and the
      kinder, gentler Crain, but now it is Carolyn who is unsmiling.
 
      Another page.  Another.  Carolyn's face darkening.  And in this 
@@ -4905,7 +4898,7 @@
 
      Her reflected self begins to SMILE.  But SHE'S NOT SMILING!  Nell
      writhes in horror, but can't pull away from the mirror.  In it, her
-     GRIN WIDENS, INSANE.  <u>The bottom half of her face is someone else's</u>.
+     GRIN WIDENS, INSANE.  The bottom half of her face is someone else's.
 
      BANG!  Nell recoils.  The sound breaks the spell, knocking Nell back
      from the mirror.
@@ -4920,7 +4913,7 @@
      following her has taken a wrong turn.
 
      Another mirror on the wall.  Nell glimpses herself in it.  This time
-     <u>her EYES are someone else's</u>, lit with insanity.
+     her EYES are someone else's, lit with insanity.
 
      Nell backs away, through doors into --
 
@@ -5634,7 +5627,7 @@
      Against the wall.  A bed covered in a sheet.  A table beside it.  A 
      HAND BELL.  A CANE.
 
-     <u>Just like Nell's sick room at home</u>.  Nell realizes it, covers her
+     Just like Nell's sick room at home.  Nell realizes it, covers her
      mouth.
 
      The furniture is in EXACTLY the same position, though the sheets
@@ -6231,7 +6224,7 @@
                                NELL (cont'd)
                    When you came in the door?  I bet 
                    that was the last thing you 
-                   expected.  Right?  From <u>Carolyn</u>?
+                   expected.  Right?  From Carolyn?
                           (beat)
                    You thought, oh, Carolyn, I've 
                    taken it all out of her, you 
@@ -6472,6 +6465,3 @@
 
 
    
-
-
-</body></html>

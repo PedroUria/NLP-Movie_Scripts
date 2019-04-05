@@ -1,13 +1,3 @@
-<html>
-<head>
-<script>
-<!--
-if (window!= top)
-top.location.href=location.href
-// -->
-</script>
-<title>"PET SEMATARY" by Stephen King</title>
-</head>
 
 
 
@@ -7364,6 +7354,3 @@ TOLLING CONCLUDES: Eleven...twelve...
 FADE OUT ON THE SOUND OF CRICKETS.
 
 
-
-
-</html>

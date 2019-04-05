@@ -1,11 +1,3 @@
-<html>
-
-<head>
-   <title>"The Limey," production draft, by Lem Dobbs</title>
-</head>
-
-<body bgcolor="#ffffff">
-   
 
 
 
@@ -17,7 +9,8 @@
 
 
 
-                               <u>THE LIMEY</u>
+
+                               THE LIMEY
 
 
                                    by
@@ -91,7 +84,7 @@
 
      WHOOSH!  The sound of automatic doors opening and --
 
-     <u>EXT. ARRIVALS TERMINAL.  L.A. AIRPORT.  AFTERNOON.</u>
+     EXT. ARRIVALS TERMINAL.  L.A. AIRPORT.  AFTERNOON.
 
      WILSON steps out into the late sunlight and the heat of the
      day.  A slow-motion moment while he gets acclimatized.  He
@@ -104,13 +97,13 @@
 
                                                                CUT.
 
-     <u>EXT. MOTEL.  EVENING.</u>
+     EXT. MOTEL.  EVENING.
 
      Wilson's not here for comfort.  Shown to a shitty room, round
      the corner of a typical 2nd-level outside walkway.  Airport
      close by.
 
-     <u>INT. MOTEL ROOM.  EVENING.</u>
+     INT. MOTEL ROOM.  EVENING.
 
      He draws a curtain open across a window in one strong easy
      glide.  His moves are neat.  His expressions just as
@@ -134,7 +127,7 @@
 
                                                                CUT.
 
-     <u>INT. TAXI.  NIGHT.</u>
+     INT. TAXI.  NIGHT.
 
      Wilson in the back.  Stares at the impenetrable name on the
      driver's posted ID. Glances at the driver.
@@ -144,7 +137,7 @@
 
                                                                CUT.
 
-     <u>EXT. SMALL HOUSE.  NIGHT.</u>
+     EXT. SMALL HOUSE.  NIGHT.
 
      Wilson walks up a cracked little path to the front door.
      Lower middle-class street.  Two cars in the driveway, one
@@ -188,7 +181,7 @@
 
                                                                CUT.
 
-     <u>INT. ED'S HOUSE.  NIGHT.</u>
+     INT. ED'S HOUSE.  NIGHT.
 
      Ed takes Wilson inside.
 
@@ -220,7 +213,7 @@
 
      Ed opens a screen door to the backyard.
 
-     <u>EXT. ED'S BACKYARD.  NIGHT.</u>
+     EXT. ED'S BACKYARD.  NIGHT.
 
      They sit at an outdoor table.  Wilson with a TV dinner in
      front of him now too.  Sounds from inside MUTED.  Even this
@@ -443,9 +436,9 @@
                    (stands up again)
                But I'll tell you something.  She stood
                in front of these dudes, man.  Eyeballing
-               <u>them</u>.  Checking <u>them</u> out.
+               them.  Checking them out.
                    (beat)
-               I felt like she was covering <u>my</u> ass that
+               I felt like she was covering my ass that
                day.
 
      Unconsciously rubbing his arms where his tattoos are.
@@ -470,7 +463,7 @@
 
                                                                CUT.
 
-     <u>INT. ED'S CAR.  NIGHT.</u>
+     INT. ED'S CAR.  NIGHT.
 
      Ed drives Wilson back to his motel.  Wilson silent.  Ed still
      not quite sure who he's dealing with.  Is this really or
@@ -549,7 +542,7 @@
 
                                                                CUT.
 
-     <u>EXT. WILSON'S MOTEL.  NIGHT.</u>
+     EXT. WILSON'S MOTEL.  NIGHT.
 
      Wilson out of the car, shuts the passenger door.  Ed on the
      other side, looks over the roof at him.
@@ -622,7 +615,7 @@
 
                                                                CUT.
 
-     <u>INT. GUN SHOW.  DAY.</u>
+     INT. GUN SHOW.  DAY.
 
      Hundreds of tables.  Under bright lights.  Displaying every
      kind of firearm.  Handguns, rifles, shotguns, parts to make
@@ -768,7 +761,7 @@
                Yeah?
 
                          DEALER
-               No problem.  If <u>you</u> don't have a problem
+               No problem.  If you don't have a problem
                with me reporting this gun stolen.
 
      A look of understanding between them.
@@ -798,7 +791,7 @@
 
                                                                CUT.
 
-     <u>INT. ED'S CAR.  DAY.</u>
+     INT. ED'S CAR.  DAY.
 
      Ed drives.  Nervous at Wilson handling his new gun purchase
      beside him.
@@ -881,7 +874,7 @@
 
                                                                CUT.
 
-     <u>INT. RENTAL CAR.  DAY.</u>
+     INT. RENTAL CAR.  DAY.
 
      Wilson at the wheel himself.  Getting the hang of L.A.
      Driving downtown.  Along one of the major boulevards.
@@ -889,12 +882,12 @@
      Glances at a street sign as he goes by.  Picks up the map
      book on the seat beside him to check his route.
 
-     <u>EXT. BOULEVARD.  DAY.</u>
+     EXT. BOULEVARD.  DAY.
 
      Wilson makes a sudden lane change to avoid getting fed in the
      wrong direction.  Gets HONKED by another driver.
 
-     <u>EXT. A STREET DOWNTOWN.  DAY.</u>
+     EXT. A STREET DOWNTOWN.  DAY.
 
      Wilson cruises past a particular building.  We don't have to
      really clearly see it just yet (we saw it in the flash cuts) --
@@ -902,7 +895,7 @@
      of a professional.  Sniffing it out; the instinct of a
      predator after prey.
 
-     <u>INT. CAR.  DAY.</u>
+     INT. CAR.  DAY.
 
      Parks it.  Produces the little leather travel kit we saw him
      unpack at his motel.  Unzips it.  Under the usual assortment
@@ -910,7 +903,7 @@
      more personalized items:  a set of select slim
      lockpicking/cutting tools.
 
-     <u>EXT. SIDE STREET.  DAY.</u>
+     EXT. SIDE STREET.  DAY.
 
      Wilson locks the car.  Walks away.  STAY with him.
 
@@ -935,7 +928,7 @@
      afternoon that you're in a ghost town.  Particularly in this
      shabby kind of industrial section.
 
-     <u>EXT. THE BUILDING.</u>
+     EXT. THE BUILDING.
 
      Wilson crosses over to it now.  From sunny to shade.
 
@@ -985,13 +978,13 @@
      conventional lock his eye zeroes in on.  Gets out his tools,
      going over.
 
-     <u>INT. WAREHOUSE HALLWAY.</u>
+     INT. WAREHOUSE HALLWAY.
 
      A SCRATCHING at the door.  It opens.  He's in.
 
      Waits.  Cautious.  Nothing.  He starts along the hallway.
 
-     <u>INT. WAREHOUSE.</u>
+     INT. WAREHOUSE.
 
      A SUPERVISOR (the one from the flash cuts) does a double take
      as Wilson passes.
@@ -1107,7 +1100,7 @@
 
                                                                CUT.
 
-     <u>EXT. BUILDING.  DAY.</u>
+     EXT. BUILDING.  DAY.
 
      Wilson is taken outside and dumped.  After a moment, he gets
      to his feet.  Dusting himself.  Reaches for ANOTHER GUN tucked
@@ -1125,7 +1118,7 @@
 
                                                                CUT.
 
-     <u>INT./EXT. VALENTINE'S HOUSE.  DUSK.</u>
+     INT./EXT. VALENTINE'S HOUSE.  DUSK.
 
      A series of images that prove Valentine (whoever he is) has
      taste, wealth, and influence, stretching back a good three
@@ -1154,7 +1147,7 @@
 
                          VALENTINE
                    (into phone)
-               Not before.  Not <u>before</u>.  Think about it.
+               Not before.  Not before.  Think about it.
                What does it mean?  What -- no, I'm not.
                Think.  Yes.  See?  You figured it out
                all by yourself.  I know.  Are we done?
@@ -1186,7 +1179,7 @@
                want or need?
 
                          ADHARA
-               I <u>want</u> to know why you <u>need</u> that scary
+               I want to know why you need that scary
                guy in your house.
 
                          VALENTINE
@@ -1267,7 +1260,7 @@
 
                          ADHARA
                For some, eating is a sensual experience.
-               <u>The</u> sensual experience.
+               The sensual experience.
 
                          VALENTINE
                That's what Gordon's always saying.
@@ -1296,7 +1289,7 @@
                          ADHARA
                Okay.
 
-     <u>EXT. BALCONY.  EVENING.</u>
+     EXT. BALCONY.  EVENING.
 
      Valentine approaches Avery.
 
@@ -1342,7 +1335,7 @@
 
      Valentine just looks at him.
 
-     <u>EXT. VALENTINE'S HOUSE.  POOLSIDE.  EVENING.</u>
+     EXT. VALENTINE'S HOUSE.  POOLSIDE.  EVENING.
 
      Adhara approaches Valentine, who stands staring at the pool.
 
@@ -1382,7 +1375,7 @@
 
                                                                CUT.
 
-     <u>EXT. APARTMENT BUILDING.  EVENING.</u>
+     EXT. APARTMENT BUILDING.  EVENING.
 
      ELAINE on her way in.  Handsome woman.  Intelligent, capable-
      looking.  Passes Wilson who's leaning somewhere smoking.
@@ -1511,18 +1504,18 @@
                    (without looking back)
                Try calling me again.
 
-     <u>INT. ELAINE'S APARTMENT.  EVENING.</u>
+     INT. ELAINE'S APARTMENT.  EVENING.
 
      She comes in.  A modest studio apartment.  Puts her bag on
      the kitchenette countertop.  Glances at her answer machine to
      see if she has any messages.  The phone RINGS.  She sits down
      glumly on her couch, holds her head in her hands.
 
-     <u>EXT. ELAINE'S APARTMENT BUILDING.  EVENING.</u>
+     EXT. ELAINE'S APARTMENT BUILDING.  EVENING.
 
      Wilson gives up, starts to walk away.  The gate BUZZES.
 
-     <u>INT. ELAINE'S APARTMENT.  EVENING.</u>
+     INT. ELAINE'S APARTMENT.  EVENING.
 
      Elaine opens the door.  Wilson in the hall.
 
@@ -1535,7 +1528,7 @@
 
                                                                CUT.
 
-     <u>INT. RESTAURANT.  NIGHT.</u>
+     INT. RESTAURANT.  NIGHT.
 
      Wilson and Elaine at a table.
 
@@ -1707,7 +1700,7 @@
 
                                                                CUT.
 
-     <u>EXT. OCEANFRONT.  NIGHT.</u>
+     EXT. OCEANFRONT.  NIGHT.
 
      They walk along the seafront.  We HEAR the ocean but can't
      see it.
@@ -1855,7 +1848,7 @@
 
                                                                CUT.
 
-     <u>INT. ELAINE'S APARTMENT.  NIGHT.</u>
+     INT. ELAINE'S APARTMENT.  NIGHT.
 
      They come in.
 
@@ -2045,7 +2038,7 @@
 
                                                                CUT.
 
-     <u>EXT. HILLSIDE.  UNDERBRUSH.  LATE AFTERNOON.</u>
+     EXT. HILLSIDE.  UNDERBRUSH.  LATE AFTERNOON.
 
      Thickets part and we SEE Wilson scrambling up a rather steep
      hill.  Coming to a ridge where he settles down to look at
@@ -2053,7 +2046,7 @@
      curiosity to dawning realization to a kind of frustrated
      disappointment.
 
-     <u>INT. WILSON'S CAR (ON THE ROAD BELOW).  LATE AFTERNOON.</u>
+     INT. WILSON'S CAR (ON THE ROAD BELOW).  LATE AFTERNOON.
 
      Ed sits in here, RADIO on.  Wilson appears out of the brush,
      gets in.  Ed turns the radio down.
@@ -2114,7 +2107,7 @@
 
      Off Ed's perplexed look ...
 
-     <u>EXT. HILLSIDE UNDERBRUSH.  LATE AFTERNOON.</u>
+     EXT. HILLSIDE UNDERBRUSH.  LATE AFTERNOON.
 
      Wilson settles into position again, this time with Ed.
 
@@ -2145,12 +2138,12 @@
                he, then, the Earl of fucking Doncaster?
 
                          ED
-               <u>Valets</u>.  They park cars.  He's having a
+               Valets.  They park cars.  He's having a
                party.
 
                                                                CUT.
 
-     <u>EXT. VALENTINE'S HOUSE.  LATE AFTERNOON.</u>
+     EXT. VALENTINE'S HOUSE.  LATE AFTERNOON.
 
      Wilson's car pulls up.  He and Ed get out.  Wilson engages in
      a mini tug-of-war with a Valet over his car key, it so rubs
@@ -2191,7 +2184,7 @@
 
      Looking over to note the multi-car GARAGE off the main house.
 
-     <u>INT. VALENTINE'S HOUSE.  AFTERNOON.</u>
+     INT. VALENTINE'S HOUSE.  AFTERNOON.
 
      Wilson and Ed are among the first to arrive.  A smattering of
      other GUESTS.  Elaborate catered cuisine.  They mosey over to
@@ -2212,7 +2205,7 @@
                    (to Bartender)
                Got a Coke?
 
-     <u>INT. VALENTINE'S BEDROOM.  AFTERNOON.</u>
+     INT. VALENTINE'S BEDROOM.  AFTERNOON.
 
      Valentine is checking himself in a full-length mirror.  TV on
      in background, sound low (ENTERTAINMENT WEEK!).  Not quite
@@ -2285,7 +2278,7 @@
 
      He goes.
 
-     <u>INT. VALENTINE'S HOUSE.  DOWNSTAIRS HALLWAY.  AFTERNOON.</u>
+     INT. VALENTINE'S HOUSE.  DOWNSTAIRS HALLWAY.  AFTERNOON.
 
      Wilson wanders around, exploring the house.  Comes to a wall
      of photographes.  Casually scanning them as he passes slowly
@@ -2311,16 +2304,16 @@
 
      And goes away.  Leaving Ed more nervous than ever.
 
-     <u>INT. VALENTINE'S HOUSE.  UPSTAIRS HALLWAY.  AFTERNOON.</u>
+     INT. VALENTINE'S HOUSE.  UPSTAIRS HALLWAY.  AFTERNOON.
 
      Wilson has come up here.  Peeks into one room.  Moves along to
      another:  the master bedroom.  Opens the door gently.
 
-     <u>INT. MASTER BATHROOM.</u>
+     INT. MASTER BATHROOM.
 
      Adhara is still enjoying her bath.
 
-     <u>INT. MASTER BEDROOM.</u>
+     INT. MASTER BEDROOM.
 
      Wilson enters.  Careful.  Aware that someone's in the adjoining
      bathroom.  The soft RIPPLE of WATER from in there.  Perhaps he
@@ -2366,7 +2359,7 @@
 
                                                                CUT.
 
-     <u>INT. VALENTINE'S HOUSE.  DOWNSTAIRS.  AFTERNOON.</u>
+     INT. VALENTINE'S HOUSE.  DOWNSTAIRS.  AFTERNOON.
 
      Valentine mingling, all smiles and movement.
 
@@ -2380,12 +2373,12 @@
      Catches Wilson's eye for a nanosecond, does a subtle double
      take, then moves on.
 
-     <u>INT. VALENTINE'S HOUSE.  UPSTAIRS HALLWAY.  AFTERNOON.</u>
+     INT. VALENTINE'S HOUSE.  UPSTAIRS HALLWAY.  AFTERNOON.
 
      Adhara, dressed, looking great, exits the bedroom and heads
      for the stairwell.
 
-     <u>INT. VALENTINE'S HOUSE.  DOWNSTAIRS.  AFTERNOON.</u>
+     INT. VALENTINE'S HOUSE.  DOWNSTAIRS.  AFTERNOON.
 
      Adhara descends the stairs.
 
@@ -2618,7 +2611,7 @@
 
                                                                CUT.
 
-     <u>INT. VALENTINE'S GARAGE.  AFTERNOON.</u>
+     INT. VALENTINE'S GARAGE.  AFTERNOON.
 
      Ed, waiting.  Wilson enters.
 
@@ -2650,7 +2643,7 @@
      Spills out, slowly but steadily, and slithers toward the
      garage door.
 
-     <u>EXT. BETWEEN VALENTINE'S HOUSE AND GARAGE.  AFTERNOON.</u>
+     EXT. BETWEEN VALENTINE'S HOUSE AND GARAGE.  AFTERNOON.
 
      Wilson and Ed walk briskly along the path.
 
@@ -2665,25 +2658,25 @@
                          WILSON
                One thing I need.
 
-     <u>INT. VALENTINE'S HOUSE.  DOWNSTAIRS.  AFTERNOON.</u>
+     INT. VALENTINE'S HOUSE.  DOWNSTAIRS.  AFTERNOON.
 
      Valentine is talking to Gordon, his beefy bodyguard, and
      looking around.  He stops as he sees Wilson once again
      stepping onto the deck.  He points Wilson out to Gordon, who
      nods and heads for the deck.
 
-     <u>EXT. VALENTINE'S HOUSE.  AFTERNOON.</u>
+     EXT. VALENTINE'S HOUSE.  AFTERNOON.
 
      Ed hands the ticket to a Valet.  He exchanges looks with a
      couple of the other Valets.
 
-     <u>INT. VALENTINE'S HOUSE.  DOWNSTAIRS.  AFTERNOON.</u>
+     INT. VALENTINE'S HOUSE.  DOWNSTAIRS.  AFTERNOON.
 
      Valentine is talking to Adhara, who is introducing her
      Girlfriend.  As Valentine greets her, he glances outside
      where Gordon is approaching Wilson on the deck.
 
-     <u>EXT. DECK.</u>
+     EXT. DECK.
 
      Wilson SEES Gordon approaching.  Gets ready to greet him.
      Removes cigarette from mouth, drops it to floor of deck,
@@ -2703,7 +2696,7 @@
      probably didn't even notice -- or didn't readily grasp what
      they saw.
 
-     <u>INT. VALENTINE'S HOUSE.</u>
+     INT. VALENTINE'S HOUSE.
 
      Valentine had turned his attention back to Adhara and her
      Girlfriend.  When he glances back to the deck he's a little
@@ -2731,7 +2724,7 @@
      eyes cold, though with the hint of a smile.  Valentine throws
      a last look back before reaching the deck.
 
-     <u>EXT. DECK.</u>
+     EXT. DECK.
 
      Valentine pushes through to look over the railing.
 
@@ -2744,7 +2737,7 @@
      Turns to look toward the front door.  Wilson not to be seen.
      Valentine pushes through the crowd toward the door.
 
-     <u>EXT. VALENTINE'S HOUSE.  AFTERNOON.</u>
+     EXT. VALENTINE'S HOUSE.  AFTERNOON.
 
      Valentine emerges in time to see Ed and Wilson pulling away.
      Wilson looks at him, impassive, through the passenger window.
@@ -2761,12 +2754,12 @@
 
      There is smoke coming from under the door.
 
-     <u>EXT. CANYON ROAD.  AFTERNOON.</u>
+     EXT. CANYON ROAD.  AFTERNOON.
 
      Wilson's car practically tobogganing back down the hill.
      BOOM!  We hear an explosion from back UP the hill.
 
-     <u>INT. WILSON'S CAR.</u>
+     INT. WILSON'S CAR.
 
      Ed jumps -- though he's driving.  The gas pedal his most
      pressing concern.  Negotiating the dangerously winding road
@@ -2779,7 +2772,7 @@
                You steady on, man.  What the fuck else
                did you do back there.
 
-     <u>EXT. ROAD.</u>
+     EXT. ROAD.
 
      An especially sharp curve looms ahead.
 
@@ -2804,13 +2797,13 @@
 
      In his car, takes a different turn.
 
-     <u>EXT. ROAD.  CAR.</u>
+     EXT. ROAD.  CAR.
 
      Swerves some more curves.  Should be some sense here that a
      similar skyline route would have been taken by Wilson's
      daughter on her final drive.
 
-     <u>INT. WILSON'S CAR.</u>
+     INT. WILSON'S CAR.
 
                          ED
                Why didn't you just kill him, you had the
@@ -2832,7 +2825,7 @@
      Suddenly out of nowhere -- (a side street) -- BAM! -- another
      car shoots out to cut them off, sideswiping them.
 
-     <u>EXT. ROAD.</u>
+     EXT. ROAD.
 
      Wilson's car SKIDS into a spin from the impact.
 
@@ -2848,7 +2841,7 @@
      FIRES again, but the upended trunk is a kind of shield,
      deflecting the shot.
 
-     <u>INT. WILSON'S CAR.</u>
+     INT. WILSON'S CAR.
 
      Despite the fact that Ed is still in the driver's seat (and
      managed rather skillfully to avoid crashing) -- Wilson acts
@@ -2858,7 +2851,7 @@
      monitoring the door-mirror, steamrolls the car backwards
      towards Avery.
 
-     <u>EXT. ROAD.</u>
+     EXT. ROAD.
 
      Wilson reverses his car like a speeding tank:  SMASHING into
      Avery's car.  Pushing it right off the edge of the road.
@@ -2916,7 +2909,7 @@
      He gently tosses his shotgun down into some thick brush where
      maybe he'll retrieve it later.
 
-     <u>EXT. VALENTINE'S HOUSE.  AFTERNOON.</u>
+     EXT. VALENTINE'S HOUSE.  AFTERNOON.
 
      Avery returns, sweating, walking back up the road to where
      all the action is.  Party guests milling outside, waiting for
@@ -2948,8 +2941,8 @@
                out.  Had a drug problem, refused
                counselling.  Set the garage on fire,
                then committed suicide.  One of my
-               "guests" tried to stop him -- <u>but how do</u>
-               <u>you stop Gordon</u>.
+               "guests" tried to stop him -- but how do
+               you stop Gordon.
 
      In this context meaning how did that rangy Englishman do it.
 
@@ -2974,13 +2967,13 @@
                I don't know everyone here.  He was so
                traumatized he split.
                    (another notion)
-               Maybe he was Gordon's <u>pusher</u>.
+               Maybe he was Gordon's pusher.
 
      Avery stares at Valentine.  Impressed at him thinking on his
      feet.
 
                          VALENTINE
-               Where do <u>you</u> think he is, Mike.
+               Where do you think he is, Mike.
 
                          AVERY
                    (already turning)
@@ -3015,12 +3008,12 @@
 
      He turns to go.
 
-     <u>EXT. VALENTINE'S HOUSE.  CANYON.  AFTERNOON.</u>
+     EXT. VALENTINE'S HOUSE.  CANYON.  AFTERNOON.
 
      The huge dead bulk of Gordon hoisted back up to the deck by a
      paramedic team.
 
-     <u>INT. VALENTINE'S HOUSE.</u>
+     INT. VALENTINE'S HOUSE.
 
      Valentine comes back in.  In the living room beyond, Adhara
      stands anxiously, where she's been waiting for him.  Cops
@@ -3038,7 +3031,7 @@
 
                                                                CUT.
 
-     <u>INT. WILSON'S CAR.  AFTERNOON.</u>
+     INT. WILSON'S CAR.  AFTERNOON.
 
      Safely down the hill.  Driving away in traffic, Ed calmer
      now.
@@ -3050,7 +3043,7 @@
 
                                                                CUT.
 
-     <u>INT. POOL HALL.  NIGHT.</u>
+     INT. POOL HALL.  NIGHT.
 
      Two characters stand, leaning, against a back wall.  Staring
      ahead, without purpose.  Halfheartedly watching a game of
@@ -3160,7 +3153,7 @@
 
                                                                CUT.
 
-     <u>INT. WILSON'S MOTEL.  NIGHT.</u>
+     INT. WILSON'S MOTEL.  NIGHT.
 
      Wilson on the bed.  Watching TV (ACCESS HOLLYWOOD!).  KNOCK
      at door.  He turns down the TV.  Takes a .45 from the springs
@@ -3211,7 +3204,7 @@
                her ... she'd been going the wrong way.
                Not the direction she'd have gone if
                she'd been coming to see me.  Or coming
-               <u>straight</u> to see me.  Who knows.  Maybe she
+               straight to see me.  Who knows.  Maybe she
                just wanted to drive.
 
      She looks at Wilson.  Shrugs.  That's it.  That's all.  Isn't
@@ -3233,7 +3226,7 @@
      Elaine looks at him.
 
                          ELAINE
-               <u>She</u> gave me your address.
+               She gave me your address.
 
      Wilson nods.
 
@@ -3252,7 +3245,7 @@
 
                                                                CUT.
 
-     <u>EXT. MEAN STREET.  NIGHT.</u>
+     EXT. MEAN STREET.  NIGHT.
 
      Stacy, putting on a jacket that says "Bomb Hanoi" comes out
      of the pool hall.  Uncle John in tow.
@@ -3290,11 +3283,11 @@
 
                                                                CUT.
 
-     <u>EXT. WILSON'S MOTEL.  MORNING.</u>
+     EXT. WILSON'S MOTEL.  MORNING.
 
      Early.
 
-     <u>INT. WILSON'S ROOM.</u>
+     INT. WILSON'S ROOM.
 
      Wilson and Elaine.  Getting dressed.  She's in pantyhose.
      Fastening a bra.  He's got trousers on, reaching for a shirt.
@@ -3366,7 +3359,7 @@
                tunnelled our way under the shop floor
                from the public lavatory down the road.
                Filthy work.  Trouble was, the bloody
-               thing collapsed -- <u>after</u> we'd made the
+               thing collapsed -- after we'd made the
                grab, 'n all.  Would you Adam n' Eve it.
 
                          ELAINE
@@ -3375,7 +3368,7 @@
                have been charged with making a mess.
 
                          WILSON
-               We were <u>lucky</u> to be nicked.  Me and the
+               We were lucky to be nicked.  Me and the
                lads went down there Sunday evening, we
                weren't discovered till the Monday.  Good
                job we were still breathing.
@@ -3419,7 +3412,7 @@
                Overnight?
 
                          ELAINE
-               You <u>have</u> been away.
+               You have been away.
                    (lies back, regards him
                     carefully)
                Or is all this just new to you?
@@ -3445,7 +3438,7 @@
                street.  Funnily enough, she was married
                to a milkman.  Straight up.  I said,
                "Good is she?  Been around?"  He said,
-               "<u>Good</u>?  Listen, mush, it's not that she's
+               "Good?  Listen, mush, it's not that she's
                been around, it's that she's been around
                hell of a long time."
 
@@ -3471,13 +3464,13 @@
 
                                                                CUT.
 
-     <u>EXT. PACIFIC COAST HIGHWAY.  MORNING.</u>
+     EXT. PACIFIC COAST HIGHWAY.  MORNING.
 
      For the first time, we see the Pacific coastline.  Impressive.
 
      And a sleek Italian sports car.  Heading north.
 
-     <u>INT. SPORTS CAR.</u>
+     INT. SPORTS CAR.
 
      Valentine at the wheel.  Adhara besides him.
 
@@ -3510,7 +3503,7 @@
                          VALENTINE
                I sure hope so.
 
-     <u>INT. THE CAR BEHIND.</u>
+     INT. THE CAR BEHIND.
 
      A big utility vehicle.  With Avery in the front passenger
      seat.  And three bodyguards he's brought along to protect
@@ -3527,19 +3520,19 @@
                the client right now or are we just going
                the same way?  The company I was with in
                Seattle, these distinctions were made.
-               Now, I don't dispute <u>him</u> getting the full
+               Now, I don't dispute him getting the full
                whack.
                    (he means Rick, who's older)
                Seniority and all that.  But if I'm
                getting paid the same hourly rate when
-               we're at the <u>house</u> as I am in this car,
+               we're at the house as I am in this car,
                that doesn't sit well with me and I feel
                obliged to say so.  'Cause in Seattle
-               what you're paying <u>now</u> for so-called
+               what you're paying now for so-called
                travel time was half what we got for
                actual clock-time with the client.  So I
                just feel we should get more when the job
-               actually <u>commences</u>.
+               actually commences.
 
      After this spineless whining weak-willed sob story, Larry
      just turns to him and says:
@@ -3549,7 +3542,7 @@
 
                                                                CUT.
 
-     <u>EXT. ELAINE'S NEIGHBORHOOD.  DAY.</u>
+     EXT. ELAINE'S NEIGHBORHOOD.  DAY.
 
      Stacy and Uncle John sitting on a bench in a beach setting
      (though we still don't see the ocean).  Or on some grass,
@@ -3585,7 +3578,7 @@
                     black woman with dyed blonde
                     hair)
                Very attractive.  Good idea.  Now I
-               <u>really</u> want to fuck you.
+               really want to fuck you.
 
                          STACY
                    (after a long time in silence,
@@ -3694,16 +3687,16 @@
 
                                                                CUT.
 
-     <u>EXT. SOME STREET.  DAY.</u>
+     EXT. SOME STREET.  DAY.
 
      Elaine's car on the move.  Stacy and Uncle John in a car
      following.
 
-     <u>INT. ELAINE'S CAR.</u>
+     INT. ELAINE'S CAR.
 
      Going somewhere.  Unaware of the creeps in her wake.
 
-     <u>INT. STACY/UNCLE JOHN'S CAR.</u>
+     INT. STACY/UNCLE JOHN'S CAR.
 
      An "8x10" of Elaine on their back seat.  Another picture of
      her on a page torn from a "Player's Directory."
@@ -3749,7 +3742,7 @@
 
                                                                CUT.
 
-     <u>INT. SOUND STUDIO.  DAY.</u>
+     INT. SOUND STUDIO.  DAY.
 
      On screen:  A BEAUTIFUL MODEL -- but speaking in ELAINE'S
      VOICE.
@@ -3760,14 +3753,14 @@
      model's lip movements.  Looping this commercial or whatever
      it is.
 
-     <u>INT. HALLWAY.</u>
+     INT. HALLWAY.
 
      Wilson.  Comes to a window where he can see Elaine inside in
      the sound-proofed studio.
 
                                                                CUT.
 
-     <u>INT. SOUND STUDIO.  DAY.</u>
+     INT. SOUND STUDIO.  DAY.
 
      Wilson and Elaine talk while technicians change reels.
 
@@ -3793,7 +3786,7 @@
                          ELAINE
                Yeah, well, you're here now --
                    (re Wilson's accent)
-               -- where <u>h</u>urricanes <u>h</u>ardly ever <u>h</u>appen.
+               -- where hurricanes hardly ever happen.
 
                          WILSON
                I've got the hang of the driving.  Found
@@ -3860,14 +3853,14 @@
                slash without 'em saying, what're you
                going in there for?
 
-     <u>EXT. ELAINE'S BUILDING.  DAY.</u>
+     EXT. ELAINE'S BUILDING.  DAY.
 
      Elaine and Wilson enter.  Stacy not far behind.  Catches
      outside gate before it slams shut.
 
                                                                CUT.
 
-     <u>INT. ELAINE'S BUILDING.  DAY.</u>
+     INT. ELAINE'S BUILDING.  DAY.
 
      Wilson and Elaine turn the corner into the corridor
      approaching her apartment door.  Pause to kiss.  Walk closer.
@@ -3879,7 +3872,7 @@
                Hi, kids.
 
      Starts to squeeze off a shot.  As Wilson pushes Elaine to the
-     floor.  As <u>another</u> SHOT rings out from further along the hall
+     floor.  As another SHOT rings out from further along the hall
      behind Stacy.  Catching him across the cheek.  Only skimming
      him.  But knocking him down.  Bullet chipping the wall.
 
@@ -3922,7 +3915,7 @@
 
                                                                CUT.
 
-     <u>INT. ROOM.  DAY.</u>
+     INT. ROOM.  DAY.
 
      Like Wilson's motel room, another version of a cell.
 
@@ -4007,7 +4000,7 @@
 
                          WILSON
                I know that.  But as time went on ...
-               well, it <u>wasn't</u> a joke, was it?  She had
+               well, it wasn't a joke, was it?  She had
                a feeling about it -- about the last job
                -- how long I'd get the hook for.  Said
                she wouldn't be there this time when I
@@ -4017,13 +4010,13 @@
 
                                                                CUT.
 
-     <u>INT. HALLWAY.  DAY.</u>
+     INT. HALLWAY.  DAY.
 
      Thompson leads Wilson past a row of windows.  Dockyards,
      harbor activity outside.  Toward a door with things
      stencilled on it.  One of them:  US DEPT. OF CUSTOMS.
 
-     <u>INT. OFFICE.</u>
+     INT. OFFICE.
 
      A man named FEATHER.  Black.  Half sitting on the edge of a
      table.  Wilson is shown in.
@@ -4104,7 +4097,7 @@
 
                          WILSON
                Good job your lot showed up when they did
-               or it would've been <u>me</u> for the high jump.
+               or it would've been me for the high jump.
 
                          FEATHER
                That dude who works for Valentine.  He's
@@ -4191,7 +4184,7 @@
 
                                                                CUT.
 
-     <u>EXT. INN.  DAY.</u>
+     EXT. INN.  DAY.
 
      Along the way up the coast.
 
@@ -4212,7 +4205,7 @@
      At a payphone.  His idiots in the background.  Dials a
      number.
 
-     <u>INT. POOL HALL.  DAY.</u>
+     INT. POOL HALL.  DAY.
 
      Stacy.  Nasty bruise on his cheek.  Takes a cue off the rack.
      Chalks up.
@@ -4281,7 +4274,7 @@
 
                                                                CUT.
 
-     <u>EXT. VALENTINE'S HOUSE.  L.A.  DAY</u>
+     EXT. VALENTINE'S HOUSE.  L.A.  DAY
 
      Someone we've never seen before and will never see again
      stands in Valentine's driveway.  His name is FIELDING.
@@ -4299,8 +4292,8 @@
                regarding yesterday's events.
 
                          GRAMMS
-               A <u>statement</u>?  I wouldn't mind getting a
-               statement.  You see, <u>my</u> client -- the
+               A statement?  I wouldn't mind getting a
+               statement.  You see, my client -- the
                United States Government -- would love to
                get a statement about a few of the deals
                going down with your client.
@@ -4340,7 +4333,7 @@
 
                                                                CUT.
 
-     <u>INT. RESTAURANT.  KITCHEN.  DAY.</u>
+     INT. RESTAURANT.  KITCHEN.  DAY.
 
      Ed takes off an apron, heads out the door.  It's clear that
      he's not the head chef here -- because the HEAD CHEF, an
@@ -4369,7 +4362,7 @@
                          ELAINE
                    (over)
                I could use a vacation.  Of course, I
-               keep forgetting, for you this <u>is</u> a
+               keep forgetting, for you this is a
                vacation.
 
                          WILSON
@@ -4409,17 +4402,17 @@
 
                                                                CUT.
 
-     <u>EXT. RESTAURANT.  BACK ALLEY.</u>
+     EXT. RESTAURANT.  BACK ALLEY.
 
      Ed gets into Wilson's car.  Elaine in there too.
 
                                                                CUT.
 
-     <u>EXT. COAST HIGHWAY.  DAY.</u>
+     EXT. COAST HIGHWAY.  DAY.
 
      Wilson's rented car.  Heading for Big Sur.
 
-     <u>INT. CAR.</u>
+     INT. CAR.
 
      Ed drives.  Wilson beside him.  Elaine in the back.
 
@@ -4468,13 +4461,13 @@
 
      Elaine and Wilson exchange glances.
 
-     <u>EXT. HIGHWAY.  DAY.</u>
+     EXT. HIGHWAY.  DAY.
 
      Onwards.
 
                                                                CUT.
 
-     <u>INT. BAR.  DAY.</u>
+     INT. BAR.  DAY.
 
      Stacy and Uncle John sit and drink.  Uncle John lamenting
      their monetary loss.  Stacy thinking to himself.
@@ -4524,10 +4517,10 @@
                          STACY
                    (savage mimicry)
                "He ain't wrong."  Listen, I know this
-               asshole who <u>did</u> just go to work for him.
+               asshole who did just go to work for him.
                Full-time.  And this dickhead's parents
                just told me he took a road trip up the
-               coast.  <u>That's</u> the type of individual gets
+               coast.  That's the type of individual gets
                hired, someone who'll shoot his mouth off
                to his family while on the job.
 
@@ -4539,7 +4532,7 @@
                Some kind of --
                    (finding the word)
                -- courier or something.  Maybe a seller.
-               Maybe a buyer.  But Mr. <u>Avery</u> wanted him,
+               Maybe a buyer.  But Mr. Avery wanted him,
                those jigs wanted him -- and I betcha
                there's a briefcase somewhere.
 
@@ -4560,13 +4553,13 @@
 
                                                                CUT.
 
-     <u>EXT. HIGHWAY.  DAY.</u>
+     EXT. HIGHWAY.  DAY.
 
      Wilson's car.
 
      Closer to Big Sur.  Scenery more magnificent.
 
-     <u>INT. WILSON'S CAR.</u>
+     INT. WILSON'S CAR.
 
      Ed still driving.  Wilson next to him.  Opening a new
      cigarette pack.
@@ -4587,7 +4580,7 @@
 
                          ELAINE
                    (a little more pointed)
-               Friends and <u>colleagues</u>.
+               Friends and colleagues.
 
                          WILSON
                You can't count on very many people,
@@ -4624,13 +4617,13 @@
 
      Flicks some cigarette pack paper out the window.
 
-     <u>EXT. HIGHWAY.</u>
+     EXT. HIGHWAY.
 
      The car speeds along.
 
                                                                CUT.
 
-     <u>EXT. HOUSE.  BIG SUR.  DAY.</u>
+     EXT. HOUSE.  BIG SUR.  DAY.
 
      An impressive clifftop dwelling.  Isolated on a winding road.
      On a beautiful promontory overlooking the sea.  Valentine
@@ -4660,7 +4653,7 @@
 
      Valentine goes inside.
 
-     <u>INT. HOUSE.</u>
+     INT. HOUSE.
 
      He looks around.  She doesn't shut the door.
 
@@ -4773,16 +4766,16 @@
      That does it.  Susan turns on him.
 
                          SUSAN
-               It <u>is</u> that simple.  I blame you for
-               <u>everything</u>.  Losing inhibitions and
-               chicks without bras didn't <u>have</u> to lead
+               It is that simple.  I blame you for
+               everything.  Losing inhibitions and
+               chicks without bras didn't have to lead
                to hardcore porno in every American
-               household:  that was <u>you</u>.  The first on
+               household:  that was you.  The first on
                your block to turn on a camera in a hot
                tub and peddle it to your friends.  A
-               little recreational pot didn't <u>inevitably</u>
+               little recreational pot didn't inevitably
                have to lead to the eventual devastation
-               of the inner cities:  <u>you</u> made that
+               of the inner cities:  you made that
                happen, the first time you bought a
                bigger stash than you yourself meant to
                smoke.  It happened when you made your
@@ -4791,7 +4784,7 @@
                some "product" whose only value was its
                instant disposability.  You were the
                first person to see there was a lot of
-               money to be made selling <u>Navajo rugs</u> --
+               money to be made selling Navajo rugs --
                you've even stolen from the fucking
                Indians!  You looked at Charlie Manson
                when all he had to show for himself was a
@@ -4801,9 +4794,9 @@
                    (Avery)
                -- He saw gated communities.  Rich people
                coming to him with their money, terrified
-               of what people like you had <u>left</u> of this
+               of what people like you had left of this
                society.  Why invest in a marriage and
-               children when you had <u>him</u>?  <u>He's</u> your
+               children when you had him?  He's your
                oracle.  But you couldn't even trust in
                friendship, could you?  Still he's the
                dog you call for its dinner.  Because
@@ -4814,7 +4807,7 @@
 
                                                                CUT.
 
-     <u>EXT. MOTEL.  EVENING.</u>
+     EXT. MOTEL.  EVENING.
 
      Wilson and his friends pull in.  Get out of the car.
      Stretch.
@@ -4837,7 +4830,7 @@
 
                                                                CUT.
 
-     <u>EXT. DECK.  BIG SUR HOUSE.  NIGHT.</u>
+     EXT. DECK.  BIG SUR HOUSE.  NIGHT.
 
      Adhara sways in a hammock.  Staring at Valentine.  Wanting to
      know what the hell is going on.
@@ -4852,7 +4845,7 @@
 
                                                                CUT.
 
-     <u>EXT. MOTEL PORCH.  EVENING.</u>
+     EXT. MOTEL PORCH.  EVENING.
 
      Wilson at the car.  Elaine and Ed watching.
 
@@ -4879,17 +4872,17 @@
      Wilson walks back to them.  Looking at Ed as if to say, ready
      to go?  At her as if to say ... maybe farewell.
 
-     <u>EXT. VALENTINE HOUSE.  NIGHT.</u>
+     EXT. VALENTINE HOUSE.  NIGHT.
 
      Tableau.  Evening has descended.  Surfaces glisten from a
      light drizzling rain.
 
-     <u>INT. VALENTINE HOUSE, BEDROOM.  NIGHT.</u>
+     INT. VALENTINE HOUSE, BEDROOM.  NIGHT.
 
      Adhara, dressing.  Behind her, outside, way out of focus, a
      figure slithers by.
 
-     <u>INT. VALENTINE HOUSE, LIVING ROOM.  NIGHT.</u>
+     INT. VALENTINE HOUSE, LIVING ROOM.  NIGHT.
 
      Valentine and Avery sit watching TV (CELEBRITY REPORT!).  Tom
      is behind them in the kitchen, flipping through <i>Marie Claire</i>
@@ -4904,7 +4897,7 @@
      Beyond the deck stands Larry, his back to us, facing the
      ocean.
 
-     <u>EXT. VALENTINE HOUSE.  BACK YARD.  NIGHT.</u>
+     EXT. VALENTINE HOUSE.  BACK YARD.  NIGHT.
 
      Looking toward the house, Larry in the foreground, facing us.
      He takes a bite from a cinnamon granola bar, then looks at it
@@ -4913,7 +4906,7 @@
                          LARRY
                Fuck.
 
-     <u>EXT. VALENTINE HOUSE, ANOTHER ANGLE.  NIGHT.</u>
+     EXT. VALENTINE HOUSE, ANOTHER ANGLE.  NIGHT.
 
      Looking at the house from the top of the hill.  Rick stands
      in the driveway next to Valentine's car, smoking a cigarette.
@@ -4924,7 +4917,7 @@
      left, and Ed moves in that direction.  Wilson moves quietly
      off to the right.
 
-     <u>INT. VALENTINE HOUSE.  LIVING ROOM.  NIGHT.</u>
+     INT. VALENTINE HOUSE.  LIVING ROOM.  NIGHT.
 
      Valentine and Avery, still watching TV.
 
@@ -4941,25 +4934,25 @@
      magazine.  Valentine looks to Avery, who shakes his head:
      It's nothing.
 
-     <u>EXT. BIG SUR HOUSE.  DRIVEWAY.  NIGHT.</u>
+     EXT. BIG SUR HOUSE.  DRIVEWAY.  NIGHT.
 
      Rick turns and looks up the driveway toward the sound.  He
      puts his cigarette out.
 
-     <u>EXT. BIG SUR HOUSE.  BACK YARD.  NIGHT.</u>
+     EXT. BIG SUR HOUSE.  BACK YARD.  NIGHT.
 
      Larry has turned toward the sound as well.  Through a
      partially obscured side entrance, he sees Rick walking up the
      driveway.
 
-     <u>EXT. BIG SUR HOUSE.  DRIVEWAY.  NIGHT.</u>
+     EXT. BIG SUR HOUSE.  DRIVEWAY.  NIGHT.
 
      Rick walks away from us, toward the vehicle (the Land Cruiser
      they drove here) parked up the driveway.  We lose sight of
      him as he crosses to the driver's side.  The alarm goes off.
      We hold for several beats.  He doesn't emerge.
 
-     <u>INT. BIG SUR HOUSE.  LIVING ROOM.  NIGHT.</u>
+     INT. BIG SUR HOUSE.  LIVING ROOM.  NIGHT.
 
      Valentine and Avery are still looking for the remote.  Avery
      stops, his attention drawn to the fact that he hasn't heard
@@ -5008,12 +5001,12 @@
                          AVERY
                Stay away from the windows.
 
-     <u>EXT. BIG SUR HOUSE.  BACK YARD.  NIGHT.</u>
+     EXT. BIG SUR HOUSE.  BACK YARD.  NIGHT.
 
      Tableau.  Avery exits the kitchen and takes the surrounding
      porch to the bedroom.  Are we seeing this from someone's POV?
 
-     <u>INT. BIG SUR HOUSE.  BEDROOM.  NIGHT.</u>
+     INT. BIG SUR HOUSE.  BEDROOM.  NIGHT.
 
      Adhara, finished dressing, looking at herself in the mirror.
      The lights behind her go off.  She turns to see Avery coming
@@ -5038,7 +5031,7 @@
                          ADHARA
                Okay.
 
-     <u>INT. BIG SUR HOUSE.  LIVING ROOM.  NIGHT.</u>
+     INT. BIG SUR HOUSE.  LIVING ROOM.  NIGHT.
 
      Tom and Valentine have finally found the light switches, and
      the room is dark.  Valentine moves slowly to the window,
@@ -5170,7 +5163,7 @@
      Avery moves out from behind the counter and heads for the
      body.
 
-     <u>EXT. BIG SUR HOUSE.  BACK PORCH.  NIGHT.</u>
+     EXT. BIG SUR HOUSE.  BACK PORCH.  NIGHT.
 
      Avery makes his way to the figure, which is on its stomach
      and writhing slightly.
@@ -5190,12 +5183,12 @@
      interrupted when his hand EXPLODES, accompanied by the sound
      of a gunshot.  He screams in pain.
 
-     <u>INT. BIG SUR HOUSE.  KITCHEN.  NIGHT.</u>
+     INT. BIG SUR HOUSE.  KITCHEN.  NIGHT.
 
      Valentine and Adhara drop to the floor.  Tom, gun raised and
      pointing, tries to see who shot Avery.
 
-     <u>EXT. BIG SUR HOUSE.  BACK PORCH.  NIGHT.</u>
+     EXT. BIG SUR HOUSE.  BACK PORCH.  NIGHT.
 
      Avery is turning toward his assailant, but not fast enough.
      A shot rings out and part of his neck disappears in a blossom
@@ -5206,7 +5199,7 @@
      Uncle John.  Close by, huddled by the lip of the cliff.  He
      starts to move cautiously toward Avery and Stacy.
 
-     <u>INT. BIG SUR HOUSE.  KITCHEN.  NIGHT.</u>
+     INT. BIG SUR HOUSE.  KITCHEN.  NIGHT.
 
      Tom squints, trying to see.
 
@@ -5240,7 +5233,7 @@
      porch.  A portion of the frame SPLINTERS from a gun shot as
      he gains access to the other side of the back porch.
 
-     <u>EXT. BIG SUR HOUSE.  BACK PORCH.  NIGHT.</u>
+     EXT. BIG SUR HOUSE.  BACK PORCH.  NIGHT.
 
      Tom is through the sliding doors and trying to make his way
      around to the driveway.
@@ -5329,7 +5322,7 @@
 
      He puts the gun in his jacket and slides away.
 
-     <u>INT. BIG SUR HOUSE.  KITCHEN.  NIGHT.</u>
+     INT. BIG SUR HOUSE.  KITCHEN.  NIGHT.
 
      Valentine and Adhara are still stuck behind the counter.
      Valentine sees the shadowy shape of Ed slipping behind the
@@ -5414,7 +5407,7 @@
 
      Scrambles through the sliding glass door.
 
-     <u>EXT. BIG SUR HOUSE.  BACK PORCH.  NIGHT.</u>
+     EXT. BIG SUR HOUSE.  BACK PORCH.  NIGHT.
 
      Valentine stumbles out.  Notices Avery slumped on the deck,
      mortally wounded.  Goes to him -- as if concerned -- but
@@ -5448,13 +5441,13 @@
 
      Wilson moves on.  Avery just lies there, presumably to die.
 
-     <u>EXT. BIG SUR HOUSE.  STEPS.  NIGHT.</u>
+     EXT. BIG SUR HOUSE.  STEPS.  NIGHT.
 
      Valentine hurries down the rickety steps.  Trying not to slip
      in the darkness, though there are tiny Malibu lights
      illuminating the steep and winding wooden framework.
 
-     <u>EXT. BEACH.  NIGHT.</u>
+     EXT. BEACH.  NIGHT.
 
      A rocky cove.  Valentine looks back up the way he came,
      HEARING the FOOTSTEPS coming down after him.  Backs away a
@@ -5538,7 +5531,7 @@
                    (closer)
                Tell me about Jenny.
                    (closer)
-               About the <u>deal</u>.  Whatever fucking deal
+               About the deal.  Whatever fucking deal
                you had to kill my daughter for when she
                found out about it, you bastard.
 
@@ -5558,7 +5551,7 @@
                have given her everything.
 
                          WILSON
-               <u>Why</u> then.  Why did you do it!
+               Why then.  Why did you do it!
 
      They're locked in a kind of embrace.  Sprayed by the waves
      crashing into the rocks.  Sweating and gasping and exhausted
@@ -5566,8 +5559,8 @@
 
                          VALENTINE
                She didn't want to share it, she wanted
-               to stop it.  To stop me.  <u>She said she'd</u>
-               <u>turn me in</u>.
+               to stop it.  To stop me.  She said she'd
+               turn me in.
 
      WILSON
 
@@ -5597,7 +5590,7 @@
 
                                                                CUT.
 
-     <u>INT. BIG SUR HOUSE.  LIVING ROOM.  NIGHT.</u>
+     INT. BIG SUR HOUSE.  LIVING ROOM.  NIGHT.
 
      Adhara wakes up.  Hand to her smashed cheek and mouth.  But
      it's not her hand.  It's Valentine's.  She sort of shuffles
@@ -5607,7 +5600,7 @@
 
                                                                CUT.
 
-     <u>INT. PLANE.  DAY.</u>
+     INT. PLANE.  DAY.
 
      Wilson, lost in thought.  Accepts a drink from a FLIGHT
      ATTENDANT.  We can see it pains him to reach for it.
@@ -5779,7 +5772,3 @@
 
 
    
-
-
-
-</body></html>

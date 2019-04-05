@@ -1,13 +1,3 @@
-<html>
-<head>
-<script>
-<!--
-if (window!= top)
-top.location.href=location.href
-// -->
-</script>
-<title>Chasing Amy</title>
-</head>
 
 
 	Chasing Amy
@@ -6321,5 +6311,3 @@ top.location.href=location.href
 
 
 
-
-</html>

@@ -1,13 +1,3 @@
-<html>
-<head>
-<script>
-<!--
-if (window!= top)
-top.location.href=location.href
-// -->
-</script>
-<title>15 Minutes</title>
-</head>
 
 	FADE IN
 
@@ -6332,5 +6322,3 @@ top.location.href=location.href
 
 						 FADES TO BLACK.
 
-
-</html>

@@ -1,12 +1,3 @@
-<html><head><title>Election - by Alexander Payne andJim Taylor
-</title>
-<script>
-<!--
-if (window!= top)
-top.location.href=location.href
-// -->
-</script>
-</head>
 
 
 	ELECTION by Alexander Payne &amp; JIM Taylor
@@ -5880,5 +5871,3 @@ top.location.href=location.href
 	"Dear Tracy,"
 
 	
-
-</html>
