@@ -1,0 +1,1 @@
+Interactive storybook game based on Diseny's The Lion King (1994). Follow the story from the movie or play a few simple mini-games such as connect the dots.

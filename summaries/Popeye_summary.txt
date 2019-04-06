@@ -1,0 +1,1 @@
+Navigate Pac-Man through a maze escaping ghosts and eating Pac-Dots.::Anonymous
