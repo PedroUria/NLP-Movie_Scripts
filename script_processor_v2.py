@@ -108,9 +108,18 @@ for movie in movies_diag.keys():
 #    with open(os.getcwd() + "/diag_jsons/" + i, "r") as s:
 #        if len(s.read()) < 2000:
 #            a.append(i)
-os.remove(os.getcwd() + "/scripts/" + "Road,-The_script.txt")
-os.remove(os.getcwd() + "/scripts/" + "True-Grit_script.txt")
-os.remove(os.getcwd() + "/scripts/" + "Armageddon_script.txt")
-os.remove(os.getcwd() + "/diag_jsons/" + "Road,-The_script.json")
-os.remove(os.getcwd() + "/diag_jsons/" + "True-Grit_script.json")
-os.remove(os.getcwd() + "/diag_jsons/" + "Armageddon_script.json")
+#os.remove(os.getcwd() + "/scripts/" + "Road,-The_script.txt")
+#os.remove(os.getcwd() + "/scripts/" + "True-Grit_script.txt")
+#os.remove(os.getcwd() + "/scripts/" + "Armageddon_script.txt")
+#os.remove(os.getcwd() + "/diag_jsons/" + "Road,-The_script.json")
+#os.remove(os.getcwd() + "/diag_jsons/" + "True-Grit_script.json")
+#os.remove(os.getcwd() + "/diag_jsons/" + "Armageddon_script.json")
+# Deletes more problematic scripts... spotted 
+# when doing Flesch-Kincaid Grade Level
+#probs = ['9', 'Alien-Resurrection', 'American-History-X', 'American-Psycho', 'Big', 
+#'Dogma', 'Ex-Machina', 'Finding-Nemo', 'Gangs-of-New-York', 'Ghostbusters', 'Gravity',
+#'Heavenly-Creatures', 'Kids', 'Lock,-Stock-and-Two-Smoking-Barrels', 'Office-Space', 'Titanic']
+#for script in probs:
+#    os.remove(os.getcwd() + "/scripts/" + script + "_script.txt")
+#    os.remove(os.getcwd() + "/diag_jsons/" + script + "_script.json")
+
