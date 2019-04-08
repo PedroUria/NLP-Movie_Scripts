@@ -10,10 +10,12 @@ Feel free to list any features. Put a feature under Potential if you are not sur
 2. [Flesch–Kincaid readability level](https://en.wikipedia.org/wiki/Flesch–Kincaid_readability_tests#Flesch_reading_ease) per character (needs agg)
 3. Number of stop words per character (needs agg)
 4. Number of curse words per character (needs agg)
+5. Number of times a character says any other character's name (needs agg)
 
 ## In Progress
 
-1. Number of times a character says any other character's name (Pedro)
+1. Something (Your Name)
+
 
 ## Will Do
 

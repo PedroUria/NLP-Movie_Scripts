@@ -25,7 +25,7 @@ def get_characters(script, threshold_char=5, threshold_space=-1):
         else:
             break
             
-    return [char[0] for char in chars if char[0] != "" and "-" not in char[0] and "." not in char[0] and ":" not in char[0] and "?" not in char[0]]
+    return [char[0] for char in chars if char[0] != "" and "-" not in char[0] and "." not in char[0] and ":" not in char[0] and "?" not in char[0] and len(char[0]) > 1]
 
 
 #Alternate Approach which works equally well.

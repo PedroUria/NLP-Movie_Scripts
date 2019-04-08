@@ -6,13 +6,14 @@ import pandas as pd
 import os
 import json
 import operator
-import nltk
+#import nltk
 from nltk.tokenize import word_tokenize
 #from nltk.stem.porter import *
 #porter_stemmer = PorterStemmer()
 #from readability import Readability  # https://github.com/cdimascio/py-readability-metrics
 #stop_words = nltk.corpus.stopwords.words('english')
 #from profanity_check import predict  # https://github.com/vzhou842/profanity-check
+#import copy
 
 
 main_dict_path = os.getcwd()[:os.getcwd().find("feat_extraction")]
@@ -35,16 +36,20 @@ path = main_dict_path + "diag_jsons/"
 #n_curse_words = {"n_curse_words_char_1": [], "n_curse_words_char_2": [],
 #               "n_curse_words_char_3": [], "n_curse_words_char_4": [],
 #               "n_curse_words_char_5": []}
+#n_other_char_mentions = {"n_mentions_others_char_1": [], "n_mentions_others_char_2": [],
+#                        "n_mentions_others_char_3": [], "n_mentions_others_char_4": [],
+#                        "n_mentions_others_char_5": []}
 
 ############################################
-# INCLUDE DICTS TO STORE MORE FEATURES BELOW
+# INCLUDE DICTS TO STORE MORE FEATURES ABOVE
 ############################################
 
 for script in movies["Processed Title"]:
     
     with open(path + script + "_script.json") as s:
         char_diags = json.loads(s.read())
-        
+    # Copy of original dictionary (with all the characters)
+    #all_chars_diags = copy.deepcopy(char_diags)  # To be used for Feat #5
     # Gets the dictionary for only the 5 characters with the most dialogue
     dict_lengths = {}
     for key, value in char_diags["dialogues"].items():
@@ -65,7 +70,7 @@ for script in movies["Processed Title"]:
     
     # Loops over the characters dialogues to extract some features (per character)
     n_char = 1
-    for dialogue in char_diags["dialogues"].values():
+    for char, dialogue in char_diags["dialogues"].items():
         # Gets the dialogue in one long sentence and without [i]
         diag = dialogue.replace("\n", "")
         i = 1
@@ -89,7 +94,6 @@ for script in movies["Processed Title"]:
         # https://github.com/cdimascio/py-readability-metrics
         #r = Readability(diag)
         #read_level_dict["FK_read_level_char_" + str(n_char)].append(r.flesch_kincaid().grade_level)
-        #prob.append(script)
         
         # FEAT #3: Number of Stop Words per character --> Numerical
         #n_stop_words["n_stop_words_char_" + str(n_char)].append(len(set([w for w in words if w.lower() in stop_words])))
@@ -103,8 +107,17 @@ for script in movies["Processed Title"]:
         #n_curse_words["n_curse_words_char_" + str(n_char)].append(n_curse)
         #print(script, "character_" + str(n_char), "done\n")
 
+        # FEAT #5: Number of times a character says any other character's name  -> Numerical
+        # This will consider all the characters in the movie
+        #n_other_char_mentions["n_mentions_others_char_" + str(n_char)].append(0)
+        #for charj in all_chars_diags["dialogues"].keys():
+        #    if charj != char and charj:
+        #        n_other_char_mentions["n_mentions_others_char_" + str(n_char)][-1] += diag.count(charj[0] + charj[1:].lower())
+        #        n_other_char_mentions["n_mentions_others_char_" + str(n_char)][-1] += diag.count(charj)
+        #        n_other_char_mentions["n_mentions_others_char_" + str(n_char)][-1] += diag.count(charj.lower())
+
         #######################################################
-        # INCLUDE CODE TO EXTRACT MORE FEATURES BELOW
+        # INCLUDE CODE TO EXTRACT MORE FEATURES ABOVE
         #######################################################
         
         n_char += 1
@@ -119,9 +132,10 @@ def append_feature(feature_dict):
 #append_feature(read_level_dict)
 #append_feature(n_stop_words)
 #append_feature(n_curse_words)
+#append_feature(n_other_char_mentions)
 
 #############################################
-# INCLUDE append_feature(new_feat_dict) BELOW
+# INCLUDE append_feature(new_feat_dict) ABOVE
 #############################################
 
 movies.to_csv("movies_with_feats.csv")
