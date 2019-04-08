@@ -14,7 +14,7 @@ Feel free to list any features. Put a feature under Potential if you are not sur
 
 ## In Progress
 
-1. Character Sentiment Detection
+1. How relevant is the main character, i.e, length of main's character dialogue with respect to the top 5 characters (Pedro)
 
 
 ## Will Do
