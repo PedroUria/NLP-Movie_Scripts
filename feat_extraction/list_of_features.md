@@ -14,7 +14,7 @@ Feel free to list any features. Put a feature under Potential if you are not sur
 
 ## In Progress
 
-1. Something (Your Name)
+1. Character Sentiment Detection
 
 
 ## Will Do
@@ -23,3 +23,5 @@ Feel free to list any features. Put a feature under Potential if you are not sur
 
 ## Potential
 
+1. Character Emotions Detection... seems pretty tough for what I have seen online.
+2. Character Sentiment Detection (does this even make sense, or will it work with models trained on reviews data?).
