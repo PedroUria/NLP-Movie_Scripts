@@ -15,7 +15,6 @@ from nltk.tokenize import word_tokenize
 #from profanity_check import predict  # https://github.com/vzhou842/profanity-check
 #import copy
 
-
 main_dict_path = os.getcwd()[:os.getcwd().find("feat_extraction")]
 #movies = pd.read_csv(main_dict_path + "success_data.csv", index_col=0)
 #movies["Success"] = movies.apply(lambda row: 1 if row["Worldwide ROI (%)"] > 0 else 0, axis=1)
@@ -39,6 +38,7 @@ path = main_dict_path + "diag_jsons/"
 #n_other_char_mentions = {"n_mentions_others_char_1": [], "n_mentions_others_char_2": [],
 #                        "n_mentions_others_char_3": [], "n_mentions_others_char_4": [],
 #                        "n_mentions_others_char_5": []}
+#main_char_rel_diag_length = {"main_char_rel_diag_length": []}
 
 ############################################
 # INCLUDE DICTS TO STORE MORE FEATURES ABOVE
@@ -67,6 +67,9 @@ for script in movies["Processed Title"]:
     for char in all_chars:
         if char not in top_chars:
             del char_diags["dialogues"][char]
+
+    # For Feat #6 and #7
+    len_diags = []
     
     # Loops over the characters dialogues to extract some features (per character)
     n_char = 1
@@ -119,8 +122,14 @@ for script in movies["Processed Title"]:
         #######################################################
         # INCLUDE CODE TO EXTRACT MORE FEATURES ABOVE
         #######################################################
+
+        # Feat #6: Length of main's character dialogue with respect to the top 5 characters
+        #len_diags.append(len(diag))
         
         n_char += 1
+
+    # Feat #6: Length of main's character dialogue with respect to the top 5 characters
+    #main_char_rel_diag_length["main_char_rel_diag_length"].append(100*len_diags[0]/sum(len_diags))
 
 
 def append_feature(feature_dict):
@@ -133,6 +142,7 @@ def append_feature(feature_dict):
 #append_feature(n_stop_words)
 #append_feature(n_curse_words)
 #append_feature(n_other_char_mentions)
+#append_feature(main_char_rel_diag_length)
 
 #############################################
 # INCLUDE append_feature(new_feat_dict) ABOVE

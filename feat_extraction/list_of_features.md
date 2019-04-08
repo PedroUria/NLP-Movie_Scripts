@@ -11,10 +11,11 @@ Feel free to list any features. Put a feature under Potential if you are not sur
 3. Number of stop words per character (needs agg)
 4. Number of curse words per character (needs agg)
 5. Number of times a character says any other character's name (needs agg)
+6. How relevant is the main character, i.e, length of main's character dialogue with respect to the top 5 characters
 
 ## In Progress
 
-1. How relevant is the main character, i.e, length of main's character dialogue with respect to the top 5 characters (Pedro)
+1. Something (Your Name)
 
 
 ## Will Do
