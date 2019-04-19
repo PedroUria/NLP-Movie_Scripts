@@ -6,7 +6,7 @@ Feel free to list any features. Put a feature under Potential if you are not sur
 
 ## Completed
 
-1. Number of unique words per character (needs agg)
+1. Number of standard deviations the number of unique words for the top five characters is above/below the mean of all the number of unique words for the top five characters across all movies.
 2. [Flesch–Kincaid readability level](https://en.wikipedia.org/wiki/Flesch–Kincaid_readability_tests#Flesch_reading_ease) per character (needs agg)
 3. Number of stop words per character (needs agg)
 4. Number of curse words per character (needs agg)

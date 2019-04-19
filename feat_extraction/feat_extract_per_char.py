@@ -1,3 +1,5 @@
+# -*- coding: utf-8 -*-
+
 # Write any features that will be extracted per character in this script
 # NOTE: The code used for the already extracted is commented out
 # You should do the same once you extract the feature and save it on the csv
@@ -10,6 +12,7 @@ import operator
 from nltk.tokenize import word_tokenize
 #from nltk.stem.porter import *
 #porter_stemmer = PorterStemmer()
+import numpy as np
 #from readability import Readability  # https://github.com/cdimascio/py-readability-metrics
 #stop_words = nltk.corpus.stopwords.words('english')
 #from profanity_check import predict  # https://github.com/vzhou842/profanity-check
@@ -23,9 +26,7 @@ main_dict_path = os.getcwd()[:os.getcwd().find("feat_extraction")]
 movies = pd.read_csv("movies_with_feats.csv", index_col=0)
 
 path = main_dict_path + "diag_jsons/"
-#n_unique_words_dict = {"n_unique_words_char_1": [], "n_unique_words_char_2": [],
-#                      "n_unique_words_char_3": [], "n_unique_words_char_4": [],
-#                      "n_unique_words_char_5": []}
+#n_unique_words = []
 #read_level_dict = {"FK_read_level_char_1": [], "FK_read_level_char_2": [],
 #                   "FK_read_level_char_3": [], "FK_read_level_char_4": [],
 #                   "FK_read_level_char_5": []}
@@ -45,7 +46,7 @@ path = main_dict_path + "diag_jsons/"
 ############################################
 
 for script in movies["Processed Title"]:
-    
+
     with open(path + script + "_script.json") as s:
         char_diags = json.loads(s.read())
     # Copy of original dictionary (with all the characters)
@@ -68,6 +69,9 @@ for script in movies["Processed Title"]:
         if char not in top_chars:
             del char_diags["dialogues"][char]
 
+    # For Feat #1
+    #n_unique_words_chars = 0
+
     # For Feat #6 and #7
     len_diags = []
     
@@ -86,12 +90,12 @@ for script in movies["Processed Title"]:
         # Gets list of words per character
         words = word_tokenize(diag)
         
-        # FEAT #1: # Number of Unique words per character --> Numerical
+        # FEAT #1: Stdev above mean of number of unique words of 5 top characters across all movies
         # Stems the tokens
         #punct_sings = ".!?,;:-_--\'\'\'``..."
         #words_stemmed = [porter_stemmer.stem(word) for word in words if word not in punct_sings]
         # Gets the number of unique stems
-        #n_unique_words_dict["n_unique_words_char_" + str(n_char)].append(len(set(words_stemmed)))
+        #n_unique_words_chars += len(set(words_stemmed))
         
         # FEAT #2: Flesch Kincaid Read Level per character --> Categorical
         # https://github.com/cdimascio/py-readability-metrics
@@ -128,8 +132,16 @@ for script in movies["Processed Title"]:
         
         n_char += 1
 
+    # FEAT #1: Stdev above mean of number of unique words of 5 top characters across all movies
+    #n_unique_words.append(n_unique_words_chars)
+
     # Feat #6: Length of main's character dialogue with respect to the top 5 characters
     #main_char_rel_diag_length["main_char_rel_diag_length"].append(100*len_diags[0]/sum(len_diags))
+
+# FEAT #1: Stdev above mean of number of unique words of 5 top characters across all movies
+#n_unique_words_mean = np.mean(n_unique_words)
+#n_unique_words_stdev = np.std(n_unique_words)
+#feat_1 = {"stdvs_unique_words_above_mean": [(n_unique - n_unique_words_mean)/n_unique_words_stdev for n_unique in n_unique_words]}
 
 
 def append_feature(feature_dict):
@@ -137,7 +149,7 @@ def append_feature(feature_dict):
         movies[key] = feature_dict[key]
 
 
-#append_feature(n_unique_words_dict)
+#append_feature(feat_1)
 #append_feature(read_level_dict)
 #append_feature(n_stop_words)
 #append_feature(n_curse_words)
