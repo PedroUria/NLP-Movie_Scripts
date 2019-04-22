@@ -7,10 +7,10 @@ Feel free to list any features. Put a feature under Potential if you are not sur
 ## Completed
 
 1. Number of standard deviations the number of unique words for the top five characters is above/below the mean of all the number of unique words for the top five characters across all movies.
-2. [Flesch–Kincaid readability level](https://en.wikipedia.org/wiki/Flesch–Kincaid_readability_tests#Flesch_reading_ease) per character (needs agg)
-3. Number of stop words per character (needs agg)
-4. Number of curse words per character (needs agg)
-5. Number of times a character says any other character's name (needs agg)
+2. Mean [Flesch–Kincaid readability level](https://en.wikipedia.org/wiki/Flesch–Kincaid_readability_tests#Flesch_reading_ease) of top 5 characters.
+3. Number of standard deviations the number of stop words for the top five characters is above/below the mean of all the number of stop words for the top five characters across all movies.
+4. Same as 3. and 1. for curse words.
+5. Same as 4., 3. and 1.
 6. How relevant is the main character, i.e, length of main's character dialogue with respect to the top 5 characters
 
 ## In Progress
