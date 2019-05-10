@@ -15,7 +15,7 @@
 \usepackage[style=apa,sortcites=true,sorting=nyt,backend=biber]{biblatex}
 \DeclareLanguageMapping{american}{american-apa}
 
-\title{Natural Script Processing: An attempt to automate greenlighting movie scripts for production and character casting}
+\title{Natural Script Processing: An attempt to automate greenlighting movie scripts for production}
 
 \shorttitle{Natural Script Processing}
 
@@ -30,7 +30,7 @@
 
 \paragraph{Motivation} Roughly 50,000 screenplays are registered with the Writer's Guild of America each year. Based on their experience of producing movies that are a hit, producers and movie studios manually read through scripts that they come across themselves or by word of mouth of their colleagues. A fair portion of the registered scripts rots away without ever being read. Reading approximately 50,000 scripts, handpicking a good story, producing the film in time to meet the seasonal box office demands is quite the arduous task and an interesting problem to solve. While the financial success of a film cannot be determined solely by the script, there are many stages that need to be optimized. Once a script is selected, the creative decisions of cast and crew, the trailers, the awareness generated around the film and many other such factors fuel the financial success of a film. These factors can only be addressed once a few quality scripts are selected. As a primary filter to predicting the success, we will attempt to predict the success of a film using NLP techniques. 
 
-Upon investigating the dataset, we uncovered another interesting problem that can be solved: the problem of casting. We will create clusters of character types using their individual dialogues. Casting the right character for the right role is another crucial problem we can aim to address with the data available to us. An actor is picked based on his ability to capture the characteristics of the character he plays. If the performance of the actors is incoherent to the story their characters explore, the audience is left cinematically unsatisfied and thereby rendering the film a commercial failure.
+Upon investigating the dataset, we uncovered another interesting problem that can be solved: determining whether similar types of characters exist across different movies and potentially, the combinations of character types that lead to successful films. We will attempt to create clusters of the character types using their individual character dialogues. We will also attempt to use topic modeling to determine the genre of a film, as different characters may be received better in different types of movies.
 
 \vspace{2mm} 
 
@@ -89,7 +89,7 @@ Upon investigating the dataset, we uncovered another interesting problem that ca
 
 \section{Clustering}
 
-\paragraph{Overview} We attempted to use unsupervised learning for two purposes: 1. To identify certain character types across our corpus of character dialogues and 2. To identify themes or genres in movies. We then hoped to use these clusterings as features in the model that we developed, but as described below, our unsupervised learning task proved to be more daunting than we anticipated.
+\paragraph{Overview} We initially attempted to use unsupervised learning for two purposes 1.To identify distinct character types across our corpus of character dialogues and 2. To identify themes or genres in movies. We then hoped to determine whether presence or absence of certain character types could be used to predict whether a film would be successful, especially when accounting for a film’s genre. We tried using topic modeling to detect both character types and genres, and later used DBScan to detect character types.  Unfortunately our aforementioned unsupervised learning task proved to be more daunting than we anticipated, so we were not able use any of our results as features for our predictive models. We did, however, find promising results when using density-based clustering on textual features (see Feature Extraction) to search for character types.
 
 \vspace{2mm} 
 
@@ -120,9 +120,10 @@ The fifth cluster included Sam from \textit{Garden State}, Starke from \textit{G
 
 \section{Conclusions}
 
-A film is considered to be successful if its ROI is greater than 0. This indicates that the movie broke even and managed to generate revenue. From a financial standpoint, if a script generates revenue, it can be considered to be a successful one. Our models were not able to identify the underlying function that maps the language features a script to its financial success, as the model predicts all the scripts to belong to the majority class, which is worse than a random guess.
+A film is considered to be successful if its ROI is greater than 0. This indicates that the movie broke even and managed to generate revenue. From a financial standpoint, if a script generates revenue, it can be considered to be a successful one. Our models were not able to identify the underlying function that maps the language features of a script to its financial success. This strongly suggests that language features, or at least the ones we extracted, are not relevant for the success of a movie, i.e, that there is no such underlying function. However, we found them to be useful for clustering. We believe that the portion of a movie's success that can be explained by its script is related to the progression of the story and the interaction among characters, which require features more complex than the ones we focused on. We hope to work on these features in the future to improve our predictions.
 
-No matter how aggressively we filtered the character dialogues, we were not able to find topics that were representative of genres or character types with LSA. We think that part of this is because we revealed that a few non-character dialogues or camera directions still remained in our corpus. If we took the time to manually remove them, our results might improve. Since were able to find clusters of surprisingly similar characters with relatively basic features using DBscan, we believe that it would be worthwhile to extract more sophisticated linguistic features from the character corpus in order to find better clusterings. For example, Walker et al. extracted how often characters use tag questions, how frequently characters restate prepositions, how frequently characters use first person pronouns and the percentage of times characters merge multiple propositions (instead of leaving them in separate sentences).
+
+No matter how aggressively we filtered the character dialogues, we were not able to find topics that were representative of genres or character types with LSA. We think that part of this is because we revealed that a few non-character dialogues or camera directions still remained in our corpus. If we took the time to manually remove them, our results might improve. Since were able to find clusters of surprisingly similar characters with relatively basic features using DBscan, we believe that it would be worthwhile to extract more sophisticated linguistic features from the character corpus in order to find better clusterings. For example, Walker et al. extracted how often characters use tag questions, how frequently characters restate prepositions, how frequently characters use first person pronouns and the percentage of times characters merge multiple propositions (instead of leaving them in separate sentences). Furthermore, we believe that if we were able to extract a distinct clusters of character types across different genres of films and link those clusters to actors, we would be able to determine which actors are best suited to star in different types of films.
 
 
 
