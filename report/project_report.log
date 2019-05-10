@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015) (preloaded format=pdflatex 2015.10.10)  9 MAY 2019 21:03
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015) (preloaded format=pdflatex 2015.10.10)  9 MAY 2019 21:08
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -888,7 +888,7 @@ pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/lm/lmr10.pfb></usr/l
 ocal/texlive/2015/texmf-dist/fonts/type1/public/lm/lmri10.pfb></usr/local/texli
 ve/2015/texmf-dist/fonts/type1/public/lm/lmsy10.pfb></usr/local/texlive/2015/te
 xmf-dist/fonts/type1/public/lm/lmtt10.pfb>
-Output written on project_report.pdf (9 pages, 326838 bytes).
+Output written on project_report.pdf (9 pages, 326630 bytes).
 PDF statistics:
  138 PDF objects out of 1000 (max. 8388607)
  116 compressed objects within 2 object streams
